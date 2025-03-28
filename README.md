@@ -1,4 +1,4 @@
-# Ancient Wonders Compendiums for Ironsowrn: Starforged
+# Ancient Wonders Compendiums for Ironsworn: Starforged
 
 ![GitHub all releases](https://img.shields.io/github/downloads/jendave/ancient-wonders/total)
 [![Latest Version](https://img.shields.io/github/v/release/jendave/ancient-wonders?display_name=tag&sort=semver&label=Latest%20Version)](https://github.com/jendave/ancient-wonders/releases/latest)
