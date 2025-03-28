@@ -1,0 +1,52 @@
+{
+  "id": "ancient-wonders",
+  "title": "Ancient Wonders",
+  "description": "Ancient Wonders Expansion for Ironsworn: Starforged",
+  "version": "#{VERSION}#",
+  "compatibility": {
+    "minimum": 12,
+    "verified": 13,
+    "maximum": 13
+  },
+  "authors": [
+    {
+      "name": "David Y. Hudson",
+      "discord": "jendave",
+      "url": "https://jendave.itch.io/"
+    },
+    {
+      "name": "Ludic Pen",
+      "url": "https://www.ludicpen.com/"
+    }
+  ],
+  "packs": [
+    {
+      "name": "ancientwondersoracles",
+      "label": "Ancient Wonders Oracles",
+      "path": "./packs/ancient-wonders-oracles",
+      "type": "RollTable"
+    },
+    {
+      "name": "ancientwondersmacros",
+      "label": "Ancient Wonders Macros",
+      "path": "./packs/ancient-wonders-macros",
+      "type": "Macro"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Ancient Wonders",
+      "packs": [
+        "ancientwondersoracles",
+        "ancientwondersmacros"
+      ]
+    }
+  ],
+  "manifest": "#{MANIFEST}#",
+  "url": "#{URL}#",
+  "download": "#{DOWNLOAD}#",
+  "license": "https://raw.githubusercontent.com/jendave/ancient-wonders/main/LICENSE",
+  "changelog": "https://raw.githubusercontent.com/jendave/ancient-wonders/main/CHANGELOG.md",
+  "readme": "https://raw.githubusercontent.com/jendave/ancient-wonders/main/README.md",
+  "bugs": "https://github.com/jendave/ancient-wonders/issues"
+}

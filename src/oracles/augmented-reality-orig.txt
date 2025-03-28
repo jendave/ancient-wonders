@@ -1,0 +1,1927 @@
+rauegamelni tteyd THE HOLISTIC CITY KIT FOR CYBERPUNK ROLEPLAYING GAMES
+PAUL D GALLAGHER
+                  GH1001
+Acknowledgements:
+Thanks to Richard Balmer (Companero) for the
+inspiration, help and encouragement
+http://vircadesproject.blogspot.co.uk
+Thanks also go to the other veterans of The Long Walk
+over at http://vfte.cyberpunk.co.uk namely
+senior officer Mikael van Atta (Mateusz Wisniewski),
+gomiville, Gratwin, O'borg, TigerGuard and HalC.
+rauegamelni tteyd THE HOLISTIC CITY KIT FOR CYBERPUNK ROLEPLAYING GAMES
+Designed & compiled by
+PAul D GAllAGher
+(Geist at http://neuralarchive.blogspot.co.uk)
+©Geist hack Games 2017 (update Sept. 2019)
+Dedicated to Alexandra, Taylor and Lucy
+for putting up with my constant nonsense.
+And to the Friday Night Crew, for letting
+me experiment on you. Over and over.
+gH
+Geist hack Games
+AN INTRODUCTION  BRING THE
+                 CYBERPUNK
+                 Over on the Views From The Edge forum ( http://vfte.cyberpunk.co.uk ), I put forward the
+                 idea of group-creating a cyberpunk city kit, intending to provide a variety of table-based
+                 resources designed to quickly add both detail and flavour to cities on the fly.
+                 Being largely based in complex urban sprawls, most cyberpunk games tend to provide
+                 city source material as standard, but are largely based on the model of a mish-mash of
+                 detailed locations, leaving large voids and lacking a lot of flavour. What we felt was needed
+                 was something more fluid, a kit rather than a sourcebook, that could be used as the game
+                 is in progress, following the philosophy of 'maximum table utility'. We defined it as
+                 something that could be used during the game, was simple to access, sparked ideas with
+                 a simple sentence, and both added to the game's evolving environment and to play.
+                 Also, making the kit system agnostic was essential, as not everyone plays R.Talsorian's
+                 Cyberpunk 2020®.
+                 Richard Balmer, creator of the Vircades Project and Views From The Edge luminary, said it
+                 best when he summarised the project as "taking things you know and adding layers of
+                 science fictional strangeness to make it new and exciting" and "to add cyberpunk to the
+                 world as it is." With that firmly in mind, some pixels were wrangled and tables started to
+                 form, resulting in the content of this book. Hopefully, we have achieved our aim and the
+                 ideas within will aid struggling cyberpunk gamesmasters in adding futuristic layers to their
+                 campaign worlds, with a minimum of effort.
+                 Whether your players prowl the mean streets of Night City, the Seattle Sprawl, Neo Tokyo,
+                 Cape Town or Budapest 2060, the tables and NPCs of Augmented Reality will enable you
+                 to spice-up any dark future metroplex when you're caught off guard.
+                 Enjoy.
+                 Paul D Gallagher
+                 http://neuralarchive.blogspot.co.uk
+04
+TABLE OF                                                                                                                                        TABLE OF CONTENTS
+CONTENTS
+An Introduction............................................................................................................................04
+The Downtown Drop Down Grid.................................................................................................06
+expanded Building Features.......................................................................................................08
+local Conflict & events...............................................................................................................09
+Alt-Businesses, Street use & Sickness......................................................................................10
+legacy Tech & Nightlife..............................................................................................................11
+Sense & The City - Smells...........................................................................................................12
+Sense & The City - Sounds.........................................................................................................13
+Sense & The City - Sights...........................................................................................................14
+Big Screens &Infotainment........................................................................................................15
+What's On The road....................................................................................................................16
+More Traffic & Augmented reality .............................................................................................17
+The Instacitizen Drop Down Grid ...............................................................................................18
+First Impressions ........................................................................................................................19
+random Cabbies.........................................................................................................................20
+Tattoos & Vice .............................................................................................................................21
+Corporate Aristocrats..................................................................................................................22
+Boardroom Manoeuvres.............................................................................................................24
+urban Tribes: Street Gangs.........................................................................................................26
+Armed response.........................................................................................................................29
+Fixers & Facemen........................................................................................................................30
+Mr Johnson Job Generator 1: People ........................................................................................32
+Mr Johnson Job Generator 2: Things ........................................................................................33
+Technical Details.........................................................................................................................34
+What's On The Corpse?...............................................................................................................35
+Guns For hire...............................................................................................................................36
+Antisocial Media..........................................................................................................................38
+One Man's Trash .........................................................................................................................39
+Strange encounters.....................................................................................................................40
+The Things People Do.................................................................................................................41
+hackable Assets Drop Down Grid..............................................................................................42
+Bugs In The System....................................................................................................................43
+hackers & Slicers ........................................................................................................................44
+                                                                                                                                                05
+                                 Consumer        Art Dealer             Auto or                 Storage units                      legal
+Pharmacy                         electronics     or Gallery          robotics                   or Warehousing                     Firm
+                                                                        repair
+religious                        Capsule                 Data                         low rent                        Grocery Store
+      Building                          hotel    Storage                         housing Project                      or hypermarket
+elevated                                                                                                                    Garage or
+rail or                  Fast Food                              Police           School or            Government                   Parking
+road                     Franchise                             Precinct               College             Building                 Block
+Overpass
+                         Office                                 Public                   hospital                     Department
+                         Block                               Transport                   or Clinic                          Store
+                                                                hub
+                 Body                            luxury                          New                                               Security
+           Augmentation                          Apartments                      Media                    Industrial               Tech
+                 Clinic                                                  Company
+      Vehicle                           Fashion                 Commercial                          Mall          Vrcade           Gym
+Showroom                         Boutique                       Cybernetics
+leisureplex                                      Apartment Block                                                Nightclub
+                                                 or hab Stack
+                                                                                         3D Print                     Courier or
+underpass                        hotel                       ripperdoc                   Fabrication                  Bulk Transport
+                                                                                                                      Company
+                 Bar                             restaurant                     Pop-up                    Coffee                   Taxi
+                                                                                 Market                   Shop                     Firm
+         Pocket                  Suburban                Movie       Weapons             Multi-level
+          Park                   housing         Theatre                Tech or          Car Park                     Bank         Antiques
+                                                                         Sales
+THEDOWNTOWN                                                                                                THEDOWNTOWN DROP DOWN GRID
+DROP DOWN GRID
+The Downtown Drop Down Grid is designed to enable unprepared or improvising
+cyberpunk GMs to generate the immediate urban environment, quickly and easily,
+simply by dropping some dice and checking where they land.
+How it works: First, print out that strange looking  I decide that the Data Storage building is fine
+grid to the left. Then, grab a few D10s, three or    with just the four storeys, the Industrial building
+four being a good number, and drop them onto         stretches up over five floors, I double the 3 to a 6
+that grid. Where each of the dice lands will tell    for a taller Hotel and I also double the number for
+you the type of buildings your players have in       the Apartment Block, giving me eighteen storeys.
+their immediate area.
+                                                     Next Ilook at the features tables, using two
+Now, the numbers shown on each dice can be           results from Table 1 and two from Table 2. So,
+used in a couple of different ways; to determine     my four storey Data Storage company building
+the number of floors the building has, and to find   is (4) obvious gang turf, the five storey Industrial
+if it has any notable features (optional).           unit is home to a (5) back room brothel, our six
+                                                     floor Hotel appears to be (6) obscured by ad
+To ascertain the number of floors, just look at the  screens and, finally, the eighteen floors of our
+number on the top of that particular dice. That's    Apartment block is set up to be (9) self sufficient.
+how many floors there are. If you want a bigger
+structure, just double the result of that dice.      In no time at all, and by just dropping four dice
+                                                     onto a sheet, I have a clear idea of what buildings
+The same numbers can also be checked against         are around the PC group and what they may find
+the tables below to see what quirks the building     inside, as well as continuing to reinforce that
+may have, there's no need to reroll. Dropping        essential cyberpunk atmosphere for my players.
+a few dice gives you buildings, their height and
+any features of note, quickly and easily.            Plus, as the campaign progresses, new feature
+                                                     tables can be created, prior to play, for use with
+An example: Idrop four ten-sided dice onto the       the dice drop grid at the game table. Overleaf,
+grid, landing on Data Storage, Industrial, Hotel     you will find an expanded D100 table of useful
+and Apartment Block and the numbers on the           building features, to help add colour to your
+dice are 4, 5, 3 and 9.                              neighborhoods during pre-game prep.
+Notable Features Table 1                             Notable Features Table 2
+1  extreme Security Protocols                        1  Abandoned edifice
+2  Decrepit and rundown                              2  repurposed As (drop again)
+3  Graffitipocalypse                                 3  Front For Corporate Activity
+4  Obvious Gang Turf (see P26)                       4  Front For Criminal Activity
+5  Back room Brothel                                 5  hidden Squatters
+6  Newly renovated                                   6  Obscured By Ad Screens (see       P15)
+7  unusually Busy                                    7  Nano `Grown'
+8  empty/Quiet                                       8  Incomplete
+9  Inadequate Security                               9  Self Sufficient
+10 high Tech equipment                               10 Crumbling Cheapcrete                               07
+EXPANDED BUILDINGFEATURES  Roll D100
+                           1   extreme Security Protocols              51   external utilities
+                           2   Decrepit And rundown                    52   extensive Solar Grid And Fog Catchers
+                           3   Graffitipocalypse/Street Art heavy      53   Bad epoxy repairs
+                           4   Obvious Gang Turf (see P26)             54   unpleasant Micro-Climate
+                           5   Back room Brothel                       55   Infested With rogue remotes
+                           6   Newly renovated                         56   Self Aware
+                           7   unusually Busy                          57   Cellular Black hole
+                           8   empty/Quiet                             58   Mainly Populated By hoarders
+                           9   Inadequate Security                     59   Accumulated Trash heaps
+                           10  high Tech equipment                     60   unusual Smell (see P12)
+                           11  Abandoned edifice                       61   Very Few Working lights
+                           12  repurposed As... (drop again)           62   A riot Of Satellite Dishes
+                           13  Front For Corporate Activity (see P22)  63   Very Noisy utilities
+                           14  Front For Criminal Activity             64   Catastrophically Polluted
+                           15  hidden Squatters                        65   unfinished extension Or empty levels
+                           16  Obscured By Ad Screens (see P15)        66   Permadamp
+                           17  `Grown' By Nanites                      67   legacy Infrastructure (see P11)
+                           18  Incomplete                              68   Bad Wiring; high eMF; Black Outs
+                           19  Self Sufficient                         69   Patrolled By hired rent-A-Cops (see P29)
+                           20  Crumbling Cheapcrete                    70   Aggressively enforced No-Parking Zone
+                           21  War Zone                                71   Windows Boarded With Opaque Acrylic
+                           22  Fire Damage                             72   Main entrance Out Of Order
+                           23  Not A Building, But Mobile              73   Several Trashed Cars Out Front
+                           24  elaborate Balconies                     74   Being Audited By Fanatical City Inspectors
+                           25  Years Of Clumsy Modification            75   Wind Tunnel
+                           26  For Sale/To-let                         76   Tinted Glass And Carbon Nano-Tubes
+                           27  Bright emoji Glyphs And Graphics        77   homeless Magnet
+                           28  reinforced for repair Work              78   Shakes When Trucks Pass
+                           29  extremely leaky                         79   Completely Automated
+                           30  Gothic Style                            80   exotic/Foreign Architecture
+                           31  Chic And Minimalist                     81   Obvious Corporate Sponsor
+                           32  Brutalist                               82   endorsed By Celebutant
+                           33  encased In Plastic Siding               83   Promotes religion
+                           34  labyrinthine                            84   Independent Nation State
+                           35  Skywalks To Other Buildings             85   Family Owned
+                           36  Industrial Style                        86   Scheduled For Demolition
+                           37  Anti-Drone System                       87   rat Or roach Problem
+                           38  Nano Immune System                      88   Security Camera Overkill
+                           39  People Queue To enter                   89   A Crime Scene
+                           40  Well Guarded                            90   Target Of Net Terrorism
+                           41  AI Guardian                             91   Malfunctioning Incessant Alarm
+                           42  Ar heavy (see P17)                      92   Slowly Collapsing Or Subsiding
+                           43  Selective Access                        93   under Surveillance
+                           44  Buggy Security Net (see P43)            94   enforced No Fly Zone
+                           45  Taken Over By Junkies                   95   Prone To Flooding
+                           46  Foreign Ghetto                          96   ecologically Sound; No Carbon Footprint
+                           47  Sweatshop Conditions                    97   Popular With Particular Subculture
+                           48  utilised Solely For Storage             98   Totally Sterile
+                           49  Veiled Behind Polymer Sheeting          99   extensive Drone Docks
+08                         50  All Windows Damaged                     100  Causes Sickness (see P10)
+QUIRKYINTERIORS Roll4D10                                                                                 LOCAL CONFLICT &EVENTS
+    Style                  State                      Unusual Feature               Secret
+1   Minimalist             untidy                     hydroponics                   Cameras
+2   Industrial             Pristine                   Scavenged Furniture           Microphone
+3   Shabby-Chic            Sterile                    holograms                     Privacy Screen
+4   (Bio)Organic           Cramped                    Monochromatic                 Separate lAN
+5   Brushed Steel          Spacious                   Artificial Plants             hidden room
+6   Polymer Baroque        Cavernous                  Strange Acoustics             escape route
+7   Gothic                 Biohazard                  Weird Smell (see P12)         Custodian AI
+8   rustic                 Organised                  remote Assistants             Weapon Sensor
+9   Office Beige           Cluttered                  legacy Tech (see P11)         Weapons Cache
+10 hexagonal Tiles         Feng Shui                  exotic Pet                    hidden Stash
+LOCALCONFLICT Roll                                                     3D10
+    Conflict Group                                    Conflict Source    Opposing Group
+1   Street Gang (see P26)                             Treachery          Media Web
+2   Corporate Aristocrat (see P22)                    Adultery           Indentured Workers
+3   Fixer Network (see P30)                           Fraud Or Theft     Transient Clan
+4   Netrunner Collective (see P44)                    Addiction          Drug Dealers
+5   Solo Condotta/PMC (see P36)                       Ambition           Criminal Syndicate
+6   Criminal Syndicate                                Madness            Solo Condotta/PMC (see P36)
+7   Drug Dealers                                      love               Netrunner Collective (see P44)
+8   Transient Clan                                    Folly              Fixer Network (see P30)
+9   Indentured Workers                                Paranoia           Corporate Aristocrat (see P22)
+10  Media Web                                         rivalry*           Street Gang (see P26)
+*Rivals: 1-5 Within Same Group, 6-10 Different Group
+AREAEVENTS Roll                                                2D10 per game week
+1   Gang Block War (see P26)                                     Collateral Damage
+2   Corporate Sweep                                              evictions
+3   Man-Made Disaster                                            Diminished Infrastructure
+4   Political unrest                                             Fear
+5   Development/Investment                            Leading    Gentrification
+6   Area lock Down                                    To...      rebellion
+7   Police Withdrawal                                            Chaos
+8   enhanced Security                                            Curfews
+9   New Clade established                                        unification/Community Cohesion
+10  Mob War                                                      rapidly escalating Fatalities
+                                                                                                         09
+ALT-BUSINESS, STREET USE & SICKNESS  ALTERNATIVE BUSINESSES Roll4D10
+                                         Business Type         Quality                                     Security           Status
+                                     1   3D Printshop          Mom n Pop                                   None               Start up
+                                     2   Ar Designer           Discount                                    Cameras & Alarm    Closing Down
+                                     3   City-Farm Stack       local loyalty                               Armed Owner        Struggling
+                                     4   Cyber Support         exclusive                                   local Gang         Profitable
+                                     5   Info Bank             reliable Brand                              Security Guard(s)  high Demand
+                                     6   Assist Frames         Mass Market                                 24 hour Security   haemorrhaging
+                                     7   retro Crafts          Fashionable                                 Biometrics         For Sale
+                                     8   SCOP* Franchise       luxury Brand                                Drones             Franchise
+                                     9   Sim Sense             high end luxury                             Guard Animal       Criminal Front
+                                     10 Puppet rental          Bespoke/Custom                              State-of-the-Art   Bad reputation
+                                     *Single Cell Organic Proteins - the nation's favourite nutrient soup
+                                     THESTREETFINDS ITS
+                                     OWN USESFORTHINGS                                                                        Roll 1D10
+                                     1   Power plant from main battle tank, used as a generator for a squat or shanty
+                                     2   hydroponics rig from scrapped research ship, used to breed modified food-algae
+                                     3   Atmosphere recycling taken from orbital work shack, for a sealed environment
+                                     4   Automotive industry robotic arms fitted with tasers, utilised for entrance security
+                                     5   Chinese banking servers, used as a fixer's offline data archive
+                                     6   Shipping container homes, mounted on scaffolding with industrial adhesives
+                                     7   Aircraft seating used as makeshift furniture, within parachute nylon shelters
+                                     8   Downed corporate surveillance drone, reconfigured to enable secure phone calls
+                                     9   Salvaged fast food friers and ovens, co-opted for mass drug production
+                                     10  Outmoded clinical CAT scanner, jury-rigged into rudimentary security screen
+                                     URBANSICKNESS Roll1D10
+                                         Symptoms                       Cause                                                 Malady
+                                     1   Difficulty Breathing           Bad Air/Pollutants/Smoking                            emphysema
+                                     2   lesions/redness/lumps          Jankey uV levels/Toxic rain                           Skin Cancer
+                                     3   Immunodeficiency               Pollutants/Chemical Soup                              Toxic Shock
+                                     4   lethargy/Weight loss           Vitamin Deficiency/Junkfood                           Malnutrition
+                                     5   Flaky/Spots/Blisters           Pollutants/Chemical Soup                              Messed up Skin
+                                     6   hair loss/Discolouration       Pollutants/Chemical Soup                              Alopecia
+                                     7   unpleasant Odour               Pollutants/Chemical Soup                              BO/Body Funk
+                                     8   Vomiting/Diarrhea              Junkfood/Pollutants/Toxins                            Gastric Catastrophe
+                                     9   Silvery Grey emissions         Nanite Infused Air/rejection                          Grey Sweats
+                                     10 red Watery eyes/Painful         Bad Air/Pollutants/Toxins                             Burning eyes
+10
+LEGACYINFRASTRUCTURE Roll1D10                                                                LEGACY TECH & NIGHTLIFE
+1   Decommissioned subway tunnel, accessible from building, and vice versa
+2   Off site telecoms junction box, once served the local neighborhood
+3   Condemned slum quarantined with concrete seal, or biohazard containment zone
+4   Interconnected basements and foundation voids, poorly secured
+5   Sealed sub-basement parking for previous building, with still functioning elevator
+6   Forgotten floor following remodelling work, accessible through crawl space
+7   Disused loading or maintenance bay, with hidden goods elevator
+8   undocumented Cold War bomb shelter or bunker network
+9   exposed air venting system, leading to moth-balled sub-basement laboratory
+10  unused utilities still feed into buildings, accessible from empty sewerage system
+LEGACYDATA Roll1D10
+1   Obsolete, reformatted data vault, deep underground, poor information hygiene
+2   hard drive archive in the roof space, or located off site in purpose built library
+3   Zero Day exploit via overlooked archeonet (the earlier website; uses an old OS)
+4   Cloud account, covertly syncing data from devices in it's proximity
+5   Ancient dial-up modem, still linked to the network, acts as possible back door
+6   Web cameras on unused computers, still accessible via the net
+7   unauthorised porn or gaming account, log in still active, possible exploit
+8   Previously defeated hacking attempt left old code gate decrypted and open
+9   Networked but obsolete peripherals remain powered on and in standby mode
+10  Partially de-rezzed AI `ghost' haunts the network and is, by now, quite insane
+NIGHTLIFE Roll4D10
+    Bar or Club     Status              Security                                Vibe
+1   Below Zero      New Owner(s)        None                                    Total Dive
+2   Dubculture      Closing Down        Cameras & Alarm                         Atmospheric
+3   The Danceteria  Drug Problem        Armed Owner                             Gang Turf
+4   Club Synapse    Violence Problem    local Gang                              Fashionable
+5   Atrocity        Criminal Owned      Armed Bouncers                          PermaParty
+6   Storm           Bad reputation      24 hour Security                        Sleazy
+7   The Dispensary  Student Crowd       hired Thugs                             Quiet
+8   ryumi's         under Surveillance  Weapon Scanners                         Franchise
+9   The Black room  War Zone            Cyborg Bouncers                         Popular
+10 The Flesh Café   Best Bands/DJs      State-of-the-Art                        exclusive
+                                                                                             11
+SENSE &THECITY - SMELLS  SENSE
+                         &THECITY - SMELLS
+                         Sense & The City - Smells is a D100 table designed to allow the GM to quickly
+                         generate the most prominent scent in a given city area, or as a PC enters an interior
+                         space such as a room or elevator. roll on it once for a particularly dominant smell,
+                         or several times for a more interesting olfactory experience.
+                         Roll D100
+                         (on a result of 00, roll again  twice)
+                         1   Cigarette Smoke             34      Antiseptic                67  Cheese
+                         2   Cheap Perfume               35      Candy                     68  Wet Concrete
+                         3   expensive Cologne           36      Mint                      69  Disinfectant
+                         4   exhaust Fumes               37      Salt                      70  Polythene
+                         5   Stale refuse                38      Tea                       71  Nail Varnish
+                         6   urine                       39      Fresh Sweat               72  Whiskey
+                         7   Vomit                       40      Infected Tissue           73  Coconut Oil
+                         8   Burning Plastic             41      Paint                     74  Vinyl
+                         9   Ash                         42      Mold & Mildew             75  Wine
+                         10  Acrid Chemicals             43      Baby Powder               76  Acetone
+                         11  Cordite                     44      Acid                      77  Cookies
+                         12  Blood                       45      Feet                      78  Ammonia
+                         13  Wet hair                    46      Cinnamon                  79  Biodiesel
+                         14  Motor Oil                   47      leather                   80  Polish
+                         15  Faeces                      48      lemon Zest                81  Printer Toner
+                         16  Soda Pop Sweetness          49      Damp                      82  Dust
+                         17  Noodles                     50      rot                       83  GlassCleaner
+                         18  rubber                      51      Overheated Circuit Board  84  Musty
+                         19  Burnt Meat                  52      Cigars                    85  Opiates
+                         20  Dirty Sneakers              53      Floral Scent              86  raw Meat
+                         21  Fried Food                  54      Pizza                     87  laminate
+                         22  Beer                        55      Spices                    88  Weed/Skunk
+                         23  Perfumed Bleach             56      lavender                  89  Drains
+                         24  Body Odour                  57      Sewage                    90  Thinners
+                         25  Varnish                     58      Pine                      91  Old Food
+                         26  Insecticide                 59      Crack Cocaine             92  Incense
+                         27  Soap                        60      Cat Piss                  93  Fused Wiring
+                         28  Sulphur                     61      Gas                       94  lube
+                         29  hairspray                   62      latex                     95  Sour Milk
+                         30  Printed Polyamides          63      French Fries              96  Garlic
+                         31  hydraulic Fluid             64      New Cyberlimb Smell       97  Alcohol Sanitiser
+                         32  Coffee                      65      Sex                       98  Cheap Aftershave
+12                       33  resin                       66      Menthol                   99  Gun Oil
+SENSE                                                                                  SENSE &THECITY - SOUNDS
+&THECITY - SOUNDS
+Sense & The City - Sounds is a D100 table designed to allow the GM to quickly
+generate the background noises for the city. roll on it once for the most noticeable
+sound in the area or interior space, or several times to emulate the cacophony of
+urban living.
+Roll D100
+(on a result of 00, roll again twice)
+1   Building Alarm            34       A reversing Vehicle    67  running Water
+2   Barking Dogs              35       An Annoying ringtone   68  Drunk Singing
+3   Incoherent Shouting       36       Sexual Activity        69  Skateboards
+4   A Single Gunshot          37       Police radio Chatter   70  Tattoo Gun
+5   Ventilation System        38       loose Door Or Gate     71  rolling Cans
+6   Car Doors Slamming        39       Group Chanting         72  Obvious Porno
+7   loud Television           40       Popular Theme Tune     73  riot Or Demo
+8   Children                  41       Chesty Coughing        74  Overhead Train
+9   Aerocar Overhead          42       Vehicle Alarm          75  Cats Fighting
+10  Catchy Corporate Jingle   43       Steady Footsteps       76  Shrill Whistling
+11  The Screech Of Tires      44       Automated Warning      77  Bug Zapper
+12  Pedestrian Crosswalk      45       Beating Of heavy rain  78  Street hawker
+13  rattle Cans In use        46       Garbled loudspeaker    79  Car Chase
+14  heavy Gunfire             47       exchange Of Gunfire    80  Chilling War Cry
+15  Sobbing                   48       Background `Muzak'     81  Motorcycles
+16  Channeled Winds           49       Gutteral Screaming     82  Crackle Of Flames
+17  hum Of A Cleaning `Bot    50       A Call To Prayer       83  Door Buzzer
+18  Buzzing Of Flies          51       loose Piping           84  An Anguished Cry
+19  rattle Of Chains          52       helicopter Overhead    85  Sneaker Squeak
+20  Arcade Machines           53       The Buzz Of Neon       86  Scraping Metal
+21  Breaking Glass            54       A revving engine       87  Splashing
+22  Text Alert                55       An Impromptu rave      88  Noisy Printer
+23  An rPG launching          56       Water Pump             89  laser Fire
+24  Sirens Inbound            57       road Works             90  Jingle Of Keys
+25  running                   58       right Wing Talk radio  91  Quiet Conversation
+26  Subway rumble             59       Foreign Busker         92  Sirens Outbound
+27  A loud Argument           60       Ice Cream Truck        93  Aerocar landing
+28  Drill Or Power Saw        61       Distant explosion      94  Frying Food
+29  road Traffic Accident     62       Car horn               95  A Brawl
+30  hellfire Street Preacher  63       uAV/Drone Motor        96  Doors Slamming
+31  loud energetic Music      64       Tumbling Trash Cans    97  Ads (see next page)
+32  laughter                  65       evangelical Broadcast  98  Thunder
+33  hydraulics                66       Very heavy Transport   99  hissing White Noise  13
+SENSE &THECITY - SIGHTS  SENSE
+                         &THECITY - SIGHTS
+                         Sense & The City - Sights is a D100 table designed to allow the GM to quickly
+                         generate the most notable things or activities in a given city area. roll on it once to
+                         add focus, or a number of times to create complex, confusing distractions. use it in
+                         conjunction with the Sounds table, to establish overlapping sensory layers.
+                         Roll D100
+                         1-2    Armoured cops bundle violently reluctant vagrant into erA-plated squad car
+                         3-4    A bus shelter made entirely of screens showing flashy commercials (see below)
+                         5-6    Searchlights playing across the cloud cover and projecting branding (see below)
+                         7-8    A brightly lit aerocab taking off in a cloud of exhaust fumes, rainwater and trash
+                         9-10   AC vents in the sidewalk emitting a thick cloud of vapour
+                         10-11  A heavy rainwater cascade falls from damaged guttering
+                         11-12  every underlit face on the street is concentrating solely on their phone
+                         13-14  An ancient looking geriatric lopes past strapped into a linear assistance frame
+                         15-16  A vid-blogger in full, wearable array, blatantly recording the scene
+                         17-18  The nearest building has an intermittently flickering security light
+                         19-20  Your view is blocked by a lumbering hi-vis recycling collection truck
+                         21-22  A cluster of kids vaping, leD-lit clouds from under designer pollution hoods
+                         23-24  A pair of bicycle couriers race one another through crawling traffic
+                         25-26  Gritty, chemical infused sediment sloughing off a nearby rooftop
+                         27-28  A large building-mounted flatscreen showing... (see table top right)
+                         29-30  unattended roadworks, the area coned off and lit for safety for no good reason
+                         31-32  An automated noodle vending truck, jingle playing, folds open and deploys nearby
+                         33-34  A flock of scabrous-looking pigeons suddenly taking flight
+                         35-36  A busy metro platform, full to capacity with disgruntled, rain-soaked commuters
+                         37-38  An abandoned cybernetic limb lies forlornly by the kerb
+                         39-40  Animated street art that twists and turns across two adjoining walls
+                         41-42  Frantic homeless people, washing vehicle windscreens before the lights change
+                         43-44  The flashing orange lights of a fat, dirty-yellow street sweeping remote
+                         45-46  A nearby dataterm is missing it's screen and is stuffed with trash
+                         47-48  Your way is barred by a precarious heap of obsolete electronics
+                         49-50  The rainbow incandescence of oil on a large puddle of dirty water
+                         51-52  The substandard cheapcrete is pockmarked by years of corrosive rains
+                         53-54  A loaded pizza delivery drone hovering about three meters above the ground
+                         55-56  A wage-slave arguing with her phone's onboard AI, before breaking down crying
+                         57-58  An orange, multi-limbed, window cleaning remote clambers up the building facade
+                         59-60  A long, silent queue for a blocky, exhaust stained, kerb-side euthanasia BoothTM
+                         61-62  All the nearby street signs are gang-tagged over to the point of being useless
+14                       63-64  Filthy red and white plastic Jersey barriers block most of the sidewalk
+WHAT'S ON                       1   Video gaming event                                        BIG SCREENS &INFOTAINMENT
+THATBIG                         2   highlights from major sporting event
+                                3   System error message/connection failure
+SCREEN?                         4   The time and date
+                                5   The latest news headlines and lottery result
+                                6   Infomercial/Advertainment (see below)
+roll a D10 to see what the      7   The weather forecast/air quality statistics
+mediocracy are piping to the    8   Pornography (hacked and then squirtcast?)
+masses. roll more dice for      9   Music videos or movie trailers
+split screen content.           10  Traffic information
+65-66   An overpass or skywalk covered in colourful advertising animatics (see below)
+67-68   There are crowds of fast moving people swarming absolutely everywhere
+69-70   The scorched shell of a gutted vid-phone kiosk
+71-72   Pedestrians flooding across the nearest intersection, en masse, both ways
+73-74   A group of screeching street kids running along the overhead rail lines
+75-76   A thick pea soup fog rolling down the streets and alleyways
+77-78   All the street lights for this entire block just went out
+79-80   rivers of rain-borne trash race along in the choked gutters
+81-82   A small crowd of people gawping upwards at a potential jumper
+83-84   A tight formation of drones races down the street, just above head height
+85-86   A group of sex workers on a nearby street corner, approaching cars (see P21)
+87-88   An out-of-order ATM threatens violent action to passers by who stray too close
+89-90   unnervingly, there is absolutely no-one about
+91-92   A pedicab operator struggling with heat exhaustion or dehydration (see P20)
+93-94   A row of vendomats coated in layers of gang tags, going back many years
+95-96   A GeV taxi takes a corner hard, throwing up polluted water, trash and crud (see P20)
+97-98   An energetic street preacher giving a digital presentation on Cybernetic Jesus®
+99-100  The sidewalk consists of slabs of flickering screens, showing adverts (see below)
+THAT'SINFOTAINMENT                                                   Roll 4D10
+       Brand Name      Range        Product Line                       Marketing Style
+1      Nologo          Phoenix      Cyber/Bio/Nanoware                 loud hard Sell
+2      Matsushira      Omni         Car/Motorcycle/AV                  Cartoony/Manga
+3      Al emaar        AeX          Foodstuff/Drink                    Sexualised
+4      horizon         luxuria      Clothing/lifestyle                 Sophisticated
+5      De Santo        Solaris      Personal Service                   Abstract
+6      ellis-Itami     rapide       Computing/Comms                    humorous
+7      Osprey          hydra        Personal Defense                   Gender Specific
+8      Numan-lloyd     eco+         Pharmaceuticals                    Cheap
+9      Modus           Nexus        Cosmetics/Scent                    exotic/Arty
+10 Cortex              Platina      Travel/Vacation                    Aspirational
+                                                                                              15
+VEHICLES & FEATURES  WHAT'SONTHEROAD?
+                     Roll D100
+                     1-2    Armoured Intercity Bus                                          51-52   Classic Car
+                     3-4    Carbon-Fibre Pedicab (see P20)                                  53-54   Aero using road Wheels
+                     5-6    GeVTaxi (Air Cushion) (see P20)                                 55-56   luxury Sedan
+                     7-8    Automated uber/AITaxi Sedan                                     57-58   Monowheel
+                     9-10   Food/SCOP* Vending Truck                                        59-60   hazardous Container Truck
+                     11-12  Cyclist(s)                                                      61-62   Three-Wheeler
+                     13-14  Police Patrol Car                                               63-64   Waste Management Truck
+                     15-16  Small City electric                                             65-66   Automated road Sweeper
+                     17-18  limousine                                                       67-68   Police Motorcycle
+                     19-20  Sports Car                                                      69-70   Courier/Delivery Van
+                     21-22  hMMWV (humvee)                                                  71-72   Scrap Built rickshaw (see P20)
+                     23-24  Suburban utility Vehicle (SuV)                                  73-74   Standard Sedan
+                     25-26  estate Car/Stationwagon                                         75-76   Mobile home/rV/MoPad
+                     27-28  Moped/Scooter                                                   77-78   Muscle Car/roadster
+                     29-30  4x4/MrAP                                                        79-80   Construction Vehicle
+                     31-32  Very heavy Goods Vehicle                                        81-82   Fire Tender
+                     33-34  Armoured Truck                                                  83-84   Buggy/ATV
+                     35-36  Police Van                                                      85-86   Powered Armour rickshaw (Cradle)
+                     37-38  Sports Motorcycle                                               87-88   eMT/Paramedic/Ambulance
+                     39-40  utility Van/Minivan                                             89-90   Armoured Personnel Carrier
+                     41-42  refrigerated Transport                                          91-92   Quad Bike
+                     43-44  Off road Motorcycle                                             93-94   Tow Truck (roll again for tow)
+                     45-46  Flatbed/Pick-up                                                 95-96   Car/Vehicle/PA Transporter
+                     47-48  Tram/Metro-Train                                                97-98   regular City Bus (1-3 decks)
+                     49-50  hatchback                                                       99-100  Trike
+                     *Single Cell Organic Proteins - the nation's favourite nutrient  soup
+                     ADDEDFEATURES Roll                                                             3D10
+                            Activity                Notable Feature                                        Condition
+                     1      Speeding                extremely loud Music                                   More Dirt Than Paint
+                     2      Braking hard            Biodiesel Conversion                                   Factory Fresh
+                     3      Parking                 runs Silent                                            rust Bucket
+                     4      Pulling Into Traffic    religious Iconography                                  held Together By epoxy
+                     5      Overtaking              Too Many Passengers                                    Well Maintained
+                     6      Break Down              Polymorphic Coating                                    Partial respray
+                     7      Crawling                Overloaded With Cargo                                  Mobile Trashcan
+                     8      Collides With...        excessive Bumper Stickers                              Burned Out engine
+                     9      u-Turn                  low rider                                              Dents And Scratches
+                     10 reversing                   Off road Tires                                         Overtly Armoured
+16
+WHAT'SINTHESKY? Roll2D10                                                                                                      MORE TRAFFIC &AUGMENTEDREALITY
+1   luxury Aero/limo                                  Banking
+2   utility Aero Transport                            Descending
+3   Aerobus/Aerocab (see P20)                         Ascending
+4   helicopter/Tilt-rotor                             hovering
+5   Ad Blimp (see P15)                 Currently...   Circling
+6   Gunship (aero or chopper)                         Speeding or In Pursuit    (roll again)
+7   Drone Cluster/uAV                                 Cruising
+8   Police Aero                                       Weaving
+9   Aero Sedan                                        Overtaking
+10  eMT/Paramedic Aero                                Clipping (roll again for  what is hit)
+WHAT'S ON THERIVER? Roll1D10
+1   A long, thin, high-powered speedboat (`cigarette' boat) races past
+2   An air-cushion taxi GeV (Ground effect Vehicle), slips down to the water (see P20)
+3   A garishly illuminated party boat, packed with revellers, loud music (see P38)
+4   A quiet and unassuming modern houseboat, moored to the embankment
+5   An improvised submersible surfaces, seemingly lost, crew appear to be armed
+6   An automated cargo transport barge, weaving through traffic using GPS
+7   Clusters of detritus, plastics and thick yellow foam float on the oily surface
+8   Clearly marked security hydrofoil, slowly patrolling, hMGs and searchlights
+9   rescue Service tug, hi-vis wearing crew dredging bloated bodies from the water
+10  A local go-gang has `upgraded' to tricked-out jet skis and are causing havoc
+AUGMENTEDREALITY                                                   Roll 1D10
+    Type                    Aesthetic                           Image Style
+1   Direction               Typographic Overlays                Crisp/Bright
+2   logo Storm              Bright And Garish Glyphs            Animated 3-D
+3   Assistant               Animated Persona                    high resolution
+4   Blipvert                see That's Infotainment (P15)       -
+5   Political               emotive Imagery                     Sophisticated
+6   Promotion*              rapid Motion/Distracting            Cheap/low resolution
+7   Advice                  reassuring Infomemes                Clear, Yet Subtle
+8   Menu System             unobtrusive And Integrated          Technical/Sci-fi
+9   Filter                  Fantastical And Otherworldly        Surreal/Immersive/Arty
+10 Prohibition              Bold/Dramatic/Authorative           Flat Vector Graphics
+*Promotion refers to services and entertainment eg: bars, job agencies etc., and is designed to coax you in their direction.  17
+lounge or                     Bouncer or            Aero   researcher                    Street Gang                                lab
+Bar Manager         Private Security                Pilot  or Data                              Thug                                Worker
+                                                           Analyst                       (see P26)
+      Street                  Gambler or  uber or                                 Fixer
+      Kid(s)                  Con Artist            limo                      (see P30)                                  Designer
+                                                  Driver
+                    Corporate                       Sex Worker                                          City Beat         Company
+Pimp                Worker                          or Puppet                 Celeb                     Cop                         exec
+                                                    (see P21)
+              Drone Wrangler                        Service Staff or                Freelance                             Thief or
+         or remote Operator                         Store Worker                         Media                            Fence
+         hacker                           Military                     Syndicate                      Smuggler                      Bounty
+         (see P44)                        Veteran                      Footsoldier                                                  hunter
+                                                                                                Street             City
+      Cabbie                  homeless                     Drug Dealer                          Gang         Inspector    Syndicate
+(see P20)                     Person                                                            Boss         or Auditor             Boss
+                                                                                         (see P26)
+      Techie                              unemployed                                                    Corporate
+                                          (Increased leisure Citizen)                                        Soldier
+Bioware             Factory                         Scavenger                       Corporate                             Doctor
+Tech                Worker                                                               Agent                     or Street Medic
+                                          Online                       Store                            Solo or                     Killer
+         Detective                        Business                     Manager                     Mercenary                        or
+                                          Person                                                      (see P36)                   Psycho
+Transport           Aristocrat or                 refuse   Psych                emergency Worker        Government
+      Worker        Independently         or recyc         evaluator    (eMT, nurse, paramedic,                    Agent  Scientist
+                              Wealthy             Worker                            fire fighter)
+THEINSTACITIZEN                                                                                           THEINSTACITIZEN DROP DOWN GRID
+DROP DOWN GRID
+The Instacitizen Drop Down Grid is designed to enable unprepared or improvising
+cyberpunk GMs to generate city dwellers in the immediate area, quickly and easily,
+simply by dropping some dice and checking where they land.
+How it works: First, print out that strange looking  each dice can be used in different ways; to
+grid to the left. Then, grab a few D10s, four or     ascertain the number of people in a group, as the
+five being a good number, and drop them onto         NPC's prime stat for their role, and to determine
+that grid. Where each of the dice lands will tell    if the citizens have any quirks or notable features
+you the type of people your players have in their    on the First Impressions tables (optional; choose
+immediate area. Now, the numbers shown on            a table for each NPC generated). Decide gender.
+FIRSTIMPRESSIONS? CheckDiceorRollD10
+1   Painfully thin, chain smokes                     6   Furtive and on edge, unkempt, tattoos
+2   Athletic and wiry, huffing fast food             7   Misshapen by heavy augmentation
+3   Bulky, obsolete cyberaudio 'domes'               8   Narcotic haze, fidgety hands, shabby
+4   Bleeding gums, bloodshot eyes                    9   loud, camp, and showy, anaemic
+5   Sad looking, distracted by cell phone            10  Weary, apathetic, animated clothing
+6   Many interface plugs, tattooed labels                   ---
+7   Doughy and unhealthy looking                     1   Acts deaf but isn't, knows people
+8   Confident, highly polished, vinyl coat           2   Boxy e-cig, coat/hoodie, mirrorshades
+9   Sophisticated, manipulative                      3   Shy and apologetic, rubber raincoat
+10  Cold and predatory demeanour                     4   Oily skin, constantly checks watch
+    ---                                              5   Oddball dress sense, way too literal
+1   Pale and sullen, pleasingly stylish              6   long hair, metal fan in downtime
+2   Business like, gum chewer, sniffs                7   Trashy, overtly sexual, self-loathing
+3   Square face, with small, darting eyes            8   Overclocked nervous system, sweats
+4   Ill fitting clothes and bad teeth                9   Conservative, business-like
+5   Pair of skinny plastic cyber arms                10  Toned, adjusts latest style clothes
+6   Garish pink jaw, yellow acrylic teeth                   ---
+7   rugged, practical and outdoorsy                  1   Obvious cosmetic surgeries
+8   Substandard gender reassignment                  2   White enamel cyberlimb; expensive
+9   Prominent implant branding                       3   Gangsta bling, lisps, friendly
+10  Dreadlocks, worn leather coat                    4   Permanent plastic rictus grin
+    ---                                              5   highly strung, with overly long fingers
+1   Seems eerily artificial, very attractive         6   Pushed for time, bulky backpack
+2   unintelligent, aggressive, pock marks            7   Poorly groomed, with a raspy voice
+3   Mismatched optics, black turtle neck             8   Focussed on Ar, poor listener
+4   Overweight and dirty, layered cloths             9   Workwear under overcoat, nods sagely
+5   engorged musculature due to grafts               10  Thick foreign accent, glowing optics             19
+RANDOM CABBIES  Roll D100 (or roll more to achieve more mixed results) Gender: odds female, evens male.
+                       Appearance           Nationality    Conversation Topic                                          Demeanour
+                1-2    Armoured up          russian        The state of the city                                       Friendly/helpful
+                3-4    unwashed             Jamaican       Big combat sports fan                                       Aggressive
+                5-6    Chain smoker         French         Driverless vehicles                                         Detached/Bored
+                7-8    Goggles & tech       Sikh Indian    Gangs in the area                                           robotic
+                9-10   Fat, eating junk     libyan         Their huge family                                           Overly Cautious
+                11-12  looks exhausted      Nigerian       extreme alt-politics                                        humorous
+                13-14  Sick & shaking*      uzbek          Their tricked out vehicle                                   Inquisitive/Nosy
+                15-16  Fresh implant(s)     American       The ecopocalypse                                            Drunk/Stoned
+                17-18  Well groomed         Chinese        Conspiracy theories                                         uncommunicative
+                19-20  Way too young        German         Cod philosophy                                              extremely Positive
+                21-22  Pock-marked          Dutch          Classic rock music                                          Surly
+                23-24  half-starved         Mexican        how connected they are                                      lecherous
+                25-26  heavily tattooed     Scottish       The erratic weather                                         Servile
+                27-28  Charms & symbols     Irish          Favourite TV shows                                          Superstitious
+                29-30  Army fatigues        Syrian         Cyberware brands                                            Abrupt
+                31-32  Fully cyborged       ukrainian      The recent/ongoing war                                      Devout/religious
+                33-34  hardwired in         Thai           They used to be rich                                        Boastful
+                35-36  Shiny fetishwear     Mongolian      racist tirades                                              Flamboyant
+                37-38  Tribal scarring      Somali         Corporate gossip (fake)                                     Careless/Clumsy
+                39-40  Oversized optics     local          Kung-fu movies                                              Suicidal
+                41-42  Chromed teeth        Saudi          Was once a surgeon                                          Distracted
+                43-44  Slick with sweat     Portuguese     Their sexual conquests                                      Cynical
+                45-46  Atrophied limb       local          reality TV shows suck                                       has Tourettes
+                47-48  Twitches             Innuit         Their deep dislike of Ar                                    Argumentative
+                49-50  Polythene coverall   Spanish        Their pet synthetic goat                                    unpredictable
+                51-52  layered T-shirts     Turkish        Global politics                                             Nervous
+                53-54  Four handguns        Danish         The spectre of terrorism                                    Ashamed
+                55-56  excessive vaping     latvian        hi-tech weaponry                                            Charming
+                57-58  Filthy baseball cap  romany         Their many ex-partners                                      Incoherent
+                59-60  Scruffy looking      Greek          Their work on their PhD                                     Noisy/Interrupts
+                61-62  Facial burn scars    local          Their missing daughter                                      1000 Yard Stare
+                63-64  Constant texting     romanian       rampant crime                                               Ambitious
+                65-66  Designer coat        Finn           The latest Vr games                                         Calm
+                67-68  huD Visor            Flemish        Their favourite eateries                                    Arrogant
+                69-70  respirator           Pakistani      Info-Socialist revolution                                   Grumpy
+                71-72  Mirrorshades         Italian        Their aggressive cancer                                     law Abiding
+                73-74  Slab-headed          Siberian       Disdain for the police                                      Depressive
+                75-76  Surplus flight suit  local          Was once a pilot                                            Sensible
+                77-78  Geriatric            Bulgarian      Today's youth/drugs                                         Greedy
+                79-80  Creaking leathers    South African  The rich/poor divide                                        respectful
+                81-82  Jury-rigged IV drip  Malay          Desire to be an actor                                       Volatile/Touchy
+                83-84  Bright blue hair     Kenyan         The ethics of cloning                                       Judgemental
+                85-86  Bullet earrings      Tibetan        endorses brands (paid)                                      Vulgar/rude
+                87-88  Wearable cameras     Polish         Making own net show                                         Furtive
+                89-90  Autoshotgun          Swedish        Pushing PCs for a job                                       Patronising
+                91-92  has no legs          hungarian      The welfare system                                          Foolish/Stupid
+                93-94  Alopecia             Congolese      Getting out the business                                    Grateful
+                95-96  Thin cyberarms       Moldovan       extreme sex SimStims                                        lonely
+                97-98  Aviator glasses      Afghan         State of their slum-cube                                    Tuneful/Musical
+20              99-100 Pale green optics    Kashmiri       how they live in the cab                                    Naive
+                *see urban Sickness table on page 10 (Also, see page 12 for the cab and the driver's unique smell...)
+WHAT'S THEIR POISON Roll2D10                                                               TATTOOS & VICE
+   Peccadilloes, Vices, Addictions                              Level of Need
+1  Child-like Sex Dolls or Synthetics                           Take It Or leave It
+2  Prohibited Designer Narcotics                                light Interest
+3  Street legal, But harmful - Alcohol/Caffeine/Nicotine        Ghoulish Fascination
+4  SimStim/SimSense/Vr Gaming                                   If The Opportunity Arises
+5  Atrocity Images or Footage                                   regular routine user
+6  Prostitutes (Secretly Same Sex?) (see below)                 Intrinsic To Personality
+7  Pornographic Material (Particular Acts or Fetish?)           Only To Destress
+8  Bizarre Fetish Wear or Activity                              Needed To Function
+9  Pain/Sexual Violence (Towards Self or Others)                unhealthy Obsession
+10 Abuses Synthetic (or real) Animals                           All Consuming
+SO, SHE HAS                         ATATTOO                     Roll 3D10
+   What                             Style                       Where
+1  Skulls/Bones                     Mexican/Aztec               Back/Shoulders
+2  roses/Flowers                    Pixilated/Computerised      Bicep/Forearm
+3  Crossed Guns/Blades              Photorealistic Colour/Grey  hip/Groin
+4  Snake/reptile                    Migratory/Animated          Face/Scalp
+5  Dragon/Mythical Beast            Oriental                    Stomach
+6  Animal/Predator                  Tribal                      lower leg/Calf
+7  Nautical                         rockabilly Punk             Thigh
+8  Script/Message/Numbers           Solid Monotone Graphics     ribs/Chest
+9  Geometric/Abstract               Neon Glow                   Neck/Collar Bone
+10 Technology/Circuitry             Old School Blue Ink         Buttock(s)
+STREET WALKERS Roll2D10
+   Sex Workers                                                  Identifies as...
+1  elegant Full Body Conversion, Aesthetically Pleasing         Gay Male
+2  Augmented genitalia and tactile sensory upgrades             Cis Straight Female
+3  lean, attractive, loaded with hallucinatory pheromones       Asexual
+4  Battered synthetic, needs repairs, garish vinyl clothing     Adaptable (cybernetics)
+5  All limbs replaced with double-jointed cybernetics           Bisexual Female
+6  Illegally young, brash, dead eyed - nearby junkie pimp       Cis Straight Male
+7  Disabled exotic bioform, assisted by linear frame            Gay Female
+8  Overweight, excessive make up, narcotic dependency           Bisexual Male
+9  Old, has local knowledge, skilled, clean medical record      Pansexual Male
+10 Neural cutouts, detached, implanted recorder suite           Pansexual Female
+                                                                                           21
+CORPORATE ARISTOCRATS  Roll D100 and read    across the columns (or roll more to achieve more mixed results)
+                       1-2     Christian     Moretta          Buys endangered species, and mutilates them
+                       3-4     Maria         Moretta          Drowns orphans in private swimming pool
+                       5-6     Arkady        Komarov          Androids of dead loved ones, used as servants
+                       7-8     Olena         Komarov          Collects and catalogues DNA samples of rivals
+                       9-10    Asari         Nwokolo          She lacks confidence and is extremely paranoid
+                       11-12   Oliver        Young            Compulsively records women while they sleep
+                       13-14   Dominique     Taylor-lloyd     hurts herself under stress
+                       15-16   edward        huang            Addicted to expensive synthetic opioids
+                       17-18   Tamara        Preston          enjoys watching people die
+                       19-20   Dr Narindar   Malhotra         has a fondness for injured/disabled women
+                       21-22   Namiko        Ashworth         Desires the top job at all costs
+                       23-24   logan         Ashworth         Personal hacker collective headed by wayward nephew
+                       25-26   George        Kaufman          likes his women completely devoid of hair
+                       27-28   Adam          hamilton         Once a spy for an ecoterrorist commune
+                       29-30   Victoria      hamilton         literally afraid of being at street level
+                       31-32   James         Arellano         enjoys the sound of people crying
+                       33-34   Benjamin      Moore            has a private army of desperate down-and-outs
+                       35-36   Katsuto       Nakamura         Worships the net, as if it were a divine entity
+                       37-38   William       rochford         Asexual
+                       39-40   lewis         Norton           Despises the voices of all those around him
+                       41-42   Armando       Cordova          Derives pleasure from the fear of others
+                       43-44   Victor        Constantine      has a paralyzing fear of the Biotech Division
+                       45-46   Abigail       Constantine      Believes the board are hostile to her, afraid to leave
+                       47-48   Todd          McAlister        under the influence of a rogue AI
+                       49-50   hannah        McAlister        requires nutrient baths several times a day
+                       51-52   Catherine     Dubois           Serial adulterer; compelled by faulty sex implant
+                       53-54   Jean Paul     Dubois           Always tells the truth
+                       55-56   Peter         Muller           Wants revenge on the CeO for unknown reasons
+                       57-58   Mohana        Muller           Overly reliant on complex prediction algorithms
+                       59-60   Yi Xue        Song             Wants to die, but afraid of the afterlife
+                       61-62   Fatima        rasheed          Seeks to dominate fixer networks for own ends
+                       63-64   Col. Charles  Weigel (ret'd.)  haunted by digital ghosts of those he's had killed
+                       65-66   Paulo         Giovanni         A cosmetically altered double, living the dream
+                       67-68   Terence       Cook             Born in 1952, but looks only 25 years old
+                       69-70   Genevieve     Di Stefano       hates her implants; they make her feel sick
+                       71-72   Dr Cameron    Di Stefano       Blackmailed into submission by orbital clade
+                       73-74   Poppy         Jacquet          Secret second life as a high class callgirl
+                       75-76   Isobella      Jacquet          Wants to kill her twin sister and main rival
+                       77-78   Michelle      Bachman          Surprisingly normal
+                       79-80   Wolfgang      Bachman          has `precognitive' dreams manipulated by a hacker
+                       81-82   Stephen       Gaskell          Despises both daylight and bright artificial lighting
+                       83-84   Adelle        Davis            Only wears clothes made by the indentured poor
+                       85-86   Simon         Clark            Closely monitors the children of business rivals
+                       87-88   Charlotte     Clark            Desires the utter destruction of the city
+                       89-90   Cordelia      Granger          A downlinked AI masquerading as human
+                       91-92   Prof. rachel  Granger          Obsessed with obscure, expensive fashion
+                       93-94   Marcus        Shepperton       Believes the corporate elite are slaves to AIs
+                       95-96   leonid        Ortov            Blackmailing corporates for money and favours
+                       97-98   rosaline      Williams         Powerful intrusion software, but can't work it
+22                     99-100  Ibrahim       Al-harmah        Was in love with someone the PCs killed
+1-2     Controls black tech imports      Wears silk, furs and a monocle      Married to...        CORPORATE ARISTOCRATS
+3-4     Bribes the staff of her rivals   Black eyes, red trouser suits       Sleeps with...
+5-6     Breeds biogenetic horrors        Short, bald, gruff, distracted      Father of...
+7-8     Finest art collection in city    Alcoholic, odd yet attractive       rivalry with...
+9-10    hoards `occult' objects          Scarlett-haired, spiteful           Student of...
+11-12   Collector of antique technology  One-eyed, uses an assist frame      enamored of...
+13-14   Owns swathes of farmplexes       Intense, passionate, green eyes     Worried about...
+15-16   Breeds & trains combat clones    Crude, jocular, artificial jaw      Works for...
+17-18   Owns & operates sex resorts      rotund, elegant, sarcastic          Blackmailing...
+19-20   Well regarded psychotherapist    Obsequious, sharp intellect         Suspicious of...
+21-22   Security extremely loyal to her  Proud, pitiless, pale blue eyes     Daughter of...
+23-24   Owns assemblery districts        Mincing, meek, ruthless             Schemes with...
+25-26   expert in corporate law          hairless, eager and awkward         Jealous of...
+27-28   head of International retail     Plodding, multi-lingual, talkative  Married to...
+29-30   Old money aristocratic family    limp, opulent, over privileged      Assaulted by...
+31-32   health & Safety executive        Furtive, argumentative, cynical     Seeks aid of...
+33-34   exceptionally skilled hacker     Old, decrepit, almost immobile      Served by...
+35-36   head of Administration           Chubby, ruddy, bespectacled         Owes money to...
+37-38   head of BioDivision r&D          Tedious, wheedling, androgynous     Insulted by...
+39-40   Media Operations liaison         light, frivolous, ironic hipster    Seeks service of...
+41-42   Monitors company AI stable       Dark haired, wears body armour      Influence over...
+43-44   Current Chief executive Officer  Weak voice, thin-fingered, cold     Married to...
+45-46   Wife; controls access to CeO     highly strung, middle-aged, pale    enamored of...
+47-48   Popular decadent socialite       Gracious, intelligent, seems kind   Married to...
+49-50   Famous society tastemaker        Touchy, easily riled, sharp style   Will betray...
+51-52   highly cosmetically enhanced     Sentimental, fragile, wears white   Married to...
+53-54   Importer of pharmaceuticals      recounts outrageous stories         Trusts only...
+55-56   employs the finest chefs         Nervous, sweaty, sloppy             Married to...
+57-58   Internal Security Director       Open, friendly, business-like       Friend of...
+59-60   Poached from major rival         Brusque, aging, cunning, twisted    lusts after...
+61-62   Black Operations executive       loyal to CeO, quiet, unassuming     rivalry with...
+63-64   Decorated combat veteran         Grim, warlike, unbending, PTSD      Trusts only...
+65-66   Skilled investigator             Somber, patient, sympathetic        Annoys...
+67-68   handsome economist               Greedy, lusty, barbaric and blunt   Makes use of...
+69-70   Award winning marketeer          understated, wears gloves, OCD      Married to...
+71-72   CeO's Physician                  Bulging eyes, veiny, creepy         lusts after...
+73-74   Public relations executive       Jewel-covered fashionista, vain     Twin sister of...
+75-76   human resources executive        Abrupt, impatient, germ phobia      Seeks aid of...
+77-78   Company Security operative       Suspicious, excitable, hot temper   Married to...
+79-80   Oversees sales divisions         Wary, detached, thin, aged          Only enjoys...
+81-82   Funniest company employee        universally liked, fat, generous    Irritates...
+83-84   uniformed Security Manager       energetic, black humour, bored      Friend of...
+85-86   CeO's Personal Assistant         Thin, wiry, long-nosed, stylish     Son of...
+87-88   Digital Security executive       White-haired, speaks in whispers    Suspicious of...
+89-90   lovely child; society darling    radiant, innocent, foolish          Adopted by...
+91-92   expert in cybernetic systems     Frivolous, envious, insecure        Worries about...
+93-94   undervalued and overlooked       Bitter, scarred, suspicious         Seeks help of...
+95-96   universally feared               exposes/frames enemies, fearless    Curious about...
+97-98   resource management              Arrogant, devious, patronising      Manipulating...
+99-100  enhanced killer of some renown   Dark-eyed, clever, religious        Works for... (1-2)   23
+BOARDROOM MANOEUVRES  THEGAMES
+                      CORPORATES PLAY
+                      Boardroom Manoeuvres is a simple D100 table designed to allow the GM to quickly
+                      generate the personal black operations of the corporate elite in the city. roll on
+                      it once for a single main project, or several times to determine a web of dubious
+                      company projects, and use them as a spring board for further intrigues.
+                      Roll D100
+                      (on a result of 00, roll again twice)
+                      1   Testing New Weapons       34       Brainwashing key figures  67  lost Bioweapon
+                      2   Deadly Waste Disposal     35       Abducting Street kids     68  Cover up Of Suicides
+                      3   engineered Pandemic       36       Adulterating The Water    69  Internal Investigation
+                      4   Snatching Transients      37       Marketing Surveillance    70  Automating Jobs
+                      5   Manipulating Media        38       Bid For Nation Status     71  Creating A War
+                      6   Bribing Politicians       39       hostile Takeover          72  Buying law enforcers
+                      7   Financial Manipulation    40       Arming Street Gangs       73  real-estate Purchases
+                      8   land Grab                 41       Targeting undesirables    74  Phantom Accounting
+                      9   Tracking Consumers        42       Collecting Biometrics     75  Adulterating Foods
+                      10  Testing New Drugs         43       Testing New Synthetics    76  Manipulating expenses
+                      11  Altering Consumer law     44       Quantum Net launch        77  Doctoring records
+                      12  Manipulating Market       45       Buy Minor Nation State    78  Wrecking ecosystem
+                      13  Stockpiling Medicines     46       Testing New Cyberware     79  Targeting employees
+                      14  Corrupting Technology     47       Political Assassination   80  Creates Net exploits
+                      15  Targeting rivals          48       Blackmailing Scientists   81  Purchasing Start-ups
+                      16  Subliminal Advertising    49       extract rival employee    82  eliminate r&D Failure
+                      17  eliminate Flawed Stock    50       hire hostile hackers      83  Supporting Coup
+                      18  rigging Safety Standards  51       Preparing To Defect       84  Covering up Blackmail
+                      19  Full Blown Civil War      52       looking For Own Cure      85  Slashing Wages
+                      20  undermine rival Brand     53       hidden Warehouses         86  Buying Bankers
+                      21  Offworld Banking Scam     54       Channeling Funds          87  Framing rival(s)
+                      22  Covering up Insane AI     55       Designing Bio-Plague      88  Intimidate reviewers
+                      23  Testing New Bioware       56       Building Private Army     89  Wants To Be CeO
+                      24  harvesting Organs         57       Covert Parallel Netsite   90  Bribes Oversight Group
+                      25  Management Cull           58       Cloning Self              91  Triggering Civil War
+                      26  Buying up Patents         59       Damaged Brand Salvage     92  Funding Counterfeits
+                      27  Fixing Stock levels       60       Create False Charity      93  Doctoring Judicial AIs
+                      28  Interdepartment War       61       Assassinate rivals        94  Purchasing hospitals
+                      29  enforcing Copyright       62       Adulterating Medicines    95  Controlling Alt-Media
+                      30  Creating Subsidiaries     63       engineered Promotion      96  Creating Monopoly
+                      31  Product Flaw Cover up     64       Planning rival's exile    97  False Advertising
+                      32  New Product launch        65       Being head-hunted         98  Cutting Job roles
+24                    33  Department Merger         66       Faking Own Death          99  Will Destroy Company
+WAYS                                                                                        BOARDROOM MANOEUVRES
+ANDMEANS
+Company Resources is a simple D100 table designed to compliment the Boardroom
+Manoeuvres table, adding information regarding the sorts of unconventional tools
+a corporate aristocrat can bring to the table, to get the job done. It is up to the GM
+to rationalise (or re-roll) unusual results.
+Roll D100
+(on a result of 00, roll again twice)
+1   Fixer Network           34         Support of CeO           67  Intimate Personal Data
+2   Bought City Officials   35         Sympathetic Media        68  Army of Drug Dealers
+3   Naive underlings        36         Weaponised homeless      69  reassigned Agents
+4   Foreign head-of-State   37         Soulless Cyborg          70  ripperdoc Network
+5   Compromised AI          38         Aggressive hacker        71  Private Bodyguards
+6   Weaponised Insects      39         Conned legislators       72  Own Family Fortune
+7   Net Smear Campaign      40         Their Own lover(s)       73  Tracking Nanites
+8   Dubious Security Team   41         Company Audit Team       74  SimStim users
+9   Street Gang Alliance    42         Designer Toxins          75  Image Consultants
+10  Fringe Political Group  43         Sex Synthetics           76  Private Investigators
+11  Corporate Ninjas        44         Clueless Scientists      77  AI System Designer
+12  Compromised Comms       45         Seconded Security Team   78  Child Assassin
+13  Mercenary Contractors   46         Mafia Money              79  Propagandists
+14  Surveillance Drones     47         People Traffickers       80  Blackmailed hackers
+15  loyal law Firm          48         Memetic Warfare Team     81  Pr Consultants
+16  Duped Actors            49         Augmented Animals        82  Desperate employees
+17  Independent hit Team    50         Combat economists        83  Federal Investigators
+18  Whistleblowers          51         Ambitious Courtiers      84  religious Group
+19  Spiderform Cybershells  52         r&D Nanoweapons          85  Synthetic Commandos
+20  Son(s) or Daughter(s)   53         City law enforcers       86  Corrupt Accountants
+21  Covert Sales Network    54         Company's Black Ops      87  Deceived Online Fans
+22  Monitors Computers      55         Autonomous Software      88  Compromised Implants
+23  renowned Assassin       56         Adulterated Chipware     89  Seductive Concubine
+24  unwitting employees     57         Displaced War Veterans   90  Covert Vehicle Pool
+25  rival Corporation       58         unethical Medtechs       91  Offworld Accounts
+26  elite Agents            59         hacking Collective       92  hunter-Killer Drones
+27  Foreign Strike Team     60         Celebrity Stable         93  elite Programmers
+28  Pharmaceutical Company  61         Criminal Syndicate       94  Intelligence Agency
+29  Army of Own Clones      62         Junkie relative          95  Cheap Gunmen
+30  Bioweapons Division     63         hazardous Virtuals       96  unstable remotes
+31  Arms Dealers            64         Internal Investigators   97  Creative Techies
+32  Petty executive         65         Controlling Drug Supply  98  Private laboratory
+33  Implanted explosives    66         Social Warfare           99  Deceived rival          25
+URBAN TRIBES: STREET GANGS  Roll D100 and read  across the columns (or roll more  to achieve more mixed results)
+                            1-2     Cortical    Dogs        Neo-Primitive         Wirehead        Combat Gang
+                            3-4     Subway      Assassins   Soft-armoured         Nerve Boosted   Skaters
+                            5-6     radical     Dragons     Vr Game Playing       Frame Assisted  Martial Artists
+                            7-8     Binary      Prophets    Neon-Punk             Scavenger       Tech-Jackers
+                            9-10    Fragile     Machine     Drone utilising       Info-Socialist  Party Artistes
+                            11-12   hate        Society     Patriarchal           Sports Fan      Street Fighters
+                            13-14   electric    Freaks      lAN-linked            Sex Predator    Wireheads
+                            15-16   Mobile      Girls       Augment heavy         All Female      Go-Gang
+                            17-18   endgame     Militia     Spike Covered         Doom Cult       Boosters
+                            19-20   Bubblegum   Atrocity    ex-Convict            Cyberfetish     Combat Gang
+                            21-22   Biological  Impulse     Biomodified           Brain Damaged   Boosters
+                            23-24   Shaolin     rippers     Blade Wielding        Skill Chipping  Martial Artists
+                            25-26   Chrome      Savages     Body Modified         Scrap Tech      Chromers
+                            27-28   Polymer     riot        Gun Fetishist         Dog-Faced       Boosters
+                            29-30   rudeboy     Apocalypse  rastafarian           racist          Combat Gang
+                            31-32   Terminal    Storm       SimStim rigged        Media Savvy     Chromers
+                            33-34   Shadow      Soldiers    Tech-Ninja            Parkour         Combat Gang
+                            35-36   Subsonic    Cult        Mood Chipping         Alcoholic       Party Artistes
+                            37-38   Chemical    loas        Voodoo Practicing     Drug Cooking    Cultists
+                            39-40   Chosen      Kidz        Chip-hop Fan          Political       Combat Gang
+                            41-42   Toxic       Ghosts      Grime-Punk            Tech-Junkie     Boosters
+                            43-44   Steel       Church      Death Metal Fan       evangelical     Chromers
+                            45-46   Waffen      Technicals  Skinhead              Übermensch      Moto-Cultists
+                            47-48   Cannibal    Clowns      Blood Stained         Juggalo         Pranksters
+                            49-50   Panzer      Fists       Armour Plated         Cyborg          Street Fighters
+                            51-52   Gun         Sharks      Couture Stealing      Psychotic       Street Kids
+                            53-54   Disposable  Boys        Military Surplus      War Veteran     Nihilists
+                            55-56   Iron        Maniacs     WoW Inspired          Armour Clad     Chromers
+                            57-58   Speedball   ultimates   risk Taking           rich Kid        Skaters
+                            59-60   AK          legends     African-Tribal        Drug enhanced   Guardians
+                            61-62   liquid      Killaz      ultraviolent          home Invading   Boosters
+                            63-64   Junky       Bullets     Drug Dependent        Cannibal        Street Kids
+                            65-66   Instant     revolvers   War Painted           Suicidal        Combat Gang
+                            67-68   Zone        Bosses      rag enshrouded        homeless        Guardians
+                            69-70   Sushi       Thugs       Buddha-Faced          Steroid using   Street Fighters
+                            71-72   lucifer's   Babies      emo-Goth              Pseudo-Satanic  Nihilists
+                            73-74   remodelled  Army        Goggle Wearing        Militant        Boosters
+                            75-76   Faceless    Fanatics    Androgynous           Mask Wearing    Nihilists
+                            77-78   Vampire     Daddies     Blood Drinking        Asexual         Skaters
+                            79-80   Crosstown   Chaos       road Armoured         Anarchist       Go-Gang
+                            81-82   Aryan       hammer      heavily Tattooed      Alt-right       Policlub
+                            83-84   Spirit      Method      Neo-luddite           religious       Guardians
+                            85-86   Nomad       Clan        Goth-Punk             Peddle Biking   Go-Gang
+                            87-88   hydraulic   Terror      Industrial-Tech       Psychotic       Chromers
+                            89-90   Fractal     State       Tech Savvy            eco-Socialist   Policlub
+                            91-92   Brain       Wasters     Net Dependent         Philosophical   Nihilists
+                            93-94   Screaming   Shards      radical               Feminist        Boosters
+                            95-96   lucid       Moderns     Ar Manipulating       Political       Pranksters
+                            97-98   Napalm      harvest     Afro-haired           Multi-optic     Chromers
+26                          99-100  happy       losers      Neon-raver            Anti-Corporate  Party Artistes
+1-2     Deal in prohibited neural boosts, intellect stims, sakawa charms     Turf war with...     URBAN TRIBES: STREET GANGS
+3-4     Operate a stash house in the old Metro system and fence goods        Steal from...
+5-6     Import, crack and distribute Vr games and hong Kong action sims      Merger with...
+7-8     hack and tap electronic infrastructure, for a price                  rivalry with...
+9-10    Will put on one hell of a party in exchange for hot information      employed by...
+11-12   Trade in counterfeit sportswear, tickets and fan merchandise         Preys on...
+13-14   Supply banned pornographic SimStims and vid-chips                    Despises...
+15-16   Sell Chiba-grade imported black market implants and upgrades         Trades with...
+17-18   Prolific dumpster-divers and parts-hunters; trade and exchange       Actively targets...
+19-20   Premier suppliers of street-level artificial pheremones              Protected by...
+21-22   leader hires out her most neurologically damaged boys as muscle      Jealous of...
+23-24   Currently making a killing in the underground fighting scene         Turf war with...
+25-26   Bargain basement prices for spectacular acts of arson                Betrayed by...
+27-28   Specialists in smash and grab jobs, for money and firearms           Wary of...
+29-30   Own and operate a warehouse nightclub in the factory district        Monitored by...
+31-32   Digital surveillance and stalking, seamless manipulation of video    employs...
+33-34   happy to be hired as rooftop street guides and expert sneaks         Trades with...
+35-36   Doctor common drugs, altering their composition and legality         Owe money to...
+37-38   Take protection money, cook drugs and provide bespoke curses         Insulted MC of...
+39-40   Work protection on a number of chip-hop bars and clubs               Supplied by...
+41-42   3D-print their own implanted weapons (fragile)                       Turf war with...
+43-44   Several members are skilled Ar coders                                Allied to...
+45-46   Make their money dealing in heavy weapons and stolen cars            Despises...
+47-48   Grow synthetic opium in hydroponic blisters and sell it on           Targeted by...
+49-50   Target small-fry fixers and gangers and steal their shit to sell on  Protects...
+51-52   Sell stolen fashions, counterfeits and cloned credit cards           Terrified of...
+53-54   Professional-level hits and heists, unfettered by rules of warfare   Amused by...
+55-56   Promise them in-game bitcoins and they'll perform any `quest'        humiliated by...
+57-58   Fat allowances and legal back-up allow extreme road race stunts      Threatened by...
+59-60   Smuggle russian military hardware and protect `their' hab stacks     Turf war with...
+61-62   Slave traffickers and suppliers of stolen consumer electronics       Works with...
+63-64   Suspected organ-leggers and kidnappers                               Despises...
+65-66   experts at depopulating hab stacks quickly and brutally              Trades with...
+67-68   Brew their own alcohol, trade it for SCOP; do gig work for SCOP      Tend to avoid...
+69-70   Skin-traders and flesh peddlars, buy and sell pretty young things    Trades with...
+71-72   Find and sell corpses or parts to the body banks                     Wary of...
+73-74   Self-styled free-company, market themselves as street condottieri    Turf war with...
+75-76   Fence and sell black market cybernetic limbs of dubious origin       Make use of...
+77-78   Selling synthesized copies of virulent, manufactured hIVPlus strain  rivalry with...
+79-80   Will consider any job for new bikes or fuel; flaky, unpredictable    Tend to avoid...
+81-82   Frighteningly good propagandists and excellent rent-a-thugs          In talks with...
+83-84   Paid to protect a number of local Christian agri-businesses          Make use of...
+85-86   No-questions-asked bike courier service, as well as ride-by hits     Threatened by...
+87-88   Taken over a wrecking yard so they can just, ya know, wreck stuff    Owe money to...
+89-90   Minifacture their own flechette weapons and needleguns               Trades with...
+91-92   run an angst-soaked cloud forum, behind a secure pay wall            Turf war with...
+93-94   hormone-farm captive young males to sell online                      Want to destroy...
+95-96   Blackmail and harass prominent civil servants and create fake news   Wary of...
+97-98   Carjacking and auto theft, as well as elaborate respraying           Buys from...
+99-100  Do a roaring trade in illegally downloaded, DrM-free music           Allied to... (1-2)   27
+URBAN TRIBES: STREET GANGS  WHAT ARE THEY UPTO? Roll1D10
+                               Current Gang Activity
+                            1  Picking a fight with someone they don't like - store owner, passer by, hab resident
+                            2  Marking the local area with gang tags - Ar, spray paint, pens, animatic stickers
+                            3  Shaking down the locals with threats and intimidation - for money, booze, sex
+                            4  raving to their favourite music/propaganda, extremely loudly
+                            5  Getting wasted, or psyching themselves up before a fight or a raid
+                            6  Facing down cops/security/another gang - as far as they can get without a fight
+                            7  Participating in tests of skill or daring among themselves
+                            8  Making a deliberate attempt at being visible, strengthening presence in the area
+                            9  engaged in their main biz, or negotiating employment with another party
+                            10 Any combination of the above (roll again, twice)
+                            NPCGANGBANGERS Roll2D10
+                               NPCs                                  Other NPCs
+                            1  Gang leader/Boss                      Kid Wannabe
+                            2  Gang elder                            loyal Gunman (ex-member)
+                            3  Gang Juve/Noob                        Sheltered Fugitive
+                            4  Gang Champion                         Gang Member's Kid
+                            5  Gang Scout                            Former Gang Boss, Now Disgraced
+                            6  Gang leader's Main Squeeze            Gang leader's Secret Concubine
+                            7  Gang leader's leftenant               Gang's Techie or ripperdoc
+                            8  Gang leader's Main rival In Gang      Invalided Gang Member
+                            9  Gang's loose Cannon                   Gang's Fixer
+                            10 Gang expert (steers gang's main biz)  Gang's Idiot (the liability)
+                            RUMOURS/HOOKS Roll1D10
+                               What's The Deal With These Guys?
+                            1  The gang is in danger of being destroyed by a more powerful rival (roll a gang)
+                            2  The gang are showing symptoms of having contracted a disease (see P10)
+                            3  The gang knows of hidden ways through the city or into a building (see P11)
+                            4  The gang have procured (or manufactured) a dangerous narcotic or toxin
+                            5  The gang harbours an exile or outcast from a wealthy and powerful family
+                            6  The gang have discovered valuable technology lost by powerful NPC
+                            7  The gang has a splinter cell of powerful members, who are impossible to control
+                            8  The gang are grabbing runaways for corporate experiments, and getting bolder
+                            9  A member has fallen in love with a rival gang member and fled, knowing too much
+                            10 The gang has access to unusual cybernetics, and it's drawing attention to them
+28
+FIRST RESPONDERS Roll1D10                                                               ARMED RESPONSE
+1-2   Plainclothes Detectives   Clearly marked POlICe vests, flashing their IDbadges
+3-8   uniformed Officers        Basic cops (odd numbers: they're wearing riot gear)
+9-10  Tactical response unit    Special operations/SWAT team - milspec load out
+THE DEPARTMENT Roll1D10
+1-4   City/Corporate Police     Same thing, only difference is who's paying them
+5-6   Corporate Security        Protecting company property, area or personnel
+7-8   Private Security Company  Commercial law enforcement contractors
+9     Special Police Agency     Immigration/Bomb Squad/Customs/Traffic etc.
+10    National Police Agency    FBI/FSB or Militarized Police (eg: Guardia Civil/MPs)
+RESPONSE LEVEL Roll1D10
+1-6   There are enough officers and support present to handle the current situation
+7-9   looks like they've bitten off more than they can chew, requesting support
+10    The officers are way out of their depth, pinned down, need immediate back up
+JOB SHEET Roll1D10
+1     Approaching a suspect or suspects, or have just arrested a suspect or suspects
+2-3   Performing a street patrol, area or building search or conducting vehicle search
+4     Conducting an operation - raid, stake out, goods seizure
+5     Dealing with an apparent hostage situation or a suspect device
+6-7   Stopping citizens for questioning or performing stop-and-search operation
+8-9   In pursuit of suspect, either on foot or in vehicles
+10    Cordoning off the area (searching for suspect/securing a crime scene)
+CALLFOR BACKUP Roll1D10 (ETAD6minutes)
+1-4   D6 Support Drones         Cameras, Tasers, Flechette Weapons
+5-6   uniformed Officers        D6/2 Patrol Cars, Armoured Officers, SMGs/Shotguns
+7-8   SWAT Team                 heavy/hard Armour, Combat rifles, Augmented
+9     heavy Support remote      Teleoperated Walker, hMG and/or Missiles
+10    Powered Armour Suit       heavy Weapon, eCM, Grenade launchers
+                                                                                        29
+FIXERS &FACEMEN  Roll D100 and read across      the columns (or roll more to achieve more mixed results)
+                 1-2     Olivia Chain           Despises being based out of the local ConsumertopiaTM
+                 3-4     rob `Infidel' Castro   Once an indentured child, tends to sympathise too much
+                 5-6     Gemini Benedict        Many implants, diminished empathy, she's not afraid to kill
+                 7-8     The Mask Maker         records all business conversations covertly, just in case
+                 9-10    Bradley Darrow         lives an opulent lifestyle well beyond his means
+                 11-12   usman `emir' Kasim     head of the so-called Flesh Cartel, self-styled King of Pimps
+                 13-14   Mr Blank               Into cheap sex dolls, leaving scars due to latex allergies
+                 15-16   Alison Wonderland      hormone-locked `teen' (actually 30); outrageous flirt
+                 17-18   Ingenuity Jones        Some-time stripper and cam girl, lover taught her to shoot
+                 19-20   The Chemist            relishes the power his tailored drugs give him over others
+                 21-22   Darius November        Struggles with a debilitating narcotic dependency
+                 23-24   Mondo hernandez        Desperate to keep his children a secret from his enemies
+                 25-26   leon `The Tsar' Arkov  Being blackmailed by corporate aristocrat Fatima rasheed
+                 27-28   Sister Mercy           Cold, soulless narcissist, proud of her migrating glo-tatts
+                 29-30   Wise Melon             Chubby, jovial and a registered independent nation-state
+                 31-32   The Babel-Mother       Just one AI of a distributed identinet, with shared awareness
+                 33-34   Miguel Fernandez       Deep cover cop, losing himself to his current artificial life
+                 35-36   Able Kane              Surprisingly conservative, suburban, family-centric lifestyle
+                 37-38   Desmond Crisis         unassuming ex-ganger, ex-Catholic priest, ex-porn actor
+                 39-40   Slick Franklin         Determined to make enough money to leave city behind
+                 41-42   Wendel Goldberg        Trying hard to care for elderly father permalinked to porn sims
+                 43-44   Pappa Midnight         Well connected across the Pacific Prosperity Sphere
+                 45-46   reality Black          extremely ambitious, with an obvious superiority complex
+                 47-48   Adolf hipster          unfortunate racist and obsessive-compulsive neat freak
+                 49-50   Mr Skin                Must painfully inject nanites hourly due to congenital illness
+                 51-52   `Viper' Joe DeMarco    Paranoid, wears spiderweave body-glove under clothing
+                 53-54   Tanglegenes            Obsessively collects snakes, liking them more than people
+                 55-56   Charisma Valentine     Secretly employed by corporation, follows their instructions
+                 57-58   The Spider Sisters     Twin clones, supermodel hot, operate Orbital Mafia franchise
+                 59-60   Veracity Solomon       Back doors for Cambodian data-havens, but fears reprisals
+                 61-62   General Grabber        hypochondriac; terrified his cheap organ implants will fail
+                 63-64   henry Jericho          Openly gay, secretly straight, desperately addicted to sex
+                 65-66   Warsaw                 Can only be reached by using a particular hacked pay phone
+                 67-68   lucius Warbaby         Over-confident emancipated juvenile; sexual deviant
+                 69-70   Jacob Smolensky        Walking the line between worlds exacerbates heart problem
+                 71-72   Simon Church           Goods traceable by cops to avoid brainwipe sentence
+                 73-74   Octavius Ballinger     Believes he is a synthetic controlled by corporations
+                 75-76   Dr Ishimura            Finances a stable of Freak Fighters, all of whom he despises
+                 77-78   Friday Dias            Disgusted by the work he does, he drinks to block it out
+                 79-80   Kim Nguyen             Financed by the Binh Xuyen, but looking for a way out
+                 81-82   Oni Tokugawa           Aggressive vigilance suite protects tiered neural processors
+                 83-84   Zero Ballard           Overly enthusiastic and extremely sadistic; loves music
+                 85-86   The Shaper             loaded with enough intelligent bioplastic that he can't die
+                 87-88   Ferdinand Kingston     The strippers at his club are all biomodded clones of himself
+                 89-90   harry-san              Stressed due to several secret families with different women
+                 91-92   rico eisendüller       has the best of intentions, but is deeply unreliable
+                 93-94   October Talisi         Self-doubt, but wants to be head-hunted by a corporation
+                 95-96   Mickey The roach       No self worth, always high, easily distracted
+                 97-98   The Somalian           Suffers from PTSD, nightmares, has poorly timed flashbacks
+30               99-100  Dr Fassbinder          Struck off, operates a failing back street clinic, depressed
+1-2     Talent Agent          Boxy, plain, emotion suppression chips        Secretly adores...   FIXERS &FACEMEN
+3-4     repoman               Skinny jeans, vinyl bomber jacket, joker      Sleeping with...
+5-6     Black Marketeer       elfin, humourless, pale duster, blue hair     Apprentice of...
+7-8     Identities Broker     Muscular, balding, sophisticated, diligent    Did work for...
+9-10    Transporter/Mover     Well groomed, youthful, boastful, snob        Owes money to...
+11-12   Skin Trader/Pimp      Ostentatious, traditional, bearded, careful   Influence over...
+13-14   PersonalitySmuggler   Blistered, strong cologne, shiny blue suit    lusts after...
+15-16   Tech Dealer           Willowy, hauntingly beautiful, kimonos        Trusts only...
+17-18   Secrets hunter        Tall, lithe and busty, probing, determined    On-off lover of...
+19-20   Drug Designer         Oily, obsequious, formal and spiteful         has control of...
+21-22   Wheelman              Pale, shaky, numerous vehicle link plugs      On the books of...
+23-24   Talent Scout          Approachable, guarded, sharp dresser          Seeks aid of...
+25-26   Syndicate Diplomat    Shaven head, grey suit, bulky, sombre         Obsessed with...
+27-28   Drug Pusher           exhibitionist, tease, clear vinyl raincoat    Friend of...
+29-30   Go-Between            Fat, confident, well-mannered, Mao suits      Irritates...
+31-32   hacker Stable         Geisha-chic, teenage girl, dark eyed, cold    Suspicious of...
+33-34   Tech Fence            Deep turquoise leather coat, friendly         Works with...
+35-36   Prowler/Thief         Impeccably dressed, punctual, vindictive      Makes use of...
+37-38   Smuggler              Neo-romantic floppy fringe, tux, relaxed      Wary of...
+39-40   Squealer              Nervous, cautious, trenchcoat, greasy hair    Owes money to...
+41-42   Bookie                Tired and frazzled, thinning curly hair, fat  Owed money by...
+43-44   Gun runner            Tech-savvy, confident, ebony skinned          Won't work with...
+45-46   Procurement           Arrogant, condescending, casual dress         Friend of...
+47-48   electronics handler   Inappropriate, knowledgeable, on-trend        Despises...
+49-50   Blackmailer           Small, unwashed, world weary, tired           Makes use of...
+51-52   Data Crypt Owner      Black suits & shirts, gold tie, aggressive    Manipulating...
+53-54   Nanotech Dealer       limps, thin-limbed, pastey, loose silks       Trusts only...
+55-56   Mediator              Conservative trouser suits, on edge, delays   lusts after...
+57-58   loansharks            Seductive, elegant, hot tempered, black       Trust only...
+59-60   Information Broker    easily pleased, layered hoodies, shades       Owes favour to...
+61-62   Weapon Fence          Middle-aged, dark denim, big revolvers        In love with...
+63-64   Ghost Accountant      Flamboyant, mincing, fidgets, gloved          Makes use of...
+65-66   Gang liaison          Grubby punk, pumped, baritone voice           Friend of...
+67-68   Finder                Oversized army jacket, cigars, big gun        Makes use of...
+69-70   Bent lawyer           Chunky, crumpled suit, sweaty, balding        Works for...
+71-72   Vehicle Dealer        Sergio Tacchini track suits, anxious, tag     Will betray...
+73-74   Contract Facilitator  expensive shirts, gold rings, robotic         Seeks aid of...
+75-76   Bioware Fence         Smoker, inscrutable, leisure suits, clean     Makes use of...
+77-78   Digital Manipulator   reeks of booze, dirty jeans, serious          Was married to...
+79-80   Madam                 Soft face, scarlett bobbed hair, ruthless     Sleeping with...
+81-82   Troubleshooter        Monovisor, suit, raincoat, katana, calm       rivalry with...
+83-84   Persuader             Turtle necks, chrome hands, wild eyed         Tried to kill...
+85-86   Bioware handler       Old, emaciated, bitter and suicidal           Father of...
+87-88   Club Owner            hawaiian shirts, cargo pants, gregarious      Worries about...
+89-90   landlord              Squat, solid, stubbled chin, dark vinyl coat  Annoyed by...
+91-92   Med Tech Dealer       enthusiastic, knitwear, sandals, ponytail     Makes use of...
+93-94   Negotiator            Coffee-skinned, afro weave, violet lipstick   Disgusted by...
+95-96   Synth Pimp            Coverall, micro tools, air hypo, giddy        Jealous of...
+97-98   Cleaner               Tall, lean, narrow-faced, red suit, dreads    Deep dislike of...
+99-100  Implant Dealer        long black hair, goatee, lethargic, cynical   Deals with... (1-2)  31
+MR JOHNSON JOB GENERATOR 1: PEOPLE  Roll D100 four times
+                                           Client                   Want          Action           Target Person
+                                    1-2    Street Gang Member       Wants to...   Kill...          Programmer
+                                    3-4    Corporate Aristocrat     Needs to...   Maim...          ex-Con
+                                    5-6    Pimp                     Must...       Deliver to...    Priest
+                                    7-8    Thug                     Plans to...   Protect...       Cyborg
+                                    9-10   Prostitute               Forced to...  Intimidate...    Scientist
+                                    11-12  Fixer                    Wants to...   escape...        Bounty hunter
+                                    13-14  Priest                   Needs to...   Monitor...       Tech Specialist
+                                    15-16  Business Owner           Must...       Smuggle...       Soldier
+                                    17-18  Solo or Mercenary        Plans to...   Find...          Thief
+                                    19-20  hacker                   Forced to...  Blackmail...     Artist
+                                    21-22  Scientist                Wants to...   Steal from...    Performer
+                                    23-24  Cop                      Needs to...   Collect from...  Media
+                                    25-26  Mobster                  Must...       Pay...           Designer
+                                    27-28  Smuggler                 Plans to...   Assist...        unemployed Person
+                                    29-30  Bounty hunter            Forced to...  Modify...        Child
+                                    31-32  Syndicate Boss           Wants to...   record...        Driver
+                                    33-34  Concubine                Needs to...   Threaten...      Broker
+                                    35-36  Tech Specialist          Must...       Kidnap...        Fixer
+                                    37-38  Soldier                  Plans to...   Own...           Fanatic/extremist
+                                    39-40  Scavenger                Forced to...  Defeat...        Courier
+                                    41-42  Agent                    Wants to...   ruin...          Smuggler
+                                    43-44  Doctor                   Needs to...   Control...       Celebrity
+                                    45-46  Drug Dealer              Must...       Save...          Clone
+                                    47-48  Celebrity                Plans to...   Submit to...     Cop
+                                    49-50  Artificial Intelligence  Forced to...  entrap...        Junkie
+                                    51-52  Artist                   Wants to...   Con...           Prostitute
+                                    53-54  Thief                    Needs to...   Flee with...     Intelligent Animal
+                                    55-56  Media                    Must...       employ...        Forger
+                                    57-58  Nomad                    Plans to...   Marry...         Street Gang Member
+                                    59-60  Synthetic                Forced to...  Sell out...      Thug
+                                    61-62  Driver                   Wants to...   extract...       Synthetic
+                                    63-64  Child                    Needs to...   Kill...          Business Owner
+                                    65-66  Broker                   Must...       Deliver to...    Corporate Aristocrat
+                                    67-68  unemployed Person        Plans to...   Blackmail...     Agent
+                                    69-70  Clone                    Forced to...  Modify...        Mobster
+                                    71-72  Programmer               Wants to...   escape...        Pimp
+                                    73-74  Designer                 Needs to...   ruin...          hacker
+                                    75-76  homeless Person          Must...       Steal from...    Solo or Mercenary
+                                    77-78  People Trafficker        Plans to...   Kidnap...        Concubine
+                                    79-80  revolutionary            Forced to...  Protect...       Artificial Intelligence
+                                    81-82  Psychiatrist             Wants to...   Find...          homeless Person
+                                    83-84  Cyborg                   Needs to...   escort...        Nomad
+                                    85-86  Intelligent Animal       Must...       Deliver to...    revolutionary
+                                    87-88  Courier                  Plans to...   Save...          Doctor
+                                    89-90  Image Consultant         Forced to...  Collect from...  Syndicate Boss
+                                    91-92  Forger                   Wants to...   Flee...          Psychiatrist
+                                    93-94  ex-Con                   Needs to...   Kill...          Scavenger
+                                    95-96  Fanatic/extremist        Must...       Sell out...      Drug Dealer
+                                    97-98  Performer                Plans to...   Investigate...   Image Consultant
+32                                  99-100 Junkie                   Forced to...  Submit to...     People Trafficker
+Roll D100 four times                                                                   MR JOHNSON JOB GENERATOR 2: THINGS
+       Client                   Want          Action          Target Item
+1-2    Street Gang Member       Wants to...   Destroy...      Neural Processor
+3-4    Corporate Aristocrat     Needs to...   Copy...         Vintage Wine
+5-6    Pimp                     Must...       Deliver...      Photograph(s)
+7-8    Thug                     Plans to...   Protect...      IFF Tags
+9-10   Prostitute               Forced to...  Sell...         Narcotic
+11-12  Fixer                    Wants to...   Steal...        Weapon
+13-14  Priest                   Needs to...   Destroy...      ID Card
+15-16  Business Owner           Must...       Smuggle...      Jewellery
+17-18  Solo or Mercenary        Plans to...   locate...       Software
+19-20  hacker                   Forced to...  hide...         Security Passcard
+21-22  Scientist                Wants to...   Steal...        Target's DNA
+23-24  Cop                      Needs to...   Collect...      Cybermodem
+25-26  Mobster                  Must...       receive...      Offline Digital Files
+27-28  Smuggler                 Plans to...   Control...      hard Drive
+29-30  Bounty hunter            Forced to...  Modify...       Designer Virus
+31-32  Syndicate Boss           Wants to...   locate...       Attache Case
+33-34  Concubine                Needs to...   Destroy...      Data/Vid Chip
+35-36  Tech Specialist          Must...       ransom...       holdall of Drugs
+37-38  Soldier                  Plans to...   Own...          Vehicle
+39-40  Scavenger                Forced to...  Flee with...    Keys/Key Card
+41-42  Agent                    Wants to...   Spoil...        Computer Virus
+43-44  Doctor                   Needs to...   Control...      Cybernetic limb
+45-46  Drug Dealer              Must...       Save...         Synthetic Brain
+47-48  Celebrity                Plans to...   upload...       Personality Module
+49-50  Artificial Intelligence  Forced to...  Protect...      Cell Phone/Agent
+51-52  Artist                   Wants to...   use...          exo-Womb
+53-54  Thief                    Needs to...   Flee with...    hardcopy Schematic
+55-56  Media                    Must...       Sell...         Military ICe Breaker
+57-58  Nomad                    Plans to...   Steal...        Nano Fabricator
+59-60  Synthetic                Forced to...  Flee with...    Antique Katana
+61-62  Driver                   Wants to...   locate...       Cloned Coca leaf
+63-64  Child                    Needs to...   Destroy...      Antidote/Medicine
+65-66  Broker                   Must...       Copy...         human eye/Thumb
+67-68  unemployed Person        Plans to...   Steal...        Artificial Intelligence
+69-70  Clone                    Forced to...  hack into...    Cybernetic Optics
+71-72  Programmer               Wants to...   escape with...  SimStim recording
+73-74  Designer                 Needs to...   Destroy...      robot
+75-76  homeless Person          Must...       Protect...      Operating System
+77-78  People Trafficker        Plans to...   locate...       Tablet Device
+79-80  revolutionary            Forced to...  Design...       Memory Chip
+81-82  Psychiatrist             Wants to...   Buy...          Server
+83-84  Cyborg                   Needs to...   Protect...      holdall of Cash
+85-86  Intelligent Animal       Must...       Own...          Bioware
+87-88  Courier                  Plans to...   Steal...        Augmented Pet
+89-90  Image Consultant         Forced to...  hide...         Chemical
+91-92  Forger                   Wants to...   Sell...         human Organ(s)
+93-94  ex-Con                   Needs to...   Deliver...      Patient In Cryo Vat
+95-96  Fanatic/extremist        Must...       Save...         Work of Art
+97-98  Performer                Plans to...   Copy...         Drone/remote
+99-100 Junkie                   Forced to...  Steal...        Cybernetic Implant       33
+TECHNICAL DETAILS  STATEOF THE ART Roll                                    2D10
+                      Condition of Found (or Stolen) Technology                Type of Device
+                   1  Checquered history, well used, possible damaged          Weapon
+                   2  State-of-the-art, designer, cutting edge aesthetics      Computer/Tablet/hD
+                   3  Buggy and unpredictable, resets to factory default       Drone/remote
+                   4  Sought after but unstable r&D prototype, defective       Cybernetic Implant
+                   5  Obvious foreign counterfeit, compatibility issues        Cell Phone/Agent
+                   6  Sturdy, basic, idiot-proof, in good working order        SimStim rig
+                   7  Military spec, bomb-proof, very robust, ugly             Cybermodem
+                   8  elegant design, but fragile, possibly bespoke            Diagnostic Scanner
+                   9  unlicensed clone copy, brand new, can't be updated       Cam/recorder/Bug
+                   10 Intuitive interface, plug-and-play, modular design       3D Printer/Peripheral
+                   DATA MINING Roll1D10
+                      So, what's on that thing anyway?
+                   1  Contacts list - a mix of pure gold and the depressingly mundane
+                   2  Schematics - possibly of a building, vehicle, or a new cybernetics design
+                   3  Compromising Image Files (GM needs to determine of who)
+                   4  Chemical or Pharmaceutical Formulas - either new or cleverly adapted
+                   5  unreleased Beta Gaming Apps - copy protected; eagerly anticipated by fans
+                   6  Illegally Downloaded Music - some tracks prerelease; copy protections removed
+                   7  Black Ops Project - an extraction/wetwork/adulterating pharms/neo-disease etc.
+                   8  Weapons Tech r&D Data - aware weaponry systems or cutting edge mods
+                   9  Presentation For Forthcoming Biotech launch - impressive production values
+                   10 V-Mail Conversation Threads - regards one or more of the above (roll again twice)
+                   WHERE'S ITBEEN? Roll1D10
+                      Device History
+                   1  Stolen - the original owner(s) want it found and returned, offering a reward
+                   2  Misplaced - the owner(s) lost it and are desperate to find the device
+                   3  Traded - the device has been through several owners in recent months
+                   4  Found On Corpse - the device was obtained by scavengers after finding the body
+                   5  used For Crime - the device was used to commit crime, forensically compromised
+                   6  Thrown Away - device mistakenly discarded and is believed to no longer exist
+                   7  hidden - the device was secreted somewhere with the intention of later retrieval
+                   8  hacked - device was infiltrated from outside source, discarded, back doors intact
+                   9  Found In Vehicle - device was taken from an abandoned or stolen vehicle
+                   10 Sold On - the device was sold as it was no longer required, or money was needed
+34
+Roll D100 and read across      the columns (or roll several times to fill that stiff's pockets)       WHAT'S ON THE CORPSE?
+1-2     Scrap of paper         Work-in-progress death haiku scrawled on hotel note paper
+3-4     human eyeball          In climate controlled transparent jar, residential address on label
+5-6     Blister pack of pills  half-taken medication for virulently contagious illness
+7-8     Plain clip-on IFF tag  D6: 1-2 Police, 3-4 Major Corporation, 5-6 local Cartel (D3 days)
+9-10    Smooth plastic blob    Memory-plastic knife, requires a sharp tap to reconfigure blade
+11-12   Ziplock of grey dust   D6 `doses' of surveillance nanites; need transmission frequency
+13-14   used pregnancy test    The low grade AI just can't wait to tell you the good news...
+15-16   Battered e-cig         The liquid well contains 12ml of a previously unknown narcotic
+17-18   Three 7.62 bullets     One of which is laser-etched with a PC's name
+19-20   Plastic envelope       Keycard and address for very hidden, very private cyber clinic
+21-22   Packet of condoms      expensive, with STD detection sensors, phone number on back
+23-24   `Fitbit' biomonitor    hack reveals owner's movements, heart-rate and drug intake
+25-26   DeStress Xpress        D6 anti-anxiety capsules, laced with tracking nanites
+27-28   Small grey brick       Carbon nanobar, required substrate for illegal nano fabricators
+29-30   Business plasticard    Contact details for a gig-economy agent at `reputelligent Inc'.
+31-32   Fancy boots            Synthetic crocodile skin Chelsea boots, hideously expensive
+33-34   Cybernetic hand        Spare chromed hand, fitted with flashlight and motion sensor
+35-36   Chinese cigarettes     rare, prohibited imports, only one fixer known to smuggle them
+37-38   25ml plastic bottle    labelled as NanoBrite dental hygiene fluid, contains DNA sample
+39-40   Shrink wrapped cell    unused vendomat burner phone, monitored by corporation
+41-42   Puck-like disk         Olive drab casing, cyrillic script on how to use the monowire mine
+43-44   Plush `hello Kitty'    Tiny T-shirt states "let them eat chaos", grenade hidden inside
+45-46   unlocked datastick     Contains 500GB of banned Jihadipop tracks, DrMstill intact
+47-48   Painted filter mask    Anti-pollution rebreather, daubed in gang colours (see P26)
+49-50   40mm resin figurine    religious icon, showing Nelson Mandela healing a blind woman
+51-52   3D printed ring        Ornate white gold wedding ring, unique, worn on a neck chain
+53-54   Small bodycam          Memory chip reveals meeting with prominent fixer hours ago
+55-56   Small metal key        Key for a safety deposit box (303) at nearby monorail station
+57-58   Medical aid card       Belongs to person with different face and gender to the corpse
+59-60   Body lotto ticket      25% chance that the owner's death resulted in a winning number
+61-62   Durable glass vial     Containing a live venomous spider and eggs, not natural breed
+63-64   loose rFIDtag          Angry pimp hunting for the prostitute it used to be implanted in
+65-66   1KG pack of `flour'    Calcium feed for nano-enhanced killer; stops the nano eating him
+67-68   Blue lipstick          loaded with aggressive immunosuppressing toxin
+69-70   Plastic motel key      The room it opens contains D6 bound, unconscious street kids
+71-72   Thumb-sized fob        remote with agonizing dog-whistle effect on neural processors
+73-74   3 chromed `almonds'    Small situational awareness drones, feed view back to user
+75-76   Baggy of blue hexes    Contaminated or adulterated speed-like narcotics (D6 doses)
+77-78   Visitor's pass card    For geodesic-covered gated community (good for D3 days)
+79-80   Cheap airhypo          With three cassettes of insulin and one of an opiate derivative
+81-82   Wad of receipts        One for expensive neural backup, upload performed yesterday
+83-84   `Breguet' wristwatch   Prohibitively expensive, bespoke craftsmanship, easily traced
+85-86   Police ID              Same name and face as corpse, but expertly crafted forgery
+87-88   Foil wrapped ooze      Pale & pink `jellypig' bioweapon, smothers and dissolves target
+89-90   Vac-sealed FlishTM     D6 questionably nutritious artificial fish flesh sticks, each 3" long
+91-92   Silver hip flask       engraved with elite unit crest, holds `Shanghai White' vodka
+93-94   Printed photo of PC    Folded acetate photo, with date 3 days hence penned in border
+95-96   Black, logo'd card     Corporate loyalty card, entitles bearer to generous discounts
+97-98   Stubby aerosol can     Spray-on dry shampoo, also changes hair colour and texture
+99-100  Boxy palmtop GPS       Active icon shows target on the move less than half a mile away        35
+GUNS FORHIRE  Roll D100 and read across the columns (or roll more to achieve more mixed results)
+              1-2     Darkus Garvey           Maddeningly faulty cyberaudio feeds him your comms
+              3-4     logan Tanner            elite spec-ops in the Polar War, tired of fighting, sociopath
+              5-6     The Pink Panzer         Camp, flirtatious, enjoys intimidating straights, brutal brawler
+              7-8     Vincent Conrad          engaged in messy affair with unstable corporate aristocrat
+              9-10    Jinjiro Yasuda          rogue vat-grown killer, protects paralysed gene-tech he loves
+              11-12   hiroshima Black         Gaijin with minor yakuza gumi, despised, mole for russians
+              13-14   Plastic Bernard         unapologetic hipster, support from Armenian hacker clade
+              15-16   Dominic West            lives in exquisite houseboat, requires seclusion to stay sane
+              17-18   Tango Sinclair          Overweight hawaiian, raised in foster homes, big drinker
+              19-20   Janik The Ghost         Vagrant combat veteran with augmentation sickness
+              21-22   Napoleon Dean           hounded by AI telemarketers, doesn't know why
+              23-24   Trixie Paladin          Just one last job and the luxury beach house in Goa is hers
+              25-26   Terence Van Stratten    Anti-depressants laced with nanites control his decisions
+              27-28   Nip lacey               underage and overclocked, way too eager to prove herself
+              29-30   Spiros Giannopoulos     Thinks he's a major player, has a lot of cousins called Spiros
+              31-32   Demi Oblique            Argentine marine, autonomous defense net rebels against her
+              33-34   Mike Bravo              heavily invested in Vornheim Vr game, won't risk losing levels
+              35-36   Storm haussmann         Frustrated surrealist artist, single mother, skilled killer
+              37-38   Indigo Jones            Crippled as child, skeleton rebuilt, in constant pain, tough
+              39-40   Mildred Gaia            linear-frame-enhanced kick boxer, listens to K-Pop pre-op
+              41-42   Joe Montero             Cyborg veteran of Kashmir emergency, won't leave witnesses
+              43-44   Chance Baptiste         late stage AIDS-2, needs immunoboosters, nothing to lose
+              45-46   Oliver McKee            Post-combat cleansing ritual using sage and Bible verse
+              47-48   Saber Numan             Mutilated in Freak Fight bout, suspects crime syndicate boss
+              49-50   Zaneta Zone             Former VDV paratrooper, Moldova veteran on war crimes list
+              51-52   Brandon Skinner         rumoured junkie, actually diabetic, saving for neo-pancreas
+              53-54   Mina radisson           Convert to Islam, featureless gunmetal face, six red optics
+              55-56   Johnny Namibia          Devout, worships the Papal AI as a god
+              57-58   Aisha hussein           ex-Saudi GID, thermoptic camo, synthetic endorphin addict
+              59-60   Boyd Blackwood          Cyberoptics feed his view to media brother who's using him
+              61-62   emmanuel King           Former head of security, killed execs family; she's guilt-ridden
+              63-64   huey Ventura            Doesn't listen, tends to hit wrong targets, cannot drive
+              65-66   lorenzo Babylon         KGB wheelman, Olympic skier and hunted whistleblower
+              67-68   Thaddeus Schwartz       Former airport cleaner, conned into job by crime syndicate
+              69-70   lazarus Mendez          Can't reconcile job with married life, excellent danger sense
+              71-72   Maria Goldovskoya       Svetlana Series 9 sex synthetic, fights severe violent urges
+              73-74   Sady Sakura             Cares for crippled mentor, finds obligation a tiresome burden
+              75-76   rudolph Washington      Indentured to fixer handler, treated as property
+              77-78   Angel De Santo          Orbital assassin, amphetamine user, bright neon-green eyes
+              79-80   Dien Bien Phu           Conflicted Buddhist, connoisseur of classic Blues artists
+              81-82   Otto Kruger             Writes pithy anonymous diary blog, plans to write book
+              83-84   Pandora Frost           Classically-trained pianist, combat medic, lives in her car
+              85-86   Buntaro `Bushi' Tanaka  Yogic guru, clean living, obsidian cyberarms, pansexual
+              87-88   Scarlett harvest        looks like young Madonna, denies it; pink plastic cyberarm
+              89-90   ryan edwards            Wealthy with an impressive property portfolio, soldiers for fun
+              91-92   Slade Bennett           Nazi Country & Western fan, feels most alive post-kill
+              93-94   Splicer Takeda          Wants to be master of own destiny, denies he's trapped
+              95-96   Kurt Kellerman          No regard for collateral damage, keeps tropical fish
+              97-98   heywood Nash            lost entire family to wasting plague, inconsolable, suicidal
+36            99-100  Manuel Override         Glitchy GPS, no direction sense, trackable, argumentative
+1-2     Flechette pistols       Big, black, worn leather duster, irritable    Knows of...         GUNS FORHIRE
+3-4     Teleoperated drones     Sadistic, tattooed smart-armour link points   Wants to kill...
+5-6     hydraulic fists, bites  Full body cyborg, crudely sprayed pink        lusts after...
+7-8     Aware weapons lAN       likeable pothead, buff, always wears black    Friends with...
+9-10    Spider venom rounds     Chips different personalities, sharp suits    Worked with...
+11-12   Ornate monokatana       Suited, armour skin, afraid of dark, Ir eyes  Owes favour to...
+13-14   hunter-seeker rounds    Quiff, beard, tattoo sleeves, ear spacers     Jealous of...
+15-16   Pearl handled Glock     Wears purple, plays sax, mood swings          Irritates...
+17-18   Bulky laser rifle       Pragmatic, funny, wears black duster          looking for...
+19-20   Scoped needle-rifle     hobo-chic, beanie hat, beard, tenacious       hiding from...
+21-22   Monowire mines          Bleached spikes, wraparounds, agitated        Owes money to...
+23-24   Implanted zhi dao       Brushed aluminium body armour, focussed       Suspicious of...
+25-26   exploding munitions     Sensitive to strong smells, heavy armour      Obsessed with...
+27-28   Nerve-burner bombs      Teen, skinny jeans, army boots, hoodies       Makes use of...
+29-30   3D printed QBZ-95       Outmoded implants, retro-70s fashion          In love with...
+31-32   railgun sniper          Daddy issues, wears figure-hugging black      Friends with...
+33-34   Compound bow            Distracted, fantasist, wears black denim      Interested in...
+35-36   Sleek microwavers       Motocross leathers, cyberbike, feminist       Concerned for...
+37-38   Dissolving Nanorounds   Grey camo armour vest, always angry           Trusts only...
+39-40   Martial art techniques  lithe West Indian, faint hex-pattern on skin  unimpressed by...
+41-42   Antique uZI, SOPMODs    Scarred, dented, guarded, loose jumpsuit      Manipulating...
+43-44   Auto grenade launcher   Cynical, risk taker, sickly, wears layers     Wary of...
+45-46   Drum-fed AK74           Theatrical, serious, black Ts, shades         Betrayed...
+47-48   Self-destructing gun    Wheezing, scarred, sportswear, gold chains    Worked with...
+49-50   Twin compact SMGs       Vicious, Vr-trained clone, tight leathers     Intimidates...
+51-52   Charm-covered Steyr     Bald, goatee, utility vest, superstitious     Attracted to...
+53-54   liquid nitrogen rounds  Slim cyborg, conservative, chaste, classy     In love with...
+55-56   Camo autoshotgun        red leather jacket, corn rows, obsessive      Afraid of...
+57-58   Ornate bladed fingers   Athletic, hijab, full mirrored smart-visor    rivalry with...
+59-60   Incendiary rounds       Short mohawk, long coat, trusting             Knows all about...
+61-62   Flechette adapted M4    Insanely ruthless, stylish, hunted            Won't work with...
+63-64   Screamer grenades       Defensive, literal, squat, padded jackets     Worked with...
+65-66   Big polymer revolvers   Furtive, physically fit, chic, intimidating   Makes use of...
+67-68   hands-free trigger      Sloppy, unprofessional, cheap casuals         Despises...
+69-70   rifle with chatty AI    hen pecked, camos, buzz cut, rational         Irritates...
+71-72   Cortex bomb             Callous, irrational, needy, loose clothes     Sleeping with...
+73-74   Bright Plastic SMG      Wirey, short, girlish, harajuku style, tired  Was lover of...
+75-76   Chinese SMG clone       uneducated, easily manipulated, tagged        Seeks aid of...
+77-78   Caseless KrISS Vector   Super-model looks, cat like grace, cold       Friends with...
+79-80   Brace of small pistols  Shaved head, fame seeker, baggy combats       Suspicious of...
+81-82   Scanner shielded gun    Designer stubble, camo armoured jacket        lusts after...
+83-84   Inbuilt Scorpion SMGs   Muscular, tall, casuals, do-rags              Tried to kill...
+85-86   Crippler rounds         Self absorbed, baggy flight suits, sneakers   Annoyed by...
+87-88   Taser, monoknives       Biker jacket, fingerless gloves, prude        Disgusted by...
+89-90   Compact stutter-laser   Well groomed, expensive clothes, open         hates...
+91-92   Disposable pistols      Plaid flannel, denim, cracked brown leather   Manipulating...
+93-94   Toxin-loaded needlers   long, lank, black hair, chrome eyes, gaunt    Irritated by...
+95-96   underslung blinder      effeminate, black silks, raincoat, quick      Bored by...
+97-98   Full spectrum targeter  Carries photos, depressed, bulky flak vest    Trusts only...
+99-100  Belt-fed chaingun       Gum chewer, olive drab armour, moustache      rival of... (1-2)   37
+ANTISOCIAL MEDIA  SONIC YOUTH                               ON DEMAND
+                      Musical Style/Genre (1D10)               Vid Show (1D10)
+                  1   Black Ambient                         1  Implant Fixers (reality/comedy)
+                  2   Photonic Wave                         2  Simsense & Sensibility (drama)
+                  3   Xhosa Trance                          3  Zone runner Xtreme (gameshow)
+                  4   Industrial Grind house                4  Crash & Burn (hacking competition)
+                  5   eurozeit Groove                       5  My Two Clones (sitcom)
+                  6   Chip hop                              6  Atomic Geisha Dojo (gameshow)
+                  7   Glitchcore                            7  Personality Adjustment (reality)
+                  8   Machine-Soul Dub                      8  The Clade (soap opera)
+                  9   Toxic Ska                             9  Fracture Point (cop show)
+                  10 Anthemic NeoPunk                       10 Alt Cult Zero (documentary)
+                  SOCIAL MEDIA                              HOT NEW FADS
+                      Online Presence (1D10)                   What's in this week? (1D10)
+                  1   Impossibly dull, mainly life memes    1  everybody loves neutraceuticals
+                  2   Sickening, cute, GIF-heavy, juvenile  2  Weatherproof glowing ponchos
+                  3   Dominated by political viewpoint      3  Slacktivist angst-lit forums
+                  4   Social Justice Champion               4  SmeatTM (smart meat; pick flavour)
+                  5   Work related self-promotion           5  Zone dancing in public places
+                  6   Fan of unlikely musical genre         6  expensive Sumo Food® kale shakes
+                  7   lonely - desperate to make friends    7  randomiser-app-driven conversation
+                  8   Mainly family and friends (lots)      8  Freak Fighter brand endorsements
+                  9   Sexually predatory, catfish/stalker   9  Info-socialism - secret-free society
+                  10 hobby focused (gaming/making)          10 Fabrics change colour with mood
+                  VENDOMAT GOODS Roll1D10
+                  1   hot/Cold Beverages       Coffee, tea, cocoa, sodas, water, juice, shakes, energy drinks
+                  2   hot/Cold Food            Burritos, noodles, burgers, fries, SCOP, sandwiches, `sushi'
+                  3   Stimulants               Cigarettes, cigars, e-cig fluid, patches, caffeine tabs, alcohol
+                  4   Travel Packs             Toiletries, travel guides, cosmetics, sanitaries, sunglasses
+                  5   electronics              headphones, batteries, phones, torches, cameras, radios
+                  6   Personal Defense         Tasers, pepper spray, telescoping batons, polymer oneshots
+                  7   Clothing                 rainwear, underclothes, thermals, hats, t-shirts, socks
+                  8   Media                    Newsprint, digital music, games, films, simstim, e-books
+                  9   Pharmaceuticals          Medicines, contraceptives, first aid, sensory aids, vitamins
+                  10  Snacks                   Gum, candy, chips/crisps, popcorn, nuts, cryo-dried fruits
+38
+Roll D100                                                                                             ONE MAN'S TRASH...
+1   Junkfood box, weak jingle as batteries die   51   Damaged flat-screen television
+2   Sealed but dented soda can, out of date      52   Flaking laser pointer, with dead batteries
+3   Fresh half-eaten burger, slurpy of soda ice  53   lonely wireless earbud
+4   Discarded shrink wrap with QrS code label    54   Cybernetic implant, damaged or incomplete
+5   Thick wad of hard, grey chewing gum          55   Dumped external hard drive (see P34)
+6   half a blister pack of common pain killers   56   Biometrically locked JPeG viewer
+7   Plastic business card, high rank exec        57   Standard battery, 20% charge remaining
+8   2 feet of old nylon rope, frayed ends        58   Obsolete surveillance camera
+9   Intact polymer cargo pallet, slightly worn   59   `retired' synthetic, missing limb(s)
+10  large, stained, plastic tarp                 60   Assisted sleep console, induces seizures
+11  Foil wrap of brown powder, hypodermic        61   Plastic Christmas tree, partially melted
+12  Wet, pale corpse - did they just move?       62   Toy ride-in car, polymer shell, electric motor
+13  ribbed condom, usure if it's been used       63   Crumpled, rolled poster, recent idol singer
+14  Balled-up nitrile gloves, stained            64   Broken statuette of Ganesh
+15  half a case of individually sealed diapers   65   handful of collectible cards for CCG
+16  Discarded field dressing, still moist        66   realistic looking plastic Police badge
+17  urban scavenger (raccoon, dog, fox, cat)     67   Brightly coloured toy gun, quite realistic
+18  Plasticuffs, cut apart, winking red leD      68   Plush toy animal, shabby, stained
+19  unused pack of disposable ear plugs          69   Bouquet of dying flowers still in cellophane
+20  Gun - hot, cheap or damaged, or all three?   70   Spool of electric cable, has been cut
+21  half-used spray can of expanding foam        71   Discarded newspapers or magazines
+22  Partial bag of cement-like powder            72   PVC box of flat-packed cardboard boxes
+23  Dispenser gun of `liquid nails' adhesive     73   Flyers bundled together with rubber bands
+24  handful of new looking nuts and bolts        74   hardcopy printouts (see P34)
+25  D10 bricks or cinderblocks                   75   Thin, flexible metal sheet, purpose unknown
+26  Opened box of large ceramic tiles            76   refuse sack of polystyrene chips
+27  large sheet of drywall, some damage          77   Assorted sizes of tatty bubblewrap sheets
+28  5 litre can of paint, half empty             78   Plastic tub of assorted glass bottles
+29  Grubby plastic bag of spraypaint cans        79   heat sealed clear sacks of shredded papers
+30  length of heavy pipe                         80   latex halloween or fancy dress mask
+31  Solid looking, uPVC door, minor damage       81   Single kevlar safety glove
+32  Broken toilet seat                           82   Scratched mirrorshade sunglasses
+33  Damaged appliance, possible repairable       83   Single designer shoe, scuffing on heel
+34  Worn swivel chair, tatty but functional      84   Disposable rain poncho, minor tears
+35  rust-stained satellite dish                  85   Bullet scarred armour, reduced protection
+36  Battered desk fan, electric motor intact     86   retractable cheap umbrella, misshapen
+37  Abandoned memory foam mattress               87   Motorcycle helmet, with hairline fracture
+38  Small, dented vacuuming robot                88   Purse or wallet, no money, ID still inside
+39  handleless teflon-coated frying pan          89   Bag, briefcase or backpack, worn - empty?
+40  Discarded detergent bottles or tubs          90   Tupperware contains human stool sample
+41  length of silicone hose from a vehicle       91   human body part, not at all fresh
+42  hubcap in good condition                     92   unidentifiable goo, revolting chemical smell
+43  half-empty 2.5 litre of cheap motor oil      93   Torn foil sheeting from broken fog catcher
+44  Small, downed drone, onboard camera          94   Pitiful, dying animal (rat, cat, bird, dog)
+45  Scrapped auto-trashcan, low AI distressed    95   Sub-par 3D printed object, melting in rain
+46  Folding scooter missing wheel/battery        96   rain-soaked, discoloured undergarments
+47  Full set of worn tyres for a hatchback       97   Pile of ash in the shape of a person
+48  Compact scissor-jack, chipped, worn          98   Broken glass scattered all over area
+49  Shopping cart, rFID emitting trace signal    99   Cluster of recently smoked cigarette butts
+50  Well-used electric screwdriver, jammed       100  Minced meat and hair, possibly also teeth       39
+STRANGE ENCOUNTERS  BLACK OPS Roll1D10
+                    What did we just stumble into?
+                    1   Parked SuV with lone netrunner, jacked in, cross-legged in the back, walky on seat
+                    2   Four figures in black coveralls with SMGs carry unconscious wage-slave to a van
+                    3   Sleek car screeches to a halt, long coated gunmen get out, readying weapons
+                    4   Spider-like cybershell leaps from roof to roof, pausing to observe PC group
+                    5   Sleek exo-wombs being unloaded from aero transport by armed street gang
+                    6   Gunman with railgun and targeting drone takes aim at nearby apartment window
+                    7   Several yakuza footsoldiers rapidly leaving residence, wiping their katanas clean
+                    8   Obvious synthetic in grubby coveralls stumbles into bar, then detonates skull bomb
+                    9   Syndicate thugs argue with heavily armed group in car park over contents of a bag
+                    10 Three smartly dressed operatives with biotracker observe disembarking passengers
+                    BIO HORRORS                     Roll 1D10
+                    What the hell is that thing?
+                    1   Poisonous Wasps           Fast, hard to spot as wrong until close, sting repeatedly
+                    2   Parasitic Spawn           Crawls for the spine, hacks and burns central nervous system
+                    3   Spider rat                hairless, 8-legged rat-thing, DNA imprinted pack hunter
+                    4   Biodrones                 Implant-rigged, small carnivore, directed by human operator
+                    5   Fireflies                 Insects implanted with air-fuel explosives in stomach sacs
+                    6   Spider hive               human carrier, riddled with sphincter holes, deploys spiders
+                    7   Disease Bomb              Fleshy organ acts like a dispersal grenade to infect area
+                    8   The Mollusc               Armoured, muscle-launches bone shards tipped with poison
+                    9   Smell Tracker             Pheromone-sensitive tics drawn to target, easy to track
+                    10  razorhound                Skinless canine with monomolecular teeth, can climb
+                    ATYPICAL WEATHER                           Roll 1D10
+                    Today's forecast...
+                    1   Corrosive Fog             Stinking acidic fog enshrouds city, poor visibility and air
+                    2   CreepCloud                Chemically tainted mist triggers environment monitors
+                    3   Acidic Monsoon            Sheets of choking, corrosive rain creates vapour columns
+                    4   Glitter-twist             Dead nanites carried by air columns catch light like sparks
+                    5   extreme uV                Burns skin (need flare-paste) and causes visibility problems
+                    6   Wind Tunnel               extremely tall buildings channel aggressive, lashing winds
+                    7   Sweltering heat           Operating in armour causes heat fatigue and dehydration
+                    8   Cold Snap                 heavy frosts and hail create hazardous city conditions
+                    9   Minor Flood               So much rain with nowhere left to go causes urban chaos
+                    10  lightning Storm           Spectacular electrical storm, heavy ionisation with eMP effects
+40
+FREAK FIGHTERS Roll1D10                                                                     THETHINGS PEOPLEDO
+1   Ghengis Klang          Muscle grafts and body plating, hydraulic hands crush skulls
+2   The Gene Witch         experimental bioware, double-jointed, wild hair, utterly insane
+3   hannah Stazi           Bald, scarred and lithe, wears slashed leathers, knife fighter
+4   Shanky Bartella        Glo-tattooed skinhead, shiny black cyberarms, razor claws
+5   The White Ape          Augmented albino baboon, parasite infested, goes for the face
+6   Indigo Wilde           Wirey muscle, sambo expert, innumerable chrome piercings
+7   Gary Savage            Tattooed, 16 year old half-wit, no arms, extremely sharp teeth
+8   Jezebel Twist          Petite and calm, mixed martial arts, enhanced muscle matrix
+9   ultimate hobo          hairy meth addict, relieved of his hands, replaced with flails
+10 lazarus rapide          Showy and stylish, fast, will strangle you into submission
+Members of the crowd  are  invited to challenge the winner of the Freak Fight bout.
+GIG ECONOMY Roll1D10
+What's my agent got lined up for me today?
+1   Mobile Ar Ad hub       Supplied body rig outputs `augverts' as you wander streets
+2   human CCTV             Cyberoptics required, must allow remote access & sign NDA
+3   Gig Groomer            Given a quota of potential gig workers to sign up for agent
+4   hygiene Dispenser      loiter in lobbies wearing a tank full of hand sanitiser
+5   Substrate Fairy        Find and collect recyclables to be reused for 3D printing
+6   Organ Surrogate        Mature cloned organs prior to implantation
+7   Meds Manager           Deliver medications to the old and infirm, ensure ingestion
+8   Brand Spammer          Promote brand/product/ideology to strangers in public
+9   Pest Microwaver        Issued with rFID tagged microwaver to zap vermin
+10  Drone repoman          Trace and recover downed courier drones
+UNLAWFUL TRESPASS                           Roll 1D10
+Who's already been in that building?
+1   Crime Scene        A recent crime has the space crawling with forensics drones
+2   Coding Stable      Temporary pop-up Ar ad studio, staffed by low paid coders
+3   Sweat Shop         Illegal 3D minifactury manned by weary indentured immigrants
+4   Burglary           Drug addicted wrecks stripping out what's left of the utilities
+5   Shelter            homeless people with failing implants gather for mutual safety
+6   Drug Den           Old mattresses, threadbare sleeping bags, drug paraphernalia
+7   Stash Point        holes in the walls hide shrink-wrapped weaponry/munitions
+8   Street Artists     Creatively motivated teens spray their masterpiece on the walls
+9   Porn Set           hollow-eyed actors perform under the glare of sim-recorders
+10  Field Surgery      Mobile ripperdoc fights to save the life of poorly sedated cyborg
+                                                                                            41
+Smart Appliance       environmental     Intelligent              Ad                  Advertising Broadcast                  Active
+with camera           Sensor System     Washroom              Blimp                  System                                  GPS
+or microphone                                                                                                               Device
+        Tablet        local Server             Motion                        laptop                             Maintenance
+                      or Computer              Sensor                                                               robot
+remote               Fire Safety or                                          Site's              Traffic light               WiFi
+loader               evacuation System                 Drone              Defense    System or Adaptable                     Toy
+                                                                          Network                Smart lanes
+          Driverless Car/Aero                         hub, router               Security Camera                  Driver Assist
+                                                      or exchange                    or CCTV                        link
+                                                                   Cellular Comms                Automated                  Mobile
+          elevators                     Cybermodem               Mast or Satellite              heavy Transport             Trash
+                                                                     receiver                    Vehicle                     Can
+Construction                                                                                                                Anti-
+remote or                       TV                      3D    Printer(s)             Synthetic's     Wireless               Nanite
+Concrete Printer               Console                                               Neural Net      Smart Gun              Immune
+                                                                                                                            System
+Mobility Assistance   rFID                            Smartphone                                 Augmented reality
+linear Frame          Tag                             or Agent                                       Projector hub
+Acoustic              Neural                        Wearable Meds                   huD Visor                       Infant
+Weapon               Processor                        Dispenser                     or Goggles                   Monitoring
+Sensor                                                                                                           System
+                                        Self-Serve                                               Saleable                   Smart
+utilities Monitoring                    recharging                   Public                      Ar Tagged                  Morph-
+          System                        or refueling                 Vid-Phone                  Consumables                 wear
+                                        Point
+Manufacturing         Vendomat                 Bio-     Bodycam                 Payment reader              TacNet        CyberPet
+        robot                                  Monitor  or Go-Pro         (chip/pin or contactless)         Comms         Processor
+HACKABLEASSETS                                                                                           HACKABLEASSETS DROPDOWNGRID
+DROP DOWN GRID
+The Hackable Assets Drop Down Grid has been created to enable the unprepared
+or improvising cyberpunk GM to generate net-linked assets in the PC's vicinity,
+quickly and easily, simply by dropping some dice and checking where they land.
+How it works: First, print out that strange looking   system's `intelligence' level, how many other
+grid to the left. Then, grab a few D10s, four or      linked systems are connected to the first, or how
+five being a good number, and drop them onto          many rounds before a sysadmin notices any
+that grid. Where each of the dice lands will tell     spurious activity on their network.
+you the type of systems your players have in
+their proximity. Now, the numbers shown on            To ascertain if nearby the system has any quirks
+each dice can be used in different ways; to           or notable features, roll D100 on the Bugs In The
+determine the relative security levels on a scale     System table below.
+of 1 (no security) to 10 (killer ICe), as the target
+BUGS INTHESYSTEM RollD100
+1-2    Overzealous defensive software                 51-52   D6 software subroutines triggered
+3-4    harbours malicious virus                       53-54   logs recently tampered with
+5-6    Being assessed by sysadmin                     55-56   Overheating (heat sink failing)
+7-8    layers of legacy programming                   57-58   heavily encrypted for device type
+9-10   randomly goes into standby mode                59-60   Constant security warnings
+11-12  Badly formatted Ar plug-in                     61-62   Non-intuitive user interface
+13-14  Installing software upgrade                    63-64   hogging the local bandwidth
+15-16  hacker currently querying system               65-66   Prone to system crashes
+17-18  rOM overloaded by surplus apps                 67-68   uses badly patched legacy code
+19-20  recently reset to factory defaults             69-70   File sharing denied
+21-22  Inquisitive low-grade AI assistant             71-72   Configured for periodic back-up
+23-24  requires biometric verification                73-74   Insufficient internal battery life
+25-26  Auto-downloads to linked device                75-76   reveals a scheduled exploit (short)
+27-28  Net connection keeps dropping out              77-78   `Access Denied' system file errors
+29-30  Incompatible operating system                  79-80   reboots the system at random
+31-32  Pop-up pandemic                                81-82   requires admin password
+33-34  Software conflicts, glitchy                    83-84   Can only handle minimal processes
+35-36  Processor overclocked                          85-86   user interface in foreign language
+37-38  Active `vigilance suite' warns user            87-88   Discomforting feedback
+39-40  Tendency to stall or hang                      89-90   3rd party updaters need unchecking
+41-42  Malware sifting for linked devices             91-92   Menu options it shouldn't have
+43-44  Missing system tools/utilities                 93-94   In the process of being stolen
+45-46  errors with user interface display             95-96   running slow, searching for updates
+47-48  Physically damaged, or faulty                  97-98   Feeds log and data to manufacturer
+49-50  Non-standard reprogramming                     99-100  Tagged and monitored by rogue AI           43
+HACKERS & SLICERS  Roll D100 and read across   the columns (or roll more to achieve more mixed results)
+                   1-2     Phreakworm          undermines elections in Third World countries, because he can
+                   3-4     Spiderhead          Creates netsites for several street gangs, can muster help fast
+                   5-6     The Venomous Pao    Turing Authority agent, under cover, working on major sting
+                   7-8     robotnik            escaped from latvian data harvesters, has price on his head
+                   9-10    The Shadow Sphere   Collective formed by ex-Transmission Felonies cop
+                   11-12   Agent Orange        Works for the bank he hacks, now targeted for assassination
+                   13-14   Javier Script       Confined to ghetto-built mobility walker run on laptop batteries
+                   15-16   Kid Terminal        runs collective for corporate uncle, who thinks he's an idiot
+                   17-18   Feedfetcher         Guarded by a pair of tactically enhanced German Shepherds
+                   19-20   Mr                  Functionally a human server, sitting on millions
+                   21-22   lady Probability    high aptitude, actually result of drugs tests in orphanarium
+                   23-24   Chip Boy            Appears to be a script kiddie, successful exploit royalty farmer
+                   25-26   Pixelgeist          Clinically dead 3 times, wears a defib rig, surprisingly chipper
+                   27-28   Datamancer          Spends all his time in sensory deprivation tank
+                   29-30   Modal Fraction      Blinded as a child, navigates entire life via net overlays
+                   31-32   Deathwatch          Maintains clones in exowombs, in hidden cold storage facility
+                   33-34   Neurocide           Adept at cracking people's neural interface networks
+                   35-36   Zauberer            Tanzanian `sorcerer', skims identities to sell to the syndicates
+                   37-38   Patient Zero        Apparently in a coma, mercenary accomplices cover for him
+                   39-40   Fractal Artifice    Wrote a dementia triggering software routine, afraid to sell it
+                   41-42   Winston Smith       No clue his entire life is monitored by company handlers
+                   43-44   Quantum Clan        exceptional programmer, builds in exploits, fears discovery
+                   45-46   Mr Peepers          uplifted chimpanzee, fiercely protected by militant ecoclade
+                   47-48   Seraphim            Child prodigy, invalid daughter of experimental neuroscientist
+                   49-50   Billy headcrash     experienced darknet scout, haunted by malicious dataforms
+                   51-52   Dancer              Synthetic, used as meatspace `avatar' of another hacker (roll)
+                   53-54   The Invisible hand  rogue marketing AI, curates online Museum of Dangerous Art
+                   55-56   Oblivia 404         Targeted for extraction by several major transnationals
+                   57-58   Infobahn            Ousted darling Vrchitect, sells access to hidden labyrinths
+                   59-60   hungry Ghost        Former forensic system analyst, partial mindwipe
+                   61-62   Cortical Mafia      Squeals to corporation if hired, well paid, makes excuses
+                   63-64   Jake/Finn/Beemo     unremarkable 18 year old triplet nerds, secret geniuses
+                   65-66   Synaptica           rewired neural pathways push her intelligence beyond normal
+                   67-68   Phantom Paradigm    Intelligent hotel system, trades in guests' secrets, very wealthy
+                   69-70   Mother_Bored        Middle-aged housewife, was in debt, continues for the rush
+                   71-72   Bit rat             linkjacker specialising in compromising interfaced gear
+                   73-74   Daemonbot           rogue nanite hive-mind, hiding in a hab stack's vent system
+                   75-76   Samizdat            Self-righteous ethical hacktivist, has to make political statement
+                   77-78   lexicon Bandit      Information hygiene specialist, excels at covering any tracks
+                   79-80   happy Panda         Notorious lOltroll, gleefully puts others in real danger
+                   81-82   Mod.Net             Deals in downloadable skill apps and customised software
+                   83-84   heatseeker          Suffers Amazon War flashbacks, agoraphobic hoarder
+                   85-86   Solid State         runs distribution of dark servers, launders data and bitcoin
+                   87-88   Chaos Theory        Planning data heist, network map tattooed on missing person
+                   89-90   The havoc           uses amphetamines to gain edge, just fucking him up
+                   91-92   Fuzzy logic         Compelled to swat soft targets, knows she shouldn't
+                   93-94   Wardroids           S. Korean professional gamers, transition to big time net crime
+                   95-96   White Knight        Drug addicted Net regulator, knows systems' weak points
+                   97-98   rOMinatrix          Manipulated by AIs, believes aliens have chosen her
+44                 99-100  underscourge        Traffic control AI, masquerades as a human teen with ASD
+1-2     Wanted by African union            Army fatigues, manipulative           Owes favour to...    HACKERS & SLICERS
+3-4     Degree educated anarchist          Short red mohawk, bondage pants       Suspicious of...
+5-6     Tracking emergent intelligences    reliable, obsessive, clean cut        Interested in...
+7-8     Thick accent, security conscious   Thin, bald, wild eyed, submissive     hiding from...
+9-10    Never, ever seen in meatspace      Translucent, shadowy avatars          Mentor to...
+11-12   exhausted, caffeine addicted       Cheap suit, unkempt, nervous          Make use of...
+13-14   Strategic genius, connected        Grubby, dishevelled, paraplegic       Friend of...
+15-16   used by collective for his money   Wears labelled casuals, arrogant      Seeks aid of...
+17-18   Brilliant cryptographer            Cosmonaut suit, catheter, bright      looking for...
+19-20   living black banking node          Slick hair, sharp suit, confident     Associate of...
+21-22   Wanted by biotech company          humourless, kawaii-punk, tomboy       Was partner of...
+23-24   Buys back doors, rents them out    late 20s, sophisticated, ruthless     Schemes with...
+25-26   reroutes courier drones for fixer  Spiritual, hippy, infosocialist       rivalry with...
+27-28   Teleoperates spiderform shells     Malnourished, pastey, dank            Trusts only...
+29-30   Travels in secure AI-driven car    African, child soldier, gregarious    Seeks service of...
+31-32   Secreting own `ghost' across net   Wealthy, suave, fatalist, drinker     Seeks aid of...
+33-34   Subverts implants for own use      untrusting, baggy clothes, caps       Avoids...
+35-36   Superstitious sakawa devotee       Skeletal, tribal scars, chrome teeth  Will betray...
+37-38   Situation awareness for solos      Sterile stasis tank, philosophical    Seeks work of...
+39-40   Several fixers aware of his work   T-shirts, jeans, sneakers, torn       Influence over...
+41-42   reconfigures obsolete software     Slight, scruffy, shuffling, weak      Jealous of...
+43-44   Considering finally going legit    hyperactive, 3/4 pants, paranoid      Curious about...
+45-46   Sought-after security consultant   hairy, smelly, tasteful aesthete      Fond of...
+47-48   Supports rebel insurgency          Bed-ridden, trapped, unloved          Seeks service of...
+49-50   Vindictively alters enemies' IDs   leather coat, skin cut, bruiser       unsure about...
+51-52   3D printing an army of drones      Serene, tidy, meticulous, plastic     Obvious to...
+53-54   Successful online drug dealer      Presents as gaunt Victorian gent      Manipulates...
+55-56   Telemetric sniper                  Young, serious, severe short bob      In love with...
+57-58   Courted by syndicate bosses        Slacks, loafers, tailored shirts      Friend of...
+59-60   Conflict averse by State design    Stuttering, intelligent, frustrated   Seeks aid of...
+61-62   Covertly records everything        Sly, overweight, pork pie hat         Irritated by...
+63-64   remote vehicle-jackers             long hair, beanies, Ts, juvenile      Crush on...
+65-66   Sideline in pirate hunting         Distant, fidgety, emaciated           Curious about...
+67-68   Stolen Mossad virus adaptation     Only hear a smooth, baritone voice    Suspicious of...
+69-70   Infamous node saboteur             Pear-shaped, leather jacket, boots    Aunt of...
+71-72   Virtual cosplayer club president   Androgynous girl, talks too fast      In the way of...
+73-74   Financing transhuman revolt        Scattering of slightly silvered dust  Make use of...
+75-76   Sub-par Ar `street artist'         Pale, bleached dreads, patronising    Was student of...
+77-78   Mines archeosystems for data       Cuban exile, tech coveralls, cigar    Despises...
+79-80   engineers violent flash mobs       Obese, curly hair, spots, obnoxious   Messes with...
+81-82   lives in decommissioned sub        Toned, vest, lounge pants, stares     Friend of...
+83-84   expert MOuT co-ordinator           Sweats, unwashed, gruff, afraid       used by...
+85-86   hostile and deadly black ICe       Tall, imposing, Slavic, smart coat    Suspicious of...
+87-88   Tagging and tracking homeless      Driven, chain smokes, agitated        Seeks service of...
+89-90   recon via subverted appliances     Tremors, vacant eyes, bad teeth       Influence over...
+91-92   Ghost-hacked by desperate cop      Frumpy, short hair, kaftan, twitch    Trying to help...
+93-94   Being used by corrupt manager      Korean teens in sportswear            Seek aid of...
+95-96   under Turing investigation         Stained shirt, tie, shakes, furtive   use service of...
+97-98   hosts popular Vr sex dungeon       Mannish, scarlet curls, vest tops     Intrigued by...
+99-100  Intimately knows the city streets  Floppy hair, sullen (vidchat only)    Blackmails... (1-2)  45
+    augmented                reality                            THEDOWNTOWN 2D10                                           GRID
+1                       1-2                      3-4           5        6                                         7-9             10
+    Pharmacy                       Consumer           Art Dealer       Auto or                 Storage Units                      Legal
+                                   Electronics        or Gallery    Robotics                   or Warehousing                     Firm
+                                                                       Repair
+2                       1-2                      3-4         5                                          6-8                       9-10
+    Religious                      Capsule               Data                        Low Rent                     Grocery Store
+    Building                              Hotel       Storage                   Housing Project                   or Hypermarket
+3   1                                            2-4                    5-6            7                          8-9             10
+    Elevated                 Fast Food                         Police           School or           Government             Garage or
+    Rail or                  Franchise                       Precinct                College            Building                  Parking
+    Road                                                                                                                          Block
+    Overpass
+4                                                1-4                    5-6                             7-8                       9-10
+                           Office                              Public                  Hospital                   Department
+                           Block                             Transport                 or Clinic                           Store
+                                                                  Hub
+5                                  1-3                       4-5                       6-7                        8-9             10
+                   Body                          Luxury                         New
+              Augmentation                       Apartments                     Media               Industrial                    Security
+                   Clinic                                               Company                                                   Tech
+6                       1-2                      3-4                                   5-7              8               9         10
+          Vehicle                  Fashion                        Commercial                      Mall           VRcade           Gym
+    Showroom                       Boutique                       Cybernetics
+7   Leisureplex 1-2                                                                    3-7                                        8-10
+                                                      Apartment Block                                          Nightclub
+                                                      or Hab Stack
+8         1                                      2-4         Ripperdoc 5-6                              7-8                       9-10
+                                                                                       3D Print                   Courier or
+    Underpass                      Hotel                                               Fabrication                Bulk Transport
+                                                                                                                  Company
+9                                  1-3           Restaurant 4-5                        6-7                        8-9             10
+                   Bar                                                        Pop-Up                    Coffee                    Taxi
+                                                                               Market                      Shop                   Firm
+10                      1-2                      3-4           5        6                               7-8             9         10
+          Pocket                   Suburban           Movie         Weapons            Multi-Level                Bank     Antiques
+             Park                  Housing            Theatre          Tech or         Car Park
+                                                                       Sales
+    augmented           reality                         THEINSTACITIZEN 2D10                                                     GRID
+1                 1-2                         3-4              5           6                                                7-9           10
+    Lounge or           Bouncer or                      Aero      Researcher                         Street                           Lab
+    Bar Manager         Private Security                Pilot     or Data                     Gang Thug                              Worker
+                                                                  Analyst                     (see P26)
+2                 1-2                         3-4              5                                      6-8                                 9-10
+          Street        Gambler or                 Uber or                             Fixer                          Designer
+          Kid(s)                  Con Artist          Limo                      (see P30)
+                                                   Driver
+3         1                                   2-4                          5-6         7                                    8-9            10
+                        Corporate                       Sex Worker                                       City Beat
+    Pimp                Worker                          or Puppet                      Celeb                    Cop              Company
+                                                        (see P21)                                                                     Exec
+4                                             1-4                          5-6                        7-8                                 9-10
+                  Drone Wrangler                        Service Staff or               Freelance                            Thief or
+             or Remote Operator                         Store Worker                          Media                           Fence
+5                                 1-3                   4-5                            6-7                                  8-9           10
+             Hacker                           Military                     Syndicate                  Smuggler                       Bounty
+             (see P44)                        Veteran                 Footsoldier                                                    Hunter
+6                 1-2                         3-4                                      5-7                   8                9           10
+          Cabbie                  Homeless                        Drug                               Street           City       Syndicate
+    (see P20)                     Person                          Dealer                      Gang Boss              Inspector        Boss
+                                                                                              (see P26)         or Auditor
+7                 1-2                                                                  3-7                                                8-10
+          Techie                                   Unemployed                                                   Corporate
+                                              (Increased Leisure Citizen)                                            Soldier
+8         1                                   2-4       Scavenger 5-6                                    7-8                              9-10
+    Bioware             Factory                                                        Corporate                      Doctor or
+    Tech                Worker                                                                Agent                   Street Medic
+9                                 1-3                   4-5                            6-7                            8-9                 10
+                                              Online                            Store                        Solo or                  Killer
+             Detective                        Business                     Manager                    Mercenary                       or
+                                              Person                                                  (see P36)                      Psycho
+10                1-2                         3-4              5           6                          7-8                     9           10
+    Transport           Aristocrat or              Refuse         Psych                Emergency Worker         Government       Scientist
+          Worker        Indepentently              or Recyc       Evaluator     (EMT, nurse, paramedic,               Agent
+                                  Wealthy          Worker                              fire fighter)
+    augmented              reality                HACKABLEASSETS 2D10                                                          GRID
+1                     1-2                   3-4              5             6                                              7-9           10
+    Smart Appliance           Environmental       Intelligent          Ad                     Advertising                          Active
+    (with camera or           Sensor System       Washroom          Blimp                     Broadcast System                     GPS
+    microphone)                                                                                                                    Device
+2                     1-2                   3-4              5                                         6-8                           9-10
+    Tablet                    Local Server        Motion                              Laptop                          Maintenance
+                              or Computer         Sensor                                                                  Robot
+3   1                                       2-4                            5-6         7                                  8-9           10
+    Remote                 Fire Safety or                                             Site's           Traffic Light
+    Loader            Evacuation System                      Drone              Defense       System or Adaptable                  WiFi
+                                                                                Network                Smart Lanes                 Toy
+4                                           1-4                        5-6                             7-8                           9-10
+                  Driverless                            Hub, Router                   Security Camera                 Driver Assist
+                   Car/Aero                             or Exchange                           or CCTV                        Link
+5                             1-3                         4-5                          6-7                                8-9           10
+               Elevators                                            Cellular Comms                     Automated Heavy             Mobile
+                                           Cybermodem               Mast or Satellite                  Transport Vehicle           Trash
+                                                                           Receiver                                                Can
+6                     1-2                    3-4                                       5-7             8                  9             10
+    Construction                      TV                                                                                           Anti-
+    Remote or                 Console                           3D  Printer(s)                Synthetic's       Wireless           Nanite
+    Concrete Printer                                                                          Neural Net    Smart Gun              Immune
+                                                                                                                                   System
+7                     1-2          3                                                   4-7                                           8-10
+    Mobility Assistance      RFID                         Smartphone                                   Augmented Reality
+    Linear Frame              Tag                            or Agent                                       Projector Hub
+8   1                                        2-4                           5-6                         7-8                           9-10
+    Accoustic              Neural                 Wearable Meds                        HUD Visor                          Infant
+    Weapon                 Processor                      Dispenser                    or Goggles                     Monitoring
+    Sensor                                                                                                                System
+9                             1-3                         4-5                          6-7                                8-9        10
+    Utilities Monitoring                    Self-Serve                        Public                   Saleable                    Smart
+               System                      Recharging or                   Vid-Phone                   AR Tagged                   Morph-
+                                           Refuelling Point                                            Consumables                 Wear
+10                    1-2     Vendomat 3-4                   5             6                           7-8                9             10
+    Manufacturing                                 Bio-          Bodycam               Payment Reader            TacNet             CyberPet
+    Robot                                         Monitor       or Go-Pro       (chip/pin or contactless)       Comms          Processor
+While this book has been written with R.Talsorian's Cyberpunk 2020
+roleplaying game in mind, the information provided in this city kit is
+presented stat-free and system agnostic, suitable for any dark future
+RPG such as Shadowrun, CyberGeneration, Cyberpunk V3, Cyberspace,
+CyberHero, GURPS Cyberpunk, Bubblegum Crisis, Transhuman Space,
+Interface Zero, The Sprawl, 2300AD, Judge Dredd, The Black Hack:
+Cyber-Hacked, D20 Future, Ghost In The Shell, Zaibatsu, Ex Machina,
+NeuroSpasta, SLA Industries, Mirrorshades, Stars Without Number:
+Polychrome and Cyber.net.ica (all trademarks acknowledged).
+style and substance Enhance your games of the dark future, with the easy to use
+augmented reality cyberpunk city kit. Inside, you'll find over 50
+tables designed to assist gamesmasters who need to improvise
+futuristic city details, or who have found that they are unprepared
+for where their players are heading.
+With this book, you can add layers of detail to any cyberpunk
+cityscape, and make use of over 250 NPCs, including fixers,
+street samurai, corporate players and insane hackers, along with
+easy to roll cabbies, cops, gang members and street fighters.
+Missions, motivations and methods can be generated, along with
+the immediate urban environment, all painted with a broad brush,
+to enable gamesmasters to let their twisted imaginations shine
+through, without slowing down the action.
+Your players may use the real world as a reference, but YOU can
+use these tables to bring them the bleeding-edge future. So, jack
+in now and augment your reality...
+                                                             gH
+vfte.cyberpunk.co.uk                       Geist Hack Games
+
