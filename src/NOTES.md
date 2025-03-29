@@ -38,6 +38,11 @@ Visual block mode for copying column text - ctrl-V and use arrow keys
 :%!jq . # Format file as multiline json
 :%!jq -c . # Format file as single-line json
 :g/^$/d # Remove blank lines
+g~w # toggle case of current word
+guu # make entire line lowercase
+gUU # make entire line uppercase
+:s/\<./\u&/g # capitalize each word of a line
+. repeat last command
 ```
 
 ## Notes for Github workflows
