@@ -1,16 +1,16 @@
-                                Markos Marafelias Samuel Rondón Acevedo Nando Gallarday
+                                Markos Marafelias Samuel Rondï¿½n Acevedo Nando Gallarday
 
 DESIGNERS AND WRITERS                                  LEAD ARTIST
                                 Markos Marafelias      Nando Gallarday
-                                Samuel Rondón Acevedo  ASSISTANT ARTIST
+                                Samuel Rondï¿½n Acevedo  ASSISTANT ARTIST
                                 EDITOR                 Julio Gallarday
                                 Allison Hawkins        Markos Marafelias
                                 LAYOUT DESIGNER        CARDS ICON DESIGNER
-                                Samuel Rondón Acevedo  AND ADDITIONAL WRITING
+                                Samuel Rondï¿½n Acevedo  AND ADDITIONAL WRITING
                                                        Samuel Emilio Castillo
                                 www.ludicpen.com
                                 @LudicPen
-Copyright ©2024 Ludic Pen
+Copyright ï¿½2024 Ludic Pen
 This work is based on Ironsworn and Ironsworn:
 Starforged, created by Shawn Tomkin, and licensed for
 our use under the Creative Commons Attribution 4.0
@@ -18,13 +18,13 @@ International License.
 
                                 PLEDGERS
 Adam, Adam Remington, Alessandro Porri, Andrew Chandler, Andrew Mazibrada, Andrew Medeiros, Ben Long, Ben Williams,
-Benjamin Gagné, Bobby Bjfef0721, Brandon Mathis, Bryan Brake, Carlos Clavero, Caroline Owens, Chamomile Floyd, Chloé
+Benjamin Gagnï¿½, Bobby Bjfef0721, Brandon Mathis, Bryan Brake, Carlos Clavero, Caroline Owens, Chamomile Floyd, Chloï¿½
 Dulieu, Chris Wegrzyn, Christina Hatziemmanuel, Christopher Smith, Dain, Dave Hogg, Denis Dodson, Denise C., Drzachary,
 Egbs402, Eitan Rosa, Elodie Grondin, Emily Gabriel, Erizocosmico, Euan Urquhart, Francisco Acosta, Gtds10hx, Harald Hofer,
 Head Cleric of Crom, Heebyjeebs, Hellesfarne, Ian Carr, John Bindas, Justin Renfroe, Kiel Strang, LacksForFinish, Maxime Dhoury,
-Mario Roberge-Reyes, Mark Brady, Matthijs Hellinghuizen, Mike Westely, Nicolas Taylor, Olav Müller, Oscar Axlesson, Paul Jones,
+Mario Roberge-Reyes, Mark Brady, Matthijs Hellinghuizen, Mike Westely, Nicolas Taylor, Olav Mï¿½ller, Oscar Axlesson, Paul Jones,
 Paul Seagrave, Philip Germeyer, RandomBurstofPanic, RJ, Sara Marie Morris, Selina, Sen Arcturus, Shasjas, Sn3akiwhizper,
-Solanaar, Stephen Brown, Sterling Brucks, Suzanne Mouzaffar, Sérgio J. Sousa, Thomas Spofford, Tomas Chavarria, Travis Porter,
+Solanaar, Stephen Brown, Sterling Brucks, Suzanne Mouzaffar, Sï¿½rgio J. Sousa, Thomas Spofford, Tomas Chavarria, Travis Porter,
                                 Waterbane, Will Cotton, Zethican
                                 ACKNOWLEDGMENTS
                                 Ancient Wonders takes its inspiration for the planets,
@@ -41,24 +41,24 @@ Solanaar, Stephen Brown, Sterling Brucks, Suzanne Mouzaffar, Sérgio J. Sousa, Th
                                 Carolina Lazzaro, for helping develop the Ceramic oracle
                                 and being the unconditional emotional support to our
                                 general director.
-                                Fernando Adrián Campos, for assisting in the illustration of
+                                Fernando Adriï¿½n Campos, for assisting in the illustration of
                                 the movable and underground megacities.
                                 Roselle Accardo, for being a sounding board for ideas and
                                 the emotional pillar to Markos Marafelias.
-                                Sofía Peralta, for assisting in the design of the Hunker
+                                Sofï¿½a Peralta, for assisting in the design of the Hunker
                                 Down move.
                                 Vincent Van Gato, for being the Ludic Pen mascot and
                                 the emotional support--alongside Alexandra Gallarday,
                                 Carlos Delgado, and Julio Montes--to Nando Gallarday, our
                                 beloved art director.
                                 IN SPECIAL DEDICATION TO...
-                                Eunice Millán Zabala, whose resilience in her fight against
+                                Eunice Millï¿½n Zabala, whose resilience in her fight against
                                 cancer is a marvel and whose brightness illuminates the
                                 darkest of times. Without her spousal support, Ludic Pen
                                 would not exist.
                                 You are my most                   favorite  wonder.  The                                  best    my
                                 galaxy had to offer.
-                                Samuel Rondón Acevedo
+                                Samuel Rondï¿½n Acevedo
                                 General Director
 
 CONTENTS                                          CHAPTER 4: ALIEN MEGASTRUCTURES
@@ -1122,7 +1122,7 @@ SYSTEMS                                                                   interp
                                                                           O Planet                               Asteroid belt
                                                                         1-50
                                               Orbit                                                      Orbit
-Roll  1st  -¹                   2nd  -²  3rd  -³     4th  -  5th  -  6th  Roll    1st  -¹  2nd  -²  3rd  -³     4th  -  5th     -  6th
+Roll  1st  -ï¿½                   2nd  -ï¿½  3rd  -ï¿½     4th  -  5th  -  6th  Roll    1st  -ï¿½  2nd  -ï¿½  3rd  -ï¿½     4th  -  5th     -  6th
 1     O                         O                    O                        51  O        O        O                   O          O
 2     O                         O                            O                52                    O           O       O
 3     O                                  O           O       O       O        53           O                    O       O          O
@@ -1179,7 +1179,7 @@ The results of these tables show how the planets and asteroid belts would be mar
 on page 18. To mark these results in a detailed sector sheet, you must determine in which section of an orbit each planet is.
                                                                            51-100
                                                     Orbit                                                    Orbit
-Roll  1st                       -¹  2nd    -²  3rd  -³     4th  -  5th  -  6th  Roll  1st  -¹  2nd  -²  3rd  -³     4th  -  5th  -  6th
+Roll  1st                       -ï¿½  2nd    -ï¿½  3rd  -ï¿½     4th  -  5th  -  6th  Roll  1st  -ï¿½  2nd  -ï¿½  3rd  -ï¿½     4th  -  5th  -  6th
 1     O                             O          O           O       O       O    51             O        O                           O
 2                                   O                      O               O    52                      O           O
 3                                   O          O           O               O    53                                          O       O
@@ -1259,69 +1259,264 @@ Young star incubating in a molecular cloud                            Searing  H
 Corrupted star radiating with unnatural light                         Searing  Hot            Cool   Cold     Frigid  Frigid
 White dwarf shining with spectral light                               Hot      Warm           Cool   Cold     Frigid  Frigid
 Black hole                                                            Searing  Cool         Frigid   Frigid   Frigid  Frigid
-PLANETARY CLASS BASED ON HEAT
-Use this oracle to determine the type of a world based on the heat level of its orbit if you are only using the planets from Starforged.
-                                      Heat Level
-Searing                         Hot   Warm    Cool    Cold    Frigid  Result                         Starforged Reference Guide
-1-40                            1-17  --      --      --      --      Furnace World; pg 52           pg 41
-41-57       18-47                     1-8     1-4     --      --      Desert World; pg 50            pg 40
-    --      48-57                     9-26    5-18    1-5     --      Jungle World; pg 60            pg 45
-    --                          --    27-39   19-31   --      --      Vital World; pg 80             pg 50
-    --                          --    40-57   32-57   6-25    1-10    Ocean World; pg 70             pg 46
-    --                          --    --      --      26-57   11-57   Ice World; pg 56               pg 43
-58-72       58-72                     58-72   58-72   58-72   58-72   Jovian World; pg 58            pg 44
-73-84       73-84                     73-84   73-84   73-84   73-84   Rocky World; pg 72             pg 47
-85-94       85-94                     85-94   85-94   85-94   85-94   Tainted World; pg 76           pg 49
-95-97       95-97                     95-97   95-97   95-97   95-97   Grave World; pg 54             pg 42
-98-100      98-100                    98-100  98-100  98-100  98-100  Shattered World; pg 74         pg 48
-26                                                                                                            ANCIENT WONDERS
 
-PLANETARY CLASS BASED ON HEAT (PLANETS EXPANDED)
+Planetary Class Based On Heat
+Use this oracle to determine the type of a world based on the heat level of its orbit if you are only using the planets from Starforged.
+
+d100 Planetary Class - Searing
+1-40    Furnace World
+41-57   Desert World
+58-72   Jovian World
+73-84   Rocky World
+85-94   Tainted World
+95-97   Grave World
+98-100  Shattered World
+
+d100 Planetary Class - Hot
+1-17   Furnace World
+18-47  Desert World
+48-57  Jungle World
+58-72  Jovian World
+73-84  Rocky World
+85-94  Tainted World
+95-97  Grave World
+98-100 Shattered World
+
+d100 Planetary Class - Warm
+1-8    Desert World
+9-26   Jungle World
+27-39  Vital World
+40-57  Ocean World
+58-72  Jovian World
+73-84  Rocky World
+85-94  Tainted World
+95-97  Grave World
+98-100 Shattered World
+
+d100 Planetary Class - Cool
+1-4    Desert World
+5-18   Jungle World
+19-31  Vital World
+32-57  Ocean World
+58-72  Jovian World
+73-84  Rocky World
+85-94  Tainted World
+95-97  Grave World
+98-100 Shattered World
+
+d100 Planetary Class - Cold
+1-5    Jungle World
+6-25   Ocean World
+26-57  Ice World
+58-72  Jovian World
+73-84  Rocky World
+85-94  Tainted World
+95-97  Grave World
+98-100 Shattered World
+
+d100 Planetary Class - Frigid
+1-10    Ocean World
+11-57   Ice World
+58-72   Jovian World
+73-84   Rocky World
+85-94   Tainted World
+95-97   Grave World
+98-100  Shattered World
+
+
+Planetary Class Based On Heat (Planets Expanded)
 Use this oracle to reveal the type of a world based on the heat level of its orbit if you are using the content of Chapter 3 (page 28).
-                                       Heat Level
-Searing                         Hot    Warm     Cool                 Cold  Frigid   Result
-   1-40                         1-17   --       --                   --    --       Furnace World; pg 52
-41-57                           18-47  1-8      1-4                  --    --       Desert World; pg 50
-   --                           48-57  9-26     5-18                 1-5   -        Jungle World; pg 60
-   --                           --     27-39    19-31                --    --       Vital World; pg 80
-   --                           --     40-57    32-57                6-20  1-5      Ocean World; pg 70
-   --                           --     --       --               21-52     6-47     Ice World; pg 56
-   --                           --     --       --               53-57     48-57    Chemical World; pg 46
-58-69                           58-69  58-69    58-69            58-69     58-69    Jovian World; pg 58
-70-77                           70-77  70-77    70-77            70-77     70-77    Rocky World; pg 72
-78-83                           78-83  78-83    78-83            78-83     78-83    Tainted World; pg 76
-84-87                           84-87  84-87    84-87            84-87     84-87    Metallic World; pg 68
-88-89                           88-89  88-89    88-89            88-89     88-89    Crystalline World; pg 48
-90-91                           90-91  90-91    90-91            90-91     90-91    Tidally-locked World; pg  78
-92-93                           92-93  92-93    92-93            92-93     92-93    Karst World; pg 62
-94-96                           94-96  94-96    94-96            94-96     94-96    Grave World; pg 54
-97-98                           97-98  97-98    97-98            97-98     97-98    Shattered World; pg 74
-   99                           99     99       99                   99    99       Living World; pg 64
-   100                          100    100      100                  100   100      Anomalous World; pg 44
-ASTEROID                                                                            SPACE SIGHTINGS
-                                                                                    Use this oracle to replace the one in Starforged. Because the Solar
-CLUSTERS AND                                                                        System Generation guidelines present on page 20 make exclusive
-                                                                                    use of stellar objects and planets, they are omitted in this table.
-SPACE SIGHTINGS                                                                     Terminus  Outlands     Expanse  Result
-                                                                                    1-6       1-4             1-3   >Settlement
-The galaxy can provide countless encounters. Use the                                7-14      5-10            4-6   >Starship
-following oracles to further detail your solar systems.                             15-19     11-14           7-9   >Derelict
-Additionally, you may use the Space Sightings Expanded                              20-22     15-18         10-14   >Precursor Vault
-supplement, published by Ludic Pen, to further detail...                            23-27     19-24         15-21   >Creature
-*  The debris field for the Asteroid Cluster Type result.                           28-33     25-31        22-29    >Descriptor + Focus; pg 13
-*  Any space sighting that doesn't have its own set of                              34-42     32-40        30-38    Debris Field: Mineral Asteroids
-   oracles for further generation.                                                  43-49     41-47        39-45    Debris Field: Frozen Asteroids
-ASTEROID CLUSTER TYPE                                                      1-2      50-55     48-53         46-51   Debris Field: Crystalline Asteroids
-Use this oracle to define the nature of a specific                         cluster  56-61     54-59         52-57   Debris Field: Creature Boneyard
-in an asteroid belt.                                                                62-67     60-65        58-63    Debris Field: Metallic wreckage
-   1--48                        Debris field: Mineral asteroids                     68-70     66-68        64-66    Large rogue asteroid
-                                                                                    71-73     69-71        67-69    Comet with a tail of ionized gas
-49--78                          Debris field: Frozen asteroids                      74-77     72-76         70-75   Fiery energy storm
-79--93                          Debris field: Crystalline asteroids                 78-80     77-79         76-78   Chaotic meteoroid storm
-94--98                          Debris field: Metallic wreckage                     81-83     80-83        79-83    Turbulent gravitational wave
-99--100                         Debris field: Creature boneyard                     84-91     84-91        84-91    Dense nebula cloud
-                                                                                    92-97     92-97        92-97    Roll twice
-                                                                                    98-100    98-100       98-100   Roll three times
+
+d100 Searing
+1-40  Furnace World
+41-57 Desert World
+58-69 Jovian World
+70-77 Rocky World
+78-83 Tainted World
+84-87 Metallic World
+88-89 Crystalline World
+90-91 Tidally-locked World
+92-93 Karst World
+94-96 Grave World
+97-98 Shattered World
+99    Living World
+100   Anomalous World
+
+d100 Hot
+1-17  Furnace World
+18-47 Desert World
+48-57 Jungle World
+58-69 Jovian World
+70-77 Rocky World
+78-83 Tainted World
+84-87 Metallic World
+88-89 Crystalline World
+90-91 Tidally-locked World
+92-93 Karst World
+94-96 Grave World
+97-98 Shattered World
+99    Living World
+100   Anomalous World
+
+d100 Warm
+1-8   Desert World
+9-26  Jungle World
+27-39 Vital World
+40-57 Ocean World
+58-69 Jovian World
+70-77 Rocky World
+78-83 Tainted World
+84-87 Metallic World
+88-89 Crystalline World
+90-91 Tidally-locked World
+92-93 Karst World
+94-96 Grave World
+97-98 Shattered World
+99    Living World
+100   Anomalous World
+
+d100 Cool
+1-4   Desert World
+5-18  Jungle World
+19-31 Vital World
+32-57 Ocean World
+58-69 Jovian World
+70-77 Rocky World
+78-83 Tainted World
+84-87 Metallic World
+88-89 Crystalline World
+90-91 Tidally-locked World
+92-93 Karst World
+94-96 Grave World
+97-98 Shattered World
+99    Living World
+100   Anomalous World
+
+d100 Cold
+1-5   Jungle World
+6-20  Ocean World
+21-52 Ice World
+53-57 Chemical World
+58-69 Jovian World
+70-77 Rocky World
+78-83 Tainted World
+84-87 Metallic World
+88-89 Crystalline World
+90-91 Tidally-locked World
+92-93 Karst World
+94-96 Grave World
+97-98 Shattered World
+99    Living World
+100   Anomalous World
+
+d100 Frigid
+1-5      Ocean World
+6-47     Ice World
+48-57    Chemical World
+58-69    Jovian World
+70-77    Rocky World
+78-83    Tainted World
+84-87    Metallic World
+88-89    Crystalline World
+90-91    Tidally-locked World
+92-93    Karst World
+94-96    Grave World
+97-98    Shattered World
+99       Living World
+100      Anomalous World
+
+ASTEROID
+
+CLUSTERS AND
+
+SPACE SIGHTINGS
+
+The galaxy can provide countless encounters. Use the
+following oracles to further detail your solar systems.
+Additionally, you may use the Space Sightings Expanded
+supplement, published by Ludic Pen, to further detail...
+*  The debris field for the Asteroid Cluster Type result.
+*  Any space sighting that doesn't have its own set of
+   oracles for further generation.
+
+d100 Asteroid Cluster Type
+Use this oracle to define the nature of a specific cluster in an asteroid belt. Roll 1-2 times.
+
+1-48   Debris field: Mineral asteroids
+49-78  Debris field: Frozen asteroids
+79-93  Debris field: Crystalline asteroids
+94-98  Debris field: Metallic wreckage
+99-100 Debris field: Creature boneyard
+
+d100 Space Sightings (Terminus)
+Use this oracle to replace the one in Starforged. Because the Solar System Generation guidelines present on page 20 make exclusive use of stellar objects and planets, they are omitted in this table.
+
+1-6    >Settlement
+7-14   >Starship
+15-19  >Derelict
+20-22  >Precursor Vault
+23-27  >Creature
+28-33  >Descriptor + Focus; pg 13
+34-42  Debris Field: Mineral Asteroids
+43-49  Debris Field: Frozen Asteroids
+50-55  Debris Field: Crystalline Asteroids
+56-61  Debris Field: Creature Boneyard
+62-67  Debris Field: Metallic wreckage
+68-70  Large rogue asteroid
+71-73  Comet with a tail of ionized gas
+74-77  Fiery energy storm
+78-80  Chaotic meteoroid storm
+81-83  Turbulent gravitational wave
+84-91  Dense nebula cloud
+92-97  Roll twice
+98-100 Roll three times
+
+d100 Space Sightings (Outlands)
+Use this oracle to replace the one in Starforged. Because the Solar System Generation guidelines present on page 20 make exclusive use of stellar objects and planets, they are omitted in this table.
+
+1-4    >Settlement
+5-10   >Starship
+11-14  >Derelict
+15-18  >Precursor Vault
+19-24  >Creature
+25-31  >Descriptor + Focus; pg 13
+32-40  Debris Field: Mineral Asteroids
+41-47  Debris Field: Frozen Asteroids
+48-53  Debris Field: Crystalline Asteroids
+54-59  Debris Field: Creature Boneyard
+60-65  Debris Field: Metallic wreckage
+66-68  Large rogue asteroid
+69-71  Comet with a tail of ionized gas
+72-76  Fiery energy storm
+77-79  Chaotic meteoroid storm
+80-83  Turbulent gravitational wave
+84-91  Dense nebula cloud
+92-97  Roll twice
+98-100 Roll three times
+
+d100 Space Sightings (Expanse)
+Use this oracle to replace the one in Starforged. Because the Solar System Generation guidelines present on page 20 make exclusive use of stellar objects and planets, they are omitted in this table.
+
+1-3    >Settlement
+4-6    >Starship
+7-9    >Derelict
+10-14  >Precursor Vault
+15-21  >Creature
+22-29  >Descriptor + Focus; pg 13
+30-38  Debris Field: Mineral Asteroids
+39-45  Debris Field: Frozen Asteroids
+46-51  Debris Field: Crystalline Asteroids
+52-57  Debris Field: Creature Boneyard
+58-63  Debris Field: Metallic wreckage
+64-66  Large rogue asteroid
+67-69  Comet with a tail of ionized gas
+70-75  Fiery energy storm
+76-78  Chaotic meteoroid storm
+79-83  Turbulent gravitational wave
+84-91  Dense nebula cloud
+92-97  Roll twice
+98-100 Roll three times
+
 Chapter 2:                      Solar  Systems                                                                                                           27
 
 CHAPTER 3
@@ -1385,101 +1580,160 @@ this chapter, offers its own set of underground exploration oracles.
 * Starforged Reference Guide for dread aspects with the Chaotic
 location theme oracles, on page 102 of that material, if you are using
 the cursed die as explained in Chapter 1, page 11.
-PLANETSIDE WAYPOINT
-When you reach a waypoint while exploring a planet, use the table below
-to provide an event, encounter, or moment of character focus.
-If you get the "Planetside community" result but have previously
-determined there are no settlements in the world, reroll or envision how
-this contradiction adds an unexpected revelation.
-Terminal                        Outlands   Expanse  Result
-1-53                                1-56     1-60   Terrain feature (choose one)
-                                                    >Surface Feature; planetary class page
-                                                    >Region Landmark; SI, pg 151
-                                                    >Underwater Feature; pg 31
-54-63                           57-66        61-70  Instance
-                                                    >Descriptor + Focus; pg 13
-64-73                           67-73        71-73  Spacecraft
-                                                    >Starship; RG, pg 58
-74-77                               74-76    74-75  Planetside community
-                                                    >Settlement; RG, pg 54 or SI, pg 164
-78-81                           78-79        76-77  Human wreckage
-                                                    >Derelict; RG, pg 80
-82-83                           80-82        78-81  Ancient city
-                                                    >Megacity; pg 168
-84-85                           83-85        82-85  Alien structure
-                                                    >Precursor Vault; RG, pg 92
-86-95                           86-95        86-95  Character focus
-                                                    >Interlude Scene; SI, pg 250
-96-100                          96-100     96-100   Roll twice
-CHAPTER                         3:  PLANETS  EXPANDED                                       31
 
-PLANETSIDE PERIL
-Lifebearing                     Lifeless  Result
-    1                           1         >Anomaly; pg 194
-    2-3                         --        Corrupted or mutated lifeform
-    4-6                         --        Signs of a lifeform's power or cunning
-    7-9                         --        Hazardous plant life or malignant spores
-    10-12                       --        Lifeform hunts for prey
-    13-15                       --        Lifeform makes its lair here
-    16-18                       --        Lifeforms guided by a greater threat
-    19-21                       --        Lifeforms spooked or stampeding
-    22-24                       --        Threatening lifeform draws near
-    25-27                       2-3       Life is revealed or takes an unexpected form
-    28-30                       4-7       Blocked or impassable path
-    31-33                       8-11      Corrosive substance or environment
-    34-36                       12-15     Disturbing remains or evidence of death
-    37-39                       16-19     Drastic environmental change
-    40-42                       20-23     Enemy holds this area
-    43-45                       24-27     Entangling or engulfing hazard
-    46-48                       28-31     Equipment fails or malfunctions
-    49-51                       32-35     Guarded or patrolled path
-    52-54                       36-39     Led astray
-    55-57                       40-43     Lost the path
-    58-60                       44-47     Meteorites fall from the sky
-    61-63                       48-51     Irradiated area or object
-    64-66                       52-55     Realization that something was left behind
-    67-69                       56-59     Seismic or volcanic upheaval
-    70-72                       60-63     Signs of a lurking or trailing foe
-    73-75                       64-67     Storm or atmospheric disruption
-    76-78                       68-71     Toxic or sickening environment
-    79-81                       72-75     Trap or alarm
-    82-84                       76-79     Treacherous or arduous path
-    85-87                       80-83     Troubling visions or apparitions
-    88-90                       84-87     Visibility hindered by atmospheric effects
-    91-93                       88-91     Worrying arrival of a ship or vehicle
-    94-96                       92-95     Wreckage or ruins portend a new threat
-    97-99                       96-99     >Action + Theme; pg 12
-    100                         100       Roll twice
-32                                                                                      ANCIENT WONDERS
+Planetside Waypoint
+When you reach a waypoint while exploring a planet, use the table below to provide an event, encounter, or moment of character focus.
+If you get the "Planetside community" result but have previously determined there are no settlements in the world, reroll or envision how this contradiction adds an unexpected revelation.
 
-                                                       PLANETSIDE OPPORTUNITY
-                                                       Lifebearing  Lifeless  Result
-                                                       1-4          --        Clue to a lifeform's nature or vulnerabilities
-                                                       5-8          --        Friendly interaction with a benign lifeform
-                                                       9-12         --        Hunting or foraging opportunities are plentiful
-                                                       13-16        --        Interesting or helpful aspect of benign creatures
-                                                       17-20        --        Interesting or helpful aspect of local plant life
-                                                       21-24        1-5       Encounter reveals unexpected benign lifeforms
-                                                       25-28        6-10      Abandoned camp or vehicle
-                                                       29-32        11-15     Advance warning of an environmental threat
-                                                       33-36        16-20     Clear path through otherwise perilous terrain
-                                                       37-40        21-25     Clue offers insight into a current quest or mystery
-                                                       41-44        26-30     Clue to the history or nature of this place
-                                                       45-48        31-35     Evidence that others have passed this way
-                                                       49-52        36-40     Foe reveals themselves or tips their hand
-                                                       53-56        41-45     Fortuitous change in the weather or atmosphere
-                                                       57-60        46-50     Friendly traveler crosses your path
-                                                       61-64        51-55     Helpful resource is in ample supply
-                                                       65-68        56-60     Impressive vista offers comfort or inspiration
-                                                       69-72        61-65     Interesting artifact or device
-                                                       73-76        66-70     Interesting site offers opportunities for exploration
-                                                       77-80        71-75     Moment of fellowship or inner peace
-                                                       81-84        76-80     Opening to distract, escape, or avoid foes
-                                                       85-88        81-85     Opening to get the drop on a foe
-                                                       89-92        86-90     Plea for help from a potential benefactor
-                                                       93-96        91-95     Refuge offers a place to hide, plan, or recover
-                                                       97-100       96-100    Vantage point reveals the lay of the land
-Chapter                         3:  Planets  Expanded                                                                                33
+d100 Planetside Waypoint - Terminus
+1-53    Terrain feature (choose one) 1. Surface Feature; planetary class page 2. Region Landmark; SI, pg 151 3.Underwater Feature; pg 31
+54-63   Instance >Descriptor + Focus; pg 13
+64-73   Spacecraft >Starship; RG, pg 58
+74-77   Planetside community >Settlement; RG, pg 54 or SI, pg 164
+78-81   Human wreckage >Derelict; RG, pg 80
+82-83   Ancient city >Megacity; pg 168
+84-85   Alien structure >Precursor Vault; RG, pg 92
+86-95   Character focus >Interlude Scene; SI, pg 250
+96-100  Roll twice
+
+d100 Planetside Waypoint - Outlands
+1-56    Terrain feature (choose one) 1. Surface Feature; planetary class page 2. Region Landmark; SI, pg 151 3.Underwater Feature; pg 31
+57-66   Instance >Descriptor + Focus; pg 13
+67-73   Spacecraft >Starship; RG, pg 58
+74-76   Planetside community >Settlement; RG, pg 54 or SI, pg 164
+78-79   Human wreckage >Derelict; RG, pg 80
+80-82   Ancient city >Megacity; pg 168
+83-85   Alien structure >Precursor Vault; RG, pg 922
+86-95   Character focus >Interlude Scene; SI, pg 250
+96-100  Roll twice
+
+d100 Planetside Waypoint - Expanse
+1-60   Terrain feature (choose one) 1. Surface Feature; planetary class page 2. Region Landmark; SI, pg 151 3.Underwater Feature; pg 31
+61-70  Instance >Descriptor + Focus; pg 13
+71-73  Spacecraft >Starship; RG, pg 58
+74-75  Planetside community >Settlement; RG, pg 54 or SI, pg 164
+76-77  Human wreckage >Derelict; RG, pg 80
+78-81  Ancient city >Megacity; pg 168
+82-85  Alien structure >Precursor Vault; RG, pg 922
+86-95  Character focus >Interlude Scene; SI, pg 250
+96-100 Roll twice
+
+Planetside Peril
+d100 Planetside Peril - Lifebearing
+1     >Anomaly; pg 194
+2-3   Corrupted or mutated lifeform
+4-6   Signs of a lifeform's power or cunning
+7-9   Hazardous plant life or malignant spores
+10-12 Lifeform hunts for prey
+13-15 Lifeform makes its lair here
+16-18 Lifeforms guided by a greater threat
+19-21 Lifeforms spooked or stampeding
+22-24 Threatening lifeform draws near
+25-27 Life is revealed or takes an unexpected form
+28-30 Blocked or impassable path
+31-33 Corrosive substance or environment
+34-36 Disturbing remains or evidence of death
+37-39 Drastic environmental change
+40-42 Enemy holds this area
+43-45 Entangling or engulfing hazard
+46-48 Equipment fails or malfunctions
+49-51 Guarded or patrolled path
+52-54 Led astray
+55-57 Lost the path
+58-60 Meteorites fall from the sky
+61-63 Irradiated area or object
+64-66 Realization that something was left behind
+67-69 Seismic or volcanic upheaval
+70-72 Signs of a lurking or trailing foe
+73-75 Storm or atmospheric disruption
+76-78 Toxic or sickening environment
+79-81 Trap or alarm
+82-84 Treacherous or arduous path
+85-87 Troubling visions or apparitions
+88-90 Visibility hindered by atmospheric effects
+91-93 Worrying arrival of a ship or vehicle
+94-96 Wreckage or ruins portend a new threat
+97-99 >Action + Theme; pg 12
+100   Roll twice
+
+d100 Planetside Peril - Lifeless
+1         >Anomaly; pg 194
+2-3       Life is revealed or takes an unexpected form
+4-7       Blocked or impassable path
+8-11      Corrosive substance or environment
+12-15     Disturbing remains or evidence of death
+16-19     Drastic environmental change
+20-23     Enemy holds this area
+24-27     Entangling or engulfing hazard
+28-31     Equipment fails or malfunctions
+32-35     Guarded or patrolled path
+36-39     Led astray
+40-43     Lost the path
+44-47     Meteorites fall from the sky
+48-51     Irradiated area or object
+52-55     Realization that something was left behind
+56-59     Seismic or volcanic upheaval
+60-63     Signs of a lurking or trailing foe
+64-67     Storm or atmospheric disruption
+68-71     Toxic or sickening environment
+72-75     Trap or alarm
+76-79     Treacherous or arduous path
+80-83     Troubling visions or apparitions
+84-87     Visibility hindered by atmospheric effects
+88-91     Worrying arrival of a ship or vehicle
+92-95     Wreckage or ruins portend a new threat
+96-99     >Action + Theme; pg 12
+100       Roll twice
+
+Planetside Opportunity
+d100 Planetside Opportunity - Lifebearing
+1-4    Clue to a lifeform's nature or vulnerabilities
+5-8    Friendly interaction with a benign lifeform
+9-12   Hunting or foraging opportunities are plentiful
+13-16  Interesting or helpful aspect of benign creatures
+17-20  Interesting or helpful aspect of local plant life
+21-24  Encounter reveals unexpected benign lifeforms
+25-28  Abandoned camp or vehicle
+29-32  Advance warning of an environmental threat
+33-36  Clear path through otherwise perilous terrain
+37-40  Clue offers insight into a current quest or mystery
+41-44  Clue to the history or nature of this place
+45-48  Evidence that others have passed this way
+49-52  Foe reveals themselves or tips their hand
+53-56  Fortuitous change in the weather or atmosphere
+57-60  Friendly traveler crosses your path
+61-64  Helpful resource is in ample supply
+65-68  Impressive vista offers comfort or inspiration
+69-72  Interesting artifact or device
+73-76  Interesting site offers opportunities for exploration
+77-80  Moment of fellowship or inner peace
+81-84  Opening to distract, escape, or avoid foes
+85-88  Opening to get the drop on a foe
+89-92  Plea for help from a potential benefactor
+93-96  Refuge offers a place to hide, plan, or recover
+97-100 Vantage point reveals the lay of the land
+
+d100 Planetside Opportunity - Lifeless
+1-5       Encounter reveals unexpected benign lifeforms
+6-10      Abandoned camp or vehicle
+11-15     Advance warning of an environmental threat
+16-20     Clear path through otherwise perilous terrain
+21-25     Clue offers insight into a current quest or mystery
+26-30     Clue to the history or nature of this place
+31-35     Evidence that others have passed this way
+36-40     Foe reveals themselves or tips their hand
+41-45     Fortuitous change in the weather or atmosphere
+46-50     Friendly traveler crosses your path
+51-55     Helpful resource is in ample supply
+56-60     Impressive vista offers comfort or inspiration
+61-65     Interesting artifact or device
+66-70     Interesting site offers opportunities for exploration
+71-75     Moment of fellowship or inner peace
+76-80     Opening to distract, escape, or avoid foes
+81-85     Opening to get the drop on a foe
+86-90     Plea for help from a potential benefactor
+91-95     Refuge offers a place to hide, plan, or recover
+96-100    Vantage point reveals the lay of the land
 
 EXPLORING UNDERWATER
 ENVIRONMENTS
@@ -1560,106 +1814,161 @@ If you get either the "Mighty creature" or the "Hunting predator" result and hav
 reroll or envision how this contradiction adds an unexpected revelation to what you previously understood of the planet.
 36                                                                                      ANCIENT WONDERS
 
-               UNDERWATER DETAILS
-               Use the following tables to inspire the details of a waypoint during underwater expeditions. The Perils table inspires  a  cost or
-               trouble and the Opportunities table offers a beneficial encounter or event.
-               The sea bed versions of these oracles are in the next pages.
-               OPEN    SEA FEATURE                                           1-2  OPEN SEA PERIL
-               1-6                Bioluminescent flora or fauna                             1  >Anomaly; pg 194
-               7-12               Cluster of drifting flora                       2-30         >Lurking Threat
-               13-18              Drifting clouds of gas or brine                 31-36        Dangerous sinking debris
-               19-24              Gargantuan flora emerging from     below        37-42        Equipment or ship suffers damage
-               25-30              Rain of sinking detritus                        43-49        Hostile flora or fauna
-               31-36              Region of luminescent water                     50-56        Led astray or lost the path
-               37-42              Rising bubbles of air or gas                    57-63        Lost gear or provisions
-               43-48              Shafts of light                                 64-70        Restricted visibility
-               49-82              Still, empty waters                             71-76        Troubling visions or apparitions
-               83-88              Submerged, floating terrain                     77-82        Violent currents
-               89-94              Towering geological formations                  83-91        >Action + Theme; pg 12
-               95-100             Visible currents                                92-100       Roll twice
-               CURSED OPEN SEA FEATURE                                            OPEN SEA OPPORTUNITY
-               1-20               Blood-stained water                             1-20         Awe-inspiring natural feature
-               21-40              Eerie sounds                                    21-40        Advance warning of a hazard
-               41-60              Impassable darkness                             41-60        Beneficial ocean currents
-               61-80              Monstrous, predatory flora or fauna             61-80        Fauna show a way or offer inspiration
-               81-100             Unnatural or erratic temperatures               81-100       Unusually clear view
-               Chapter 3: Planets Expanded                                                                                                37
-David  Hudson  (Order #46946953)
-SEABED FEATURE                                                                                     1-2
-1-2    Abyssal trench                         51-52   Large deposits of mud
-3-4    Billowing hydrothermal vents           53-54   Lithified sediments
-5-6    Bioluminescent flora or fauna          55-56   Looming cavemouth
-7-8    Bizarre symbiotic flora or fauna       57-58   Mammoth reef
-9-10   Bubbling cold seep                     59-60   Mass of brightly colored flora
-11-12  Caves secluded amongst rocky crags     61-62   Narrow crevasses
-13-14  Chasm lined with bioluminescent flora  63-64   Natural arches
-15-16  Cliff pockmarked by caves              65-66   Parade of fauna or flora
-17-18  Cluster of small flora or fauna        67-68   Rain of sinking debris or detritus
-19-20  Clusters of pillow lava                69-70   Region of luminescent water
-21-22  Complex reef of countless colors       71-72   Rocky outcrops coated in sea-grass
-23-24  Crumbling rock faces                   73-74   Rolling sand dunes
-25-26  Deep brine pools                       75-76   Sea-grass glades
-27-28  Drifting clouds of gas or brine        77-78   Shifting dunes
-29-30  Enormous seamount                      79-80   Sprawling brine rivers
-31-32  Exposed ore deposits                   81-82   Submerged impact craters
-33-34  Extensive and mountainous ridges       83-84   Submerged volcano
-35-36  Flooded lava tubes                     85-86   Towering groves of kelp
-37-38  Fluorescent mineral deposits           87-88   Towering, rocky columns
-39-40  Glimmering particles                   89-90   Unnaturally large coral
-41-42  Glowing lava flows                     91-92   Valley enveloped by flora
-43-44  Groves of shimmering flora             93-94   Vast cliff face or edge
-45-46  Imposing algal bloom                   95-96   Vast sandy plateaus
-47-48  Isolated patches of lush flora         97-98   Winding undersea canyon
-49-50  Jagged spires                          99-100  Yawning sinkhole
-    SEABED CURSED FEATURE
-1-5    Bizarre mass of flora or fauna         51-55   Irregular movements under sand
-6-10   Blood-stained water                    56-60   Odd sand patterns
-11-15  Buried skeletal remains                61-65   Powerful seismic activity
-16-20  Coloration out of place in region      66-70   Remains of colossal creature
-21-25  Creature graveyard                     71-75   Slowly descending brinicles
-26-30  Dead or dying flora                    76-80   Stagnant waters
-31-35  Diseased or corrupted flora            81-85   Sunken vessel or wreck
-36-40  Eerie sounds                           86-90   Underwater vortex
-41-45  Electromagnetic interference           91-95   Unnatural or erratic temperatures
-46-50  Impassable darkness                    96-100  Unnerving, shifting shadows
-38                                                                                        ANCIENT  WONDERS
+Underwater Details
+Use the following tables to inspire the details of a waypoint during underwater expeditions. The Perils table inspires a cost or trouble and the Opportunities table offers a beneficial encounter or event. The sea bed versions of these oracles are in the next pages.
 
-                                                       SEABED PERIL
-                                                       1       >Anomaly; pg 194
-                                                       2-20    >Lurking Threat; pg 36
-                                                       21-24   Crumbling or collapsing terrain
-                                                       25-27   Dangerous sinking debris
-                                                       28-30   Dangerous spike in pressure
-                                                       31-34   Entangling flora
-                                                       35-38   Equipment or ship suffers damage
-                                                       39-42   Glimpses of a lurking creature
-                                                       43-46   Grueling waters or terrain tests endurance
-                                                       47-50   Hostile flora or fauna
-                                                       51-54   Led astray or lost the path
-                                                       55-58   Lost gear or provisions
-                                                       59-62   Restricted visibility
-                                                       63-66   Skillfully camouflaged predator
-                                                       67-69   Sucking chasm or sinkhole
-                                                       70-72   Toxic or corrosive waters
-                                                       73-75   Treacherous temperature fluctuations
-                                                       76-79   Vicious currents
-                                                       80-83   Violent whirlpool
-                                                       84-86   Volcanic upheaval
-                                                       87-88   Worrying arrival of a ship or vehicle
-                                                       89-94   >Action + Theme; pg 12
-                                                       95-100  Roll twice
-                                                       SEABED OPPORTUNITY
-                                                       1-10    Abandoned or lost cargo
-                                                       11-20   Advance warning of a hazard
-                                                       21-30   Awe-inspiring natural feature
-                                                       31-40   Clear path through otherwise perilous  terrain
-                                                       41-50   Fauna show a way or offer inspiration
-                                                       51-60   Hint reveals a path or route forward
-                                                       61-70   Object of power or precious item
-                                                       71-80   Sheltered air pocket
-                                                       81-90   Unusually clear view
-                                                       91-100  Useful resource or provision
-Chapter                         3:  Planets  Expanded                                                          39
+d100 Open Sea Feature
+1-6    Bioluminescent flora or fauna
+7-12   Cluster of drifting flora
+13-18  Drifting clouds of gas or brine
+19-24  Gargantuan flora emerging from below
+25-30  Rain of sinking detritus
+31-36  Region of luminescent water
+37-42  Rising bubbles of air or gas
+43-48  Shafts of light
+49-82  Still, empty waters
+83-88  Submerged, floating terrain
+89-94  Towering geological formations
+95-100 Visible currents
+
+d100 Cursed Open Sea Feature
+1-20   Blood-stained water
+21-40  Eerie sounds
+41-60  Impassable darkness
+61-80  Monstrous, predatory flora or fauna
+81-100 Unnatural or erratic temperatures
+
+d100 Open Sea Peril
+1      >Anomaly; pg 194
+2-30   >Lurking Threat
+31-36  Dangerous sinking debris
+37-42  Equipment or ship suffers damage
+43-49  Hostile flora or fauna
+50-56  Led astray or lost the path
+57-63  Lost gear or provisions
+64-70  Restricted visibility
+71-76  Troubling visions or apparitions
+77-82  Violent currents
+83-91  >Action + Theme; pg 12
+92-100 Roll twice
+
+d100 Open Sea Opportunity
+1-20   Awe-inspiring natural feature
+21-40  Advance warning of a hazard
+41-60  Beneficial ocean currents
+61-80  Fauna show a way or offer inspiration
+81-100 Unusually clear view
+
+d100 Seabed Feature
+1-2    Abyssal trench
+3-4    Billowing hydrothermal vents
+5-6    Bioluminescent flora or fauna
+7-8    Bizarre symbiotic flora or fauna
+9-10   Bubbling cold seep
+11-12  Caves secluded amongst rocky crags
+13-14  Chasm lined with bioluminescent flora
+15-16  Cliff pockmarked by caves
+17-18  Cluster of small flora or fauna
+19-20  Clusters of pillow lava
+21-22  Complex reef of countless colors
+23-24  Crumbling rock faces
+25-26  Deep brine pools
+27-28  Drifting clouds of gas or brine
+29-30  Enormous seamount
+31-32  Exposed ore deposits
+33-34  Extensive and mountainous ridges
+35-36  Flooded lava tubes
+37-38  Fluorescent mineral deposits
+39-40  Glimmering particles
+41-42  Glowing lava flows
+43-44  Groves of shimmering flora
+45-46  Imposing algal bloom
+47-48  Isolated patches of lush flora
+49-50  Jagged spires
+51-52  Large deposits of mud
+53-54  Lithified sediments
+55-56  Looming cavemouth
+57-58  Mammoth reef
+59-60  Mass of brightly colored flora
+61-62  Narrow crevasses
+63-64  Natural arches
+65-66  Parade of fauna or flora
+67-68  Rain of sinking debris or detritus
+69-70  Region of luminescent water
+71-72  Rocky outcrops coated in sea-grass
+73-74  Rolling sand dunes
+75-76  Sea-grass glades
+77-78  Shifting dunes
+79-80  Sprawling brine rivers
+81-82  Submerged impact craters
+83-84  Submerged volcano
+85-86  Towering groves of kelp
+87-88  Towering, rocky columns
+89-90  Unnaturally large coral
+91-92  Valley enveloped by flora
+93-94  Vast cliff face or edge
+95-96  Vast sandy plateaus
+97-98  Winding undersea canyon
+99-100 Yawning sinkhole
+
+d100 Seabed Cursed Feature
+1-5    Bizarre mass of flora or fauna
+6-10   Blood-stained water
+11-15  Buried skeletal remains
+16-20  Coloration out of place in region
+21-25  Creature graveyard
+26-30  Dead or dying flora
+31-35  Diseased or corrupted flora
+36-40  Eerie sounds
+41-45  Electromagnetic interference
+46-50  mpassable darkness
+51-55  Irregular movements under sand
+56-60  Odd sand patterns
+61-65  Powerful seismic activity
+66-70  Remains of colossal creature
+71-75  Slowly descending brinicles
+76-80  Stagnant waters
+81-85  Sunken vessel or wreck
+86-90  Underwater vortex
+91-95  Unnatural or erratic temperatures
+96-100 Unnerving, shifting shadows
+
+d100 Seabed Peril
+1      >Anomaly; pg 194
+2-20   >Lurking Threat; pg 36
+21-24  Crumbling or collapsing terrain
+25-27  Dangerous sinking debris
+28-30  Dangerous spike in pressure
+31-34  Entangling flora
+35-38  Equipment or ship suffers damage
+39-42  Glimpses of a lurking creature
+43-46  Grueling waters or terrain tests endurance
+47-50  Hostile flora or fauna
+51-54  Led astray or lost the path
+55-58  Lost gear or provisions
+59-62  Restricted visibility
+63-66  Skillfully camouflaged predator
+67-69  Sucking chasm or sinkhole
+70-72  Toxic or corrosive waters
+73-75  Treacherous temperature fluctuations
+76-79  Vicious currents
+80-83  Violent whirlpool
+84-86  Volcanic upheaval
+87-88  Worrying arrival of a ship or vehicle
+89-94  >Action + Theme; pg 12
+95-100 Roll twice
+
+d100 Seabed Opportunity
+1-10   Abandoned or lost cargo
+11-20  Advance warning of a hazard
+21-30  Awe-inspiring natural feature
+31-40  Clear path through otherwise perilous  terrain
+41-50  Fauna show a way or offer inspiration
+51-60  Hint reveals a path or route forward
+61-70  Object of power or precious item
+71-80  Sheltered air pocket
+81-90  Unusually clear view
+91-100 Useful resource or provision
 
 PLANETS
 PLANETARY ATTRIBUTES
@@ -4075,12 +4384,12 @@ interacting with such a supercomputer can vary from case       2. A computer wil
 to case. However, per mankind's understanding, to access          are free from errors. However, if the brain is damaged,
 one of these supercomputer's interfaces you may have to...        dysfunctional, or only partially constructed, these
 *    Undertake an Expedition to...                                answers have a chance to be discovered as not entirely
-     » Reach its sanctum                                          precise later on in your campaign.
-     » Access a terminal inside its vast interior              3. Some answers provided by the computer may not
+     ï¿½ Reach its sanctum                                          precise later on in your campaign.
+     ï¿½ Access a terminal inside its vast interior              3. Some answers provided by the computer may not
      Establish remote communication from...                       initially make sense given the information you have at
 *                                                                 hand. Take note of the information you have managed
-     » A console far from the megastructure                       to uncover and implement this into the narrative at a
-     » Your ship through some special technology                  suitable point.
+     ï¿½ A console far from the megastructure                       to uncover and implement this into the narrative at a
+     ï¿½ Your ship through some special technology                  suitable point.
 Once you have access to the brain's interface, determine       4. The computer's disposition to answer is limited.
 how to use it through the narrative, either by accidental         When you ask the computer a question after the first
 discovery, by undertaking a research mission, or through          one, Ask the Oracle (50/50) if it provides an answer.
@@ -6161,11 +6470,11 @@ undertaking an expedition, follow these guidelines.
      Reference Guide, page 111, for a significant revelation, or
      the core oracles on page 12 for an abstract prompt. Here        The use of oracle arrays is explained in Chapter 5 of the
      are some examples:                                              Starforged rulebook on page 384.
-     » Action + Theme                                                When you are in an access zone leading to a megacity's interior,
-     » Action + Focus                                                do the following to prepare yourself for the use of the oracle
-     » Descriptor + Theme                                            arrays that can be found on page 174.
-     » Descriptor + Focus                                            *  Treat the megastructure as a derelict as indicated on page
-     » Action + Descriptor + Focus                                      350 of the Starforged rulebook. When navigating through
+     ï¿½ Action + Theme                                                When you are in an access zone leading to a megacity's interior,
+     ï¿½ Action + Focus                                                do the following to prepare yourself for the use of the oracle
+     ï¿½ Descriptor + Theme                                            arrays that can be found on page 174.
+     ï¿½ Descriptor + Focus                                            *  Treat the megastructure as a derelict as indicated on page
+     ï¿½ Action + Descriptor + Focus                                      350 of the Starforged rulebook. When navigating through
                                                                         the megacity, you will be prompted to roll for the derelict
 *    If the cipher is too complex to interpret, you may dedicate        zone. For this, reference the Settlement column on page
      time to gaining a deeper understanding of the clue it              351 of the Starforged rulebook or page 82 of the Starforged
@@ -7458,9 +7767,9 @@ these guidelines:                                                       making t
 * If a situation gives you the chance of finding an item by             (page 236). When doing so, pay the cost based on the rarity.
    making a move, you may do so. Then, roll on the Item Rarity          Rarity    Experience Cost          Wealth Cost
    table below. Examples of such cases are...
-   » Resupply with a strong hit with a match.                           Uncommon                 1                      2
-   » Explore a Waypoint and choosing to find an opportunity.            Notable                  2                      3
-   » MakeaDiscoveryandchoosingtofindadeviceorartifact.                  Rare                     3                      4
+   ï¿½ Resupply with a strong hit with a match.                           Uncommon                 1                      2
+   ï¿½ Explore a Waypoint and choosing to find an opportunity.            Notable                  2                      3
+   ï¿½ MakeaDiscoveryandchoosingtofindadeviceorartifact.                  Rare                     3                      4
 * Draw item cards from the deck until you get one with the              Exotic                   4                      5
    resulting rarity, or choose one as the narrative dictates.           Wealth might be obtained by Taking a Hiatus--a set of moves
    * Thelooteditemisinabrokenstateunlessyourollamatch                   on page 230--as well as by other means explained on page 28
@@ -8020,9 +8329,9 @@ resources or time are wasted; Sacrifice Resources (-1) or              additiona
 Lose Momentum (-2).                                                 * Undertake an Expedition from this haven: Add +1 and
 *    Heal and take an automatic strong hit.                            take +1 momentum on a hit.
 *    Hearten and take an automatic strong hit.                      *  Go to the haven by...
-*    Repair and take an automatic strong hit (in       the  field      » Returning to it in the middle of an expedition: Clear
+*    Repair and take an automatic strong hit (in       the  field      ï¿½ Returning to it in the middle of an expedition: Clear
      or underway).                                                     all progress after the haven
-On a miss, you take no respite. Pay the Price.                         » Starting a new expedition route: Set a Course and
+On a miss, you take no respite. Pay the Price.                         ï¿½ Starting a new expedition route: Set a Course and
                                                                        add +2
 Make this move to recover amid an isolated hazardous site.          On a weak hit, as above, but making this haven causes a
 When doing so, roll +supply and resolve the result as indicated     delay or setback. Choose one.

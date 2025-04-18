@@ -1,29 +1,27 @@
-# Text Manipulation Tips
+# Development Tips
+
+## Text Manipulation Tips
+
 Some small tips to manipulate the text
 
-# Foundry Tips
+### Utilities
 
-## Dice
-```
-Action Roll 2d10cs<(1d6 + mod)
-Progress Roll 2d10cs<(mod)
-```
-
-## Utilities
-```
+```bash
 pdftotext -table -nodiag Starsmith-Expanded-Oracles-Dec-17-22.pdf Starsmith-Expanded-Oracles-Dec-17-22-4.txt # export PDF text to text file
 jq -r '.items[] | {name,_id}' starsmith-expanded-oracles-export.json
 jq -r '.items[] | {name,_id} | join(", Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.")' starsmith-expanded-oracles-export.json
 jq -r '.items[] | "displayName: \'"+(.name)+" tables: Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable."+(._id)' starsmith-expanded-oracles-export.json
 
-	ironswornOracles.children[0].children.push({
-		displayName: 'Backstory Prompts (1 - 2)',
-		tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.bROdhxvU3ConRO7w'],
-		children: []
-	})
+ironswornOracles.children[0].children.push({
+  displayName: 'Backstory Prompts (1 - 2)',
+  tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.bROdhxvU3ConRO7w'],
+  children: []
+})
 ```
-## VIM Tips
-```
+
+### VIM Tips
+
+```VIM
 :g/^\s*$/d # Remove blank space
 :%s/\s\+$//e # Remove trailing blanks
 ggVG :left # Remove leading blanks
@@ -43,10 +41,14 @@ guu # make entire line lowercase
 gUU # make entire line uppercase
 :s/\<./\u&/g # capitalize each word of a line
 . repeat last command
+vg_x # delete from here to last character but leave the newline
 ```
 
-## Notes for Github workflows
-```
+## Build Tips
+
+### Notes for Github workflows
+
+```YAML
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -80,8 +82,6 @@ jobs:
           body: "Changelog: https://github.com/jendave/starsmith-expanded-oracles/blob/develop/CHANGELOG.md#${{steps.substitute_tag.outputs.value}}---${{steps.date.outputs.date}}"
           omitDraftDuringUpdate: true
           omitPrereleaseDuringUpdate: true
-
-
 
 name: Release Creation
 
@@ -123,4 +123,13 @@ jobs:
           artifacts: "./module.json, ./module.zip"
           tag: ${{ github.event.release.tag_name }}
           body: ${{ github.event.release.body }}
+```
+
+## Foundry Tips
+
+### Dice
+
+```Foundry
+Action Roll 2d10cs<(1d6 + mod)
+Progress Roll 2d10cs<(mod)
 ```
