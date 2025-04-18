@@ -1970,8 +1970,8 @@ d100 Seabed Opportunity
 81-90  Unusually clear view
 91-100 Useful resource or provision
 
-PLANETS
-PLANETARY ATTRIBUTES
+Planets
+Planetary Attributes
 Use this oracle to define the main attributes of a planetary body. Once you       WORLD SIZE SPECIFICATION
 roll for the world size, roll its density to determine the gravity.               Use this table if you want to specify the size
                                                                                   of a world. The result are represented in
