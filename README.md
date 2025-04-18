@@ -72,11 +72,9 @@ The Oracles will be available in the Character sheet under `Custom Oracles`.
 
 ## Credits
 
-[Ancient Wonders](https://www.drivethrurpg.com/en/product/505365/ancient-wonders) by [Ludic Pen](https://www.ludicpen.com/) is used with permission from the author.
+[Ancient Wonders](https://www.drivethrurpg.com/en/product/505365/ancient-wonders) content by [Ludic Pen](https://www.ludicpen.com/) is used with permission from the author.
 
 Module macro code by David Hudson and licensed for use under the [CC BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-Licenses and permissions for the macros are listed in the source code.
 
 ## Acknowledgements
 
