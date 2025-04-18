@@ -3,7 +3,6 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/jendave/ancient-wonders/total)
 [![Latest Version](https://img.shields.io/github/v/release/jendave/ancient-wonders?display_name=tag&sort=semver&label=Latest%20Version)](https://github.com/jendave/ancient-wonders/releases/latest)
 ![Foundry Version](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjendave%2Fancient-wonders%2Fmain%2Fmodule.json)
-[![License](https://img.shields.io/github/license/jendave/ancient-wonders)](LICENSE)
 
 ## About
 
