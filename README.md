@@ -12,6 +12,7 @@ FoundryVTT compendiums for [Ancient Wonders](https://www.drivethrurpg.com/en/pro
 *Ancient Wonders* can also be found at the following links:
 
 * [Drive Thru RPG](https://www.drivethrurpg.com/en/product/505365/ancient-wonders)
+* [Itch.io](https://ludicpen.itch.io/)
 
 ## Features and Notes
 
