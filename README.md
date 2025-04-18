@@ -14,6 +14,8 @@ FoundryVTT compendiums for [Ancient Wonders](https://www.drivethrurpg.com/en/pro
 * [Drive Thru RPG](https://www.drivethrurpg.com/en/product/505365/ancient-wonders)
 * [Itch.io](https://ludicpen.itch.io/)
 
+Please consider joining their [Patreon](https://www.patreon.com/ludicpen/) and [Discord](https://discord.gg/v5j54wsJC6) server for much more content.
+
 ## Features and Notes
 
 ### The Wondrous Side of the Galaxy Awaits
