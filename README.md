@@ -51,11 +51,11 @@ Macros for the expansion can be found in the `Ancient Wonders Macros` compendium
 
 Open the `Ancient Wonders Rolltables` compendium and copy the folders into the `Rollable Tables` `Custom Oracles` folder.
 
-![Rollable Tables - Custom Oracles](https://github.com/jendave/ancient-wonders/blob/main/docs/custom-oracles-rollable-tables.jpg?raw=true)
+![Rollable Tables - Ancient Wonders Oracles](https://github.com/jendave/ancient-wonders/blob/main/docs/ancient-wonders-oracles-rollable-tables.jpg?raw=true)
 
 The Oracles will be available in the Character sheet under `Custom Oracles`.
 
-![Character Sheet - Custom Oracles](https://github.com/jendave/ancient-wonders/blob/main/docs/custom-oracles-character-sheet.jpg?raw=true)
+![Character Sheet - Ancient Wonders Oracles](https://github.com/jendave/ancient-wonders/blob/main/docs/ancient-wonders-oracles-character-sheet.jpg?raw=true)
 
 ## Contact
 
