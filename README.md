@@ -10,7 +10,7 @@ WORK IN PROGRESS - This module is currently unfinished and does not yet contain 
 
 FoundryVTT compendiums for [Ancient Wonders](https://www.drivethrurpg.com/en/product/505365/ancient-wonders) by [Ludic Pen](https://www.ludicpen.com/).
 
-*Ancient Wonders* can also be found at the following links:
+*Ancient Wonders* can be found at the following links:
 
 * [Drive Thru RPG](https://www.drivethrurpg.com/en/product/505365/ancient-wonders)
 * [Itch.io](https://ludicpen.itch.io/)
