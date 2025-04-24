@@ -86,6 +86,10 @@ The following modules were used in the development process
 
 * [DF Manual Rolls](https://foundryvtt.com/packages/df-manual-rolls)
 
+### Utilities
+
+* Interested in more [Ancient Wonders](https://www.drivethrurpg.com/en/product/505365/ancient-wonders) generation tools? Check out [robogeek78](https://github.com/robogeek78)'s [Ancient Wonders System Generator](https://github.com/robogeek78/awGenerator).
+
 ## FoundryVTT Modules and Other Resources
 
 Please check out my other modules and resources for Ironsworn, Ironsworn: Starforged and other systems.
