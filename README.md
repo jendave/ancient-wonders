@@ -10,6 +10,8 @@ WORK IN PROGRESS - This module is currently unfinished and does not yet contain 
 
 FoundryVTT compendiums for [Ancient Wonders](https://www.drivethrurpg.com/en/product/505365/ancient-wonders) by [Ludic Pen](https://www.ludicpen.com/).
 
+*Ancient Wonders* is a third-party expansion for Starforged with great system-agnostic compatibility.
+
 *Ancient Wonders* can be found at the following links:
 
 * [Drive Thru RPG](https://www.drivethrurpg.com/en/product/505365/ancient-wonders)
@@ -82,7 +84,6 @@ Module macro code by David Hudson and licensed for use under the [CC BY-NC-SA 4.
 
 The following modules were used in the development process
 
-* [foundryvtt-importer module](https://github.com/EthanJWright/foundryvtt-importer)
 * [DF Manual Rolls](https://foundryvtt.com/packages/df-manual-rolls)
 
 ## FoundryVTT Modules and Other Resources
