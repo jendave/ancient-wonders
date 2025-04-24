@@ -1,6 +1,6 @@
 # Changelog
 
-[Ancient Wonders](https://foundryvtt.com/packages/ancient-wonders)
+[Ancient Wonders for FoundryVTT](https://foundryvtt.com/packages/ancient-wonders)
 
 ## [0.0.2](https://github.com/jendave/ancient-wonders/commits/main) (2025-04-23)
 
