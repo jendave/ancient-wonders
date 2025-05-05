@@ -24,19 +24,22 @@
       "name": "ancientwondersassets",
       "label": "Ancient Wonders Assets",
       "path": "./packs/ancient-wonders-assets",
-      "type": "Item"
+      "type": "Item",
+      "system": "foundry-ironsworn"
     },
     {
       "name": "ancientwondersmacros",
       "label": "Ancient Wonders Macros",
       "path": "./packs/ancient-wonders-macros",
-      "type": "Macro"
+      "type": "Macro",
+      "system": "foundry-ironsworn"
     },
     {
       "name": "ancientwondersmoves",
       "label": "Ancient Wonders Moves",
       "path": "./packs/ancient-wonders-moves",
-      "type": "Item"
+      "type": "Item",
+      "system": "foundry-ironsworn"
     },
     {
       "name": "ancientwondersoracles",
