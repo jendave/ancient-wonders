@@ -21,24 +21,38 @@
   ],
   "packs": [
     {
-      "name": "ancientwondersoracles",
-      "label": "Ancient Wonders Oracles",
-      "path": "./packs/ancient-wonders-oracles",
-      "type": "RollTable"
+      "name": "ancientwondersassets",
+      "label": "Ancient Wonders Assets",
+      "path": "./packs/ancient-wonders-assets",
+      "type": "Item"
     },
     {
       "name": "ancientwondersmacros",
       "label": "Ancient Wonders Macros",
       "path": "./packs/ancient-wonders-macros",
       "type": "Macro"
+    },
+    {
+      "name": "ancientwondersmoves",
+      "label": "Ancient Wonders Moves",
+      "path": "./packs/ancient-wonders-moves",
+      "type": "Item"
+    },
+    {
+      "name": "ancientwondersoracles",
+      "label": "Ancient Wonders Oracles",
+      "path": "./packs/ancient-wonders-oracles",
+      "type": "RollTable"
     }
   ],
   "packFolders": [
     {
       "name": "Ancient Wonders",
       "packs": [
-        "ancientwondersoracles",
-        "ancientwondersmacros"
+        "ancientwondersassets",
+        "ancientwondersmoves",
+        "ancientwondersmacros",
+        "ancientwondersoracles"
       ]
     }
   ],
