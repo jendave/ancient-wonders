@@ -2,6 +2,10 @@
 
 [Ancient Wonders for FoundryVTT](https://foundryvtt.com/packages/ancient-wonders)
 
+## [0.0.6](https://github.com/jendave/ancient-wonders/commits/main) (2025-05-07)
+
+* Added Moves and the *Delver* path asset from the *Additional Moves* chapter.
+
 ## [0.0.5](https://github.com/jendave/ancient-wonders/commits/main) (2025-05-05)
 
 * Rough draft of all oracles from the *Denizens and Phenomena* and *Item Assets* chapters.

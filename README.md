@@ -80,6 +80,10 @@ Module macro code by David Hudson and licensed for use under the [CC BY-NC-SA 4.
 
 ## Acknowledgements
 
+Created for the incredible [Ironsworn and Ironsworn: Starforged](https://tomkinpress.com/) family of games.
+
+[Moves from *Learning From Your Failures in Starforged*](https://tomkinpress.com/blogs/news/learn-from-your-failures-in-starforged) by [Shawn Tomkin](https://tomkinpress.com/) is licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
+
 ### Modules
 
 The following modules were used in the development process
