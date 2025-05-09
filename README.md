@@ -45,23 +45,35 @@ Open the `Ancient Wonders Oracles` compendium and copy the folders to the `Rolla
 
 Macros for the expansion can be found in the `Ancient Wonders Macros` compendium. Drag and drop any you need into the macro toolbar. Macros use the current `Roll Mode` when executed.
 
-### Ironsworn/Starforged Tip - Use Custom Folders to add Character Sheet Oracles
+### Ironsworn/Starforged Tip - Use Custom Folders to add Oracles, Assets and Moves to the Character Sheet
 
-* Use this method to add the Ancient Wonders kit.
-* If it does not already exist, create a `Custom Oracles` folder in `Rollable Tables` tab called:
-  * `Custom Oracles` - EN
-  * `Oráculos personalizados` - ES
-  * `Oracles personnalisés` - FR
-  * `Własne Wyrocznie` - PL
-  * `Свои оракулы` - RU
-
-Open the `Ancient Wonders Rolltables` compendium and copy the folders into the `Rollable Tables` `Custom Oracles` folder.
-
-![Rollable Tables - Ancient Wonders Oracles](https://github.com/jendave/ancient-wonders/blob/main/docs/ancient-wonders-oracles-rollable-tables.jpg?raw=true)
-
-The Oracles will be available in the Character sheet under `Custom Oracles`.
-
-![Character Sheet - Ancient Wonders Oracles](https://github.com/jendave/ancient-wonders/blob/main/docs/ancient-wonders-oracles-character-sheet.jpg?raw=true)
+* Use the following method to integrate the `Ancient Wonders Rolltables` into the character sheet.
+  * If it does not already exist, create a `Custom Oracles` folder in `Rollable Tables` tab called:
+    * `Custom Oracles` - EN
+    * `Oráculos personalizados` - ES
+    * `Oracles personnalisés` - FR
+    * `Własne Wyrocznie` - PL
+    * `Свои оракулы` - RU
+  * Open the `Ancient Wonders Rolltables` compendium and copy the folders into the `Rollable Tables` `Custom Oracles` folder.
+  * ![Rollable Tables - Ancient Wonders Oracles](https://github.com/jendave/ancient-wonders/blob/main/docs/ancient-wonders-oracles-rollable-tables.jpg?raw=true)
+  * The Oracles will be available in the Character sheet under `Custom Oracles`.
+  * ![Character Sheet - Ancient Wonders Oracles](https://github.com/jendave/ancient-wonders/blob/main/docs/ancient-wonders-oracles-character-sheet.jpg?raw=true)
+* Use the following method to integrate the `Ancient Wonders Assets` into the character sheet.
+  * Create a `Custom Assets` folder in the `Items` tab called:
+    * `Custom Assets` - EN
+    * `Recursos Personalizados` - ES
+    * `Ressources personnalisées` - FR
+    * `Własne Aspekty` - PL
+  * Open the `Ancient Wonders Assets` compendium and copy the Items into the `Items` `Custom Assets` folder.
+  * The Assets will be available in the Character sheet under `Custom Assets`.
+* Use the following method to integrate the `Ancient Wonders Moves` into the character sheet.
+  * Create a `Custom Moves` folder in the `Items` tab called:
+    * `Custom Moves` - EN
+    * `Movimientos personalizados` - ES
+    * `Actions personnalisées` - FR
+    * `Własne Ruchy` - PL
+  * Open the `Ancient Wonders Moves` compendium and copy the Items into the `Items` `Custom Moves` folder.
+  * The Moves will be available in the Character sheet under `Custom Moves`.
 
 ## Contact
 
