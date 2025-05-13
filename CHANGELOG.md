@@ -2,6 +2,10 @@
 
 [Ancient Wonders for FoundryVTT](https://foundryvtt.com/packages/ancient-wonders)
 
+## [0.0.8](https://github.com/jendave/ancient-wonders/commits/main) (2025-05-12)
+
+* Added Assets from the *Item Assets* chapter.
+
 ## [0.0.7](https://github.com/jendave/ancient-wonders/commits/main) (2025-05-09)
 
 * Added Assets from the *Special Companions Assets* chapter.
