@@ -27,8 +27,8 @@ async function rollOracle(tableID) {
     return result;
 };
 
-let title = "<h3><strong>Oracle Quest - Unidentified Megastructure</strong></h3>";
-let message = "Rumors extolling the discovery of a new type of megastructure have begun to circulate. A " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.xuVdvN3Ty9VMqk1P") + " guild, warning that its sector is believed to be infested with a " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.gC1wOR7TWK5UnHnD") + " creature, commissioned delvers to locate the site, learn its purpose, and return with this knowledge. While many have accepted the task, only the first to return will be rewarded. Why does this guild have an interest in this information? How will you ensure you are the first delver to return?"
+let title = "<h3><strong>Oracle Quest - Asteroid Processor</strong></h3>";
+let message = "A " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.mEWovsWhwKc4EYn4") + " settlement has been growing increasingly concerned by the presence of a nearby asteroid processor. Not only has it been stripping the system of resources they rely on, but it has also destroyed a " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.k7Dk6GrZu3lIwLTP") + " starship deemed invaluable to their people, as well as " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.b347a87fb81a3abb") + " " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.0c5ce82c7adbb4e2") + ". The people of the settlement wish to prevent any further calamities and are requesting aid in doing so. How do you intend to help the settlement? What obstacles do you envision facing?"
 
 // Print the message
 printMessage(title + message);
