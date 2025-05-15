@@ -7,12 +7,18 @@ async function printMessage(message) {
 };
 
 async function rollOracle(tableID) {
-    const table = await fromUuid(tableID);
+    let table = await fromUuid(tableID);
     let roll = await table.roll();
-    let result = roll.results[0].text.toLowerCase();
+    let result = roll.results[0].text;
 
-    if (result == "roll twice") {
-        let results = ["roll twice", "roll twice"];
+    if (result.startsWith("@Compendium")) {
+        table = await fromUuid(result.slice(1).replace("[", ".").split("]")[0]);
+        roll = await table.roll();
+        result = roll.results[0].text;
+    }
+
+    if (result == "Roll twice") {
+        let results = ["Roll twice", "Roll twice"];
         for (let index = 0; index < results.length; index++) {
             let element = results[index];
             do {
@@ -24,7 +30,7 @@ async function rollOracle(tableID) {
         };
         result = results[0] + " and " + results[1];
     }
-    return result;
+    return result.toLowerCase();
 };
 
 let title = "<h3><strong>Oracle Quest - Atmosphere Harvester</strong></h3>";

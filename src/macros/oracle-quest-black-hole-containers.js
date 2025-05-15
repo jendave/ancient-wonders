@@ -33,8 +33,8 @@ async function rollOracle(tableID) {
     return result.toLowerCase();
 };
 
-let title = "<h3><strong>Oracle Quest - Unidentified Megastructure</strong></h3>";
-let message = "Rumors extolling the discovery of a new type of megastructure have begun to circulate. A " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.xuVdvN3Ty9VMqk1P") + " guild, warning that its sector is believed to be infested with a " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.gC1wOR7TWK5UnHnD") + " creature, commissioned delvers to locate the site, learn its purpose, and return with this knowledge. While many have accepted the task, only the first to return will be rewarded. Why does this guild have an interest in this information? How will you ensure you are the first delver to return?"
+let title = "<h3><strong>Oracle Quest - Black Hole Containers</strong></h3>";
+let message = "Following the discovery of a black hole container, multiple " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.165pYBMpRkAewRXO") + " have dispatched colonists to establish a " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.mEWovsWhwKc4EYn4") + " settlement. Tensions have risen between the groups as their reasons for migrating differ, ultimately leading each community to " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.b347a87fb81a3abb") + " " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.0c5ce82c7adbb4e2") + ". Why does each faction wish to colonize the sector? How will you prevent tensions from escalating further?"
 
 // Print the message
 printMessage(title + message);

@@ -33,8 +33,8 @@ async function rollOracle(tableID) {
     return result.toLowerCase();
 };
 
-let title = "<h3><strong>Oracle Quest - Unidentified Megastructure</strong></h3>";
-let message = "Rumors extolling the discovery of a new type of megastructure have begun to circulate. A " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.xuVdvN3Ty9VMqk1P") + " guild, warning that its sector is believed to be infested with a " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.gC1wOR7TWK5UnHnD") + " creature, commissioned delvers to locate the site, learn its purpose, and return with this knowledge. While many have accepted the task, only the first to return will be rewarded. Why does this guild have an interest in this information? How will you ensure you are the first delver to return?"
+let title = "<h3><strong>Oracle Quest - Celestial Brains</strong></h3>";
+let message = "Thanks to a recently completed study by xenoarcheologists of a " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.e2bae1632870e2d2") + " " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.TfBWJ7oJW2ASVapV") + ", the scholars have learned that the finding was an integral part of a Jupiter brain located in a distant solar system. Following this discovery, a dangerous and recently declared rebellious " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.165pYBMpRkAewRXO") + " has made it their goal to seize this part, and with it try to corrupt the megastructure to further their interests. What does this faction seek to achieve? How do you plan to stop them?"
 
 // Print the message
 printMessage(title + message);
