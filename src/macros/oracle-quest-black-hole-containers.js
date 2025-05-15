@@ -6,7 +6,7 @@ async function printMessage(message) {
     ChatMessage.create(chatData, {})
 };
 
-async function rollOracle(tableID) {
+async function rollOracle(tableID, lowerCase = true) {
     let table = await fromUuid(tableID);
     let roll = await table.roll();
     let result = roll.results[0].text;
@@ -30,7 +30,7 @@ async function rollOracle(tableID) {
         };
         result = results[0] + " and " + results[1];
     }
-    return result.toLowerCase();
+    return lowerCase ? result.toLowerCase() : result;
 };
 
 let title = "<h3><strong>Oracle Quest - Black Hole Containers</strong></h3>";

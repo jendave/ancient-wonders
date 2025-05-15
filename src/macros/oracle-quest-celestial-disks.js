@@ -33,8 +33,8 @@ async function rollOracle(tableID, lowerCase = true) {
     return lowerCase ? result.toLowerCase() : result;
 };
 
-let title = "<h3><strong>Oracle Quest - Unidentified Megastructure</strong></h3>";
-let message = "Rumors extolling the discovery of a new type of megastructure have begun to circulate. A " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.xuVdvN3Ty9VMqk1P") + " guild, warning that its sector is believed to be infested with a " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.gC1wOR7TWK5UnHnD") + " creature, commissioned delvers to locate the site, learn its purpose, and return with this knowledge. While many have accepted the task, only the first to return will be rewarded. Why does this guild have an interest in this information? How will you ensure you are the first delver to return?"
+let title = "<h3><strong>Oracle Quest - Celestial Brains</strong></h3>";
+let message = "A small coalition of " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.165pYBMpRkAewRXO") + " has requested an experienced explorer to travel to " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.d8nxfjEwpZ4DCScn", false) + " " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.lhIPvD5N7mSwFba8", false) + " to collect data on a disk. They warn that all previous attempts have been thwarted by previously unknown " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.l5K7B1gGYVnHyE8w") + ". Why is the fringe group stopping the collection of this information? How do you envision performing research over such a vast surface?"
 
 // Print the message
 printMessage(title + message);
