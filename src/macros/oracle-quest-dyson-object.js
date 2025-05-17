@@ -34,6 +34,8 @@ async function rollOracle(tableID, lowerCase = true) {
 };
 
 let title = "<h3><strong>Oracle Quest - Dyson Object</strong></h3>";
+
+// TODO: Black Hole requires a reroll
 let message = "The " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.mEWovsWhwKc4EYn4") + " settlement at which you are sojourning is close to running out of viable power sources. Recently, the people have discovered an ancient satellite drifting through deep space carrying a precursor power cell. They have surmised that the solar systems " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.YMoCmvxHxCsuyJGs") + " must be orbited by a Dyson swarm. They have requested your aid in helping them obtain these power sources to alleviate the current crisis. How many precursor power cells does the settlement need? How do you envision obtaining and transporting them back safely?"
 
 // Print the message

@@ -33,8 +33,9 @@ async function rollOracle(tableID, lowerCase = true) {
     return lowerCase ? result.toLowerCase() : result;
 };
 
-let title = "<h3><strong>Oracle Quest - Celestial Weapons</strong></h3>";
-let message = "After discovering a celestial weapon, tensions between two disparate " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.8BmSiD90JCXqcvt6") + " and " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.8BmSiD90JCXqcvt6") + " dominions embroiled in a cold war have escalated. Each outwardly claims they have no interest in attempting to control or use the megastructure to " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.b347a87fb81a3abb") + " " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.0c5ce82c7adbb4e2") + ". It has recently been uncovered that a schism within one of the dominions has occurred, resulting in the establishment of a new " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.l5K7B1gGYVnHyE8w") + " fringe group that reaches out to you specifically for help. What caused the schism within the dominion? Why did the fringe group reach out to you specifically?"
+let title = "<h3><strong>Oracle Quest - Ecopoiesis Array</strong></h3>";
+
+let message = "A " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.165pYBMpRkAewRXO") + " faction is requesting delvers to aid their " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.mEWovsWhwKc4EYn4") + " settlement, which is located on a planet with an offline ecopoiesis array. They need to " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.b347a87fb81a3abb") + " " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.0c5ce82c7adbb4e2") + ", and this will only be possible by reactivating the megastructure to manipulate the planet's atmosphere and biosphere. What goal is the faction looking to achieve? How can manipulating the planet's environment achieve this goal?"
 
 // Print the message
 printMessage(title + message);
