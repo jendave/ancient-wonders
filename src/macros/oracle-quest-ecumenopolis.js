@@ -33,8 +33,8 @@ async function rollOracle(tableID, lowerCase = true) {
     return lowerCase ? result.toLowerCase() : result;
 };
 
-let title = "<h3><strong>Oracle Quest - Ecopoiesis Array</strong></h3>";
-let message = "A " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.165pYBMpRkAewRXO") + " faction is requesting delvers to aid their " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.mEWovsWhwKc4EYn4") + " settlement, which is located on a planet with an offline ecopoiesis array. They need to " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.b347a87fb81a3abb") + " " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.0c5ce82c7adbb4e2") + ", and this will only be possible by reactivating the megastructure to manipulate the planet's atmosphere and biosphere. What goal is the faction looking to achieve? How can manipulating the planet's environment achieve this goal?"
+let title = "<h3><strong>Oracle Quest - Ecumenopolis</strong></h3>";
+let message = "A " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.k7Dk6GrZu3lIwLTP") + " starship in orbit of an ecumenopolis makes contact and requests your help in finding a group of missing delvers. They had advised the party to descend into the megastructure hours prior, and the team eventually reported finding " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.e2bae1632870e2d2") + " " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.TfBWJ7oJW2ASVapV") + ". The delvers have not been heard from since. What did their group find within the ecumenopolis? What happened to the delvers?"
 
 // Print the message
 printMessage(title + message);

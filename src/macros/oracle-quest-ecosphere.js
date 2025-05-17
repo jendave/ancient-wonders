@@ -33,8 +33,8 @@ async function rollOracle(tableID, lowerCase = true) {
     return lowerCase ? result.toLowerCase() : result;
 };
 
-let title = "<h3><strong>Oracle Quest - Ecopoiesis Array</strong></h3>";
-let message = "A " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.165pYBMpRkAewRXO") + " faction is requesting delvers to aid their " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.mEWovsWhwKc4EYn4") + " settlement, which is located on a planet with an offline ecopoiesis array. They need to " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.b347a87fb81a3abb") + " " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.0c5ce82c7adbb4e2") + ", and this will only be possible by reactivating the megastructure to manipulate the planet's atmosphere and biosphere. What goal is the faction looking to achieve? How can manipulating the planet's environment achieve this goal?"
+let title = "<h3><strong>Oracle Quest - Ecosphere</strong></h3>";
+let message = "A " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.165pYBMpRkAewRXO") + " faction has been attempting to " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.b347a87fb81a3abb") + " " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.0c5ce82c7adbb4e2") + ", and has commissioned you to enter a nearby Ecosphere researching " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.ZNzgt2z4xAT8A7sP") + " to locate and bring a " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.e2bae1632870e2d2") + " " + await rollOracle("Compendium.ancient-wonders.ancientwondersoracles.RollTable.TfBWJ7oJW2ASVapV") + " to them. They believe it to be vital to their efforts. How do you envision this helping them to achieve their goal? What other motives, if any, could they have for obtaining it?"
 
 // Print the message
 printMessage(title + message);
