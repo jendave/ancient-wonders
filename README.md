@@ -6,8 +6,6 @@
 
 ## About
 
-WORK IN PROGRESS - This module is currently unfinished and does not yet contain all of the rolltables from [Ancient Wonders](https://www.drivethrurpg.com/en/product/505365/ancient-wonders).
-
 FoundryVTT compendiums for [Ancient Wonders](https://www.drivethrurpg.com/en/product/505365/ancient-wonders) by [Ludic Pen](https://www.ludicpen.com/).
 
 *Ancient Wonders* is a third-party expansion for Starforged with great system-agnostic compatibility.
@@ -25,7 +23,7 @@ Please consider joining their [Patreon](https://www.patreon.com/ludicpen/) and [
 
 * *Ancient Wonders* is the biggest third-party expansion for Starforged to date with great system-agnostic compatibility. It provides you with all you need to explore the galaxy in a way that has never been done before, with generators for solar systems, planets, alien megastructures, megacities, and hazardous, otherworldly encounters; all with new mechanics to deepen and twist your adventuring endeavors.
 * *Ancient Wonders* is modular: each chapter is independent of each other. You can take whichever you like from the supplement as a standalone expansion. Most are system-agnostic.
-* The FoundryVTT module includes roll tables and macros for the tables in the expansion.
+* The FoundryVTT module includes roll tables, items, moves and macros in the expansion.
 
 ## Module Installation
 
