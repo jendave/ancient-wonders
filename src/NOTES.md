@@ -132,4 +132,9 @@ jobs:
 ```Foundry
 Action Roll 2d10cs<(1d6 + mod)
 Progress Roll 2d10cs<(mod)
+
+Make macro
+
+CONFIG.debug.hooks = !CONFIG.debug.hooks
+console.warn("Set Hook Debugging to", CONFIG.debug.hooks)
 ```
