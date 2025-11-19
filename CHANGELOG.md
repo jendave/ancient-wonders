@@ -2,6 +2,10 @@
 
 [Ancient Wonders for FoundryVTT](https://foundryvtt.com/packages/ancient-wonders)
 
+## [1.0.1](https://github.com/jendave/ancient-wonders/blob/main/CHANGELOG.md) (2025-11-18)
+
+* Requires v13.
+
 ## [1.0.0](https://github.com/jendave/ancient-wonders/blob/main/CHANGELOG.md) (2025-05-20)
 
 * Added Oracle Quest macros from the *Alien Megastructures* chapter.
