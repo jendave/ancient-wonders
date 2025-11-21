@@ -1,12 +1,15 @@
-2025/05/16-10:11:53.479027 3137e8000 Recovering log #167
-2025/05/16-10:11:53.480725 3137e8000 Level-0 table #169: started
-2025/05/16-10:11:53.481494 3137e8000 Level-0 table #169: 44456 bytes OK
-2025/05/16-10:11:53.482054 3137e8000 Delete type=0 #167
-2025/05/16-10:11:53.483113 3137e8000 Delete type=3 #166
-2025/05/16-10:11:54.027967 30de58000 Moved #169 to level-1 44456 bytes OK: files[ 0 1 1 0 0 0 0 ]
-2025/05/16-10:11:54.028733 30de58000 Compacting 1@1 + 1@2 files
-2025/05/16-10:11:54.038249 30de58000 Generated table #171@1: 6104 keys, 703322 bytes
-2025/05/16-10:11:54.038269 30de58000 Compacted 1@1 + 1@2 files => 703322 bytes
-2025/05/16-10:11:54.038472 30de58000 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/05/16-10:11:54.038574 30de58000 Delete type=2 #165
-2025/05/16-10:11:54.038863 30de58000 Delete type=2 #169
+2025/11/19-19:27:29.439485 1716bf000 Recovering log #180
+2025/11/19-19:27:29.440069 1716bf000 Delete type=0 #180
+2025/11/19-19:27:29.440131 1716bf000 Delete type=3 #176
+2025/11/20-21:36:07.969040 171fe3000 Level-0 table #186: started
+2025/11/20-21:36:07.969960 171fe3000 Level-0 table #186: 49619 bytes OK
+2025/11/20-21:36:07.970444 171fe3000 Delete type=0 #184
+2025/11/20-21:36:07.972272 171fe3000 Manual compaction at level-0 from '!folders!0JRiZnm539EkbEnA' @ 72057594037927935 : 1 .. '!tables.results!zyhn4G8Ptvjj6bwM.cb090b04be41e10a' @ 0 : 0; will stop at (end)
+2025/11/20-21:36:07.972308 171fe3000 Manual compaction at level-1 from '!folders!0JRiZnm539EkbEnA' @ 72057594037927935 : 1 .. '!tables.results!zyhn4G8Ptvjj6bwM.cb090b04be41e10a' @ 0 : 0; will stop at '!tables.results!zrvzGFkKN01vGr04.x1imexsK1zFMdqv7' @ 14415 : 1
+2025/11/20-21:36:07.972313 171fe3000 Compacting 1@1 + 1@2 files
+2025/11/20-21:36:07.981958 171fe3000 Generated table #187@1: 6331 keys, 909668 bytes
+2025/11/20-21:36:07.981968 171fe3000 Compacted 1@1 + 1@2 files => 909668 bytes
+2025/11/20-21:36:07.982023 171fe3000 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/20-21:36:07.982068 171fe3000 Delete type=2 #182
+2025/11/20-21:36:07.982454 171fe3000 Delete type=2 #186
+2025/11/20-21:36:07.983799 171fe3000 Manual compaction at level-1 from '!tables.results!zrvzGFkKN01vGr04.x1imexsK1zFMdqv7' @ 14415 : 1 .. '!tables.results!zyhn4G8Ptvjj6bwM.cb090b04be41e10a' @ 0 : 0; will stop at (end)

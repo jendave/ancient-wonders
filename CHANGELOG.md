@@ -2,6 +2,11 @@
 
 [Ancient Wonders for FoundryVTT](https://foundryvtt.com/packages/ancient-wonders)
 
+## [1.1.0](https://github.com/jendave/ancient-wonders/blob/main/CHANGELOG.md) (2025-11-21)
+
+* Remediated errata from 16-OCT-2025 PDF update.
+* Added missing Furnace World tables.
+
 ## [1.0.1](https://github.com/jendave/ancient-wonders/blob/main/CHANGELOG.md) (2025-11-18)
 
 * Requires v13.
