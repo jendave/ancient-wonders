@@ -94,6 +94,8 @@ Created for the incredible [Ironsworn and Ironsworn: Starforged](https://tomkinp
 
 [Moves from *Learning From Your Failures in Starforged*](https://tomkinpress.com/blogs/news/learn-from-your-failures-in-starforged) by [Shawn Tomkin](https://tomkinpress.com/) is licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
+[game-icons.net](https://game-icons.net/) are licensed under the [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/).
+
 ### Modules
 
 The following modules were used in the development process
