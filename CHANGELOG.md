@@ -2,6 +2,10 @@
 
 [Ancient Wonders for FoundryVTT](https://foundryvtt.com/packages/ancient-wonders)
 
+## [1.1.2](https://github.com/jendave/ancient-wonders/blob/main/CHANGELOG.md) (2026-01-15)
+
+* Added scene background from  from [mkalus](https://github.com/mkalus).
+
 ## [1.1.1](https://github.com/jendave/ancient-wonders/blob/main/CHANGELOG.md) (2025-11-29)
 
 * Added icons from [game-icons.net](https://game-icons.net/) to Ancient Wonders assets.
