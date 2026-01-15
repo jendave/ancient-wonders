@@ -75,10 +75,13 @@ Macros for the expansion can be found in the `Ancient Wonders Macros` compendium
 
 ### Planetary Sector Scene
 
-In the scenes folder, you can find a scene background for a planetary system. It contains orbits and a marker of the
-sun's location. In the scene configuration, set the grid to the following settings:
+The /scenes folder contains a scene background for a planetary system. It contains orbits and a marker of the sun's location.
 
-![Scene Grid Settings - Ancient Wonders](docs/ancient-wonders-scene-grid-settings.jpg)
+![scene background](https://github.com/jendave/ancient-wonders/blob/main/scenes/planetary_system.webp?raw=true)
+
+In the scene configuration dialog, set the grid to the following settings:
+
+![Scene Grid Settings - Ancient Wonders](https://github.com/jendave/ancient-wonders/blob/main/docs/ancient-wonders-scene-grid-settings.jpg?raw=true)
 
 * Grid Type: Hexagonal Rows - Odd
 * Grid Size: 140
