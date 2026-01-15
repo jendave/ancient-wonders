@@ -73,6 +73,18 @@ Macros for the expansion can be found in the `Ancient Wonders Macros` compendium
   * Open the `Ancient Wonders Moves` compendium and copy the Items into the `Items` `Custom Moves` folder.
   * The Moves will be available in the Character sheet under `Custom Moves`.
 
+### Planetary Sector Scene
+
+In the scenes folder, you can find a scene background for a planetary system. It contains orbits and a marker of the
+sun's location. In the scene configuration, set the grid to the following settings:
+
+![Scene Grid Settings - Ancient Wonders](docs/ancient-wonders-scene-grid-settings.jpg)
+
+* Grid Type: Hexagonal Rows - Odd
+* Grid Size: 140
+* Grid Color: #ffffff
+* Grid Opacity: 0.35
+
 ## Contact
 
 * [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160) (jendave)
