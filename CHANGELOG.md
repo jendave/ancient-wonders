@@ -2,6 +2,10 @@
 
 [Ancient Wonders for FoundryVTT](https://foundryvtt.com/packages/ancient-wonders)
 
+## [1.1.3](https://github.com/jendave/ancient-wonders/blob/main/CHANGELOG.md) (2026-01-16)
+
+* Fix scene background asset directory.
+
 ## [1.1.2](https://github.com/jendave/ancient-wonders/blob/main/CHANGELOG.md) (2026-01-15)
 
 * Added scene background from  from [mkalus](https://github.com/mkalus).
