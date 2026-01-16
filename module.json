@@ -46,7 +46,12 @@
       "label": "Ancient Wonders Oracles",
       "path": "./packs/ancient-wonders-oracles",
       "type": "RollTable"
-    }
+    },
+    {
+      "name": "ancientwondersscenes",
+      "label": "Ancient Wonders Scenes",
+      "path": "./packs/ancient-wonders-scenes",
+      "type": "Scene"
   ],
   "packFolders": [
     {
@@ -55,7 +60,8 @@
         "ancientwondersassets",
         "ancientwondersmoves",
         "ancientwondersmacros",
-        "ancientwondersoracles"
+        "ancientwondersoracles",
+        "ancientwondersscenes"
       ]
     }
   ],

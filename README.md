@@ -75,6 +75,8 @@ Macros for the expansion can be found in the `Ancient Wonders Macros` compendium
 
 ### Planetary Sector Scene
 
+The `Scenes` compendium contains a sample scene for a `Simple Sector Map`. If manually configuring the scene is preferred, following the instructions below.
+
 The /assets/scenes folder contains a scene background for a planetary system. It contains orbits and a marker of the sun's location.
 
 ![scene background](https://github.com/jendave/ancient-wonders/blob/main/assets/scenes/planetary_system.webp?raw=true)
