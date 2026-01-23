@@ -2,6 +2,10 @@
 
 [Ancient Wonders for FoundryVTT](https://foundryvtt.com/packages/ancient-wonders)
 
+## [1.1.5](https://github.com/jendave/ancient-wonders/blob/main/CHANGELOG.md) (2026-01-22)
+
+* Fixed link typo in `Delver` Path asset. This caused a [Datasworn](https://github.com/tbsvttr/datasworn) import issue. Many thanks to sgreg and kat for spotting this.
+
 ## [1.1.4](https://github.com/jendave/ancient-wonders/blob/main/CHANGELOG.md) (2026-01-16)
 
 * Added `Scenes` compendium for `Simple Sector Map` scene per suggestion by [mkalus](https://github.com/mkalus).
