@@ -2,6 +2,11 @@
 
 [Ancient Wonders for FoundryVTT](https://foundryvtt.com/packages/ancient-wonders)
 
+## [1.1.6](https://github.com/jendave/ancient-wonders/blob/main/CHANGELOG.md) (2026-02-26)
+
+* Verified for v14.
+* Fixed issue with broken scene thumbnail.
+
 ## [1.1.5](https://github.com/jendave/ancient-wonders/blob/main/CHANGELOG.md) (2026-01-22)
 
 * Fixed link typo in `Delver` Path asset. This caused a [Datasworn](https://github.com/tbsvttr/datasworn) import issue. Many thanks to sgreg and kat for spotting this.

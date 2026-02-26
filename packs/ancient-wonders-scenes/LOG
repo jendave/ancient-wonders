@@ -1,2 +1,3 @@
-2026/01/16-13:24:38.223043 3124f8000 Delete type=3 #1
-2026/01/16-13:32:07.659093 30c827000 Manual compaction at level-0 from '!scenes!14idgQuFh6p5Mjy3' @ 72057594037927935 : 1 .. '!scenes!14idgQuFh6p5Mjy3' @ 0 : 0; will stop at (end)
+2026/02/26-10:40:06.519775 173257000 Recovering log #26
+2026/02/26-10:40:06.520253 173257000 Delete type=3 #24
+2026/02/26-10:40:06.520316 173257000 Delete type=0 #26
