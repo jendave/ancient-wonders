@@ -4,7 +4,7 @@
 
 ## [1.1.6](https://github.com/jendave/ancient-wonders/blob/main/CHANGELOG.md) (2026-02-26)
 
-* Verified for v14.
+* Verified for Foundry v14.
 * Fixed issue with broken scene thumbnail.
 
 ## [1.1.5](https://github.com/jendave/ancient-wonders/blob/main/CHANGELOG.md) (2026-01-22)
