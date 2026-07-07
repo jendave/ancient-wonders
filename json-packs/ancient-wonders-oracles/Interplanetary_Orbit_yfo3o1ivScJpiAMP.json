@@ -1,0 +1,160 @@
+{
+  "name": "Interplanetary Orbit",
+  "formula": "1d83",
+  "results": [
+    {
+      "range": [
+        1,
+        18
+      ],
+      "_id": "in4biwYlp3IFylTz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1st",
+      "name": "",
+      "_key": "!tables.results!yfo3o1ivScJpiAMP.in4biwYlp3IFylTz"
+    },
+    {
+      "range": [
+        19,
+        37
+      ],
+      "_id": "EfqVxq7FWKEifzqI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "2nd",
+      "name": "",
+      "_key": "!tables.results!yfo3o1ivScJpiAMP.EfqVxq7FWKEifzqI"
+    },
+    {
+      "range": [
+        38,
+        57
+      ],
+      "_id": "T0fTpUC3OSxXNlZH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "3rd",
+      "name": "",
+      "_key": "!tables.results!yfo3o1ivScJpiAMP.T0fTpUC3OSxXNlZH"
+    },
+    {
+      "range": [
+        58,
+        78
+      ],
+      "_id": "ypRiT0xSHaaRGasY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "4th",
+      "name": "",
+      "_key": "!tables.results!yfo3o1ivScJpiAMP.ypRiT0xSHaaRGasY"
+    },
+    {
+      "range": [
+        79,
+        100
+      ],
+      "_id": "6S3H7hsSi4HPue2p",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "5th",
+      "name": "",
+      "_key": "!tables.results!yfo3o1ivScJpiAMP.6S3H7hsSi4HPue2p"
+    }
+  ],
+  "folder": "EvMRxNDsQMydVM5q",
+  "sort": 200000,
+  "_id": "yfo3o1ivScJpiAMP",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>Use these oracles to determine the orbital placements of any given object in a solar system.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.yfo3o1ivScJpiAMP",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743225318569,
+    "modifiedTime": 1763678618991,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!yfo3o1ivScJpiAMP"
+}

@@ -1,0 +1,160 @@
+{
+  "name": "Lesser Planet Size Density/Gravity",
+  "formula": "1d100",
+  "description": "<p>Use this oracle to define the main attributes of a planetary body. Once you roll for the world size, roll its density to determine the gravity.</p><p>Gravities</p><ul><li>None: This celestial body has no gravity. Mechanical aids are required to traverse its environment.</li><li>Little: Gravitational forces are so feeble that they cannot provide consistent traction. Mechanical aids are recommended.</li><li>Weak: With enough caution and consideration, greatly reduced gravitational forces allow for major freedom of movement.</li><li>Low: Reduced gravity allows for significant maneuverability.</li><li>Ideal: Gravitational forces are at the levels to which humans naturally evolved to thrive.</li><li>High: Human survival can only be maintained for short durations without mechanical aids.</li><li>Severe:Explorers are unable to survive this level of gravity without the assistance of mechanical aids.</li></ul>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "UHGmpVVDCYJ3PDfJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Density: Very light / Gravity: Weak",
+      "name": "",
+      "_key": "!tables.results!xb9yediaSL9uNwlk.UHGmpVVDCYJ3PDfJ"
+    },
+    {
+      "range": [
+        11,
+        30
+      ],
+      "_id": "SPhzQ2tvFzXZvblf",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Density: Light / Gravity: Low",
+      "name": "",
+      "_key": "!tables.results!xb9yediaSL9uNwlk.SPhzQ2tvFzXZvblf"
+    },
+    {
+      "range": [
+        31,
+        70
+      ],
+      "_id": "7yyptZbtvIYfnvk0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Density: Moderate / Gravity: Low",
+      "name": "",
+      "_key": "!tables.results!xb9yediaSL9uNwlk.7yyptZbtvIYfnvk0"
+    },
+    {
+      "range": [
+        71,
+        90
+      ],
+      "_id": "qkSDUhKY5MS4tgtW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Density: Heavy / Gravity: Ideal",
+      "name": "",
+      "_key": "!tables.results!xb9yediaSL9uNwlk.qkSDUhKY5MS4tgtW"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "v2l1vnJHSMjxemRW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Density: Very heavy / Gravity: Ideal",
+      "name": "",
+      "_key": "!tables.results!xb9yediaSL9uNwlk.v2l1vnJHSMjxemRW"
+    }
+  ],
+  "folder": "3nzgBOS5Cvas6a2O",
+  "sort": 2,
+  "_id": "xb9yediaSL9uNwlk",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745010148491,
+    "modifiedTime": 1745010148491,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!xb9yediaSL9uNwlk"
+}

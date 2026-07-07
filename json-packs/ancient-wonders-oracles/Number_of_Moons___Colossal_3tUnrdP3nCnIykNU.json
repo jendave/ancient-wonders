@@ -1,0 +1,82 @@
+{
+  "name": "Number of Moons - Colossal",
+  "formula": "1d100",
+  "description": "<p>Use this oracle to define the number of moons of a planetary body.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        25
+      ],
+      "_id": "hzz1vXBYTScYmfpB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abundant",
+      "name": "",
+      "_key": "!tables.results!3tUnrdP3nCnIykNU.hzz1vXBYTScYmfpB"
+    },
+    {
+      "range": [
+        26,
+        100
+      ],
+      "_id": "O1p9ZLJjv8tzz8is",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Plethora",
+      "name": "",
+      "_key": "!tables.results!3tUnrdP3nCnIykNU.O1p9ZLJjv8tzz8is"
+    }
+  ],
+  "folder": "BrKmU9b5W958cT7l",
+  "sort": 10,
+  "_id": "3tUnrdP3nCnIykNU",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745085140307,
+    "modifiedTime": 1745085140307,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!3tUnrdP3nCnIykNU"
+}

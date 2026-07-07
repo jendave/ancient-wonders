@@ -1,0 +1,22 @@
+{
+  "name": "Items Assets",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "bOcZzkQSUb3oUpS2",
+  "description": "",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.343",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747009441914,
+    "modifiedTime": 1747009441974,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!bOcZzkQSUb3oUpS2"
+}

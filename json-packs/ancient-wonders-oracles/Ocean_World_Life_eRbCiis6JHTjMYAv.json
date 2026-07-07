@@ -1,0 +1,186 @@
+{
+  "name": "Ocean World Life",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "62lECqUeTHR1YbYo",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!eRbCiis6JHTjMYAv.62lECqUeTHR1YbYo"
+    },
+    {
+      "range": [
+        6,
+        15
+      ],
+      "_id": "4yLpqqClIQjrFj5B",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extinct",
+      "name": "",
+      "_key": "!tables.results!eRbCiis6JHTjMYAv.4yLpqqClIQjrFj5B"
+    },
+    {
+      "range": [
+        16,
+        30
+      ],
+      "_id": "2Wjxck2fTj0NTFr5",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scarce",
+      "name": "",
+      "_key": "!tables.results!eRbCiis6JHTjMYAv.2Wjxck2fTj0NTFr5"
+    },
+    {
+      "range": [
+        31,
+        60
+      ],
+      "_id": "jhiwiDEscaomeh8a",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Diverse",
+      "name": "",
+      "_key": "!tables.results!eRbCiis6JHTjMYAv.jhiwiDEscaomeh8a"
+    },
+    {
+      "range": [
+        61,
+        90
+      ],
+      "_id": "TElg5VObTAsjjF2u",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bountiful",
+      "name": "",
+      "_key": "!tables.results!eRbCiis6JHTjMYAv.TElg5VObTAsjjF2u"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "3xyoeVSYyyFVF5N3",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overrun",
+      "name": "",
+      "_key": "!tables.results!eRbCiis6JHTjMYAv.3xyoeVSYyyFVF5N3"
+    }
+  ],
+  "folder": "0JRiZnm539EkbEnA",
+  "sort": 7,
+  "_id": "eRbCiis6JHTjMYAv",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745301207420,
+    "modifiedTime": 1745301207420,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!eRbCiis6JHTjMYAv"
+}

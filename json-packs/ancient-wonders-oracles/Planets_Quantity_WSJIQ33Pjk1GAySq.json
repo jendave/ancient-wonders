@@ -1,0 +1,212 @@
+{
+  "name": "Planets Quantity",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "YGObcZje1fJGZYBZ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1-10  No planets",
+      "name": "",
+      "_key": "!tables.results!WSJIQ33Pjk1GAySq.YGObcZje1fJGZYBZ"
+    },
+    {
+      "range": [
+        11,
+        25
+      ],
+      "_id": "MzP0gJtd73o1xKAT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "One planet",
+      "name": "",
+      "_key": "!tables.results!WSJIQ33Pjk1GAySq.MzP0gJtd73o1xKAT"
+    },
+    {
+      "range": [
+        26,
+        45
+      ],
+      "_id": "GNinvPLSld3jNEfU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Two planets",
+      "name": "",
+      "_key": "!tables.results!WSJIQ33Pjk1GAySq.GNinvPLSld3jNEfU"
+    },
+    {
+      "range": [
+        46,
+        70
+      ],
+      "_id": "viOujU8NFojxwibi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Three planets",
+      "name": "",
+      "_key": "!tables.results!WSJIQ33Pjk1GAySq.viOujU8NFojxwibi"
+    },
+    {
+      "range": [
+        71,
+        85
+      ],
+      "_id": "ipQ3RBVMcOgVpMB1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Four planets",
+      "name": "",
+      "_key": "!tables.results!WSJIQ33Pjk1GAySq.ipQ3RBVMcOgVpMB1"
+    },
+    {
+      "range": [
+        86,
+        95
+      ],
+      "_id": "78uqXXwwrYOOl4Wm",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Five planets",
+      "name": "",
+      "_key": "!tables.results!WSJIQ33Pjk1GAySq.78uqXXwwrYOOl4Wm"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "nn5oyCXfHFlXl484",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Six planets",
+      "name": "",
+      "_key": "!tables.results!WSJIQ33Pjk1GAySq.nn5oyCXfHFlXl484"
+    }
+  ],
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>Roll on this table to identify the number of planets around the system stellar object.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "aj3iyWvQqHmshfmS",
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743222809982,
+    "modifiedTime": 1744956001485,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "WSJIQ33Pjk1GAySq",
+  "sort": 150000,
+  "_key": "!tables!WSJIQ33Pjk1GAySq"
+}

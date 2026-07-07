@@ -1,0 +1,706 @@
+{
+  "name": "Ecumenopolis Surface Feature",
+  "formula": "1d100",
+  "description": "<p>As an alternative to this table, you can use the Megacity Outer First Look (page 172) and Megacity Inner First Look (page 169) oracles.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        4
+      ],
+      "_id": "IXelyxcLvmYFaTfc",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Catastrophic flooding",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.IXelyxcLvmYFaTfc"
+    },
+    {
+      "range": [
+        5,
+        8
+      ],
+      "_id": "rIvtMdIQTdw2noHh",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cavernous trenches",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.rIvtMdIQTdw2noHh"
+    },
+    {
+      "range": [
+        9,
+        12
+      ],
+      "_id": "hORCbsb6LzUbhGwH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Collapsed structures",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.hORCbsb6LzUbhGwH"
+    },
+    {
+      "range": [
+        13,
+        16
+      ],
+      "_id": "hTDoNbFzbZnqp016",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crumbling infrastructure",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.hTDoNbFzbZnqp016"
+    },
+    {
+      "range": [
+        17,
+        20
+      ],
+      "_id": "ET0hd7YhRsWUyjc7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Decaying monuments",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.ET0hd7YhRsWUyjc7"
+    },
+    {
+      "range": [
+        21,
+        24
+      ],
+      "_id": "bkog6WSvh6ObcA5W",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Distinct segmentation",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.bkog6WSvh6ObcA5W"
+    },
+    {
+      "range": [
+        25,
+        28
+      ],
+      "_id": "UfiEHQuHL96qkhQb",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Erratic weather patterns",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.UfiEHQuHL96qkhQb"
+    },
+    {
+      "range": [
+        29,
+        32
+      ],
+      "_id": "W3LfPdMEHCm73c4j",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exosphere-breaching structure",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.W3LfPdMEHCm73c4j"
+    },
+    {
+      "range": [
+        25,
+        28
+      ],
+      "_id": "3h4wsZwH0On1imk1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Erratic weather patterns",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.3h4wsZwH0On1imk1"
+    },
+    {
+      "range": [
+        33,
+        36
+      ],
+      "_id": "buBrpxGTOgCJwD6z",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expansive stratification",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.buBrpxGTOgCJwD6z"
+    },
+    {
+      "range": [
+        25,
+        28
+      ],
+      "_id": "npq9IFPQzfP2zTDv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Erratic weather patterns",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.npq9IFPQzfP2zTDv"
+    },
+    {
+      "range": [
+        37,
+        40
+      ],
+      "_id": "ZsiSCTjZG5ldI9nh",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fluctuating temperatures",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.ZsiSCTjZG5ldI9nh"
+    },
+    {
+      "range": [
+        41,
+        44
+      ],
+      "_id": "hXVYm4tMAebl4CdJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Foreboding earthquakes",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.hXVYm4tMAebl4CdJ"
+    },
+    {
+      "range": [
+        45,
+        48
+      ],
+      "_id": "7heha85Bdrk46nSm",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Immense crashed ships",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.7heha85Bdrk46nSm"
+    },
+    {
+      "range": [
+        49,
+        52
+      ],
+      "_id": "br76rSpsnOZWbxZI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Labyrinthine catacombs",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.br76rSpsnOZWbxZI"
+    },
+    {
+      "range": [
+        53,
+        56
+      ],
+      "_id": "fO1mJL85TXGvL8hu",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mass graves",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.fO1mJL85TXGvL8hu"
+    },
+    {
+      "range": [
+        57,
+        60
+      ],
+      "_id": "WbnKYYWYianXECd8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mysterious echoes",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.WbnKYYWYianXECd8"
+    },
+    {
+      "range": [
+        61,
+        64
+      ],
+      "_id": "9yZkmEe5pnYpTOzM",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Natural reclamation",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.9yZkmEe5pnYpTOzM"
+    },
+    {
+      "range": [
+        65,
+        68
+      ],
+      "_id": "KVnHSRda8u6mFPvi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Obfuscating pollution",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.KVnHSRda8u6mFPvi"
+    },
+    {
+      "range": [
+        69,
+        72
+      ],
+      "_id": "HsmGnTh1wYk7XA4g",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pervasive undulating vibrations",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.HsmGnTh1wYk7XA4g"
+    },
+    {
+      "range": [
+        73,
+        76
+      ],
+      "_id": "SS4pox8YyKw91sKz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Radioactive hotspots",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.SS4pox8YyKw91sKz"
+    },
+    {
+      "range": [
+        77,
+        80
+      ],
+      "_id": "BzUpUFzK3mmFHcKT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rubble-strewn spaceports",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.BzUpUFzK3mmFHcKT"
+    },
+    {
+      "range": [
+        81,
+        84
+      ],
+      "_id": "Jelay8wq0fgPgBLM",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scarred battlefields",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.Jelay8wq0fgPgBLM"
+    },
+    {
+      "range": [
+        85,
+        88
+      ],
+      "_id": "ZtZRT038Oxs5Nb7a",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Subterranean installations",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.ZtZRT038Oxs5Nb7a"
+    },
+    {
+      "range": [
+        89,
+        92
+      ],
+      "_id": "kmk9C3RY1A1VxLO2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vast beautification projects",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.kmk9C3RY1A1VxLO2"
+    },
+    {
+      "range": [
+        93,
+        100
+      ],
+      "_id": "R83QoxW7uagQ7z4C",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weathered monuments",
+      "name": "",
+      "_key": "!tables.results!5RcdNeXxYVx5oSDD.R83QoxW7uagQ7z4C"
+    }
+  ],
+  "folder": "sYlpToeHEd9fSjvm",
+  "sort": 5,
+  "_id": "5RcdNeXxYVx5oSDD",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745822739878,
+    "modifiedTime": 1745822739878,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!5RcdNeXxYVx5oSDD"
+}

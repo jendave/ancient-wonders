@@ -1,0 +1,82 @@
+{
+  "name": "Unidentified Megastructure Scale Type 1",
+  "formula": "1d100",
+  "description": "<p>Use this oracle to determine the size of the megastructure in the sector it inhabits.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        60
+      ],
+      "_id": "Lm6ZWbRd8cCujtby",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sub-planetary",
+      "name": "",
+      "_key": "!tables.results!whBX0z1x8nNcLWQz.Lm6ZWbRd8cCujtby"
+    },
+    {
+      "range": [
+        61,
+        100
+      ],
+      "_id": "E4Dd1UhKeR8wIb2y",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetary",
+      "name": "",
+      "_key": "!tables.results!whBX0z1x8nNcLWQz.E4Dd1UhKeR8wIb2y"
+    }
+  ],
+  "folder": "EpVZ9VKEG5R6Tr0s",
+  "sort": 2,
+  "_id": "whBX0z1x8nNcLWQz",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745687449403,
+    "modifiedTime": 1745687449403,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!whBX0z1x8nNcLWQz"
+}

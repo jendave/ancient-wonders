@@ -1,0 +1,108 @@
+{
+  "name": "Vital World Atmosphere",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        20
+      ],
+      "_id": "EJqm3WOQ3ScnPBJG",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Marginal",
+      "name": "",
+      "_key": "!tables.results!Hs52kfGOzyUB749e.EJqm3WOQ3ScnPBJG"
+    },
+    {
+      "range": [
+        21,
+        50
+      ],
+      "_id": "fDbT1FTjMmcWlDhW",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Breathable",
+      "name": "",
+      "_key": "!tables.results!Hs52kfGOzyUB749e.fDbT1FTjMmcWlDhW"
+    },
+    {
+      "range": [
+        51,
+        100
+      ],
+      "_id": "gYV0iykveeNkzpks",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ideal",
+      "name": "",
+      "_key": "!tables.results!Hs52kfGOzyUB749e.gYV0iykveeNkzpks"
+    }
+  ],
+  "folder": "uqIYYdcorEC11vj9",
+  "sort": 4,
+  "_id": "Hs52kfGOzyUB749e",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745469388179,
+    "modifiedTime": 1745469388179,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!Hs52kfGOzyUB749e"
+}

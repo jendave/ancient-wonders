@@ -1,0 +1,628 @@
+{
+  "name": "Seabed Peril",
+  "formula": "1d100",
+  "description": "<p>Use the following tables to inspire the details of a waypoint during underwater expeditions. The Perils table inspires a cost or trouble and the Opportunities table offers a beneficial encounter or event.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "OjBBIEFZreuAVOwf",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Anomaly; pg 194",
+      "name": "",
+      "_key": "!tables.results!VwzkKaXTRc7tRnBN.OjBBIEFZreuAVOwf"
+    },
+    {
+      "range": [
+        2,
+        20
+      ],
+      "_id": "dr8ByAgcRVzEOsxM",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Lurking Threat; pg 36",
+      "name": "",
+      "_key": "!tables.results!VwzkKaXTRc7tRnBN.dr8ByAgcRVzEOsxM"
+    },
+    {
+      "range": [
+        21,
+        24
+      ],
+      "_id": "O9aHMYXNThr6nvB5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crumbling or collapsing terrain",
+      "name": "",
+      "_key": "!tables.results!VwzkKaXTRc7tRnBN.O9aHMYXNThr6nvB5"
+    },
+    {
+      "range": [
+        25,
+        27
+      ],
+      "_id": "5Vdm8HHxFGmSd7x6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dangerous sinking debris",
+      "name": "",
+      "_key": "!tables.results!VwzkKaXTRc7tRnBN.5Vdm8HHxFGmSd7x6"
+    },
+    {
+      "range": [
+        28,
+        30
+      ],
+      "_id": "OMnptGOEcsji7Oxq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dangerous spike in pressure",
+      "name": "",
+      "_key": "!tables.results!VwzkKaXTRc7tRnBN.OMnptGOEcsji7Oxq"
+    },
+    {
+      "range": [
+        31,
+        34
+      ],
+      "_id": "vWumLHrc5Mfb5DCR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Entangling flora",
+      "name": "",
+      "_key": "!tables.results!VwzkKaXTRc7tRnBN.vWumLHrc5Mfb5DCR"
+    },
+    {
+      "range": [
+        35,
+        38
+      ],
+      "_id": "c8z3qbGXU1W6lfid",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Equipment or ship suffers damage",
+      "name": "",
+      "_key": "!tables.results!VwzkKaXTRc7tRnBN.c8z3qbGXU1W6lfid"
+    },
+    {
+      "range": [
+        39,
+        42
+      ],
+      "_id": "7T2nMrn1eVEoFOpD",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glimpses of a lurking creature",
+      "name": "",
+      "_key": "!tables.results!VwzkKaXTRc7tRnBN.7T2nMrn1eVEoFOpD"
+    },
+    {
+      "range": [
+        43,
+        46
+      ],
+      "_id": "RKcwhqMLOk7o8YRK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Grueling waters or terrain tests endurance",
+      "name": "",
+      "_key": "!tables.results!VwzkKaXTRc7tRnBN.RKcwhqMLOk7o8YRK"
+    },
+    {
+      "range": [
+        47,
+        50
+      ],
+      "_id": "eMiLjoc2xGqzEnKS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hostile flora or fauna",
+      "name": "",
+      "_key": "!tables.results!VwzkKaXTRc7tRnBN.eMiLjoc2xGqzEnKS"
+    },
+    {
+      "range": [
+        51,
+        54
+      ],
+      "_id": "EBjFp68N3uIkMfsR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Led astray or lost the path",
+      "name": "",
+      "_key": "!tables.results!VwzkKaXTRc7tRnBN.EBjFp68N3uIkMfsR"
+    },
+    {
+      "range": [
+        55,
+        58
+      ],
+      "_id": "FweYj7dLxYfwTcAQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lost gear or provisions",
+      "name": "",
+      "_key": "!tables.results!VwzkKaXTRc7tRnBN.FweYj7dLxYfwTcAQ"
+    },
+    {
+      "range": [
+        59,
+        62
+      ],
+      "_id": "37Pyhi97YOP2uPRC",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Restricted visibility",
+      "name": "",
+      "_key": "!tables.results!VwzkKaXTRc7tRnBN.37Pyhi97YOP2uPRC"
+    },
+    {
+      "range": [
+        63,
+        66
+      ],
+      "_id": "f1CzqjXEh5qSNPq4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Skillfully camouflaged predator",
+      "name": "",
+      "_key": "!tables.results!VwzkKaXTRc7tRnBN.f1CzqjXEh5qSNPq4"
+    },
+    {
+      "range": [
+        67,
+        69
+      ],
+      "_id": "3hYgL3F2jBudkbkQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sucking chasm or sinkhole",
+      "name": "",
+      "_key": "!tables.results!VwzkKaXTRc7tRnBN.3hYgL3F2jBudkbkQ"
+    },
+    {
+      "range": [
+        70,
+        72
+      ],
+      "_id": "JsoUt1vx1XMccYOD",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Toxic or corrosive waters",
+      "name": "",
+      "_key": "!tables.results!VwzkKaXTRc7tRnBN.JsoUt1vx1XMccYOD"
+    },
+    {
+      "range": [
+        73,
+        75
+      ],
+      "_id": "sPcxl7T9M9Md6WFX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Treacherous temperature fluctuations",
+      "name": "",
+      "_key": "!tables.results!VwzkKaXTRc7tRnBN.sPcxl7T9M9Md6WFX"
+    },
+    {
+      "range": [
+        76,
+        79
+      ],
+      "_id": "SQWbVZ3ckwEl1HVV",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vicious currents",
+      "name": "",
+      "_key": "!tables.results!VwzkKaXTRc7tRnBN.SQWbVZ3ckwEl1HVV"
+    },
+    {
+      "range": [
+        80,
+        83
+      ],
+      "_id": "OfWXDQiSM4q9OXA4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Violent whirlpool",
+      "name": "",
+      "_key": "!tables.results!VwzkKaXTRc7tRnBN.OfWXDQiSM4q9OXA4"
+    },
+    {
+      "range": [
+        84,
+        86
+      ],
+      "_id": "o4m8CdFzQKZc7iC9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Volcanic upheaval",
+      "name": "",
+      "_key": "!tables.results!VwzkKaXTRc7tRnBN.o4m8CdFzQKZc7iC9"
+    },
+    {
+      "range": [
+        87,
+        88
+      ],
+      "_id": "tZumHISgc8Zqp88e",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Worrying arrival of a ship or vehicle",
+      "name": "",
+      "_key": "!tables.results!VwzkKaXTRc7tRnBN.tZumHISgc8Zqp88e"
+    },
+    {
+      "range": [
+        89,
+        94
+      ],
+      "_id": "bbHaFQu2ZbVqUXwx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Action + Theme; pg 12",
+      "name": "",
+      "_key": "!tables.results!VwzkKaXTRc7tRnBN.bbHaFQu2ZbVqUXwx"
+    },
+    {
+      "range": [
+        95,
+        100
+      ],
+      "_id": "upJdWvCoaurDpV5b",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice",
+      "name": "",
+      "_key": "!tables.results!VwzkKaXTRc7tRnBN.upJdWvCoaurDpV5b"
+    }
+  ],
+  "folder": "gqk7xGweM3UMtnW2",
+  "sort": 6,
+  "_id": "VwzkKaXTRc7tRnBN",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1744997272600,
+    "modifiedTime": 1744997272600,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!VwzkKaXTRc7tRnBN"
+}

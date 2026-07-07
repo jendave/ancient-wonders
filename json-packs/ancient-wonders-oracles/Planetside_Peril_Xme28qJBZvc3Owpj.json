@@ -1,0 +1,22 @@
+{
+  "name": "Planetside Peril",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "Xme28qJBZvc3Owpj",
+  "description": "",
+  "folder": "5rB5MQ2yt6jc86Mx",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743714636644,
+    "modifiedTime": 1744956582112,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!Xme28qJBZvc3Owpj"
+}

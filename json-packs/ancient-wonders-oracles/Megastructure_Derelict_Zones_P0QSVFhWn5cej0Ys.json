@@ -1,0 +1,186 @@
+{
+  "name": "Megastructure Derelict Zones",
+  "formula": "1d100",
+  "description": "<p>When prompted to roll for the derelict zone of a megastructure, use this oracle as an extension of the Derelict Zones table on page 351 of the Starforged rulebook.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        35
+      ],
+      "_id": "YFFgJaqa9cbxaqsl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Engineering",
+      "name": "",
+      "_key": "!tables.results!P0QSVFhWn5cej0Ys.YFFgJaqa9cbxaqsl"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "7qnYHhRbJRHr59Tp",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Living",
+      "name": "",
+      "_key": "!tables.results!P0QSVFhWn5cej0Ys.7qnYHhRbJRHr59Tp"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "9pcX0v5IB2HelQY2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Medical",
+      "name": "",
+      "_key": "!tables.results!P0QSVFhWn5cej0Ys.9pcX0v5IB2HelQY2"
+    },
+    {
+      "range": [
+        46,
+        65
+      ],
+      "_id": "5wL3h04oOrBVHBtd",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Operations",
+      "name": "",
+      "_key": "!tables.results!P0QSVFhWn5cej0Ys.5wL3h04oOrBVHBtd"
+    },
+    {
+      "range": [
+        66,
+        90
+      ],
+      "_id": "KX81gopESMCeMAOH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Production",
+      "name": "",
+      "_key": "!tables.results!P0QSVFhWn5cej0Ys.KX81gopESMCeMAOH"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "xiJCuIOxIfPNHn5y",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Research",
+      "name": "",
+      "_key": "!tables.results!P0QSVFhWn5cej0Ys.xiJCuIOxIfPNHn5y"
+    }
+  ],
+  "folder": "4ZwBRz70exteZSrB",
+  "sort": 0,
+  "_id": "P0QSVFhWn5cej0Ys",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745623954511,
+    "modifiedTime": 1745623954511,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!P0QSVFhWn5cej0Ys"
+}

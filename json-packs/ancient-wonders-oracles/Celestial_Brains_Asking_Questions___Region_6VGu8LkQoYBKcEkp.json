@@ -1,0 +1,108 @@
+{
+  "name": "Celestial Brains Asking Questions - Region",
+  "formula": "1d100",
+  "description": "<p>Use this oracle to broadly determine the \"where\" answer provided by a brain.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        55
+      ],
+      "_id": "QyjZtWdJAHbKraMW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Terminus - Inner, mostly populated territories",
+      "name": "",
+      "_key": "!tables.results!6VGu8LkQoYBKcEkp.QyjZtWdJAHbKraMW"
+    },
+    {
+      "range": [
+        56,
+        90
+      ],
+      "_id": "ggkEDbOVCJdHYGta",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Outlands - Outer, mostly uncharted territories",
+      "name": "",
+      "_key": "!tables.results!6VGu8LkQoYBKcEkp.ggkEDbOVCJdHYGta"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "RPkfGURssN6BbpVZ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expanse - Unexplored territories",
+      "name": "",
+      "_key": "!tables.results!6VGu8LkQoYBKcEkp.RPkfGURssN6BbpVZ"
+    }
+  ],
+  "folder": "qYpEuWCIIpVKfhxw",
+  "sort": 2,
+  "_id": "6VGu8LkQoYBKcEkp",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745727898070,
+    "modifiedTime": 1745727898070,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!6VGu8LkQoYBKcEkp"
+}

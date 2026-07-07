@@ -1,0 +1,160 @@
+{
+  "name": "Ocean World Settlements - Terminus",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        40
+      ],
+      "_id": "HpCfkOlnESh2UTHO",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!CHfel9yJbytetKSH.HpCfkOlnESh2UTHO"
+    },
+    {
+      "range": [
+        41,
+        55
+      ],
+      "_id": "5XGiTclJVsarfLJR",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orbital",
+      "name": "",
+      "_key": "!tables.results!CHfel9yJbytetKSH.5XGiTclJVsarfLJR"
+    },
+    {
+      "range": [
+        56,
+        80
+      ],
+      "_id": "9EO1aJVVeNgjFHVP",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Grounded",
+      "name": "",
+      "_key": "!tables.results!CHfel9yJbytetKSH.9EO1aJVVeNgjFHVP"
+    },
+    {
+      "range": [
+        81,
+        92
+      ],
+      "_id": "lY6wRjnHNLTQtGp4",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multiple",
+      "name": "",
+      "_key": "!tables.results!CHfel9yJbytetKSH.lY6wRjnHNLTQtGp4"
+    },
+    {
+      "range": [
+        93,
+        100
+      ],
+      "_id": "rqJaCmpEfO3DM4gf",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multiple in conflict",
+      "name": "",
+      "_key": "!tables.results!CHfel9yJbytetKSH.rqJaCmpEfO3DM4gf"
+    }
+  ],
+  "folder": "0JRiZnm539EkbEnA",
+  "sort": 8,
+  "_id": "CHfel9yJbytetKSH",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745301207420,
+    "modifiedTime": 1745301207420,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!CHfel9yJbytetKSH"
+}

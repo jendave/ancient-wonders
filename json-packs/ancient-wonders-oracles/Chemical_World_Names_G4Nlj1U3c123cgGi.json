@@ -1,0 +1,550 @@
+{
+  "name": "Chemical World Names",
+  "formula": "1d100",
+  "description": "<p>A frigid planet shrouded by a dense atmosphere with an exotic, waterless hydrosphere.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "2eJQMYpzDD1abELB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aceticos",
+      "name": "",
+      "_key": "!tables.results!G4Nlj1U3c123cgGi.2eJQMYpzDD1abELB"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "405LF60kE4BbpTAC",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Barazide",
+      "name": "",
+      "_key": "!tables.results!G4Nlj1U3c123cgGi.405LF60kE4BbpTAC"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "NDoQeMhwtmTmsT1l",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Benazoa",
+      "name": "",
+      "_key": "!tables.results!G4Nlj1U3c123cgGi.NDoQeMhwtmTmsT1l"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "iL6ppHztJP10PvS3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Caustica",
+      "name": "",
+      "_key": "!tables.results!G4Nlj1U3c123cgGi.iL6ppHztJP10PvS3"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "cIUhCvcxCqWvheU7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chloraea",
+      "name": "",
+      "_key": "!tables.results!G4Nlj1U3c123cgGi.cIUhCvcxCqWvheU7"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "7TXdvKfWbXt4ev5b",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corsane",
+      "name": "",
+      "_key": "!tables.results!G4Nlj1U3c123cgGi.7TXdvKfWbXt4ev5b"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "R9y0YYY0gFROtLg2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Esterios",
+      "name": "",
+      "_key": "!tables.results!G4Nlj1U3c123cgGi.R9y0YYY0gFROtLg2"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "qLfN2N1Qz8Y7ojI5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ethios",
+      "name": "",
+      "_key": "!tables.results!G4Nlj1U3c123cgGi.qLfN2N1Qz8Y7ojI5"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "rEZHq61w8Rw7Tgww",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ionoros",
+      "name": "",
+      "_key": "!tables.results!G4Nlj1U3c123cgGi.rEZHq61w8Rw7Tgww"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "Grq09JV8jNyV51m2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Methanar",
+      "name": "",
+      "_key": "!tables.results!G4Nlj1U3c123cgGi.Grq09JV8jNyV51m2"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "mJfrMQc9RF1Tw0jh",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oxydia",
+      "name": "",
+      "_key": "!tables.results!G4Nlj1U3c123cgGi.mJfrMQc9RF1Tw0jh"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "f4RGsDjYNcaHZRnW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Phyranos",
+      "name": "",
+      "_key": "!tables.results!G4Nlj1U3c123cgGi.f4RGsDjYNcaHZRnW"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "eGpQX3eQJLZ6wSKC",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Polyphos",
+      "name": "",
+      "_key": "!tables.results!G4Nlj1U3c123cgGi.eGpQX3eQJLZ6wSKC"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "1hnyNVEAGaaz7whP",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Salmia",
+      "name": "",
+      "_key": "!tables.results!G4Nlj1U3c123cgGi.1hnyNVEAGaaz7whP"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "l57FbEnuyqfUO5Ja",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Succini",
+      "name": "",
+      "_key": "!tables.results!G4Nlj1U3c123cgGi.l57FbEnuyqfUO5Ja"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "ZtcPzuenzOWYtNvx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sulphox",
+      "name": "",
+      "_key": "!tables.results!G4Nlj1U3c123cgGi.ZtcPzuenzOWYtNvx"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "trDB1LJe5zYAxN97",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Triamine",
+      "name": "",
+      "_key": "!tables.results!G4Nlj1U3c123cgGi.trDB1LJe5zYAxN97"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "TUd2ln9xr8uLsTWl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tributaea",
+      "name": "",
+      "_key": "!tables.results!G4Nlj1U3c123cgGi.TUd2ln9xr8uLsTWl"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "MdKHqQmbkqxG5suY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trimurea",
+      "name": "",
+      "_key": "!tables.results!G4Nlj1U3c123cgGi.MdKHqQmbkqxG5suY"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "DjL1I3QNzYsGRYEU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ventoxia",
+      "name": "",
+      "_key": "!tables.results!G4Nlj1U3c123cgGi.DjL1I3QNzYsGRYEU"
+    }
+  ],
+  "folder": "bfU9msCL4HxpF6vZ",
+  "sort": 100000,
+  "_id": "G4Nlj1U3c123cgGi",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745171240939,
+    "modifiedTime": 1745171240939,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!G4Nlj1U3c123cgGi"
+}

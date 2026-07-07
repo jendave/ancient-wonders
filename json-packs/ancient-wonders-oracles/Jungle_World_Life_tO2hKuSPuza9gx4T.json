@@ -1,0 +1,134 @@
+{
+  "name": "Jungle World Life",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "gUnhTFBX7qTzA6hW",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scarce",
+      "name": "",
+      "_key": "!tables.results!tO2hKuSPuza9gx4T.gUnhTFBX7qTzA6hW"
+    },
+    {
+      "range": [
+        6,
+        35
+      ],
+      "_id": "lOwtLPND5n5xr1xl",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Diverse",
+      "name": "",
+      "_key": "!tables.results!tO2hKuSPuza9gx4T.lOwtLPND5n5xr1xl"
+    },
+    {
+      "range": [
+        36,
+        75
+      ],
+      "_id": "oi4A9yvwcMeA5Erq",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bountiful",
+      "name": "",
+      "_key": "!tables.results!tO2hKuSPuza9gx4T.oi4A9yvwcMeA5Erq"
+    },
+    {
+      "range": [
+        76,
+        100
+      ],
+      "_id": "fZKCxxyA9L0C6CrA",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overrun",
+      "name": "",
+      "_key": "!tables.results!tO2hKuSPuza9gx4T.fZKCxxyA9L0C6CrA"
+    }
+  ],
+  "folder": "LPHNPP6s8p8hGyxR",
+  "sort": 7,
+  "_id": "tO2hKuSPuza9gx4T",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745260316584,
+    "modifiedTime": 1745260316584,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!tO2hKuSPuza9gx4T"
+}

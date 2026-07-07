@@ -1,0 +1,160 @@
+{
+  "name": "Jungle World Settlements - Expanse",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        85
+      ],
+      "_id": "IRQuXpHDHugvL9ZS",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!qQnUB4HcGaUY8DbI.IRQuXpHDHugvL9ZS"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "wIxh7Z2pTVZpRzJD",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orbital",
+      "name": "",
+      "_key": "!tables.results!qQnUB4HcGaUY8DbI.wIxh7Z2pTVZpRzJD"
+    },
+    {
+      "range": [
+        91,
+        97
+      ],
+      "_id": "noPPFpq625pCjbDH",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Grounded",
+      "name": "",
+      "_key": "!tables.results!qQnUB4HcGaUY8DbI.noPPFpq625pCjbDH"
+    },
+    {
+      "range": [
+        98,
+        99
+      ],
+      "_id": "ShyeVNzW4h8s4Zx9",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multiple",
+      "name": "",
+      "_key": "!tables.results!qQnUB4HcGaUY8DbI.ShyeVNzW4h8s4Zx9"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "9cxyebOv3IWS2YMg",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multiple in conflict",
+      "name": "",
+      "_key": "!tables.results!qQnUB4HcGaUY8DbI.9cxyebOv3IWS2YMg"
+    }
+  ],
+  "folder": "LPHNPP6s8p8hGyxR",
+  "sort": 10,
+  "_id": "qQnUB4HcGaUY8DbI",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745260316584,
+    "modifiedTime": 1745260316584,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!qQnUB4HcGaUY8DbI"
+}

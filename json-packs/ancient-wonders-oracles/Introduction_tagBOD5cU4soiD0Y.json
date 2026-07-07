@@ -1,0 +1,22 @@
+{
+  "name": "Introduction",
+  "sorting": "m",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "tagBOD5cU4soiD0Y",
+  "description": "",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1744955398850,
+    "modifiedTime": 1744956228111,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!tagBOD5cU4soiD0Y"
+}

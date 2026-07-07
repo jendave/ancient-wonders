@@ -1,0 +1,270 @@
+{
+  "name": "Chemical World Surface Feature",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        4
+      ],
+      "_id": "PBj2Ady5zVX0cANl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Caustic or toxic mists",
+      "name": "",
+      "_key": "!tables.results!X37QPx76wpiU3feD.PBj2Ady5zVX0cANl"
+    },
+    {
+      "range": [
+        5,
+        9
+      ],
+      "_id": "5xZ42LiD01tc0hwQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1763687674722,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Chemical snowfall or blizzards</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!X37QPx76wpiU3feD.5xZ42LiD01tc0hwQ"
+    },
+    {
+      "range": [
+        10,
+        13
+      ],
+      "_id": "XxBAmbqr1CqFXHqo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1763687625937,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Colossal ice caves</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!X37QPx76wpiU3feD.XxBAmbqr1CqFXHqo"
+    },
+    {
+      "range": [
+        14,
+        17
+      ],
+      "_id": "oqq6q3mCqpxFX4ie",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1763687707317,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Corroded or preserved carcasses</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!X37QPx76wpiU3feD.oqq6q3mCqpxFX4ie"
+    },
+    {
+      "range": [
+        18,
+        21
+      ],
+      "_id": "QTBUbTXrsY7WIcQv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1763687694035,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Distorting vaporous haze</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!X37QPx76wpiU3feD.QTBUbTXrsY7WIcQv"
+    },
+    {
+      "range": [
+        22,
+        24
+      ],
+      "_id": "UCW22Nb376dd0wvk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fields of eroded craters",
+      "name": "",
+      "_key": "!tables.results!X37QPx76wpiU3feD.UCW22Nb376dd0wvk"
+    },
+    {
+      "range": [
+        25,
+        28
+      ],
+      "_id": "elLka7Pp69SyBMbH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1763687717127,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Light absorbing clouds</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!X37QPx76wpiU3feD.elLka7Pp69SyBMbH"
+    },
+    {
+      "range": [
+        29,
+        32
+      ],
+      "_id": "lRBMw2Y6YIx0LTb3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1763687557198,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Unusually colored clouds or sky</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!X37QPx76wpiU3feD.lRBMw2Y6YIx0LTb3"
+    },
+    {
+      "range": [
+        33,
+        100
+      ],
+      "_id": "klmocajOMZ3FCRwh",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Biome Feature; next page",
+      "name": "",
+      "_key": "!tables.results!X37QPx76wpiU3feD.klmocajOMZ3FCRwh"
+    }
+  ],
+  "_id": "X37QPx76wpiU3feD",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "bfU9msCL4HxpF6vZ",
+  "sort": 750000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.X37QPx76wpiU3feD",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745171240939,
+    "modifiedTime": 1763687766007,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!X37QPx76wpiU3feD"
+}

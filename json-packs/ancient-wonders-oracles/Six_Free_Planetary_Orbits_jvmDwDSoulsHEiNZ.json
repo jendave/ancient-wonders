@@ -1,0 +1,186 @@
+{
+  "name": "Six Free Planetary Orbits",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        16
+      ],
+      "_id": "Vg249Yu8w1s48Lnz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1st",
+      "name": "",
+      "_key": "!tables.results!jvmDwDSoulsHEiNZ.Vg249Yu8w1s48Lnz"
+    },
+    {
+      "range": [
+        17,
+        32
+      ],
+      "_id": "aj0aNlpGqPd2YHtT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "2nd",
+      "name": "",
+      "_key": "!tables.results!jvmDwDSoulsHEiNZ.aj0aNlpGqPd2YHtT"
+    },
+    {
+      "range": [
+        33,
+        49
+      ],
+      "_id": "egurBJ4zT5vNWtOZ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "3rd",
+      "name": "",
+      "_key": "!tables.results!jvmDwDSoulsHEiNZ.egurBJ4zT5vNWtOZ"
+    },
+    {
+      "range": [
+        50,
+        66
+      ],
+      "_id": "rokkshoi7X0krNfs",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "4th",
+      "name": "",
+      "_key": "!tables.results!jvmDwDSoulsHEiNZ.rokkshoi7X0krNfs"
+    },
+    {
+      "range": [
+        67,
+        83
+      ],
+      "_id": "23GZzcG0RuF4zoE4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "5th",
+      "name": "",
+      "_key": "!tables.results!jvmDwDSoulsHEiNZ.23GZzcG0RuF4zoE4"
+    },
+    {
+      "range": [
+        84,
+        100
+      ],
+      "_id": "u495ervGUUPhg5T1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "6th",
+      "name": "",
+      "_key": "!tables.results!jvmDwDSoulsHEiNZ.u495ervGUUPhg5T1"
+    }
+  ],
+  "folder": "ZDvf4JsLi2o33ZiD",
+  "sort": 100000,
+  "_id": "jvmDwDSoulsHEiNZ",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>Use this oracle to determine the placement of a planet around its stellar object. To use it...</p><ul><li>Calculate the number of orbits that are currently free--in which no planet or megastructure has been marked - and reference the corresponding column.</li><li>Mark the planet in the resulting free planetary orbit. These are numbered as per their proximity to the stellar object - the 1st being the closest one.</li><li>Shift one column to the right as the number of free planetary orbits changes and there are planets left to place.</li></ul>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.jvmDwDSoulsHEiNZ",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743224959749,
+    "modifiedTime": 1743224959749,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!jvmDwDSoulsHEiNZ"
+}

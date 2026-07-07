@@ -1,0 +1,368 @@
+{
+  "name": "Splinter Shape",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        15
+      ],
+      "_id": "aIwSFXcNs7HfHZ0h",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Practical or functional",
+      "name": "",
+      "_key": "!tables.results!yhKngCJaytFbeUor.aIwSFXcNs7HfHZ0h"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "S7ZckV0VYxWekOkT",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geometric (complex shape)",
+      "name": "",
+      "_key": "!tables.results!yhKngCJaytFbeUor.S7ZckV0VYxWekOkT"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "bu2GvesOmaowtDZC",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geometric (cube)",
+      "name": "",
+      "_key": "!tables.results!yhKngCJaytFbeUor.bu2GvesOmaowtDZC"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "4lJpJGGLXT88TLaA",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geometric (pyramidical)",
+      "name": "",
+      "_key": "!tables.results!yhKngCJaytFbeUor.4lJpJGGLXT88TLaA"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "r9PwebTk3V7dnPvA",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geometric (rhombus)",
+      "name": "",
+      "_key": "!tables.results!yhKngCJaytFbeUor.r9PwebTk3V7dnPvA"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "HuqSh9FwVx19o8GX",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geometric (ring or torus)",
+      "name": "",
+      "_key": "!tables.results!yhKngCJaytFbeUor.HuqSh9FwVx19o8GX"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "eN0W7d1qT8hBCH9B",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geometric (sphere)",
+      "name": "",
+      "_key": "!tables.results!yhKngCJaytFbeUor.eN0W7d1qT8hBCH9B"
+    },
+    {
+      "range": [
+        46,
+        55
+      ],
+      "_id": "wQuJvYO2VfXrjVrV",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Organic or curved",
+      "name": "",
+      "_key": "!tables.results!yhKngCJaytFbeUor.wQuJvYO2VfXrjVrV"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "7ky49Tq9aAnn2zJz",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disc",
+      "name": "",
+      "_key": "!tables.results!yhKngCJaytFbeUor.7ky49Tq9aAnn2zJz"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "LEgEjwR9uLg8FvmO",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spiky or pointy",
+      "name": "",
+      "_key": "!tables.results!yhKngCJaytFbeUor.LEgEjwR9uLg8FvmO"
+    },
+    {
+      "range": [
+        66,
+        68
+      ],
+      "_id": "X4EcANR9glWJYnoW",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Amorphous",
+      "name": "",
+      "_key": "!tables.results!yhKngCJaytFbeUor.X4EcANR9glWJYnoW"
+    },
+    {
+      "range": [
+        69,
+        75
+      ],
+      "_id": "XY1RF3U2lNdRpL2A",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transforming",
+      "name": "",
+      "_key": "!tables.results!yhKngCJaytFbeUor.XY1RF3U2lNdRpL2A"
+    },
+    {
+      "range": [
+        86,
+        100
+      ],
+      "_id": "0vn0m4tIMXg79atB",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice",
+      "name": "",
+      "_key": "!tables.results!yhKngCJaytFbeUor.0vn0m4tIMXg79atB"
+    }
+  ],
+  "folder": "TeD2FCTVTXBuwiAN",
+  "sort": 0,
+  "_id": "yhKngCJaytFbeUor",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746467797038,
+    "modifiedTime": 1746467797038,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!yhKngCJaytFbeUor"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Oracle Quest - Ecosphere",
+  "type": "script",
+  "scope": "global",
+  "author": "MmM06BuCrG9h1GLg",
+  "img": "icons/svg/dice-target.svg",
+  "command": "// Module macro code by David Hudson and licensed for use under the CC BY-NC-SA 4.0.\n\nasync function printMessage(message) {\n    let chatData = { content: message };\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\", \"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\nasync function rollOracle(tableID, lowerCase = true) {\n    let table = await fromUuid(tableID);\n    let roll = await table.roll();\n    let result = roll.results[0].text;\n\n    if (result.startsWith(\"@Compendium\")) {\n        table = await fromUuid(result.slice(1).replace(\"[\", \".\").split(\"]\")[0]);\n        roll = await table.roll();\n        result = roll.results[0].text;\n    }\n\n    if (result == \"Roll twice\") {\n        let results = [\"Roll twice\", \"Roll twice\"];\n        for (let index = 0; index < results.length; index++) {\n            let element = results[index];\n            do {\n                const table = await fromUuid(tableID);\n                let roll = await table.roll();\n                element = roll.results[0].text.toLowerCase();\n            } while (element == \"roll twice\");\n            results[index] = element;\n        };\n        result = results[0] + \" and \" + results[1];\n    }\n    return lowerCase ? result.toLowerCase() : result;\n};\n\nlet title = \"<h3><strong>Oracle Quest - Ecosphere</strong></h3>\";\n\nlet message = \"A \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.165pYBMpRkAewRXO\") + \" faction has been attempting to \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.b347a87fb81a3abb\") + \" \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.0c5ce82c7adbb4e2\") + \", and has commissioned you to enter a nearby Ecosphere researching \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.ZNzgt2z4xAT8A7sP\") + \" to locate and bring a \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.e2bae1632870e2d2\") + \" \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.TfBWJ7oJW2ASVapV\") + \" to them. They believe it to be vital to their efforts, claiming that without it their plans may falter or collapse entirely. Yet whispers suggest the object may hold significance beyond their stated purpose, tied to forgotten histories or rival ambitions. How do you envision this helping them to achieve their goal? What other hidden motives might they have for obtaining it?\"\n// Print the message\nprintMessage(title + message);",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747514079352,
+    "modifiedTime": 1763703907969,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "QwyY24ypcoLmp5P6",
+  "sort": 1400000,
+  "_key": "!macros!QwyY24ypcoLmp5P6"
+}

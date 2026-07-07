@@ -1,0 +1,500 @@
+{
+  "name": "Planetary Class",
+  "formula": "1d100",
+  "description": "<p>If you want to determine the world type based on the proximity with the stellar object, use the Planetary Heat guideline in Chapter 2, page 26. The same guideline applies for moons, which are covered in the next pages.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "7IwVztsJqO12f74n",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Anomalous World; pg 44",
+      "name": "",
+      "_key": "!tables.results!qu0N89mnB5H7sV5n.7IwVztsJqO12f74n"
+    },
+    {
+      "range": [
+        2,
+        6
+      ],
+      "_id": "YIpaOMDdTvVgW1lE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Grave World; pg 54",
+      "name": "",
+      "_key": "!tables.results!qu0N89mnB5H7sV5n.YIpaOMDdTvVgW1lE"
+    },
+    {
+      "range": [
+        7,
+        8
+      ],
+      "_id": "Xa3qqf8wjIWUTspV",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Shattered World; pg 74",
+      "name": "",
+      "_key": "!tables.results!qu0N89mnB5H7sV5n.Xa3qqf8wjIWUTspV"
+    },
+    {
+      "range": [
+        9,
+        10
+      ],
+      "_id": "J1LJzLyUaS1akeJt",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Tidally-locked World; pg 78",
+      "name": "",
+      "_key": "!tables.results!qu0N89mnB5H7sV5n.J1LJzLyUaS1akeJt"
+    },
+    {
+      "range": [
+        11,
+        12
+      ],
+      "_id": "CftIE7B3f5WAGCJg",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Karst World; pg 62",
+      "name": "",
+      "_key": "!tables.results!qu0N89mnB5H7sV5n.CftIE7B3f5WAGCJg"
+    },
+    {
+      "range": [
+        13,
+        17
+      ],
+      "_id": "pRMzW27uNnUWvxS8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Chemical World; pg 46",
+      "name": "",
+      "_key": "!tables.results!qu0N89mnB5H7sV5n.pRMzW27uNnUWvxS8"
+    },
+    {
+      "range": [
+        18,
+        22
+      ],
+      "_id": "y7fVVYyhYP19nuyM",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Crystalline World; pg 48",
+      "name": "",
+      "_key": "!tables.results!qu0N89mnB5H7sV5n.y7fVVYyhYP19nuyM"
+    },
+    {
+      "range": [
+        23,
+        27
+      ],
+      "_id": "3TB42bDiAn0HjVS2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Metallic World; pg 68",
+      "name": "",
+      "_key": "!tables.results!qu0N89mnB5H7sV5n.3TB42bDiAn0HjVS2"
+    },
+    {
+      "range": [
+        36,
+        46
+      ],
+      "_id": "KiKC4QZvgVJ9OuDB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1763687275164,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>&gt;Furnace World; pg 52</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!qu0N89mnB5H7sV5n.KiKC4QZvgVJ9OuDB"
+    },
+    {
+      "range": [
+        28,
+        38
+      ],
+      "_id": "7NPs5G33j8DAFY5u",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1763687255087,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>&gt;Jovian World; pg 58</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!qu0N89mnB5H7sV5n.7NPs5G33j8DAFY5u"
+    },
+    {
+      "range": [
+        47,
+        57
+      ],
+      "_id": "vdJqWA9j8fGqt3BI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Rocky World; pg 72",
+      "name": "",
+      "_key": "!tables.results!qu0N89mnB5H7sV5n.vdJqWA9j8fGqt3BI"
+    },
+    {
+      "range": [
+        58,
+        68
+      ],
+      "_id": "3DcJ9A2axPgozhh2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Ice World; pg 56",
+      "name": "",
+      "_key": "!tables.results!qu0N89mnB5H7sV5n.3DcJ9A2axPgozhh2"
+    },
+    {
+      "range": [
+        69,
+        77
+      ],
+      "_id": "NzqhotH9bSkl1Pbd",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Desert World; pg 50",
+      "name": "",
+      "_key": "!tables.results!qu0N89mnB5H7sV5n.NzqhotH9bSkl1Pbd"
+    },
+    {
+      "range": [
+        78,
+        83
+      ],
+      "_id": "fw1302TsOrryS9FT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Ocean World;  pg 70",
+      "name": "",
+      "_key": "!tables.results!qu0N89mnB5H7sV5n.fw1302TsOrryS9FT"
+    },
+    {
+      "range": [
+        84,
+        89
+      ],
+      "_id": "8tJX2iPIolxr8mQZ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Tainted World; pg 76",
+      "name": "",
+      "_key": "!tables.results!qu0N89mnB5H7sV5n.8tJX2iPIolxr8mQZ"
+    },
+    {
+      "range": [
+        90,
+        96
+      ],
+      "_id": "I5Eu6mk9ScT0K31H",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Jungle World; pg 60",
+      "name": "",
+      "_key": "!tables.results!qu0N89mnB5H7sV5n.I5Eu6mk9ScT0K31H"
+    },
+    {
+      "range": [
+        97,
+        99
+      ],
+      "_id": "Vuq40FHaJzIowaRa",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Vital World; pg 80",
+      "name": "",
+      "_key": "!tables.results!qu0N89mnB5H7sV5n.Vuq40FHaJzIowaRa"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "PyBcqakeCoihNI1l",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Living World; pg 64",
+      "name": "",
+      "_key": "!tables.results!qu0N89mnB5H7sV5n.PyBcqakeCoihNI1l"
+    }
+  ],
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "GvsmSMYbvgjEYSQc",
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745011305477,
+    "modifiedTime": 1763687152486,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "qu0N89mnB5H7sV5n",
+  "sort": 200000,
+  "_key": "!tables!qu0N89mnB5H7sV5n"
+}

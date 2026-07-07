@@ -1,0 +1,79 @@
+{
+  "type": "asset",
+  "folder": "bOcZzkQSUb3oUpS2",
+  "name": "Chameleon Suit",
+  "system": {
+    "requirement": "",
+    "category": "Item - Apparel",
+    "color": "#3d8b8a",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>The suit is design to provide camouflage in a chosen environment. When you make a move leveraging the camouflage, you may preset your action die to 4.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>The suit's material allows for faster movement. When you make a move leveraging the camouflage and using speed, take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>The chameleon suit's camouflage shift to match any environment.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "description": "<p>You may use the suit to raise an invisibility cloak. If you do, roll +shadow or +wits. On a strong hit, set your cloak to 3. On a weak hit, make it 2. Then, when you make a move leveraging the invisibility, you may suffer -1 cloak to reroll any dice or -2 to take an automatic strong hit. The cloak can't be raised for 24 hours after depletion.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Cloak",
+      "current": 0,
+      "max": 3,
+      "value": 3,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "<p>An apparel that conceals the wearer.</p>"
+  },
+  "img": "modules/ancient-wonders/assets/invisible.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747105032411,
+    "modifiedTime": 1764468259479,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "LaMnHrR98eSKziLI",
+  "sort": 0,
+  "_key": "!items!LaMnHrR98eSKziLI"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Exploring A Megacity",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "nR1iJqDkm8MluDvh",
+  "description": "",
+  "folder": "0rjtJcrYPQODUijT",
+  "sort": 200000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": null,
+    "modifiedTime": 1746337614698,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!nR1iJqDkm8MluDvh"
+}

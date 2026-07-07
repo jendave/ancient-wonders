@@ -1,0 +1,22 @@
+{
+  "name": "Anomalies",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "dRrT6HWOTXN1ryOh",
+  "description": "",
+  "folder": "0JfjqLCYQkGLD6go",
+  "sort": 200000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746434450655,
+    "modifiedTime": 1746434450785,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!dRrT6HWOTXN1ryOh"
+}

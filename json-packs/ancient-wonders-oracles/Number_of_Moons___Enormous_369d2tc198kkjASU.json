@@ -1,0 +1,186 @@
+{
+  "name": "Number of Moons - Enormous",
+  "formula": "1d100",
+  "description": "<p>Use this oracle to define the number of moons of a planetary body.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "3dSD17nKxMqPViwq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Few",
+      "name": "",
+      "_key": "!tables.results!369d2tc198kkjASU.3dSD17nKxMqPViwq"
+    },
+    {
+      "range": [
+        3,
+        5
+      ],
+      "_id": "Tr6lHr7Q4D9K95Qv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Several",
+      "name": "",
+      "_key": "!tables.results!369d2tc198kkjASU.Tr6lHr7Q4D9K95Qv"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "kjj9sOpmDoiE27w8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Many",
+      "name": "",
+      "_key": "!tables.results!369d2tc198kkjASU.kjj9sOpmDoiE27w8"
+    },
+    {
+      "range": [
+        11,
+        30
+      ],
+      "_id": "lEQ8ePTgC06aaAYj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Numerous",
+      "name": "",
+      "_key": "!tables.results!369d2tc198kkjASU.lEQ8ePTgC06aaAYj"
+    },
+    {
+      "range": [
+        31,
+        90
+      ],
+      "_id": "t3yUXm8rUwhLtL9p",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abundant",
+      "name": "",
+      "_key": "!tables.results!369d2tc198kkjASU.t3yUXm8rUwhLtL9p"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "VGYAnFXB50iriGjy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Plethora",
+      "name": "",
+      "_key": "!tables.results!369d2tc198kkjASU.VGYAnFXB50iriGjy"
+    }
+  ],
+  "folder": "BrKmU9b5W958cT7l",
+  "sort": 7,
+  "_id": "369d2tc198kkjASU",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745085140307,
+    "modifiedTime": 1745085140307,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!369d2tc198kkjASU"
+}

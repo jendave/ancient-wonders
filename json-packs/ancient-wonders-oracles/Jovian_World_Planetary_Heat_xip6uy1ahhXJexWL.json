@@ -1,0 +1,108 @@
+{
+  "name": "Jovian World Planetary Heat",
+  "formula": "1d100",
+  "description": "<p>Use the table below if you are not using the Planetary Heat guidelines from Chapter 2 on page 26 and want to reveal the environment of the Jovian world surface entirely by random.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        33
+      ],
+      "_id": "isKFSwyglxmjuuWC",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hothouse (Furnace World); pg 53",
+      "name": "",
+      "_key": "!tables.results!xip6uy1ahhXJexWL.isKFSwyglxmjuuWC"
+    },
+    {
+      "range": [
+        34,
+        67
+      ],
+      "_id": "jpvUzHqueeUKcVUb",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bleak (Rocky World); pg 73",
+      "name": "",
+      "_key": "!tables.results!xip6uy1ahhXJexWL.jpvUzHqueeUKcVUb"
+    },
+    {
+      "range": [
+        68,
+        100
+      ],
+      "_id": "cD3ySpglQRnNqiUJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Frigid (Ice World); pg 57",
+      "name": "",
+      "_key": "!tables.results!xip6uy1ahhXJexWL.cD3ySpglQRnNqiUJ"
+    }
+  ],
+  "folder": "1sEBX1FLDXiTtSoT",
+  "sort": 7,
+  "_id": "xip6uy1ahhXJexWL",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745257769142,
+    "modifiedTime": 1745257769142,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!xip6uy1ahhXJexWL"
+}

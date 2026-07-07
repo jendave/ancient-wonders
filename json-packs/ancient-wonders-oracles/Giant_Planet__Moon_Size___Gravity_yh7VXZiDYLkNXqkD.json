@@ -1,0 +1,212 @@
+{
+  "name": "Giant Planet: Moon Size / Gravity",
+  "formula": "1d100",
+  "description": "<p>A moon is always smaller than the planetary body it orbits, so the moon size results are not equivalent of the planet size results. </p><p>Once you roll for the moon size, cross-reference it with the planetary body size to determine the moon base gravity. Then, roll the density to determine the gravity modifier.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "AwdhnZvQeyZ2IhGX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Minuscule / None",
+      "name": "",
+      "_key": "!tables.results!yh7VXZiDYLkNXqkD.AwdhnZvQeyZ2IhGX"
+    },
+    {
+      "range": [
+        11,
+        25
+      ],
+      "_id": "aYil5yfFJmN6xYvP",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Minute / Little",
+      "name": "",
+      "_key": "!tables.results!yh7VXZiDYLkNXqkD.aYil5yfFJmN6xYvP"
+    },
+    {
+      "range": [
+        26,
+        45
+      ],
+      "_id": "0yQUXs6pIqozfkvL",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Minor / Weak",
+      "name": "",
+      "_key": "!tables.results!yh7VXZiDYLkNXqkD.0yQUXs6pIqozfkvL"
+    },
+    {
+      "range": [
+        46,
+        70
+      ],
+      "_id": "PIc4siYa0m6MFQvk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Middling / Low",
+      "name": "",
+      "_key": "!tables.results!yh7VXZiDYLkNXqkD.PIc4siYa0m6MFQvk"
+    },
+    {
+      "range": [
+        76,
+        85
+      ],
+      "_id": "Lhp6Fnc1pmCX8BLF",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Major / Ideal",
+      "name": "",
+      "_key": "!tables.results!yh7VXZiDYLkNXqkD.Lhp6Fnc1pmCX8BLF"
+    },
+    {
+      "range": [
+        86,
+        95
+      ],
+      "_id": "cTatZvtc78VFLflU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gigantic / Ideal",
+      "name": "",
+      "_key": "!tables.results!yh7VXZiDYLkNXqkD.cTatZvtc78VFLflU"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "k4vAGNs2ikt9fW4Y",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Megalithic / Ideal",
+      "name": "",
+      "_key": "!tables.results!yh7VXZiDYLkNXqkD.k4vAGNs2ikt9fW4Y"
+    }
+  ],
+  "folder": "DB2UpdgI0lbafjLX",
+  "sort": 6,
+  "_id": "yh7VXZiDYLkNXqkD",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745094300359,
+    "modifiedTime": 1745094477889,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!yh7VXZiDYLkNXqkD"
+}

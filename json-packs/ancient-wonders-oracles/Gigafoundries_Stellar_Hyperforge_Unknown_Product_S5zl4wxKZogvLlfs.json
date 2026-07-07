@@ -1,0 +1,290 @@
+{
+  "name": "Gigafoundries Stellar Hyperforge Unknown Product",
+  "formula": "1d100",
+  "description": "<p>When you explore a stellar hyperforge and find something of value that was produced in or delivered to the foundry, use the oracles below. If you are familiar with the precursor technology, use the Known Product table; otherwise, roll on the Unknown Product table. Alternatively, if you know enough about the precursors, you may use both tables to envision an item more specifically.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "MGqX9s0Tk6jsrAMU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Agricultural",
+      "name": "",
+      "_key": "!tables.results!S5zl4wxKZogvLlfs.MGqX9s0Tk6jsrAMU"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "upxNZplOi4MhdIhy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Consumable",
+      "name": "",
+      "_key": "!tables.results!S5zl4wxKZogvLlfs.upxNZplOi4MhdIhy"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "aU7b4I3lwpA80WAy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Construction",
+      "name": "",
+      "_key": "!tables.results!S5zl4wxKZogvLlfs.aU7b4I3lwpA80WAy"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "sOTAgqKkbSYaGME7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Luxury",
+      "name": "",
+      "_key": "!tables.results!S5zl4wxKZogvLlfs.sOTAgqKkbSYaGME7"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "7jWgXalHC0k2wgt0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Medical",
+      "name": "",
+      "_key": "!tables.results!S5zl4wxKZogvLlfs.7jWgXalHC0k2wgt0"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "eRp9VSlVPwcXdG58",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Military",
+      "name": "",
+      "_key": "!tables.results!S5zl4wxKZogvLlfs.eRp9VSlVPwcXdG58"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "xyv4nNHwaXlQJBnL",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Religious",
+      "name": "",
+      "_key": "!tables.results!S5zl4wxKZogvLlfs.xyv4nNHwaXlQJBnL"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "cIpwY6lPJ69vNWI3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tool",
+      "name": "",
+      "_key": "!tables.results!S5zl4wxKZogvLlfs.cIpwY6lPJ69vNWI3"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "dGm5l5WjXRcAnCIn",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vehicle",
+      "name": "",
+      "_key": "!tables.results!S5zl4wxKZogvLlfs.dGm5l5WjXRcAnCIn"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "fjbgz9ux97Se9RGO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Descriptor + Focus;  pg  13",
+      "name": "",
+      "_key": "!tables.results!S5zl4wxKZogvLlfs.fjbgz9ux97Se9RGO"
+    }
+  ],
+  "folder": "4N9XKpVKJ6ajDuE3",
+  "sort": 0,
+  "_id": "S5zl4wxKZogvLlfs",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745895968170,
+    "modifiedTime": 1745895968170,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!S5zl4wxKZogvLlfs"
+}

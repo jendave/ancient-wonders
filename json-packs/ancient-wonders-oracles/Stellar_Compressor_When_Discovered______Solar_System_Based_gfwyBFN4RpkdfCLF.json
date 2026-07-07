@@ -1,0 +1,134 @@
+{
+  "name": "Stellar Compressor When Discovered... - Solar System Based",
+  "formula": "1d100",
+  "description": "<p>Mark the megastructure at the position of the stellar object. When rolling to determine the number of planets roll on the table below.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "Dt8tt1oSzOGXrHYz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Three",
+      "name": "",
+      "_key": "!tables.results!gfwyBFN4RpkdfCLF.Dt8tt1oSzOGXrHYz"
+    },
+    {
+      "range": [
+        11,
+        30
+      ],
+      "_id": "ODrktTLNhht60Juq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Four",
+      "name": "",
+      "_key": "!tables.results!gfwyBFN4RpkdfCLF.ODrktTLNhht60Juq"
+    },
+    {
+      "range": [
+        31,
+        60
+      ],
+      "_id": "EyAK898Jdl4a3Uwp",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Five",
+      "name": "",
+      "_key": "!tables.results!gfwyBFN4RpkdfCLF.EyAK898Jdl4a3Uwp"
+    },
+    {
+      "range": [
+        61,
+        100
+      ],
+      "_id": "lE7Dmroa3TFavfgA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Six",
+      "name": "",
+      "_key": "!tables.results!gfwyBFN4RpkdfCLF.lE7Dmroa3TFavfgA"
+    }
+  ],
+  "folder": "b5gYSZEdsP4VHIZT",
+  "sort": 4,
+  "_id": "gfwyBFN4RpkdfCLF",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746175532658,
+    "modifiedTime": 1746175532658,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!gfwyBFN4RpkdfCLF"
+}

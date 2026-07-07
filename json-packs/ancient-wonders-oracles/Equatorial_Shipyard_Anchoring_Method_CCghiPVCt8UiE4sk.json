@@ -1,0 +1,160 @@
+{
+  "name": "Equatorial Shipyard Anchoring Method",
+  "formula": "1d100",
+  "description": "<p>Use this table to identify how the equatorial shipyard is kept in its position around the host world.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        30
+      ],
+      "_id": "DqZzbZKucs54ylZs",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Colossal columns",
+      "name": "",
+      "_key": "!tables.results!CCghiPVCt8UiE4sk.DqZzbZKucs54ylZs"
+    },
+    {
+      "range": [
+        31,
+        55
+      ],
+      "_id": "yAHJ2GkcGRr2EgBh",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Countless tension cables",
+      "name": "",
+      "_key": "!tables.results!CCghiPVCt8UiE4sk.yAHJ2GkcGRr2EgBh"
+    },
+    {
+      "range": [
+        56,
+        75
+      ],
+      "_id": "F5LSMimaGEvrZxbk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enormous thrusters",
+      "name": "",
+      "_key": "!tables.results!CCghiPVCt8UiE4sk.F5LSMimaGEvrZxbk"
+    },
+    {
+      "range": [
+        76,
+        90
+      ],
+      "_id": "9LW8W7S552DPrh2C",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Powerful energy beams",
+      "name": "",
+      "_key": "!tables.results!CCghiPVCt8UiE4sk.9LW8W7S552DPrh2C"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "Lt1VAfOH6WZbGAty",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gravitational equilibrium",
+      "name": "",
+      "_key": "!tables.results!CCghiPVCt8UiE4sk.Lt1VAfOH6WZbGAty"
+    }
+  ],
+  "folder": "vwLllcMF8jEpu72a",
+  "sort": 0,
+  "_id": "CCghiPVCt8UiE4sk",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746145410496,
+    "modifiedTime": 1746145410496,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!CCghiPVCt8UiE4sk"
+}

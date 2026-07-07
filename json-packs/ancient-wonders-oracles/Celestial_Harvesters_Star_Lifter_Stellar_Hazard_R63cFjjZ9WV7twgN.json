@@ -1,0 +1,212 @@
+{
+  "name": "Celestial Harvesters Star Lifter Stellar Hazard",
+  "formula": "1d100",
+  "description": "<p>When you are in a sector containing an operational - or dysfunctional - star lifter, set a ten-segment tension clock. Once all segments are filled, the star lifter has drawn away enough of the star's mass that it creates a temporary, system-spanning hazard. Use the table below to identify it.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        20
+      ],
+      "_id": "un68gCb4MrcfqbfP",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blinding flashes of light",
+      "name": "",
+      "_key": "!tables.results!R63cFjjZ9WV7twgN.un68gCb4MrcfqbfP"
+    },
+    {
+      "range": [
+        21,
+        40
+      ],
+      "_id": "i87OIFkwUEoSI6QJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gargantuan solar flares",
+      "name": "",
+      "_key": "!tables.results!R63cFjjZ9WV7twgN.i87OIFkwUEoSI6QJ"
+    },
+    {
+      "range": [
+        41,
+        60
+      ],
+      "_id": "4E4SjTP25yRj3QjB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Powerful gravitational waves",
+      "name": "",
+      "_key": "!tables.results!R63cFjjZ9WV7twgN.4E4SjTP25yRj3QjB"
+    },
+    {
+      "range": [
+        61,
+        75
+      ],
+      "_id": "425A5T9suqoLV2L6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Turbulent energy storms",
+      "name": "",
+      "_key": "!tables.results!R63cFjjZ9WV7twgN.425A5T9suqoLV2L6"
+    },
+    {
+      "range": [
+        76,
+        85
+      ],
+      "_id": "0zd3RRm4FOxNcrfj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Volleys of super-heated meteors",
+      "name": "",
+      "_key": "!tables.results!R63cFjjZ9WV7twgN.0zd3RRm4FOxNcrfj"
+    },
+    {
+      "range": [
+        86,
+        95
+      ],
+      "_id": "GhYdKVQ8IwxQQULX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Beams of ionizing radiation",
+      "name": "",
+      "_key": "!tables.results!R63cFjjZ9WV7twgN.GhYdKVQ8IwxQQULX"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "3FBM1y0DHvqs54u8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unearthly screams",
+      "name": "",
+      "_key": "!tables.results!R63cFjjZ9WV7twgN.3FBM1y0DHvqs54u8"
+    }
+  ],
+  "folder": "FBOWDEOqGKqxiWo8",
+  "sort": 0,
+  "_id": "R63cFjjZ9WV7twgN",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745774400318,
+    "modifiedTime": 1745774400318,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!R63cFjjZ9WV7twgN"
+}

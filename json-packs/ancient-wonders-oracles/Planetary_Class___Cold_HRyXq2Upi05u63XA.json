@@ -1,0 +1,238 @@
+{
+  "name": "Planetary Class - Cold",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "BYAzjVxE0wPN3Ol6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jungle World",
+      "name": "",
+      "_key": "!tables.results!HRyXq2Upi05u63XA.BYAzjVxE0wPN3Ol6"
+    },
+    {
+      "range": [
+        6,
+        25
+      ],
+      "_id": "7W6MIy7CV3CJtwjv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ocean World",
+      "name": "",
+      "_key": "!tables.results!HRyXq2Upi05u63XA.7W6MIy7CV3CJtwjv"
+    },
+    {
+      "range": [
+        26,
+        57
+      ],
+      "_id": "dyEbKuNBCuVSKTOI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ice World",
+      "name": "",
+      "_key": "!tables.results!HRyXq2Upi05u63XA.dyEbKuNBCuVSKTOI"
+    },
+    {
+      "range": [
+        58,
+        72
+      ],
+      "_id": "BkDc3C698aqjn3T5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jovian World",
+      "name": "",
+      "_key": "!tables.results!HRyXq2Upi05u63XA.BkDc3C698aqjn3T5"
+    },
+    {
+      "range": [
+        73,
+        84
+      ],
+      "_id": "vI6bX1ZcWDgSmUXA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rocky World",
+      "name": "",
+      "_key": "!tables.results!HRyXq2Upi05u63XA.vI6bX1ZcWDgSmUXA"
+    },
+    {
+      "range": [
+        85,
+        94
+      ],
+      "_id": "fGJjVmLv68EUm3QU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tainted World",
+      "name": "",
+      "_key": "!tables.results!HRyXq2Upi05u63XA.fGJjVmLv68EUm3QU"
+    },
+    {
+      "range": [
+        95,
+        97
+      ],
+      "_id": "opYqHmiN2q7noj6e",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Grave World",
+      "name": "",
+      "_key": "!tables.results!HRyXq2Upi05u63XA.opYqHmiN2q7noj6e"
+    },
+    {
+      "range": [
+        98,
+        100
+      ],
+      "_id": "PRUILxZmlijA6C91",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shattered World",
+      "name": "",
+      "_key": "!tables.results!HRyXq2Upi05u63XA.PRUILxZmlijA6C91"
+    }
+  ],
+  "folder": "wE31YdvvmusUoeph",
+  "sort": 500000,
+  "_id": "HRyXq2Upi05u63XA",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>Use this oracle to determine the type of a world based on the heat level of its orbit if you are only using the planets from Starforged.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.HRyXq2Upi05u63XA",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743628362115,
+    "modifiedTime": 1743628935201,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!HRyXq2Upi05u63XA"
+}

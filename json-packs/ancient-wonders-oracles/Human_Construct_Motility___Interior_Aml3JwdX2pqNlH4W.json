@@ -1,0 +1,160 @@
+{
+  "name": "Human Construct Motility - Interior",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "sJuDtfRH2NA6xtfJ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Anti-gravity or exotic propulsion",
+      "name": "",
+      "_key": "!tables.results!Aml3JwdX2pqNlH4W.sJuDtfRH2NA6xtfJ"
+    },
+    {
+      "range": [
+        11,
+        40
+      ],
+      "_id": "D9JfEzECzt0unecp",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stationary",
+      "name": "",
+      "_key": "!tables.results!Aml3JwdX2pqNlH4W.D9JfEzECzt0unecp"
+    },
+    {
+      "range": [
+        41,
+        55
+      ],
+      "_id": "yqR1DEC1xti7nXJg",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tracked",
+      "name": "",
+      "_key": "!tables.results!Aml3JwdX2pqNlH4W.yqR1DEC1xti7nXJg"
+    },
+    {
+      "range": [
+        56,
+        94
+      ],
+      "_id": "jyVcmsxbZcBUJ7NR",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Legged",
+      "name": "",
+      "_key": "!tables.results!Aml3JwdX2pqNlH4W.jyVcmsxbZcBUJ7NR"
+    },
+    {
+      "range": [
+        95,
+        100
+      ],
+      "_id": "lw06OtGgBa8ox04N",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Wheeled",
+      "name": "",
+      "_key": "!tables.results!Aml3JwdX2pqNlH4W.lw06OtGgBa8ox04N"
+    }
+  ],
+  "folder": "J715TeOdqxPDq33D",
+  "sort": 1000000,
+  "_id": "Aml3JwdX2pqNlH4W",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.Aml3JwdX2pqNlH4W",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746413854523,
+    "modifiedTime": 1746413854523,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!Aml3JwdX2pqNlH4W"
+}

@@ -1,0 +1,108 @@
+{
+  "name": "Gigatransporter Vessel Platform Form",
+  "formula": "1d100",
+  "description": "<p>Use the following tables to determine the composition of the vessel of the gigatransporter. In addition to these, you may use the Shape oracle on page 102 to further detail it.</p><p>If the gigatransporter is a space elevator, Ask the Oracle (small chance) if it has an energy-based beam as a way of transfer instead of the traditional vessel. An energy-based beam does not feature Vessel Levels or Travel Duration, as the beam extends between the surface and orbital stations and provides near-instantaneous travel.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        33
+      ],
+      "_id": "XpJh85LNrc1az3ig",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Single platform",
+      "name": "",
+      "_key": "!tables.results!6OYPabytszIYXSzU.XpJh85LNrc1az3ig"
+    },
+    {
+      "range": [
+        34,
+        67
+      ],
+      "_id": "0If6hftmu85l4PGs",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Compartmentalized platform",
+      "name": "",
+      "_key": "!tables.results!6OYPabytszIYXSzU.0If6hftmu85l4PGs"
+    },
+    {
+      "range": [
+        68,
+        100
+      ],
+      "_id": "hMvCxiPb7dcsruXN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multiple individual platforms",
+      "name": "",
+      "_key": "!tables.results!6OYPabytszIYXSzU.hMvCxiPb7dcsruXN"
+    }
+  ],
+  "folder": "EOvZAxWNG3TxMOFL",
+  "sort": 2,
+  "_id": "6OYPabytszIYXSzU",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745558350975,
+    "modifiedTime": 1745558350975,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!6OYPabytszIYXSzU"
+}

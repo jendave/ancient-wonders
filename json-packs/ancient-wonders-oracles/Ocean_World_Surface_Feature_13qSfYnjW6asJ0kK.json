@@ -1,0 +1,264 @@
+{
+  "name": "Ocean World Surface Feature",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        4
+      ],
+      "_id": "hEw51FvQOS876MxY",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Brilliantly reflective waters",
+      "name": "",
+      "_key": "!tables.results!13qSfYnjW6asJ0kK.hEw51FvQOS876MxY"
+    },
+    {
+      "range": [
+        5,
+        8
+      ],
+      "_id": "h9QaybbdoNrCUyn8",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ceaseless rainfall",
+      "name": "",
+      "_key": "!tables.results!13qSfYnjW6asJ0kK.h9QaybbdoNrCUyn8"
+    },
+    {
+      "range": [
+        9,
+        12
+      ],
+      "_id": "XXPwq3Kud9D86Yvr",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glaring electrical storms",
+      "name": "",
+      "_key": "!tables.results!13qSfYnjW6asJ0kK.XXPwq3Kud9D86Yvr"
+    },
+    {
+      "range": [
+        13,
+        16
+      ],
+      "_id": "Y8SndPaEySaUc2UT",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Global hurricanes",
+      "name": "",
+      "_key": "!tables.results!13qSfYnjW6asJ0kK.Y8SndPaEySaUc2UT"
+    },
+    {
+      "range": [
+        17,
+        19
+      ],
+      "_id": "xNeBIJMuV2rreO2s",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Luminescent seas",
+      "name": "",
+      "_key": "!tables.results!13qSfYnjW6asJ0kK.xNeBIJMuV2rreO2s"
+    },
+    {
+      "range": [
+        20,
+        23
+      ],
+      "_id": "vTHbvapCbHxqBlVR",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ocean-spanning whirlpools",
+      "name": "",
+      "_key": "!tables.results!13qSfYnjW6asJ0kK.vTHbvapCbHxqBlVR"
+    },
+    {
+      "range": [
+        24,
+        27
+      ],
+      "_id": "S8Ip10Bgx4X87KNV",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unusually colored terrain or waters",
+      "name": "",
+      "_key": "!tables.results!13qSfYnjW6asJ0kK.S8Ip10Bgx4X87KNV"
+    },
+    {
+      "range": [
+        28,
+        32
+      ],
+      "_id": "zro2FjgbKjvYIJrg",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Visible oceanic currents",
+      "name": "",
+      "_key": "!tables.results!13qSfYnjW6asJ0kK.zro2FjgbKjvYIJrg"
+    },
+    {
+      "range": [
+        33,
+        100
+      ],
+      "_id": "ve7RNB4XJjAklYbA",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Biome Feature; next page",
+      "name": "",
+      "_key": "!tables.results!13qSfYnjW6asJ0kK.ve7RNB4XJjAklYbA"
+    }
+  ],
+  "folder": "0JRiZnm539EkbEnA",
+  "sort": 4,
+  "_id": "13qSfYnjW6asJ0kK",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745301207420,
+    "modifiedTime": 1745301207420,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!13qSfYnjW6asJ0kK"
+}

@@ -1,0 +1,524 @@
+{
+  "name": "Space Sightings (Expanse)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        3
+      ],
+      "_id": "JGENNAj26aqeqDku",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Settlement",
+      "name": "",
+      "_key": "!tables.results!k8SqRy8di38oCAiO.JGENNAj26aqeqDku"
+    },
+    {
+      "range": [
+        4,
+        6
+      ],
+      "_id": "By0aa4Xyx9uot4cr",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Starship",
+      "name": "",
+      "_key": "!tables.results!k8SqRy8di38oCAiO.By0aa4Xyx9uot4cr"
+    },
+    {
+      "range": [
+        7,
+        9
+      ],
+      "_id": "PX0eVIZ2fb8kOikd",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Derelict",
+      "name": "",
+      "_key": "!tables.results!k8SqRy8di38oCAiO.PX0eVIZ2fb8kOikd"
+    },
+    {
+      "range": [
+        10,
+        14
+      ],
+      "_id": "5AoQN4jWOnkSWxWV",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Precursor Vault",
+      "name": "",
+      "_key": "!tables.results!k8SqRy8di38oCAiO.5AoQN4jWOnkSWxWV"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "ZVH5h3thRlQHWt2P",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Creature",
+      "name": "",
+      "_key": "!tables.results!k8SqRy8di38oCAiO.ZVH5h3thRlQHWt2P"
+    },
+    {
+      "range": [
+        22,
+        29
+      ],
+      "_id": "Xk9GGZvpLhUK7c3a",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Descriptor + Focus; pg 13",
+      "name": "",
+      "_key": "!tables.results!k8SqRy8di38oCAiO.Xk9GGZvpLhUK7c3a"
+    },
+    {
+      "range": [
+        30,
+        38
+      ],
+      "_id": "iG5F4vMt28fmpzIy",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Debris Field: Mineral Asteroids",
+      "name": "",
+      "_key": "!tables.results!k8SqRy8di38oCAiO.iG5F4vMt28fmpzIy"
+    },
+    {
+      "range": [
+        39,
+        45
+      ],
+      "_id": "AKSHBeFeouatd1jG",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Debris Field: Frozen Asteroids",
+      "name": "",
+      "_key": "!tables.results!k8SqRy8di38oCAiO.AKSHBeFeouatd1jG"
+    },
+    {
+      "range": [
+        46,
+        51
+      ],
+      "_id": "6NKtgKcLq2GnBAsP",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Debris Field: Crystalline Asteroids",
+      "name": "",
+      "_key": "!tables.results!k8SqRy8di38oCAiO.6NKtgKcLq2GnBAsP"
+    },
+    {
+      "range": [
+        52,
+        57
+      ],
+      "_id": "bGU4KdsHa3nVMpfE",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Debris Field: Creature Boneyard",
+      "name": "",
+      "_key": "!tables.results!k8SqRy8di38oCAiO.bGU4KdsHa3nVMpfE"
+    },
+    {
+      "range": [
+        58,
+        63
+      ],
+      "_id": "VGb5YKNcg5agKu2c",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Debris Field: Metallic wreckage",
+      "name": "",
+      "_key": "!tables.results!k8SqRy8di38oCAiO.VGb5YKNcg5agKu2c"
+    },
+    {
+      "range": [
+        64,
+        66
+      ],
+      "_id": "sA7s5WHnGX4DmHkX",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large rogue asteroid",
+      "name": "",
+      "_key": "!tables.results!k8SqRy8di38oCAiO.sA7s5WHnGX4DmHkX"
+    },
+    {
+      "range": [
+        67,
+        69
+      ],
+      "_id": "7cm5f0KtTARYonIB",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Comet with a tail of ionized gas",
+      "name": "",
+      "_key": "!tables.results!k8SqRy8di38oCAiO.7cm5f0KtTARYonIB"
+    },
+    {
+      "range": [
+        70,
+        75
+      ],
+      "_id": "j3WErYBDfcmPnxJ1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fiery energy storm",
+      "name": "",
+      "_key": "!tables.results!k8SqRy8di38oCAiO.j3WErYBDfcmPnxJ1"
+    },
+    {
+      "range": [
+        76,
+        78
+      ],
+      "_id": "wODUQJ5Ttj3AOoMn",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chaotic meteoroid storm",
+      "name": "",
+      "_key": "!tables.results!k8SqRy8di38oCAiO.wODUQJ5Ttj3AOoMn"
+    },
+    {
+      "range": [
+        79,
+        83
+      ],
+      "_id": "afDNsUVm90M9N8Oq",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Turbulent gravitational wave",
+      "name": "",
+      "_key": "!tables.results!k8SqRy8di38oCAiO.afDNsUVm90M9N8Oq"
+    },
+    {
+      "range": [
+        84,
+        91
+      ],
+      "_id": "kfe28FTU6bXP2MTN",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dense nebula cloud",
+      "name": "",
+      "_key": "!tables.results!k8SqRy8di38oCAiO.kfe28FTU6bXP2MTN"
+    },
+    {
+      "range": [
+        92,
+        97
+      ],
+      "_id": "ycO1kKIS8wGOhXEx",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice",
+      "name": "",
+      "_key": "!tables.results!k8SqRy8di38oCAiO.ycO1kKIS8wGOhXEx"
+    },
+    {
+      "range": [
+        98,
+        100
+      ],
+      "_id": "yEdZRek3rodhzZQG",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll three times",
+      "name": "",
+      "_key": "!tables.results!k8SqRy8di38oCAiO.yEdZRek3rodhzZQG"
+    }
+  ],
+  "folder": "7uxBCFUpOp93TVqm",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743631003798,
+    "modifiedTime": 1744955111235,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "k8SqRy8di38oCAiO",
+  "sort": 400000,
+  "_key": "!tables!k8SqRy8di38oCAiO"
+}

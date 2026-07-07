@@ -1,0 +1,102 @@
+{
+  "name": "Furnace World Biome Diversity - Dwarf, lesser, small, medium",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        75
+      ],
+      "description": "Mono (one biome)",
+      "_id": "r4VcZKctSZ75XveJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CAf6jHEUFLPqaL0M.r4VcZKctSZ75XveJ"
+    },
+    {
+      "range": [
+        76,
+        90
+      ],
+      "description": "Simple (two biomes)",
+      "_id": "B0HBsfai4zhIGZjY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CAf6jHEUFLPqaL0M.B0HBsfai4zhIGZjY"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "description": "Diverse (three biomes)",
+      "_id": "TkEUrCldK5FKzaoG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CAf6jHEUFLPqaL0M.TkEUrCldK5FKzaoG"
+    }
+  ],
+  "folder": "LHnjnCnHvX1B9ly6",
+  "sort": 1,
+  "_id": "CAf6jHEUFLPqaL0M",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.5",
+    "createdTime": 1763675258098,
+    "modifiedTime": 1763675258098,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!tables!CAf6jHEUFLPqaL0M"
+}

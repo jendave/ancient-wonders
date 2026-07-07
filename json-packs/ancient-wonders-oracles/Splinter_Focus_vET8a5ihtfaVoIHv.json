@@ -1,0 +1,550 @@
+{
+  "name": "Splinter Focus",
+  "formula": "1d100",
+  "description": "<p>Use this oracle to determine the aspect of your character that the splinter affects when used.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "TVD2rrRNUHV4Lbuv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Accuracy",
+      "name": "",
+      "_key": "!tables.results!vET8a5ihtfaVoIHv.TVD2rrRNUHV4Lbuv"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "tYfBOV7wDnge1090",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Affability",
+      "name": "",
+      "_key": "!tables.results!vET8a5ihtfaVoIHv.tYfBOV7wDnge1090"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "wC4WPdzBE5BcKOoO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Awareness",
+      "name": "",
+      "_key": "!tables.results!vET8a5ihtfaVoIHv.wC4WPdzBE5BcKOoO"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "ocBz2zKQZKvN6ixg",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bravery",
+      "name": "",
+      "_key": "!tables.results!vET8a5ihtfaVoIHv.ocBz2zKQZKvN6ixg"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "XZx8Sh9qYVDyXaHT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deceitfulness",
+      "name": "",
+      "_key": "!tables.results!vET8a5ihtfaVoIHv.XZx8Sh9qYVDyXaHT"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "pyHrGw3ZMvlfqTx1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deviousness",
+      "name": "",
+      "_key": "!tables.results!vET8a5ihtfaVoIHv.pyHrGw3ZMvlfqTx1"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "cEnQBihhWQl3dTZ0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Devotion",
+      "name": "",
+      "_key": "!tables.results!vET8a5ihtfaVoIHv.cEnQBihhWQl3dTZ0"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "zaOFNsv8EqNhY7O1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dexterity",
+      "name": "",
+      "_key": "!tables.results!vET8a5ihtfaVoIHv.zaOFNsv8EqNhY7O1"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "Y97NPVs08rF3PZPG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Erudition",
+      "name": "",
+      "_key": "!tables.results!vET8a5ihtfaVoIHv.Y97NPVs08rF3PZPG"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "AE8xMGP3oiL13uHU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Examination",
+      "name": "",
+      "_key": "!tables.results!vET8a5ihtfaVoIHv.AE8xMGP3oiL13uHU"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "tPbtQwiBL2adcwx3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Finesse",
+      "name": "",
+      "_key": "!tables.results!vET8a5ihtfaVoIHv.tPbtQwiBL2adcwx3"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "6EmMA3ap79Yrp4aj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Force",
+      "name": "",
+      "_key": "!tables.results!vET8a5ihtfaVoIHv.6EmMA3ap79Yrp4aj"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "PoneK1btnxoRPhbT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hostility",
+      "name": "",
+      "_key": "!tables.results!vET8a5ihtfaVoIHv.PoneK1btnxoRPhbT"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "a1txDFeqejrwlonY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Learning",
+      "name": "",
+      "_key": "!tables.results!vET8a5ihtfaVoIHv.a1txDFeqejrwlonY"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "XsPmmNfEU3Crll6c",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Resistance",
+      "name": "",
+      "_key": "!tables.results!vET8a5ihtfaVoIHv.XsPmmNfEU3Crll6c"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "ylXwI6wu8q8hYh6j",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Resolve",
+      "name": "",
+      "_key": "!tables.results!vET8a5ihtfaVoIHv.ylXwI6wu8q8hYh6j"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "CxCr7xvCLx0oQxg9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Speed",
+      "name": "",
+      "_key": "!tables.results!vET8a5ihtfaVoIHv.CxCr7xvCLx0oQxg9"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "KAk5No80wGXPTncJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stamina",
+      "name": "",
+      "_key": "!tables.results!vET8a5ihtfaVoIHv.KAk5No80wGXPTncJ"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "HRvORW0YCwZX8i9e",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stealthiness",
+      "name": "",
+      "_key": "!tables.results!vET8a5ihtfaVoIHv.HRvORW0YCwZX8i9e"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "xaToUkWxestiPl3D",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Subtlety",
+      "name": "",
+      "_key": "!tables.results!vET8a5ihtfaVoIHv.xaToUkWxestiPl3D"
+    }
+  ],
+  "folder": "TeD2FCTVTXBuwiAN",
+  "sort": 2,
+  "_id": "vET8a5ihtfaVoIHv",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746467797038,
+    "modifiedTime": 1746467797038,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!vET8a5ihtfaVoIHv"
+}

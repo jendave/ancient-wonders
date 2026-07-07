@@ -1,0 +1,836 @@
+{
+  "name": "Major Splinter Bonus",
+  "formula": "1d100",
+  "description": "<p>When using this oracle to reveal the effect of a major splinter bonus, take note of the result by marking it on the SPLINTER card. Then, reference this table when using it. Alternatively, you can write the bonus in the card abbreviately, or combine both styles.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        3
+      ],
+      "_id": "mMpk93suD0ggyJcM",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Add +1. On a miss, reroll any challenge dice. On a strong hit, take +1 momentum.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.mMpk93suD0ggyJcM"
+    },
+    {
+      "range": [
+        4,
+        6
+      ],
+      "_id": "d1XBFiHQzuJWrOC6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Add +1. You may reroll any challenge dice. On a hit, take +2 momentum.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.d1XBFiHQzuJWrOC6"
+    },
+    {
+      "range": [
+        7,
+        9
+      ],
+      "_id": "FjiwKKVLs5BLo9QN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Add +1. You may reroll any challenge dice. On a strong hit, add +1 on your next move.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.FjiwKKVLs5BLo9QN"
+    },
+    {
+      "range": [
+        10,
+        12
+      ],
+      "_id": "kdOHWroH6u5bfEWG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Add +2. On a miss, reroll one challenge die. On a hit, take +1 momentum.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.kdOHWroH6u5bfEWG"
+    },
+    {
+      "range": [
+        13,
+        15
+      ],
+      "_id": "mtdpvtNXr8nyHwO4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Add +2. On a miss, reroll one challenge die. On a strong hit, take +2 momentum.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.mtdpvtNXr8nyHwO4"
+    },
+    {
+      "range": [
+        16,
+        18
+      ],
+      "_id": "0NvtS7YX86IUTA1C",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Add +2. On a strong hit, take +3 momentum and add +2 on your next move.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.0NvtS7YX86IUTA1C"
+    },
+    {
+      "range": [
+        19,
+        21
+      ],
+      "_id": "vKjAKM24KR3jdasQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Add +3. On a hit, add +1 on your next move. On a strong hit, take +2 momentum.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.vKjAKM24KR3jdasQ"
+    },
+    {
+      "range": [
+        22,
+        24
+      ],
+      "_id": "uOyIfXVvlimPQo91",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Add +3. On a hit, take +1 momentum and add +1 on your next move.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.uOyIfXVvlimPQo91"
+    },
+    {
+      "range": [
+        25,
+        27
+      ],
+      "_id": "BqY01Vm6IZWZOSV0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Add +3. On a strong hit, take +3 momentum and add +1 on your next move.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.BqY01Vm6IZWZOSV0"
+    },
+    {
+      "range": [
+        28,
+        30
+      ],
+      "_id": "8fjgidREo3jRjCuV",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Count a miss as a weak hit. Then, add +1 on your next move.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.8fjgidREo3jRjCuV"
+    },
+    {
+      "range": [
+        31,
+        33
+      ],
+      "_id": "17e48wSjN3zpRgS4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Count a miss as a weak hit. Then, take +3 momentum.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.17e48wSjN3zpRgS4"
+    },
+    {
+      "range": [
+        34,
+        36
+      ],
+      "_id": "fhstsV7sGXPjXJwg",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Count a weak hit as a strong hit. Then, add +1 on your next move.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.fhstsV7sGXPjXJwg"
+    },
+    {
+      "range": [
+        37,
+        39
+      ],
+      "_id": "lloO08XWBKjuu9Gx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Count a weak hit as a strong hit. Then, take +3 momentum.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.lloO08XWBKjuu9Gx"
+    },
+    {
+      "range": [
+        40,
+        42
+      ],
+      "_id": "jJO5Z1AeMLnpNJ6c",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lose Momentum (-1). Then, take an automatic strong hit, but still roll your action.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.jJO5Z1AeMLnpNJ6c"
+    },
+    {
+      "range": [
+        43,
+        45
+      ],
+      "_id": "evbNpfY9osRArq4X",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lose Momentum (-2). Then, choose one: Count a miss a weak hit or count a weak hit as a strong hit.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.evbNpfY9osRArq4X"
+    },
+    {
+      "range": [
+        46,
+        48
+      ],
+      "_id": "eO1dNmISOJippdJx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "On a miss, reroll any challenge dice. On a hit, add +2 on your next move.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.eO1dNmISOJippdJx"
+    },
+    {
+      "range": [
+        49,
+        51
+      ],
+      "_id": "SQEUBKilutS8cyW4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "On a miss, reroll any challenge dice. On a hit, add +2 on your next move. On a strong hit, take +1 momentum.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.SQEUBKilutS8cyW4"
+    },
+    {
+      "range": [
+        52,
+        54
+      ],
+      "_id": "9SueDenbkvHhG0A6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "On a miss, reroll any challenge dice. On a hit, take +3 momentum and add +1 on your next move.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.9SueDenbkvHhG0A6"
+    },
+    {
+      "range": [
+        55,
+        57
+      ],
+      "_id": "NaSmPtFzs9ABhmHq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "On a miss, reroll one challenge die. On a hit, add +2 on your next move. On a strong hit, take +3 momentum",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.NaSmPtFzs9ABhmHq"
+    },
+    {
+      "range": [
+        58,
+        60
+      ],
+      "_id": "QiPpeIFpGUJ5upuO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "On a miss, reroll one challenge die. On a hit, take +2 momentum. On a strong hit, add +2 on your next move.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.QiPpeIFpGUJ5upuO"
+    },
+    {
+      "range": [
+        61,
+        63
+      ],
+      "_id": "Qfoaop4euqFinDKK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll an extra challenge die and keep the two lowest. On a hit, add +1 on your next move. On a strong hit, take +2 momentum.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.Qfoaop4euqFinDKK"
+    },
+    {
+      "range": [
+        64,
+        66
+      ],
+      "_id": "H1ZiQtnQR6r9skwT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll an extra challenge die and keep the two lowest. On a hit, take +1 momentum and add +1 on your next move.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.H1ZiQtnQR6r9skwT"
+    },
+    {
+      "range": [
+        67,
+        69
+      ],
+      "_id": "HFKfKPjR7MucUFSV",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll an extra challenge die and keep the two lowest. On a strong hit, take +3 momentum and add +1 on your next move.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.HFKfKPjR7MucUFSV"
+    },
+    {
+      "range": [
+        70,
+        72
+      ],
+      "_id": "877GMWekycYLjpMy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take an automatic strong hit, but still roll your action. Then, Lose Momentum (-1).",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.877GMWekycYLjpMy"
+    },
+    {
+      "range": [
+        73,
+        75
+      ],
+      "_id": "Te1w3D6rTjs5pAna",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take an automatic strong hit, but still roll your action. Then, make a suffer move (-2).",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.Te1w3D6rTjs5pAna"
+    },
+    {
+      "range": [
+        76,
+        78
+      ],
+      "_id": "ibQX0712qmC5tUwO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You may reroll any challenge dice. On a hit, take +3 momentum. On a strong hit, add +1 on your next move.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.ibQX0712qmC5tUwO"
+    },
+    {
+      "range": [
+        79,
+        81
+      ],
+      "_id": "2tWD1Wn6ewJN1Abp",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You may reroll any challenge dice. On a strong hit, add +2 on your next move.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.2tWD1Wn6ewJN1Abp"
+    },
+    {
+      "range": [
+        82,
+        84
+      ],
+      "_id": "weNzdIWqV0nLilDX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You may reroll one challenge die. On a hit, add +2 on your next move. On a strong hit, take +2 momentum.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.weNzdIWqV0nLilDX"
+    },
+    {
+      "range": [
+        85,
+        87
+      ],
+      "_id": "NajawYIjiFnSx5Fz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You may reroll one challenge die. On a hit, take +1 momentum and add +2 on your next move.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.NajawYIjiFnSx5Fz"
+    },
+    {
+      "range": [
+        88,
+        90
+      ],
+      "_id": "qy0uLi6aBbYc5ozj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You may reroll one challenge die. On a strong hit, take +3 momentum and add +2 on your next move.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.qy0uLi6aBbYc5ozj"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "b8I4E2sxmymHz1QJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice and take both bonuses with two different focuses. If you decide to use the SPLINTER's power, choose which focus to use and which bonus to take. Discard the SPLINTER when you roll a 5 or 6 on your action die (instead of a 6) after resolving the move.",
+      "name": "",
+      "_key": "!tables.results!lnjKhQFqGQ1lByHM.b8I4E2sxmymHz1QJ"
+    }
+  ],
+  "folder": "TeD2FCTVTXBuwiAN",
+  "sort": 4,
+  "_id": "lnjKhQFqGQ1lByHM",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746467797038,
+    "modifiedTime": 1746467797038,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!lnjKhQFqGQ1lByHM"
+}

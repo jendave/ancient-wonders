@@ -1,0 +1,212 @@
+{
+  "name": "Gigatransporter Vessel Transport Duration - Mass Catapult",
+  "formula": "1d100",
+  "description": "<p>Transportation speed depends on the distance traveled and the efficiency of the gigatransporter. This table determines the end result.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "iBOtHKi18as8UCM5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Few minutes",
+      "name": "",
+      "_key": "!tables.results!Yrfwvjq0Y3K2LoyN.iBOtHKi18as8UCM5"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "YSNSrzVwm0MQjDzb",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Several minutes",
+      "name": "",
+      "_key": "!tables.results!Yrfwvjq0Y3K2LoyN.YSNSrzVwm0MQjDzb"
+    },
+    {
+      "range": [
+        16,
+        30
+      ],
+      "_id": "wZN4r4wSGBE4WkYq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Half an hour",
+      "name": "",
+      "_key": "!tables.results!Yrfwvjq0Y3K2LoyN.wZN4r4wSGBE4WkYq"
+    },
+    {
+      "range": [
+        31,
+        50
+      ],
+      "_id": "PC7j0AnRy7DnGBE1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An hour",
+      "name": "",
+      "_key": "!tables.results!Yrfwvjq0Y3K2LoyN.PC7j0AnRy7DnGBE1"
+    },
+    {
+      "range": [
+        51,
+        70
+      ],
+      "_id": "4eVOD7Qp0PPtQhtG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Couple hours",
+      "name": "",
+      "_key": "!tables.results!Yrfwvjq0Y3K2LoyN.4eVOD7Qp0PPtQhtG"
+    },
+    {
+      "range": [
+        71,
+        90
+      ],
+      "_id": "UWGKMZIfeiv7LG07",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Few hours",
+      "name": "",
+      "_key": "!tables.results!Yrfwvjq0Y3K2LoyN.UWGKMZIfeiv7LG07"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "leGnrfi5tsgg2keo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Several hours",
+      "name": "",
+      "_key": "!tables.results!Yrfwvjq0Y3K2LoyN.leGnrfi5tsgg2keo"
+    }
+  ],
+  "folder": "EOvZAxWNG3TxMOFL",
+  "sort": 5,
+  "_id": "Yrfwvjq0Y3K2LoyN",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745558350975,
+    "modifiedTime": 1745558350975,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!Yrfwvjq0Y3K2LoyN"
+}

@@ -1,0 +1,186 @@
+{
+  "name": "Ocean World Atmosphere",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        15
+      ],
+      "_id": "cXyiqnqbguoObjiw",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None / thin",
+      "name": "",
+      "_key": "!tables.results!moOgF0OzGddHet0j.cXyiqnqbguoObjiw"
+    },
+    {
+      "range": [
+        6,
+        20
+      ],
+      "_id": "LFeXVy1Aekhk3VHz",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Toxic",
+      "name": "",
+      "_key": "!tables.results!moOgF0OzGddHet0j.LFeXVy1Aekhk3VHz"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "DifIqF29hdXNCWbi",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrosive",
+      "name": "",
+      "_key": "!tables.results!moOgF0OzGddHet0j.DifIqF29hdXNCWbi"
+    },
+    {
+      "range": [
+        26,
+        60
+      ],
+      "_id": "GOx8jS33jTirDsAS",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Marginal",
+      "name": "",
+      "_key": "!tables.results!moOgF0OzGddHet0j.GOx8jS33jTirDsAS"
+    },
+    {
+      "range": [
+        61,
+        90
+      ],
+      "_id": "bQF9A3FV2EeXNP0u",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Breathable",
+      "name": "",
+      "_key": "!tables.results!moOgF0OzGddHet0j.bQF9A3FV2EeXNP0u"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "PVrRc9wvJXucZPnO",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ideal",
+      "name": "",
+      "_key": "!tables.results!moOgF0OzGddHet0j.PVrRc9wvJXucZPnO"
+    }
+  ],
+  "folder": "0JRiZnm539EkbEnA",
+  "sort": 6,
+  "_id": "moOgF0OzGddHet0j",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745301207420,
+    "modifiedTime": 1745301207420,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!moOgF0OzGddHet0j"
+}

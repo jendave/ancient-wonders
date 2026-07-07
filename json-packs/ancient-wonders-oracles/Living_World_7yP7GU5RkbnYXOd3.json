@@ -1,0 +1,22 @@
+{
+  "name": "Living World",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "7yP7GU5RkbnYXOd3",
+  "description": "",
+  "folder": "GvsmSMYbvgjEYSQc",
+  "sort": 1300000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": null,
+    "modifiedTime": 1745289001184,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!7yP7GU5RkbnYXOd3"
+}

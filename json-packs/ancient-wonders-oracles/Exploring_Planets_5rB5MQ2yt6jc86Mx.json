@@ -1,0 +1,22 @@
+{
+  "name": "Exploring Planets",
+  "sorting": "m",
+  "folder": "Oya0xgOo7UNRQ3hj",
+  "type": "RollTable",
+  "_id": "5rB5MQ2yt6jc86Mx",
+  "description": "",
+  "sort": 200000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743714697689,
+    "modifiedTime": 1744956999265,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!5rB5MQ2yt6jc86Mx"
+}

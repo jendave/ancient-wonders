@@ -1,0 +1,22 @@
+{
+  "name": "Alien Megacities",
+  "sorting": "m",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "0rjtJcrYPQODUijT",
+  "description": "",
+  "sort": 232813,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746298795638,
+    "modifiedTime": 1746413892669,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!0rjtJcrYPQODUijT"
+}

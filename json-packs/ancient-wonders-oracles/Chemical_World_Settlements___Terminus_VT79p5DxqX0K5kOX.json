@@ -1,0 +1,160 @@
+{
+  "name": "Chemical World Settlements - Terminus",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        80
+      ],
+      "_id": "eqDsbnuZ6VAs5ar1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!VT79p5DxqX0K5kOX.eqDsbnuZ6VAs5ar1"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "DuOiVKY9YQtltoBo",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orbital",
+      "name": "",
+      "_key": "!tables.results!VT79p5DxqX0K5kOX.DuOiVKY9YQtltoBo"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "tic6Q4xWa0mJRAfZ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Grounded",
+      "name": "",
+      "_key": "!tables.results!VT79p5DxqX0K5kOX.tic6Q4xWa0mJRAfZ"
+    },
+    {
+      "range": [
+        96,
+        98
+      ],
+      "_id": "GBRyRdLmgbHqzMRg",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multiple",
+      "name": "",
+      "_key": "!tables.results!VT79p5DxqX0K5kOX.GBRyRdLmgbHqzMRg"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "J3uPhz9vZeAsFYcd",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multiple in conflict",
+      "name": "",
+      "_key": "!tables.results!VT79p5DxqX0K5kOX.J3uPhz9vZeAsFYcd"
+    }
+  ],
+  "folder": "bfU9msCL4HxpF6vZ",
+  "sort": 500000,
+  "_id": "VT79p5DxqX0K5kOX",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745171240939,
+    "modifiedTime": 1745171240939,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!VT79p5DxqX0K5kOX"
+}

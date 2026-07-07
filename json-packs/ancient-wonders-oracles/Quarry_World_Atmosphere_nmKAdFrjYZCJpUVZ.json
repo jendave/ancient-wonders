@@ -1,0 +1,134 @@
+{
+  "name": "Quarry World Atmosphere",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "7dIE0QPgtEv3fY5g",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None / thin",
+      "name": "",
+      "_key": "!tables.results!nmKAdFrjYZCJpUVZ.7dIE0QPgtEv3fY5g"
+    },
+    {
+      "range": [
+        11,
+        55
+      ],
+      "_id": "umePH2TK43hpBLYn",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Toxic",
+      "name": "",
+      "_key": "!tables.results!nmKAdFrjYZCJpUVZ.umePH2TK43hpBLYn"
+    },
+    {
+      "range": [
+        56,
+        75
+      ],
+      "_id": "5YFxCwjyvydIpThN",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrosive",
+      "name": "",
+      "_key": "!tables.results!nmKAdFrjYZCJpUVZ.5YFxCwjyvydIpThN"
+    },
+    {
+      "range": [
+        76,
+        100
+      ],
+      "_id": "SZpevDVAVa7JSRVO",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Marginal",
+      "name": "",
+      "_key": "!tables.results!nmKAdFrjYZCJpUVZ.SZpevDVAVa7JSRVO"
+    }
+  ],
+  "folder": "wu8LWR0QyVGIqYXB",
+  "sort": 0,
+  "_id": "nmKAdFrjYZCJpUVZ",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745988464632,
+    "modifiedTime": 1745988464632,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!nmKAdFrjYZCJpUVZ"
+}

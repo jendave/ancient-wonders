@@ -1,0 +1,31 @@
+{
+  "name": "Oracle Quest - Stellar Engine",
+  "type": "script",
+  "scope": "global",
+  "author": "MmM06BuCrG9h1GLg",
+  "img": "icons/svg/dice-target.svg",
+  "command": "// Module macro code by David Hudson and licensed for use under the CC BY-NC-SA 4.0.\n\nasync function printMessage(message) {\n    let chatData = { content: message };\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\", \"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\nasync function rollOracle(tableID, lowerCase = true) {\n    let table = await fromUuid(tableID);\n    let roll = await table.roll();\n    let result = roll.results[0].text;\n\n    if (result.startsWith(\"@Compendium\")) {\n        table = await fromUuid(result.slice(1).replace(\"[\", \".\").split(\"]\")[0]);\n        roll = await table.roll();\n        result = roll.results[0].text;\n    }\n\n    if (result == \"Roll twice\") {\n        let results = [\"Roll twice\", \"Roll twice\"];\n        for (let index = 0; index < results.length; index++) {\n            let element = results[index];\n            do {\n                const table = await fromUuid(tableID);\n                let roll = await table.roll();\n                element = roll.results[0].text.toLowerCase();\n            } while (element == \"roll twice\");\n            results[index] = element;\n        };\n        result = results[0] + \" and \" + results[1];\n    }\n    return lowerCase ? result.toLowerCase() : result;\n};\n\nlet title = \"<h3><strong>Oracle Quest - Stellar Engine</strong></h3>\";\nlet message = \"A \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.165pYBMpRkAewRXO\") + \" faction and a \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.165pYBMpRkAewRXO\") + \" faction are vying for control of a solar system that is home to a stellar engine. One faction outwardly claims their reason to control the solar system and its megastructure is to \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.b347a87fb81a3abb\") + \" \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.0c5ce82c7adbb4e2\") + \" while the other has not publicly stated any motive. One of the factions is rumored to be behind the recent \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.g0ddwkBCCkseHNMz\") + \", using it as a way to somehow gain an advantage. Why do these groups wish to control the stellar engine? How will you help resolve the dispute?\"\n\n// Print the message\nprintMessage(title + message);",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747515879852,
+    "modifiedTime": 1747788026119,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "PUEmiqROG84g8Lji",
+  "sort": 1000000,
+  "_key": "!macros!PUEmiqROG84g8Lji"
+}

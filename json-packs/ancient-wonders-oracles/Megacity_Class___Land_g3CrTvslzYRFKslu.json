@@ -1,0 +1,134 @@
+{
+  "name": "Megacity Class - Land",
+  "formula": "1d100",
+  "description": "<p>Use this oracle to identify a megacity based on the surrounding environment.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "WIGaSgzkvAFzCAKg",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cloud City",
+      "name": "",
+      "_key": "!tables.results!g3CrTvslzYRFKslu.WIGaSgzkvAFzCAKg"
+    },
+    {
+      "range": [
+        6,
+        35
+      ],
+      "_id": "ZFJeegAc1hTs7znj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dome City",
+      "name": "",
+      "_key": "!tables.results!g3CrTvslzYRFKslu.ZFJeegAc1hTs7znj"
+    },
+    {
+      "range": [
+        36,
+        60
+      ],
+      "_id": "uavczKIlCW10Xrzb",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Megatall City",
+      "name": "",
+      "_key": "!tables.results!g3CrTvslzYRFKslu.uavczKIlCW10Xrzb"
+    },
+    {
+      "range": [
+        61,
+        100
+      ],
+      "_id": "oF2VKGunokIg8ZyJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Movable City",
+      "name": "",
+      "_key": "!tables.results!g3CrTvslzYRFKslu.oF2VKGunokIg8ZyJ"
+    }
+  ],
+  "folder": "mrregFSVf6r5mYLu",
+  "sort": 1,
+  "_id": "g3CrTvslzYRFKslu",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746313802515,
+    "modifiedTime": 1746313802515,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!g3CrTvslzYRFKslu"
+}

@@ -1,0 +1,134 @@
+{
+  "name": "Human Construct Motility - Air",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        20
+      ],
+      "_id": "4vkQwlXXQw9wbBnl",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Anti-gravity or exotic propulsion",
+      "name": "",
+      "_key": "!tables.results!BbLbtbYKOXQStIDD.4vkQwlXXQw9wbBnl"
+    },
+    {
+      "range": [
+        21,
+        50
+      ],
+      "_id": "Nlb7WYKLX3dkVPb1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Propeller or rotor",
+      "name": "",
+      "_key": "!tables.results!BbLbtbYKOXQStIDD.Nlb7WYKLX3dkVPb1"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "WmDiY8tf3D35l4WX",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stationary",
+      "name": "",
+      "_key": "!tables.results!BbLbtbYKOXQStIDD.WmDiY8tf3D35l4WX"
+    },
+    {
+      "range": [
+        56,
+        100
+      ],
+      "_id": "QfwXj5zahENEUNkA",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thrusters",
+      "name": "",
+      "_key": "!tables.results!BbLbtbYKOXQStIDD.QfwXj5zahENEUNkA"
+    }
+  ],
+  "folder": "J715TeOdqxPDq33D",
+  "sort": 750000,
+  "_id": "BbLbtbYKOXQStIDD",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.BbLbtbYKOXQStIDD",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746413854523,
+    "modifiedTime": 1746413854523,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!BbLbtbYKOXQStIDD"
+}

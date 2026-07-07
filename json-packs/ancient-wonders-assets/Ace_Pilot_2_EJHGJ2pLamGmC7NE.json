@@ -1,0 +1,88 @@
+{
+  "type": "asset",
+  "folder": "VGDM9gKIusGTm2DW",
+  "name": "Ace Pilot 2",
+  "system": {
+    "requirement": "",
+    "category": "Special Companion",
+    "color": "#3d8b8a",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": false,
+        "description": "<p>When the ace pilot makes a move by maneuvering a vehicle through an obstructed area, through a hazard, or out of harm's way, choose their approach and roll +integrity. If they @Compendium[foundry-ironsworn.starforgedmoves.Item.3782f1b3c8ca8b88]{Withstand Damage} as an outcome of this action, add +1.</p>\n<p>* Reckless: Add +2 and Lose Momentum (-1).</p>\n<p>* Focused: Take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When the ace pilot makes a move by making preparations for an expedition or by studying a chart, add +2 and take +1 momentum on a hit. Then, they may reroll any dice for the first leg of the journey as they @Compendium[foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition}.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When the ace pilot makes a move to navigate in any environment, they may rely on their intuition. If they do, roll +their spirit and @Compendium[foundry-ironsworn.starforgedmoves.Item.93d2d69b7e2b85e1]{Lose Momentum} (-1). When the ace pilot must @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} while piloting, you may roll +integrity. If you do, take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Spirit",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [
+      {
+        "name": "Shaken",
+        "ticked": false
+      }
+    ],
+    "description": ""
+  },
+  "img": "modules/ancient-wonders/assets/astronaut-helmet.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746689949031,
+    "modifiedTime": 1764466560213,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.331",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.2"
+    }
+  },
+  "_id": "EJHGJ2pLamGmC7NE",
+  "sort": 300000,
+  "_key": "!items!EJHGJ2pLamGmC7NE"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Item Assets",
+  "sorting": "m",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "Mld7zMDYjBECRgu8",
+  "description": "",
+  "sort": 233302,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.343",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746434798452,
+    "modifiedTime": 1747123838493,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!Mld7zMDYjBECRgu8"
+}

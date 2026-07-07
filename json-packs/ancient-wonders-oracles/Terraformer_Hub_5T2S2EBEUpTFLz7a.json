@@ -1,0 +1,22 @@
+{
+  "name": "Terraformer Hub",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "5T2S2EBEUpTFLz7a",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 2900000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746259394481,
+    "modifiedTime": 1746259394691,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!5T2S2EBEUpTFLz7a"
+}

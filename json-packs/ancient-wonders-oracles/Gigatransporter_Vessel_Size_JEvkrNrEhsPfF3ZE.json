@@ -1,0 +1,108 @@
+{
+  "name": "Gigatransporter Vessel Size",
+  "formula": "1d100",
+  "description": "<p>Use the following tables to determine the composition of the vessel of the gigatransporter. In addition to these, you may use the Shape oracle on page 102 to further detail it.</p><p>If the gigatransporter is a space elevator, Ask the Oracle (small chance) if it has an energy-based beam as a way of transfer instead of the traditional vessel. An energy-based beam does not feature Vessel Levels or Travel Duration, as the beam extends between the surface and orbital stations and provides near-instantaneous travel.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        70
+      ],
+      "_id": "usYd1LoI1BWvg7BS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large (vehicle-sized)",
+      "name": "",
+      "_key": "!tables.results!JEvkrNrEhsPfF3ZE.usYd1LoI1BWvg7BS"
+    },
+    {
+      "range": [
+        71,
+        95
+      ],
+      "_id": "l8JdZy7bMReTlDI7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Huge (whale-sized)",
+      "name": "",
+      "_key": "!tables.results!JEvkrNrEhsPfF3ZE.l8JdZy7bMReTlDI7"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "05egwz61IjEEuxkJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Titanic (hill-sized)",
+      "name": "",
+      "_key": "!tables.results!JEvkrNrEhsPfF3ZE.05egwz61IjEEuxkJ"
+    }
+  ],
+  "folder": "EOvZAxWNG3TxMOFL",
+  "sort": 0,
+  "_id": "JEvkrNrEhsPfF3ZE",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745558350975,
+    "modifiedTime": 1745558350975,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!JEvkrNrEhsPfF3ZE"
+}

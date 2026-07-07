@@ -1,0 +1,22 @@
+{
+  "name": "Shipyards",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "vwLllcMF8jEpu72a",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 2700000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746145410403,
+    "modifiedTime": 1746145410584,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!vwLllcMF8jEpu72a"
+}

@@ -1,0 +1,108 @@
+{
+  "name": "Rocky World Biome Diversity - Massive, titanic, colossal, vast",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        15
+      ],
+      "_id": "MaNMZRikYOZ4h1NK",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mono (one biome)",
+      "name": "",
+      "_key": "!tables.results!T1dEU7n8qY9nkAbt.MaNMZRikYOZ4h1NK"
+    },
+    {
+      "range": [
+        16,
+        50
+      ],
+      "_id": "fYJsu7bvCkzYxxK5",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Simple (two biomes)",
+      "name": "",
+      "_key": "!tables.results!T1dEU7n8qY9nkAbt.fYJsu7bvCkzYxxK5"
+    },
+    {
+      "range": [
+        51,
+        100
+      ],
+      "_id": "VwQTdQkTQwB2jyu4",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Diverse (three biomes)",
+      "name": "",
+      "_key": "!tables.results!T1dEU7n8qY9nkAbt.VwQTdQkTQwB2jyu4"
+    }
+  ],
+  "folder": "jgZy24x8EAmoCjSL",
+  "sort": 3,
+  "_id": "T1dEU7n8qY9nkAbt",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745348324737,
+    "modifiedTime": 1745348324737,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!T1dEU7n8qY9nkAbt"
+}

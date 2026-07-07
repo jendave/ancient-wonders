@@ -1,0 +1,654 @@
+{
+  "name": "Anomalous World Surface Feature",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        4
+      ],
+      "_id": "T49VLvoAY3DXFob9",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Backward flowing waterways",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.T49VLvoAY3DXFob9"
+    },
+    {
+      "range": [
+        5,
+        8
+      ],
+      "_id": "PfIau0Ru6krQTmqV",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enormous hovering islands",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.PfIau0Ru6krQTmqV"
+    },
+    {
+      "range": [
+        9,
+        12
+      ],
+      "_id": "rnkRdGh5LTCFgYbN",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Floating luminous rings",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.rnkRdGh5LTCFgYbN"
+    },
+    {
+      "range": [
+        13,
+        16
+      ],
+      "_id": "bOAHaF9rUqM6L4bL",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Forests of foreboding monoliths",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.bOAHaF9rUqM6L4bL"
+    },
+    {
+      "range": [
+        17,
+        20
+      ],
+      "_id": "gqC27TrCr7dftsLk",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fractal cliffs or canyons",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.gqC27TrCr7dftsLk"
+    },
+    {
+      "range": [
+        21,
+        24
+      ],
+      "_id": "cigCSMczhJXNSnfB",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geometric tunnels networks",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.cigCSMczhJXNSnfB"
+    },
+    {
+      "range": [
+        25,
+        28
+      ],
+      "_id": "elo7N0PneAzPC1uf",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gravitational abnormalities",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.elo7N0PneAzPC1uf"
+    },
+    {
+      "range": [
+        29,
+        32
+      ],
+      "_id": "rR1li84IEGzBxHWf",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Higher-dimensional landscape",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.rR1li84IEGzBxHWf"
+    },
+    {
+      "range": [
+        33,
+        36
+      ],
+      "_id": "0XAkcgcvqjjjo95T",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Howling portals",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.0XAkcgcvqjjjo95T"
+    },
+    {
+      "range": [
+        37,
+        40
+      ],
+      "_id": "u3K6ndiZX1ER8tqo",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impossible geometries",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.u3K6ndiZX1ER8tqo"
+    },
+    {
+      "range": [
+        41,
+        44
+      ],
+      "_id": "sbgM3LM2qdPSmfqu",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Inverted mountains",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.sbgM3LM2qdPSmfqu"
+    },
+    {
+      "range": [
+        45,
+        48
+      ],
+      "_id": "71S4t9BarAqZmS2u",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Iridescent sky or terrain",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.71S4t9BarAqZmS2u"
+    },
+    {
+      "range": [
+        49,
+        52
+      ],
+      "_id": "BqZJZQw3RXQGa7kr",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oceans of exotic matter",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.BqZJZQw3RXQGa7kr"
+    },
+    {
+      "range": [
+        53,
+        56
+      ],
+      "_id": "6euKAkEINSRGNZK7",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oscillating hills or valleys",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.6euKAkEINSRGNZK7"
+    },
+    {
+      "range": [
+        57,
+        60
+      ],
+      "_id": "QZra1NPbPRKosjz3",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Perfectly smooth plains",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.QZra1NPbPRKosjz3"
+    },
+    {
+      "range": [
+        61,
+        64
+      ],
+      "_id": "qMEL1si8Sk0fAVHX",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rapidly evolving landscape",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.qMEL1si8Sk0fAVHX"
+    },
+    {
+      "range": [
+        65,
+        68
+      ],
+      "_id": "YROdRjJ9zjRf05s2",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roaming spectral visages",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.YROdRjJ9zjRf05s2"
+    },
+    {
+      "range": [
+        69,
+        72
+      ],
+      "_id": "Fto8AN4dVOvepZz6",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Symmetrically aligned flora",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.Fto8AN4dVOvepZz6"
+    },
+    {
+      "range": [
+        73,
+        76
+      ],
+      "_id": "YO9IZhVxjA4NBHDe",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Teleporting or phasing landscape",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.YO9IZhVxjA4NBHDe"
+    },
+    {
+      "range": [
+        77,
+        80
+      ],
+      "_id": "ucVB97m0Qt7QoNC5",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Temporal fluctuations",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.ucVB97m0Qt7QoNC5"
+    },
+    {
+      "range": [
+        81,
+        84
+      ],
+      "_id": "b6sfdxICcpmvNAn2",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thick waterlike clouds",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.b6sfdxICcpmvNAn2"
+    },
+    {
+      "range": [
+        85,
+        88
+      ],
+      "_id": "z3Vt995AYVJnEA2K",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vast floating oceans or seas",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.z3Vt995AYVJnEA2K"
+    },
+    {
+      "range": [
+        89,
+        92
+      ],
+      "_id": "Y7Qt45HbxLADA1q9",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Whispering mists",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.Y7Qt45HbxLADA1q9"
+    },
+    {
+      "range": [
+        93,
+        100
+      ],
+      "_id": "AZEBBrtSv7pnHK4l",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Extraplanetary Biome",
+      "name": "",
+      "_key": "!tables.results!1ioUzLwA0CHBnBBv.AZEBBrtSv7pnHK4l"
+    }
+  ],
+  "folder": "91H7T7JzC66KlbXd",
+  "sort": 6,
+  "_id": "1ioUzLwA0CHBnBBv",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745107454163,
+    "modifiedTime": 1745107454163,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!1ioUzLwA0CHBnBBv"
+}

@@ -1,0 +1,79 @@
+{
+  "type": "asset",
+  "folder": "bOcZzkQSUb3oUpS2",
+  "name": "Medicine",
+  "system": {
+    "requirement": "",
+    "category": "Item - Consumable",
+    "color": "#3d8b8a",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.2051538f0c9d5d27]{Heal} using the medicine, add +2 and suffer -1 use.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.2051538f0c9d5d27]{Heal} using the medicine and score a weak hit, its chemicals lessen the time needed to heal and any need to use additional supplies; make the cost -1 instead of -2.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>If you are wounded and @Compendium[foundry-ironsworn.starforgedmoves.Item.2051538f0c9d5d27]{Heal} using the medicine, smart chemicals detect the physical injury and act immediately to heal it; take an automatic strong hit, but take or give +1 health instead of +2.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "description": "<p>The medicine remains effective for 24 hours after being consumed. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.905205c073b09eac]{Endure Harm} during that time, add +1 and choose one after resolving the move.</p>\n  <ul>\n  <li>Take +2 momentum</li>\n  <li>Add +1 on your next move (not a progress move)</li>\n  </ul>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Use",
+      "current": 0,
+      "max": 3,
+      "value": 3,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "<p>A drug that rapidly heals the user.</p>"
+  },
+  "img": "modules/ancient-wonders/assets/pill.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747108739704,
+    "modifiedTime": 1764468495259,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "RU0sZzx09dthp0zh",
+  "sort": 0,
+  "_key": "!items!RU0sZzx09dthp0zh"
+}

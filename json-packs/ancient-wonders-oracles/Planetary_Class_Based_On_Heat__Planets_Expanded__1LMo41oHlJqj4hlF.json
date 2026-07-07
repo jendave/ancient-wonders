@@ -1,0 +1,22 @@
+{
+  "name": "Planetary Class Based On Heat (Planets Expanded)",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "1LMo41oHlJqj4hlF",
+  "description": "",
+  "folder": "xBUbGBopyTt29OA3",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743629622748,
+    "modifiedTime": 1744956529860,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!1LMo41oHlJqj4hlF"
+}

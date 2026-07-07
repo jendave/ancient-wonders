@@ -1,0 +1,160 @@
+{
+  "name": "Nezzarine Garden Atmosphere",
+  "formula": "1d100",
+  "description": "<p>Use the following tables to determine the atmosphere and the presence of life. Any human attempt to settle in a Nezzarine garden has been unsuccessful.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        40
+      ],
+      "_id": "d2QT7DDC3iLm2FiX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Toxic",
+      "name": "",
+      "_key": "!tables.results!SAnNjIHezoLTsL4p.d2QT7DDC3iLm2FiX"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "24ngw6IcYWWEq6so",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrosive",
+      "name": "",
+      "_key": "!tables.results!SAnNjIHezoLTsL4p.24ngw6IcYWWEq6so"
+    },
+    {
+      "range": [
+        46,
+        70
+      ],
+      "_id": "VlTEmZ9jZa4sD6wP",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Marginal",
+      "name": "",
+      "_key": "!tables.results!SAnNjIHezoLTsL4p.VlTEmZ9jZa4sD6wP"
+    },
+    {
+      "range": [
+        71,
+        90
+      ],
+      "_id": "v9a12lcZsM03WKf6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Breathable",
+      "name": "",
+      "_key": "!tables.results!SAnNjIHezoLTsL4p.v9a12lcZsM03WKf6"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "rIbR5Uq4VLCX2BqA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ideal",
+      "name": "",
+      "_key": "!tables.results!SAnNjIHezoLTsL4p.rIbR5Uq4VLCX2BqA"
+    }
+  ],
+  "folder": "UefPzgMooIyfKZHN",
+  "sort": 0,
+  "_id": "SAnNjIHezoLTsL4p",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745954179627,
+    "modifiedTime": 1745954179627,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!SAnNjIHezoLTsL4p"
+}

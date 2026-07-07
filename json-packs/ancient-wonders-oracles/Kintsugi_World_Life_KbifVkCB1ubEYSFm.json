@@ -1,0 +1,186 @@
+{
+  "name": "Kintsugi World Life",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "h1xVL2ZySkoHwMdq",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!KbifVkCB1ubEYSFm.h1xVL2ZySkoHwMdq"
+    },
+    {
+      "range": [
+        11,
+        25
+      ],
+      "_id": "gN2hlspaQLp8TKMT",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extinct",
+      "name": "",
+      "_key": "!tables.results!KbifVkCB1ubEYSFm.gN2hlspaQLp8TKMT"
+    },
+    {
+      "range": [
+        26,
+        45
+      ],
+      "_id": "Js3QJWbB4JMOB16D",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scarce",
+      "name": "",
+      "_key": "!tables.results!KbifVkCB1ubEYSFm.Js3QJWbB4JMOB16D"
+    },
+    {
+      "range": [
+        46,
+        75
+      ],
+      "_id": "ceh1hs0DQdwn4qDn",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Diverse",
+      "name": "",
+      "_key": "!tables.results!KbifVkCB1ubEYSFm.ceh1hs0DQdwn4qDn"
+    },
+    {
+      "range": [
+        76,
+        90
+      ],
+      "_id": "l2hkswaECLeQBGcz",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bountiful",
+      "name": "",
+      "_key": "!tables.results!KbifVkCB1ubEYSFm.l2hkswaECLeQBGcz"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "4k29u7BWHuSlzjfV",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overrun",
+      "name": "",
+      "_key": "!tables.results!KbifVkCB1ubEYSFm.4k29u7BWHuSlzjfV"
+    }
+  ],
+  "folder": "QYJDtxrcH8LiBWBc",
+  "sort": 4,
+  "_id": "KbifVkCB1ubEYSFm",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745897702899,
+    "modifiedTime": 1745897702899,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!KbifVkCB1ubEYSFm"
+}

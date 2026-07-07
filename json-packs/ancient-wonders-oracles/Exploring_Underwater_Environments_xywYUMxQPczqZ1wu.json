@@ -1,0 +1,22 @@
+{
+  "name": "Exploring Underwater Environments",
+  "sorting": "m",
+  "folder": "Oya0xgOo7UNRQ3hj",
+  "type": "RollTable",
+  "_id": "xywYUMxQPczqZ1wu",
+  "description": "",
+  "sort": 300000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": null,
+    "modifiedTime": 1744956992607,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!xywYUMxQPczqZ1wu"
+}

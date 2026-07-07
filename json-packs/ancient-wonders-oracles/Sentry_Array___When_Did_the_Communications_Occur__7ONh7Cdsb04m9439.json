@@ -1,0 +1,186 @@
+{
+  "name": "Sentry Array - When Did the Communications Occur?",
+  "formula": "1d100",
+  "description": "<p>While you may use the megastructure to access any presently occurring communications, you may wish to access its vast archive of those that have occurred previously. When doing so, use the table below to determine how long ago these communications occurred.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "JKO1sybCk6qu12tY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Distant past",
+      "name": "",
+      "_key": "!tables.results!7ONh7Cdsb04m9439.JKO1sybCk6qu12tY"
+    },
+    {
+      "range": [
+        3,
+        10
+      ],
+      "_id": "NGeetYris5b1bb8I",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Years ago",
+      "name": "",
+      "_key": "!tables.results!7ONh7Cdsb04m9439.NGeetYris5b1bb8I"
+    },
+    {
+      "range": [
+        11,
+        30
+      ],
+      "_id": "CeguIsE1vK5S8KAP",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Months ago",
+      "name": "",
+      "_key": "!tables.results!7ONh7Cdsb04m9439.CeguIsE1vK5S8KAP"
+    },
+    {
+      "range": [
+        31,
+        55
+      ],
+      "_id": "30lPNpwxbXngHAEj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weeks ago",
+      "name": "",
+      "_key": "!tables.results!7ONh7Cdsb04m9439.30lPNpwxbXngHAEj"
+    },
+    {
+      "range": [
+        56,
+        85
+      ],
+      "_id": "lYuwwNfygasccdjP",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Days ago",
+      "name": "",
+      "_key": "!tables.results!7ONh7Cdsb04m9439.lYuwwNfygasccdjP"
+    },
+    {
+      "range": [
+        86,
+        100
+      ],
+      "_id": "9oE8jnvZAKls3gYY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hours ago",
+      "name": "",
+      "_key": "!tables.results!7ONh7Cdsb04m9439.9oE8jnvZAKls3gYY"
+    }
+  ],
+  "folder": "DE7yHGzN4LKJqDV8",
+  "sort": 0,
+  "_id": "7ONh7Cdsb04m9439",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1746060648341,
+    "modifiedTime": 1746060648341,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!7ONh7Cdsb04m9439"
+}

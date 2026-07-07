@@ -1,0 +1,160 @@
+{
+  "name": "Shattered World Settlements - Terminus",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        70
+      ],
+      "_id": "1YAivRr2mYgKzfAL",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!gJROu2X1CUqMwXjJ.1YAivRr2mYgKzfAL"
+    },
+    {
+      "range": [
+        71,
+        90
+      ],
+      "_id": "axHDtzpmmw4M8mrs",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orbital",
+      "name": "",
+      "_key": "!tables.results!gJROu2X1CUqMwXjJ.axHDtzpmmw4M8mrs"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "QxJEr5TRMIWIkEJB",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Grounded",
+      "name": "",
+      "_key": "!tables.results!gJROu2X1CUqMwXjJ.QxJEr5TRMIWIkEJB"
+    },
+    {
+      "range": [
+        96,
+        98
+      ],
+      "_id": "14pEeCNZPHhPydPd",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multiple",
+      "name": "",
+      "_key": "!tables.results!gJROu2X1CUqMwXjJ.14pEeCNZPHhPydPd"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "z92hIv19nVSCFnPw",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multiple in conflict",
+      "name": "",
+      "_key": "!tables.results!gJROu2X1CUqMwXjJ.z92hIv19nVSCFnPw"
+    }
+  ],
+  "folder": "OUXtiYi9GdiVvewP",
+  "sort": 3,
+  "_id": "gJROu2X1CUqMwXjJ",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745371677905,
+    "modifiedTime": 1745371677905,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!gJROu2X1CUqMwXjJ"
+}

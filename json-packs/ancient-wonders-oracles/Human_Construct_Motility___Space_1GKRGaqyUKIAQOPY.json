@@ -1,0 +1,108 @@
+{
+  "name": "Human Construct Motility - Space",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        20
+      ],
+      "_id": "eu80bPI0U69fNbUI",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Anti-gravity or exotic propulsion",
+      "name": "",
+      "_key": "!tables.results!1GKRGaqyUKIAQOPY.eu80bPI0U69fNbUI"
+    },
+    {
+      "range": [
+        21,
+        50
+      ],
+      "_id": "68JlHeK7NeZj4LGX",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stationary",
+      "name": "",
+      "_key": "!tables.results!1GKRGaqyUKIAQOPY.68JlHeK7NeZj4LGX"
+    },
+    {
+      "range": [
+        51,
+        100
+      ],
+      "_id": "KxxvPtJFuPESFt8x",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thrusters",
+      "name": "",
+      "_key": "!tables.results!1GKRGaqyUKIAQOPY.KxxvPtJFuPESFt8x"
+    }
+  ],
+  "folder": "J715TeOdqxPDq33D",
+  "sort": 700000,
+  "_id": "1GKRGaqyUKIAQOPY",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.1GKRGaqyUKIAQOPY",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746413854523,
+    "modifiedTime": 1746413854523,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!1GKRGaqyUKIAQOPY"
+}

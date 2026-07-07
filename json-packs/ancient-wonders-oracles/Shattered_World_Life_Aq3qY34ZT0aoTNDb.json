@@ -1,0 +1,134 @@
+{
+  "name": "Shattered World Life",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        30
+      ],
+      "_id": "pPw51scsrCnYdGQe",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!Aq3qY34ZT0aoTNDb.pPw51scsrCnYdGQe"
+    },
+    {
+      "range": [
+        31,
+        85
+      ],
+      "_id": "2FFfqVwi6usLxvnn",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extinct",
+      "name": "",
+      "_key": "!tables.results!Aq3qY34ZT0aoTNDb.2FFfqVwi6usLxvnn"
+    },
+    {
+      "range": [
+        86,
+        95
+      ],
+      "_id": "YX59JiJe1Cd4ehYh",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scarce",
+      "name": "",
+      "_key": "!tables.results!Aq3qY34ZT0aoTNDb.YX59JiJe1Cd4ehYh"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "IHXCKo8nv8CLDeg8",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Diverse",
+      "name": "",
+      "_key": "!tables.results!Aq3qY34ZT0aoTNDb.IHXCKo8nv8CLDeg8"
+    }
+  ],
+  "folder": "OUXtiYi9GdiVvewP",
+  "sort": 2,
+  "_id": "Aq3qY34ZT0aoTNDb",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745371677905,
+    "modifiedTime": 1745371677905,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!Aq3qY34ZT0aoTNDb"
+}

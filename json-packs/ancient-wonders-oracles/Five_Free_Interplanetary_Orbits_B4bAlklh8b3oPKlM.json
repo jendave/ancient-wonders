@@ -1,0 +1,160 @@
+{
+  "name": "Five Free Interplanetary Orbits",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        20
+      ],
+      "_id": "RzSbHmqkGNRPNz1X",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1st",
+      "name": "",
+      "_key": "!tables.results!B4bAlklh8b3oPKlM.RzSbHmqkGNRPNz1X"
+    },
+    {
+      "range": [
+        21,
+        40
+      ],
+      "_id": "u9W1eR9kDqquxVVK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "2nd",
+      "name": "",
+      "_key": "!tables.results!B4bAlklh8b3oPKlM.u9W1eR9kDqquxVVK"
+    },
+    {
+      "range": [
+        41,
+        60
+      ],
+      "_id": "gZgyyTWfM7n5gFKS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "3rd",
+      "name": "",
+      "_key": "!tables.results!B4bAlklh8b3oPKlM.gZgyyTWfM7n5gFKS"
+    },
+    {
+      "range": [
+        61,
+        80
+      ],
+      "_id": "oUf9a8QHdIQHz25w",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "4th",
+      "name": "",
+      "_key": "!tables.results!B4bAlklh8b3oPKlM.oUf9a8QHdIQHz25w"
+    },
+    {
+      "range": [
+        81,
+        100
+      ],
+      "_id": "iMxmX7FFANsJaDTE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "5th",
+      "name": "",
+      "_key": "!tables.results!B4bAlklh8b3oPKlM.iMxmX7FFANsJaDTE"
+    }
+  ],
+  "folder": "n1wD9gOCs9ChodDF",
+  "sort": 100000,
+  "_id": "B4bAlklh8b3oPKlM",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>Use this oracle to determine the placement of an asteroid belt around its star. To use it...</p><ul><li>Calculate the number of orbits that are currently free - in which no asteroid belt or megastructure has been marked - and reference the corresponding column.</li><li>Mark the asteroid belt in the resulting free interplanetary orbit. These are numbered as per their proximity to the stellar object--the 1st being the closest one.</li><li>Shift one column to the right as the number of free interplanetary orbits changes and there are asteroid belts left to place.</li></ul>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.B4bAlklh8b3oPKlM",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743224951254,
+    "modifiedTime": 1743224951254,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!B4bAlklh8b3oPKlM"
+}

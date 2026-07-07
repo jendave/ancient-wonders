@@ -1,0 +1,31 @@
+{
+  "name": "Oracle Quest - Celestial Brains",
+  "type": "script",
+  "scope": "global",
+  "author": "MmM06BuCrG9h1GLg",
+  "img": "icons/svg/dice-target.svg",
+  "command": "// Module macro code by David Hudson and licensed for use under the CC BY-NC-SA 4.0.\n\nasync function printMessage(message) {\n    let chatData = { content: message };\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\", \"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\nasync function rollOracle(tableID, lowerCase = true) {\n    let table = await fromUuid(tableID);\n    let roll = await table.roll();\n    let result = roll.results[0].text;\n\n    if (result.startsWith(\"@Compendium\")) {\n        table = await fromUuid(result.slice(1).replace(\"[\", \".\").split(\"]\")[0]);\n        roll = await table.roll();\n        result = roll.results[0].text;\n    }\n\n    if (result == \"Roll twice\") {\n        let results = [\"Roll twice\", \"Roll twice\"];\n        for (let index = 0; index < results.length; index++) {\n            let element = results[index];\n            do {\n                const table = await fromUuid(tableID);\n                let roll = await table.roll();\n                element = roll.results[0].text.toLowerCase();\n            } while (element == \"roll twice\");\n            results[index] = element;\n        };\n        result = results[0] + \" and \" + results[1];\n    }\n    return lowerCase ? result.toLowerCase() : result;\n};\n\nlet title = \"<h3><strong>Oracle Quest - Celestial Brains</strong></h3>\";\nlet message = \"Thanks to a recently completed study by xenoarcheologists of a \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.e2bae1632870e2d2\") + \" \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.TfBWJ7oJW2ASVapV\") + \", the scholars have learned that the finding was an integral part of a Jupiter brain located in a distant solar system. Following this discovery, a dangerous and recently declared rebellious \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.165pYBMpRkAewRXO\") + \" who now seek to seize the fragment and twist the megastructure's vast intelligence toward their own ends. If they succeed, even this single piece could grant them influence over stellar-scale computation, destabilizing entire sectors or awakening dormant processes within the machine. What does this faction seek to achieve? How do you prevent their ambitions from reshaping the balance of the stars?\"\n\n// Print the message\nprintMessage(title + message);",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747287102697,
+    "modifiedTime": 1763702703129,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "IDE1YNnrsgm3DUIi",
+  "sort": 2600000,
+  "_key": "!macros!IDE1YNnrsgm3DUIi"
+}

@@ -1,0 +1,264 @@
+{
+  "name": "Jungle World Biome Feature - Petrified Forest",
+  "formula": "1d100",
+  "description": "<p>Fossilized trees cover the once verdant terrain.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        11
+      ],
+      "_id": "ZEqvykMlQJZebAz0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ancient river beds",
+      "name": "",
+      "_key": "!tables.results!Dgqoq8XNXv0KzDSA.ZEqvykMlQJZebAz0"
+    },
+    {
+      "range": [
+        12,
+        22
+      ],
+      "_id": "Mb3oRC1i0jJQ9Sr9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Boulder fields formed by collapsed trees",
+      "name": "",
+      "_key": "!tables.results!Dgqoq8XNXv0KzDSA.Mb3oRC1i0jJQ9Sr9"
+    },
+    {
+      "range": [
+        23,
+        33
+      ],
+      "_id": "XUxWVxoAKJ1U58qu",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crumbling megaflora form hills or mountains",
+      "name": "",
+      "_key": "!tables.results!Dgqoq8XNXv0KzDSA.XUxWVxoAKJ1U58qu"
+    },
+    {
+      "range": [
+        34,
+        44
+      ],
+      "_id": "EoIdmdWNEwh48LVE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dense expanses of column-like trunks",
+      "name": "",
+      "_key": "!tables.results!Dgqoq8XNXv0KzDSA.EoIdmdWNEwh48LVE"
+    },
+    {
+      "range": [
+        45,
+        55
+      ],
+      "_id": "BB3URWpSLw45Hyef",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Eerily still winds",
+      "name": "",
+      "_key": "!tables.results!Dgqoq8XNXv0KzDSA.BB3URWpSLw45Hyef"
+    },
+    {
+      "range": [
+        56,
+        66
+      ],
+      "_id": "FIpxrV240rwGw3i9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flora enveloping crystal formations",
+      "name": "",
+      "_key": "!tables.results!Dgqoq8XNXv0KzDSA.FIpxrV240rwGw3i9"
+    },
+    {
+      "range": [
+        67,
+        77
+      ],
+      "_id": "FpuMgZ8hEhVNYeMM",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sparse groves of enduring flora",
+      "name": "",
+      "_key": "!tables.results!Dgqoq8XNXv0KzDSA.FpuMgZ8hEhVNYeMM"
+    },
+    {
+      "range": [
+        78,
+        88
+      ],
+      "_id": "eMm0X9LUQn89u6E9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vivid mineral coloration",
+      "name": "",
+      "_key": "!tables.results!Dgqoq8XNXv0KzDSA.eMm0X9LUQn89u6E9"
+    },
+    {
+      "range": [
+        89,
+        100
+      ],
+      "_id": "DxpBJBxGdhyIwPFh",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transition into a new &gt;Biome",
+      "name": "",
+      "_key": "!tables.results!Dgqoq8XNXv0KzDSA.DxpBJBxGdhyIwPFh"
+    }
+  ],
+  "folder": "LPHNPP6s8p8hGyxR",
+  "sort": 15,
+  "_id": "Dgqoq8XNXv0KzDSA",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745260316584,
+    "modifiedTime": 1745260316584,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!Dgqoq8XNXv0KzDSA"
+}

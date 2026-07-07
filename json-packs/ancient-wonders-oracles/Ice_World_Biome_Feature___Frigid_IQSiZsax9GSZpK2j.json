@@ -1,0 +1,264 @@
+{
+  "name": "Ice World Biome Feature - Frigid",
+  "formula": "1d100",
+  "description": "<p>Rocky terrain with scarce ice or water.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        11
+      ],
+      "_id": "lqwsYP2SQyEqXv1U",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Acute howling winds",
+      "name": "",
+      "_key": "!tables.results!IQSiZsax9GSZpK2j.lqwsYP2SQyEqXv1U"
+    },
+    {
+      "range": [
+        12,
+        22
+      ],
+      "_id": "yJm3SvkppaP0rvjX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Boulder fields covered in ice",
+      "name": "",
+      "_key": "!tables.results!IQSiZsax9GSZpK2j.yJm3SvkppaP0rvjX"
+    },
+    {
+      "range": [
+        23,
+        33
+      ],
+      "_id": "6l8SSbCaQdODiih7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cracked rocky plains",
+      "name": "",
+      "_key": "!tables.results!IQSiZsax9GSZpK2j.6l8SSbCaQdODiih7"
+    },
+    {
+      "range": [
+        34,
+        44
+      ],
+      "_id": "9khZCHJDdHjP98gy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Craggy or crumbling mountainsides",
+      "name": "",
+      "_key": "!tables.results!IQSiZsax9GSZpK2j.9khZCHJDdHjP98gy"
+    },
+    {
+      "range": [
+        45,
+        55
+      ],
+      "_id": "zjqfL5DNKfAReV01",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Frosted and misty pools",
+      "name": "",
+      "_key": "!tables.results!IQSiZsax9GSZpK2j.zjqfL5DNKfAReV01"
+    },
+    {
+      "range": [
+        56,
+        66
+      ],
+      "_id": "hNEDgvMOxPtqaq2m",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Frosted caves",
+      "name": "",
+      "_key": "!tables.results!IQSiZsax9GSZpK2j.hNEDgvMOxPtqaq2m"
+    },
+    {
+      "range": [
+        67,
+        77
+      ],
+      "_id": "UzhMYlahVoz28zPS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jagged mountain ranges",
+      "name": "",
+      "_key": "!tables.results!IQSiZsax9GSZpK2j.UzhMYlahVoz28zPS"
+    },
+    {
+      "range": [
+        78,
+        88
+      ],
+      "_id": "W3a9HrY5gmJiJfBS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Streams littered with broken ice",
+      "name": "",
+      "_key": "!tables.results!IQSiZsax9GSZpK2j.W3a9HrY5gmJiJfBS"
+    },
+    {
+      "range": [
+        89,
+        100
+      ],
+      "_id": "Irl3eQvnJltP5o0s",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transition into a new &gt;Biome",
+      "name": "",
+      "_key": "!tables.results!IQSiZsax9GSZpK2j.Irl3eQvnJltP5o0s"
+    }
+  ],
+  "folder": "FihhzdgG6Tlxel9Q",
+  "sort": 12,
+  "_id": "IQSiZsax9GSZpK2j",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745214414983,
+    "modifiedTime": 1745214414983,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!IQSiZsax9GSZpK2j"
+}

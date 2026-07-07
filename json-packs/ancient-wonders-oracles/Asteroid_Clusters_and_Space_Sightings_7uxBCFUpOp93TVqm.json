@@ -1,0 +1,22 @@
+{
+  "name": "Asteroid Clusters and Space Sightings",
+  "sorting": "m",
+  "folder": "NMT8A3FtXEFxvYTO",
+  "type": "RollTable",
+  "_id": "7uxBCFUpOp93TVqm",
+  "description": "",
+  "sort": 500000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743630484342,
+    "modifiedTime": 1744956541836,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!7uxBCFUpOp93TVqm"
+}

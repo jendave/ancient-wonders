@@ -1,0 +1,22 @@
+{
+  "name": "Sector Sheets",
+  "sorting": "m",
+  "folder": "NMT8A3FtXEFxvYTO",
+  "type": "RollTable",
+  "_id": "GkhqdUZouosGDKWQ",
+  "description": "",
+  "sort": -100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": null,
+    "modifiedTime": 1744956553371,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!GkhqdUZouosGDKWQ"
+}

@@ -1,0 +1,72 @@
+{
+  "type": "asset",
+  "folder": "bOcZzkQSUb3oUpS2",
+  "name": "Stimulant",
+  "system": {
+    "requirement": "",
+    "category": "Item - Consumable",
+    "color": "#3d8b8a",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you use a stimulant, suffer -1 use and roll on the table below to reveal your reaction. When you make a move while under the influence of the drug, it pushes your body and mind to function faster while burning the reserves of energy; you must add +1 and @Compendium[foundry-ironsworn.starforgedmoves.Item.93d2d69b7e2b85e1]{Lose Momentum} (-2). You lose the stimulant's effect when your momentum is reduced to 0 or negative.</p>\n\n<table>\n    <tr>\n        <td>1-20</td>\n        <td>Auditory hallucination</td>\n    </tr>\n    <tr>\n        <td>21-40</td>\n        <td>Gustatory hallucination</td>\n    </tr>\n    <tr>\n        <td>41-60</td>\n        <td>Olfactory hallucination</td>\n    </tr>\n    <tr>\n        <td>61-80</td>\n        <td>Tactile hallucination</td>\n    </tr>\n    <tr>\n        <td>81-100</td>\n        <td>Visual hallucination</td>\n    </tr>\n</table>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>You may instead add +2 and @Compendium[foundry-ironsworn.starforgedmoves.Item.93d2d69b7e2b85e1]{Lose Momentum} (-3).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>You may end the effect of the stimulant at any time.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Use",
+      "current": 0,
+      "max": 3,
+      "value": 3,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "<p>A hallucinatory drug that boosts the human body and mind.</p>"
+  },
+  "img": "modules/ancient-wonders/assets/internal-injury.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747109975320,
+    "modifiedTime": 1764468685369,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "SbvMwNMh7eESlPYt",
+  "sort": 0,
+  "_key": "!items!SbvMwNMh7eESlPYt"
+}

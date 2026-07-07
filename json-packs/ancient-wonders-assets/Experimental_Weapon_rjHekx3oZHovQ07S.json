@@ -1,0 +1,79 @@
+{
+  "type": "asset",
+  "folder": "bOcZzkQSUb3oUpS2",
+  "name": "Experimental Weapon",
+  "system": {
+    "requirement": "",
+    "category": "Item - Weapon",
+    "color": "#3d8b8a",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you make a combat move using the weapon, add +1 and take +1 momentum on a hit. When you score a miss as a result, @Compendium[foundry-ironsworn.starforgedmoves.Item.78baa51694fe37c5]{Pay the Price} by choosing one.</p>\n   <ul>\n   <li>Volatile: @Compendium[foundry-ironsworn.starforgedmoves.Item.905205c073b09eac]{Endure Harm} (1 harm)</li>\n   <li>Fragile: Mark the weapon as broken</li>\n   </ul>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you make a move by using the weapon, you may reroll one challenge die.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you score a miss on a combat move with the weapon, @Compendium[foundry-ironsworn.starforgedmoves.Item.78baa51694fe37c5]{Pay the Price} as normal.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "description": "<p>When you make a combat move using the weapon, you may @Compendium[foundry-ironsworn.starforgedmoves.Item.93d2d69b7e2b85e1]{Lose Momentum} (-3) to choose one (after rolling).</p>\n   <ul>\n   <li>Overcharged: Mark progress on a hit</li>\n   <li>Focused: Improve a miss to a weak hit, or a weak hit to a strong hit.</li>\n   </ul>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Energy",
+      "current": 0,
+      "max": 3,
+      "value": 2,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "<p>A weapon infused with elemental energies.</p>"
+  },
+  "img": "modules/ancient-wonders/assets/zat-gun.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747105786399,
+    "modifiedTime": 1764468452340,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "rjHekx3oZHovQ07S",
+  "sort": 0,
+  "_key": "!items!rjHekx3oZHovQ07S"
+}

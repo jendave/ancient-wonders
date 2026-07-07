@@ -1,0 +1,72 @@
+{
+  "type": "asset",
+  "folder": "vEtdPDaUHES8fCY7",
+  "name": "Delver",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition} or @Compendium[ancient-wonders.ancientwondersmoves.Item.2nqveZCSjAoeApQH]{Establish a Haven} in a ruin, add +1. When you @Compendium[ancient-wonders.ancientwondersmoves.Item.fvxIsI6u73hkrK6J]{Hunker Down} in these locations, you may choose two options on a hit instead of one. If the ruin is alien, take +1 momentum on a hit when making these moves.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.703964b8d02355b8]{Resupply} in an abandoned ship or structure and score a hit, you leverage your practical experience scavenging these locations; take +1 supply and +1 momentum. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.75d5b0762ebab856]{Make a Discovery}, you capitalize on your findings; mark one box on your discoveries legacy track instead of marking 2 ticks.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.9c9ab6a42daa96e0]{Swear an Iron Vow} to hunt for a valuable item or lost artifact, reroll any dice. If the sought-after object is not human-made, take an automatic strong hit. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.0d7f13818c1c19ed]{Reach a Milestone} on this quest, take +1 momentum.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/ancient-wonders/assets/mountain-cave.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Path/Ace",
+      "dsid": "asset:starforged/path/ace",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.7",
+    "createdTime": 1746478144545,
+    "modifiedTime": 1769129010421,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "Gv36rhgBj5CoiZ9g",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_key": "!items!Gv36rhgBj5CoiZ9g"
+}

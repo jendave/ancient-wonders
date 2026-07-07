@@ -1,0 +1,186 @@
+{
+  "name": "Construct Legged",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        45
+      ],
+      "_id": "7n2130ZBR6e7lnbE",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bipedal",
+      "name": "",
+      "_key": "!tables.results!lSlnaVOjjxu4fWNk.7n2130ZBR6e7lnbE"
+    },
+    {
+      "range": [
+        46,
+        75
+      ],
+      "_id": "7hm9fvHgK1YZwTvI",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tripedal",
+      "name": "",
+      "_key": "!tables.results!lSlnaVOjjxu4fWNk.7hm9fvHgK1YZwTvI"
+    },
+    {
+      "range": [
+        78,
+        90
+      ],
+      "_id": "njMyfHDIL32yCBh2",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Quadrupedal",
+      "name": "",
+      "_key": "!tables.results!lSlnaVOjjxu4fWNk.njMyfHDIL32yCBh2"
+    },
+    {
+      "range": [
+        91,
+        97
+      ],
+      "_id": "JZpB8SAcTCdkpl0P",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hexapedal",
+      "name": "",
+      "_key": "!tables.results!lSlnaVOjjxu4fWNk.JZpB8SAcTCdkpl0P"
+    },
+    {
+      "range": [
+        98,
+        99
+      ],
+      "_id": "tdkNLRBkQUUw6iDP",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Octopedal",
+      "name": "",
+      "_key": "!tables.results!lSlnaVOjjxu4fWNk.tdkNLRBkQUUw6iDP"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "Jz8hb9iRHuBuR513",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "More than eight",
+      "name": "",
+      "_key": "!tables.results!lSlnaVOjjxu4fWNk.Jz8hb9iRHuBuR513"
+    }
+  ],
+  "folder": "J715TeOdqxPDq33D",
+  "sort": 1650000,
+  "_id": "lSlnaVOjjxu4fWNk",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.lSlnaVOjjxu4fWNk",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746413854523,
+    "modifiedTime": 1746413854523,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!lSlnaVOjjxu4fWNk"
+}

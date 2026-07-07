@@ -1,0 +1,264 @@
+{
+  "name": "Desert World Biome Feature - Veld",
+  "formula": "1d100",
+  "description": "<p>Scrub woodland and meager water pools dress open savannas.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        11
+      ],
+      "_id": "HW9oxQupCO8oYPWH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Colossal remnants of dead or petrified groves",
+      "name": "",
+      "_key": "!tables.results!gu7TqK03YmbdtCyz.HW9oxQupCO8oYPWH"
+    },
+    {
+      "range": [
+        12,
+        22
+      ],
+      "_id": "1brOINE07pv6ghs9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dry lakebeds",
+      "name": "",
+      "_key": "!tables.results!gu7TqK03YmbdtCyz.1brOINE07pv6ghs9"
+    },
+    {
+      "range": [
+        23,
+        33
+      ],
+      "_id": "ocuUC0eRC5SOjuL3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enormous isolated mountain",
+      "name": "",
+      "_key": "!tables.results!gu7TqK03YmbdtCyz.ocuUC0eRC5SOjuL3"
+    },
+    {
+      "range": [
+        34,
+        44
+      ],
+      "_id": "VO16XIwC3ERutKRU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gentle or light breezes",
+      "name": "",
+      "_key": "!tables.results!gu7TqK03YmbdtCyz.VO16XIwC3ERutKRU"
+    },
+    {
+      "range": [
+        45,
+        55
+      ],
+      "_id": "90YHCWrIOD7Q5tMA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large pockets of dense grasses and hardy trees",
+      "name": "",
+      "_key": "!tables.results!gu7TqK03YmbdtCyz.90YHCWrIOD7Q5tMA"
+    },
+    {
+      "range": [
+        56,
+        66
+      ],
+      "_id": "qjfxd7MfKSlThalK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Parched riverbeds",
+      "name": "",
+      "_key": "!tables.results!gu7TqK03YmbdtCyz.qjfxd7MfKSlThalK"
+    },
+    {
+      "range": [
+        67,
+        77
+      ],
+      "_id": "R6sg4C6yfWVEqKX3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Small lagoons or streams",
+      "name": "",
+      "_key": "!tables.results!gu7TqK03YmbdtCyz.R6sg4C6yfWVEqKX3"
+    },
+    {
+      "range": [
+        78,
+        88
+      ],
+      "_id": "w1qzDRZfkNYQsbnW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sporadic curtains of rainfall",
+      "name": "",
+      "_key": "!tables.results!gu7TqK03YmbdtCyz.w1qzDRZfkNYQsbnW"
+    },
+    {
+      "range": [
+        89,
+        100
+      ],
+      "_id": "0aFh9jHqsaUGhIZi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transition into a new &gt;Biome",
+      "name": "",
+      "_key": "!tables.results!gu7TqK03YmbdtCyz.0aFh9jHqsaUGhIZi"
+    }
+  ],
+  "folder": "K9VKevIhxV7Xf7xu",
+  "sort": 18,
+  "_id": "gu7TqK03YmbdtCyz",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745184114774,
+    "modifiedTime": 1745184114774,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!gu7TqK03YmbdtCyz"
+}

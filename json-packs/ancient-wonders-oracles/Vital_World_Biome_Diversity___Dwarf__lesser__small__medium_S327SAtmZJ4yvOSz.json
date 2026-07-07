@@ -1,0 +1,186 @@
+{
+  "name": "Vital World Biome Diversity - Dwarf, lesser, small, medium",
+  "formula": "1d100",
+  "description": "<p>You may discount the numerical specification of any result of the oracle, and instead take each result as a guideline when determining how many times to roll on the Biome oracle.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "tjCRcToeqnlxjmEO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Diverse (three biomes)",
+      "name": "",
+      "_key": "!tables.results!S327SAtmZJ4yvOSz.tjCRcToeqnlxjmEO"
+    },
+    {
+      "range": [
+        11,
+        25
+      ],
+      "_id": "FiHVC5FDM345r9wz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Complex (four biomes)",
+      "name": "",
+      "_key": "!tables.results!S327SAtmZJ4yvOSz.FiHVC5FDM345r9wz"
+    },
+    {
+      "range": [
+        26,
+        50
+      ],
+      "_id": "V3GsB1HAuWnrVk6Y",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intricate (five biomes)",
+      "name": "",
+      "_key": "!tables.results!S327SAtmZJ4yvOSz.V3GsB1HAuWnrVk6Y"
+    },
+    {
+      "range": [
+        51,
+        85
+      ],
+      "_id": "oFrMfVq3SkpYiiIx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multifaceted (six biomes)",
+      "name": "",
+      "_key": "!tables.results!S327SAtmZJ4yvOSz.oFrMfVq3SkpYiiIx"
+    },
+    {
+      "range": [
+        86,
+        95
+      ],
+      "_id": "wi8yQUgH52WNzjyH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mosaic (seven biomes)",
+      "name": "",
+      "_key": "!tables.results!S327SAtmZJ4yvOSz.wi8yQUgH52WNzjyH"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "a9h8DGHMbMgnYWdV",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Garden (eight biomes)",
+      "name": "",
+      "_key": "!tables.results!S327SAtmZJ4yvOSz.a9h8DGHMbMgnYWdV"
+    }
+  ],
+  "folder": "uqIYYdcorEC11vj9",
+  "sort": 1,
+  "_id": "S327SAtmZJ4yvOSz",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745469388179,
+    "modifiedTime": 1745469388179,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!S327SAtmZJ4yvOSz"
+}

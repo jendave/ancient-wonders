@@ -1,0 +1,160 @@
+{
+  "name": "Core Manipulators Ferrothermal Engine Status",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        15
+      ],
+      "_id": "3oY6CZCV91dold8v",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Partially constructed / The host planet is a rocky world (no atmosphere, mono biome: bleak; page 72). The lack of an active core has prevented a magnetic field from forming; the world has the additional feature of having a highly irradiated surface as solar winds bombard the world with powerful radiation while stripping away any atmosphere and hydrosphere.",
+      "name": "",
+      "_key": "!tables.results!A5i7yvcjZqLhe4W1.3oY6CZCV91dold8v"
+    },
+    {
+      "range": [
+        16,
+        50
+      ],
+      "_id": "AV5BZ2Y7eOWsSIzp",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Operational / When you roll &gt;Planet (page 40) to generate its  features, reroll the \"Anomalous World\", \"Furnace  World\", \"Jovian World\", \"Rocky World\", and \"Shattered World\" Planetary Class results. The  world must have at least a thin atmosphere.",
+      "name": "",
+      "_key": "!tables.results!A5i7yvcjZqLhe4W1.AV5BZ2Y7eOWsSIzp"
+    },
+    {
+      "range": [
+        51,
+        85
+      ],
+      "_id": "oRQjBuZJ9eGUWJSK",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Non-functional or offline / As operational. However, the world's core has  begun cooling. Reduced effectiveness of the  magnetic field has gradually allowed more radiation to reach the planet's surface, making the world mildly irradiated.",
+      "name": "",
+      "_key": "!tables.results!A5i7yvcjZqLhe4W1.oRQjBuZJ9eGUWJSK"
+    },
+    {
+      "range": [
+        86,
+        95
+      ],
+      "_id": "6ZHRw5SqXSXlzb5w",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dysfunctional / As non-functional or offline, but holes within the magnetic field have allowed certain regions  of the world's surface to be bombarded by powerful, radioactive winds, resulting in highly irradiated regions and powerful earthquakes.",
+      "name": "",
+      "_key": "!tables.results!A5i7yvcjZqLhe4W1.6ZHRw5SqXSXlzb5w"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "vqq1nqvEkgaJueKt",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destroyed / The planet is a rocky world (no atmosphere,  mono biome: bleak; page 72). The loss of its  active core has caused its magnetic field to dissipate, allowing solar winds to bombard the world with powerful radiation and strip away any atmosphere and hydrosphere.",
+      "name": "",
+      "_key": "!tables.results!A5i7yvcjZqLhe4W1.vqq1nqvEkgaJueKt"
+    }
+  ],
+  "folder": "ifPVYKTtpv57IrDT",
+  "sort": 0,
+  "_id": "A5i7yvcjZqLhe4W1",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745809702181,
+    "modifiedTime": 1745809702181,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!A5i7yvcjZqLhe4W1"
+}

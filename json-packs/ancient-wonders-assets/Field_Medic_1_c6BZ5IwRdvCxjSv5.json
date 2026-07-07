@@ -1,0 +1,95 @@
+{
+  "type": "asset",
+  "folder": "VGDM9gKIusGTm2DW",
+  "name": "Field Medic 1",
+  "system": {
+    "requirement": "",
+    "category": "Special Companion",
+    "color": "#3d8b8a",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "description": "<p>The field medic has one less maximum spirit as a consequence of renouncing their Hippocratic Oath, a medical ethos to do no harm. When they make a move by using their medical knowledge to inflict harm, you may reroll any dice and take +1 momentum on a hit. On a weak hit or miss, they may push their boundaries. If they do, reroll any dice again and count a weak hit as a strong hit, but they @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} (-1) after resolving the move.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "Edge 1",
+        "selected": false
+      },
+      {
+        "name": "Heart 2",
+        "selected": false
+      },
+      {
+        "name": "Iron 2",
+        "selected": false
+      },
+      {
+        "name": "Shadow 1",
+        "selected": false
+      },
+      {
+        "name": "Wits 3",
+        "selected": true
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Wounded",
+        "ticked": false
+      }
+    ],
+    "description": "<p>An expert in providing emergency medical care.</p>\n<p>Master Ability</p>"
+  },
+  "img": "modules/ancient-wonders/assets/medical-pack.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1746825952068,
+    "modifiedTime": 1764468073346,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.331",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.2"
+    }
+  },
+  "_id": "c6BZ5IwRdvCxjSv5",
+  "sort": 0,
+  "_key": "!items!c6BZ5IwRdvCxjSv5"
+}

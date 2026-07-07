@@ -1,0 +1,108 @@
+{
+  "name": "Ecosphere Life - Partially Constructed",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        85
+      ],
+      "_id": "JsF1bhG2yyZRq4D1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!5IBby2nTTmxxaBli.JsF1bhG2yyZRq4D1"
+    },
+    {
+      "range": [
+        86,
+        95
+      ],
+      "_id": "7vnLIZJF5IHqBHwV",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extinct",
+      "name": "",
+      "_key": "!tables.results!5IBby2nTTmxxaBli.7vnLIZJF5IHqBHwV"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "rxPTJMcpg3RSbCVr",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scarce",
+      "name": "",
+      "_key": "!tables.results!5IBby2nTTmxxaBli.rxPTJMcpg3RSbCVr"
+    }
+  ],
+  "folder": "wXMzUvQoCfDoUqQ5",
+  "sort": 10,
+  "_id": "5IBby2nTTmxxaBli",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745821297335,
+    "modifiedTime": 1745821297335,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!5IBby2nTTmxxaBli"
+}

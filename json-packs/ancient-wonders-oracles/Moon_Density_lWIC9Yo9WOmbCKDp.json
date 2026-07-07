@@ -1,0 +1,186 @@
+{
+  "name": "Moon Density",
+  "formula": "1d6",
+  "description": "<p>A moon is always smaller than the planetary body it orbits, so the moon size results are not equivalent of the planet size results. </p><p>Once you roll for the moon size, cross-reference it with the planetary body size to determine the moon base gravity. Then, roll the density to determine the gravity modifier.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "QaeyZiZYehYnNKqb",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Result / Gravity Modifier",
+      "name": "",
+      "_key": "!tables.results!lWIC9Yo9WOmbCKDp.QaeyZiZYehYnNKqb"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "ZnzOnka8lJE7xXgC",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1-10   Very light / Two lower gravity",
+      "name": "",
+      "_key": "!tables.results!lWIC9Yo9WOmbCKDp.ZnzOnka8lJE7xXgC"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "eqeaJjarJu5KkKox",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "11-30  Light / One lower gravity",
+      "name": "",
+      "_key": "!tables.results!lWIC9Yo9WOmbCKDp.eqeaJjarJu5KkKox"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "7dBvJiWVvKit2dq1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "31-70  Moderate / Base gravity",
+      "name": "",
+      "_key": "!tables.results!lWIC9Yo9WOmbCKDp.7dBvJiWVvKit2dq1"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "km7QmpN3FL4R679J",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "71-90  Heavy / One higher gravity",
+      "name": "",
+      "_key": "!tables.results!lWIC9Yo9WOmbCKDp.km7QmpN3FL4R679J"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "FaJ4QemwGZpypKzh",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "91-100 Very heavy / Two higher gravity",
+      "name": "",
+      "_key": "!tables.results!lWIC9Yo9WOmbCKDp.FaJ4QemwGZpypKzh"
+    }
+  ],
+  "folder": "DB2UpdgI0lbafjLX",
+  "sort": 12,
+  "_id": "lWIC9Yo9WOmbCKDp",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745094300359,
+    "modifiedTime": 1745094517786,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!lWIC9Yo9WOmbCKDp"
+}

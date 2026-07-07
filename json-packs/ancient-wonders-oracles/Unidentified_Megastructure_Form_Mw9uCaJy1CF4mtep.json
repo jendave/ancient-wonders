@@ -1,0 +1,82 @@
+{
+  "name": "Unidentified Megastructure Form",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        75
+      ],
+      "_id": "vNqun0YqSF2T3fUy",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Single unit",
+      "name": "",
+      "_key": "!tables.results!Mw9uCaJy1CF4mtep.vNqun0YqSF2T3fUy"
+    },
+    {
+      "range": [
+        76,
+        100
+      ],
+      "_id": "djAyd4sI684lmySN",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Composed of many units",
+      "name": "",
+      "_key": "!tables.results!Mw9uCaJy1CF4mtep.djAyd4sI684lmySN"
+    }
+  ],
+  "folder": "EpVZ9VKEG5R6Tr0s",
+  "sort": 5,
+  "_id": "Mw9uCaJy1CF4mtep",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745687449403,
+    "modifiedTime": 1745687449403,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!Mw9uCaJy1CF4mtep"
+}

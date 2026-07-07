@@ -1,0 +1,238 @@
+{
+  "name": "Jungle World Biome",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        12
+      ],
+      "_id": "DDjqHKAL4hTLJYq6",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bioluminescent",
+      "name": "",
+      "_key": "!tables.results!0nw9k3he2DEeEEUR.DDjqHKAL4hTLJYq6"
+    },
+    {
+      "range": [
+        13,
+        24
+      ],
+      "_id": "MsD3kBjaetksnrAr",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cenote",
+      "name": "",
+      "_key": "!tables.results!0nw9k3he2DEeEEUR.MsD3kBjaetksnrAr"
+    },
+    {
+      "range": [
+        25,
+        36
+      ],
+      "_id": "V094R6wcBvsDuAyd",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Forest",
+      "name": "",
+      "_key": "!tables.results!0nw9k3he2DEeEEUR.V094R6wcBvsDuAyd"
+    },
+    {
+      "range": [
+        37,
+        49
+      ],
+      "_id": "UpUdN8YVr9NsGrCl",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Megaflora",
+      "name": "",
+      "_key": "!tables.results!0nw9k3he2DEeEEUR.UpUdN8YVr9NsGrCl"
+    },
+    {
+      "range": [
+        50,
+        61
+      ],
+      "_id": "Mdbm9JD8V1zHnCeG",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Petrified forest",
+      "name": "",
+      "_key": "!tables.results!0nw9k3he2DEeEEUR.Mdbm9JD8V1zHnCeG"
+    },
+    {
+      "range": [
+        62,
+        74
+      ],
+      "_id": "CxHqO7XloOjn7ir5",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rainforest",
+      "name": "",
+      "_key": "!tables.results!0nw9k3he2DEeEEUR.CxHqO7XloOjn7ir5"
+    },
+    {
+      "range": [
+        75,
+        87
+      ],
+      "_id": "b2iOOa5QjTv6ohOf",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Swamp",
+      "name": "",
+      "_key": "!tables.results!0nw9k3he2DEeEEUR.b2iOOa5QjTv6ohOf"
+    },
+    {
+      "range": [
+        88,
+        100
+      ],
+      "_id": "4Bb01GTPeT3hk0fM",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tepui",
+      "name": "",
+      "_key": "!tables.results!0nw9k3he2DEeEEUR.4Bb01GTPeT3hk0fM"
+    }
+  ],
+  "folder": "LPHNPP6s8p8hGyxR",
+  "sort": 5,
+  "_id": "0nw9k3he2DEeEEUR",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745260316584,
+    "modifiedTime": 1745260316584,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!0nw9k3he2DEeEEUR"
+}

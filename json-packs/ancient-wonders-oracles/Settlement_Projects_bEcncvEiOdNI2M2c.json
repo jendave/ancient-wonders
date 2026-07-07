@@ -1,0 +1,894 @@
+{
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Oracles/Settlements/Projects",
+      "category": "Starforged/Oracles/Settlements",
+      "dsid": "oracle_rollable:starforged/settlement/projects"
+    }
+  },
+  "name": "Settlement Projects",
+  "description": "<p>Check the Settlement Projects table when it’s appropriate for your character to know or uncover these details. Projects are the main industry, function, or focus of a settlement. They do not necessarily represent every activity at the site—particularly at a large settlement—but are the most visible or noteworthy aspects.</p>",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "357c59c2e47e4109",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Agriculture",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.357c59c2e47e4109"
+    },
+    {
+      "range": [
+        6,
+        7
+      ],
+      "_id": "1b798e3261cbdaab",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Archeology",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.1b798e3261cbdaab"
+    },
+    {
+      "range": [
+        8,
+        9
+      ],
+      "_id": "da5b786ce310cb7d",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Automation",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.da5b786ce310cb7d"
+    },
+    {
+      "range": [
+        10,
+        11
+      ],
+      "_id": "b6dc1f50a48bca5a",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Black market",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.b6dc1f50a48bca5a"
+    },
+    {
+      "range": [
+        12,
+        13
+      ],
+      "_id": "6c0a91283cde2483",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Command",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.6c0a91283cde2483"
+    },
+    {
+      "range": [
+        14,
+        17
+      ],
+      "_id": "842aadf4dc1e2b46",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Defense",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.842aadf4dc1e2b46"
+    },
+    {
+      "range": [
+        18,
+        22
+      ],
+      "_id": "d4a9647ce1a65b97",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Energy",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.d4a9647ce1a65b97"
+    },
+    {
+      "range": [
+        23,
+        25
+      ],
+      "_id": "09a9480f97b470dd",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Engineering",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.09a9480f97b470dd"
+    },
+    {
+      "range": [
+        26,
+        27
+      ],
+      "_id": "98ab0e04107937b7",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Entertainment",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.98ab0e04107937b7"
+    },
+    {
+      "range": [
+        28,
+        29
+      ],
+      "_id": "4d1c1b29d591e074",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Environmentalism",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.4d1c1b29d591e074"
+    },
+    {
+      "range": [
+        30,
+        31
+      ],
+      "_id": "e341475e964a7b40",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evacuation",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.e341475e964a7b40"
+    },
+    {
+      "range": [
+        32,
+        33
+      ],
+      "_id": "55b96af23da79dbe",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expansion",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.55b96af23da79dbe"
+    },
+    {
+      "range": [
+        34,
+        37
+      ],
+      "_id": "6a6210df38b0c81e",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exploration",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.6a6210df38b0c81e"
+    },
+    {
+      "range": [
+        38,
+        39
+      ],
+      "_id": "e0e489d55e3ef5ab",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Festival",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.e0e489d55e3ef5ab"
+    },
+    {
+      "range": [
+        40,
+        41
+      ],
+      "_id": "7b3d2469548a8719",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "History",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.7b3d2469548a8719"
+    },
+    {
+      "range": [
+        42,
+        43
+      ],
+      "_id": "051cc361494cc0c7",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hunting",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.051cc361494cc0c7"
+    },
+    {
+      "range": [
+        44,
+        46
+      ],
+      "_id": "196016194fda3848",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Manufacturing",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.196016194fda3848"
+    },
+    {
+      "range": [
+        47,
+        49
+      ],
+      "_id": "45696bbe4a70ed04",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Medical",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.45696bbe4a70ed04"
+    },
+    {
+      "range": [
+        50,
+        51
+      ],
+      "_id": "4c25a3c77c8faacf",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Migration",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.4c25a3c77c8faacf"
+    },
+    {
+      "range": [
+        52,
+        57
+      ],
+      "_id": "2694e3af2c8b8486",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mining",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.2694e3af2c8b8486"
+    },
+    {
+      "range": [
+        58,
+        59
+      ],
+      "_id": "cfc6e5f8d7f1bb76",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pacifism",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.cfc6e5f8d7f1bb76"
+    },
+    {
+      "range": [
+        60,
+        62
+      ],
+      "_id": "1b9293cef3355212",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Raiding",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.1b9293cef3355212"
+    },
+    {
+      "range": [
+        63,
+        65
+      ],
+      "_id": "2502a1cd434d2dd3",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Research",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.2502a1cd434d2dd3"
+    },
+    {
+      "range": [
+        66,
+        69
+      ],
+      "_id": "36ebabda701b7e97",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Salvage",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.36ebabda701b7e97"
+    },
+    {
+      "range": [
+        70,
+        72
+      ],
+      "_id": "3c4048625d597fb8",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Secrecy",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.3c4048625d597fb8"
+    },
+    {
+      "range": [
+        73,
+        75
+      ],
+      "_id": "bc5b7903b47c1ec8",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shipbuilding",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.bc5b7903b47c1ec8"
+    },
+    {
+      "range": [
+        76,
+        78
+      ],
+      "_id": "914464c7cd22e587",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spirituality",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.914464c7cd22e587"
+    },
+    {
+      "range": [
+        79,
+        84
+      ],
+      "_id": "0013050ec8bba611",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Subsistence",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.0013050ec8bba611"
+    },
+    {
+      "range": [
+        85,
+        86
+      ],
+      "_id": "bb5164e25abc31a7",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surveillance",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.bb5164e25abc31a7"
+    },
+    {
+      "range": [
+        87,
+        88
+      ],
+      "_id": "ba94bf5d3363669d",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Terraforming",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.ba94bf5d3363669d"
+    },
+    {
+      "range": [
+        89,
+        92
+      ],
+      "_id": "c3eff663a9956dea",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trade",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.c3eff663a9956dea"
+    },
+    {
+      "range": [
+        93,
+        95
+      ],
+      "_id": "c6de1ce5d2a34a32",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Warfare",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.c6de1ce5d2a34a32"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "f1ac10fee33835e8",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@Compendium[foundry-ironsworn.starforgedoracles.b347a87fb81a3abb]{Action} + @Compendium[foundry-ironsworn.starforgedoracles.0c5ce82c7adbb4e2]{Theme}",
+      "name": "",
+      "_key": "!tables.results!bEcncvEiOdNI2M2c.f1ac10fee33835e8"
+    }
+  ],
+  "folder": "Vxxnc89YzwMyYvbP",
+  "img": "icons/dice/d10black.svg",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747515410153,
+    "modifiedTime": 1747515410153,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "bEcncvEiOdNI2M2c",
+  "sort": 0,
+  "_key": "!tables!bEcncvEiOdNI2M2c"
+}

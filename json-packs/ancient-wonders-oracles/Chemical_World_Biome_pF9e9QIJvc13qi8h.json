@@ -1,0 +1,186 @@
+{
+  "name": "Chemical World Biome",
+  "formula": "1d100",
+  "description": "<p>Chemical worlds consist of only one biome.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        16
+      ],
+      "_id": "3ZXfaqrm95t1uP4e",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Acid",
+      "name": "",
+      "_key": "!tables.results!pF9e9QIJvc13qi8h.3ZXfaqrm95t1uP4e"
+    },
+    {
+      "range": [
+        17,
+        33
+      ],
+      "_id": "qRCEyyXw0MuPl7DM",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ammonia",
+      "name": "",
+      "_key": "!tables.results!pF9e9QIJvc13qi8h.qRCEyyXw0MuPl7DM"
+    },
+    {
+      "range": [
+        34,
+        49
+      ],
+      "_id": "siF5kO2YCeMfhajW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ethane",
+      "name": "",
+      "_key": "!tables.results!pF9e9QIJvc13qi8h.siF5kO2YCeMfhajW"
+    },
+    {
+      "range": [
+        50,
+        66
+      ],
+      "_id": "V4DvAwAUTiUQQQQE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hydrocarbon",
+      "name": "",
+      "_key": "!tables.results!pF9e9QIJvc13qi8h.V4DvAwAUTiUQQQQE"
+    },
+    {
+      "range": [
+        67,
+        83
+      ],
+      "_id": "WxnIKhFBvmpyQIyA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Methane",
+      "name": "",
+      "_key": "!tables.results!pF9e9QIJvc13qi8h.WxnIKhFBvmpyQIyA"
+    },
+    {
+      "range": [
+        84,
+        100
+      ],
+      "_id": "KiEVu4LyyExDoWXJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sulfur",
+      "name": "",
+      "_key": "!tables.results!pF9e9QIJvc13qi8h.KiEVu4LyyExDoWXJ"
+    }
+  ],
+  "folder": "bfU9msCL4HxpF6vZ",
+  "sort": 200000,
+  "_id": "pF9e9QIJvc13qi8h",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745171240939,
+    "modifiedTime": 1745171240939,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!pF9e9QIJvc13qi8h"
+}

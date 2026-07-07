@@ -1,0 +1,22 @@
+{
+  "name": "Special Companion Assets",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "VGDM9gKIusGTm2DW",
+  "description": "",
+  "sort": 0,
+  "color": "#3d8b8a",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746689670724,
+    "modifiedTime": 1746689670724,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!VGDM9gKIusGTm2DW"
+}

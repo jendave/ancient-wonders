@@ -1,0 +1,264 @@
+{
+  "name": "Anomaly - Entity Form",
+  "formula": "1d100",
+  "description": "<p>Use the table below to determine basic appearance of an entity. Then, detail its looks with the Anomaly Effect oracle on next page.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        12
+      ],
+      "_id": "1BxxwoU7j5TWH5Cc",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Complex geometric shape",
+      "name": "",
+      "_key": "!tables.results!u4TkYLno5R2z6vEZ.1BxxwoU7j5TWH5Cc"
+    },
+    {
+      "range": [
+        13,
+        24
+      ],
+      "_id": "dFeQVrExNiUZfrCQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cube",
+      "name": "",
+      "_key": "!tables.results!u4TkYLno5R2z6vEZ.dFeQVrExNiUZfrCQ"
+    },
+    {
+      "range": [
+        25,
+        36
+      ],
+      "_id": "O56TvjiEsjlYOAXV",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Obelisk",
+      "name": "",
+      "_key": "!tables.results!u4TkYLno5R2z6vEZ.O56TvjiEsjlYOAXV"
+    },
+    {
+      "range": [
+        37,
+        48
+      ],
+      "_id": "IVryaQvEmhr2bV9j",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Platform or disc",
+      "name": "",
+      "_key": "!tables.results!u4TkYLno5R2z6vEZ.IVryaQvEmhr2bV9j"
+    },
+    {
+      "range": [
+        49,
+        60
+      ],
+      "_id": "y0bTRo3ixXfihOLP",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pyramid",
+      "name": "",
+      "_key": "!tables.results!u4TkYLno5R2z6vEZ.y0bTRo3ixXfihOLP"
+    },
+    {
+      "range": [
+        61,
+        72
+      ],
+      "_id": "rjJZYyjdJaUaWgrj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring or torus",
+      "name": "",
+      "_key": "!tables.results!u4TkYLno5R2z6vEZ.rjJZYyjdJaUaWgrj"
+    },
+    {
+      "range": [
+        73,
+        84
+      ],
+      "_id": "kknpP5jRfVOnipOD",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sphere",
+      "name": "",
+      "_key": "!tables.results!u4TkYLno5R2z6vEZ.kknpP5jRfVOnipOD"
+    },
+    {
+      "range": [
+        85,
+        95
+      ],
+      "_id": "XWUky1opbvDoggG8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transforming",
+      "name": "",
+      "_key": "!tables.results!u4TkYLno5R2z6vEZ.XWUky1opbvDoggG8"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "8OpahlMkwixPNpKu",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Basic Creature Form; RG, pg 69",
+      "name": "",
+      "_key": "!tables.results!u4TkYLno5R2z6vEZ.8OpahlMkwixPNpKu"
+    }
+  ],
+  "folder": "dRrT6HWOTXN1ryOh",
+  "sort": 2,
+  "_id": "u4TkYLno5R2z6vEZ",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746434450727,
+    "modifiedTime": 1746434450727,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!u4TkYLno5R2z6vEZ"
+}

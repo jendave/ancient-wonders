@@ -1,0 +1,22 @@
+{
+  "name": "Gigatransporter",
+  "sorting": "m",
+  "folder": "FsVkt6REhPbTdxSf",
+  "type": "RollTable",
+  "_id": "weWNaaZsw0qPz45g",
+  "description": "",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745558408052,
+    "modifiedTime": 1745559243235,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!weWNaaZsw0qPz45g"
+}

@@ -1,0 +1,186 @@
+{
+  "name": "Ocean World Biome",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        17
+      ],
+      "_id": "3FUbT43T55L3I0af",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Archipelago",
+      "name": "",
+      "_key": "!tables.results!W4PAc18xBVcpY0Jl.3FUbT43T55L3I0af"
+    },
+    {
+      "range": [
+        18,
+        34
+      ],
+      "_id": "qxzzB0Bw4KgacpxL",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Atoll",
+      "name": "",
+      "_key": "!tables.results!W4PAc18xBVcpY0Jl.qxzzB0Bw4KgacpxL"
+    },
+    {
+      "range": [
+        35,
+        51
+      ],
+      "_id": "lmIDxvN368qsprbE",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crag",
+      "name": "",
+      "_key": "!tables.results!W4PAc18xBVcpY0Jl.lmIDxvN368qsprbE"
+    },
+    {
+      "range": [
+        52,
+        68
+      ],
+      "_id": "gfOiSIGd0Wkr8Ty4",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hycean",
+      "name": "",
+      "_key": "!tables.results!W4PAc18xBVcpY0Jl.gfOiSIGd0Wkr8Ty4"
+    },
+    {
+      "range": [
+        69,
+        84
+      ],
+      "_id": "8QWtBdn9zy4pSne4",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mangrove",
+      "name": "",
+      "_key": "!tables.results!W4PAc18xBVcpY0Jl.8QWtBdn9zy4pSne4"
+    },
+    {
+      "range": [
+        85,
+        100
+      ],
+      "_id": "LCmhxhHcCTAfsR8A",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reef",
+      "name": "",
+      "_key": "!tables.results!W4PAc18xBVcpY0Jl.LCmhxhHcCTAfsR8A"
+    }
+  ],
+  "folder": "0JRiZnm539EkbEnA",
+  "sort": 5,
+  "_id": "W4PAc18xBVcpY0Jl",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745301207420,
+    "modifiedTime": 1745301207420,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!W4PAc18xBVcpY0Jl"
+}

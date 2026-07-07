@@ -1,0 +1,366 @@
+{
+  "name": "Furnace World Biome Feature - Hothouse",
+  "formula": "1d100",
+  "description": "<p>Terrain baked by incredible heat under unending clouds.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "description": "Frigid cave systems",
+      "_id": "EMXBAga3n4WzUk0r",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2ZmfBcixmbwd2ncw.EMXBAga3n4WzUk0r"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "description": "Crumbling or slowly melting surfaces",
+      "_id": "17bAA37e8qbkZ81X",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2ZmfBcixmbwd2ncw.17bAA37e8qbkZ81X"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "description": "Distorting heat-haze",
+      "_id": "FHAZEeRt010xrUQl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2ZmfBcixmbwd2ncw.FHAZEeRt010xrUQl"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "description": "Fields of pockmarked boulders",
+      "_id": "b80OohzKnj1gr5RP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2ZmfBcixmbwd2ncw.b80OohzKnj1gr5RP"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "description": "Forests of geothermal vents",
+      "_id": "xVEdQtHSPHiRQoC0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2ZmfBcixmbwd2ncw.xVEdQtHSPHiRQoC0"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "description": "Molten metal or acid rainfall",
+      "_id": "ISLBayEJgjbmf5G4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2ZmfBcixmbwd2ncw.ISLBayEJgjbmf5G4"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "description": "Mountains capped with metallic snow",
+      "_id": "KbOaenpydtJjDpj7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2ZmfBcixmbwd2ncw.KbOaenpydtJjDpj7"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "description": "Searing winds",
+      "_id": "1SNMzHPgiDMRgB4J",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2ZmfBcixmbwd2ncw.1SNMzHPgiDMRgB4J"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "description": "Severely weathered cliffs or mountains",
+      "_id": "BLVSZKOGZ8PqeP4J",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2ZmfBcixmbwd2ncw.BLVSZKOGZ8PqeP4J"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "description": "Sheltered chasms or canyons",
+      "_id": "XBpVVY7ncB29Q52P",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2ZmfBcixmbwd2ncw.XBpVVY7ncB29Q52P"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "description": "Silica or metal storms",
+      "_id": "wAOPrtaXBqQHJp9M",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2ZmfBcixmbwd2ncw.wAOPrtaXBqQHJp9M"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "description": "Steaming mudflats",
+      "_id": "0TNd9UnfFEwEUhXy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2ZmfBcixmbwd2ncw.0TNd9UnfFEwEUhXy"
+    },
+    {
+      "range": [
+        85,
+        91
+      ],
+      "description": "Unusually colored clouds or sky",
+      "_id": "AhPIcHMWhE3XuH8J",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2ZmfBcixmbwd2ncw.AhPIcHMWhE3XuH8J"
+    },
+    {
+      "range": [
+        92,
+        100
+      ],
+      "description": "Transition into a new &gt;Biome",
+      "_id": "4HEV3na07gkrNIw8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2ZmfBcixmbwd2ncw.4HEV3na07gkrNIw8"
+    }
+  ],
+  "folder": "LHnjnCnHvX1B9ly6",
+  "sort": 12,
+  "_id": "2ZmfBcixmbwd2ncw",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.5",
+    "createdTime": 1763675258098,
+    "modifiedTime": 1763675258098,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!tables!2ZmfBcixmbwd2ncw"
+}

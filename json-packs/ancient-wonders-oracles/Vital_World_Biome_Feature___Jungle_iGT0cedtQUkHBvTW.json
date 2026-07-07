@@ -1,0 +1,264 @@
+{
+  "name": "Vital World Biome Feature - Jungle",
+  "formula": "1d100",
+  "description": "<p>Dense brush thrives under a thick tree canopy.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        11
+      ],
+      "_id": "QEJ9xlMv9JAl9vL5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Concealed caves or sinkholes",
+      "name": "",
+      "_key": "!tables.results!iGT0cedtQUkHBvTW.QEJ9xlMv9JAl9vL5"
+    },
+    {
+      "range": [
+        12,
+        22
+      ],
+      "_id": "iR3xJjx3pW9puzQj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enormous canopy-breaching trees",
+      "name": "",
+      "_key": "!tables.results!iGT0cedtQUkHBvTW.iR3xJjx3pW9puzQj"
+    },
+    {
+      "range": [
+        23,
+        33
+      ],
+      "_id": "SqbMFAfLRBja3Yfo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impasses of vines and underbrush",
+      "name": "",
+      "_key": "!tables.results!iGT0cedtQUkHBvTW.SqbMFAfLRBja3Yfo"
+    },
+    {
+      "range": [
+        34,
+        44
+      ],
+      "_id": "SdqU1e2EFdBgKciQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impenetrable, opaque canopy",
+      "name": "",
+      "_key": "!tables.results!iGT0cedtQUkHBvTW.SdqU1e2EFdBgKciQ"
+    },
+    {
+      "range": [
+        45,
+        55
+      ],
+      "_id": "c94ZO4YArNDE49qL",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mountains engulfed by flora",
+      "name": "",
+      "_key": "!tables.results!iGT0cedtQUkHBvTW.c94ZO4YArNDE49qL"
+    },
+    {
+      "range": [
+        56,
+        66
+      ],
+      "_id": "2z6hp8oXogsVnFi8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Powerful rivers or waterfalls",
+      "name": "",
+      "_key": "!tables.results!iGT0cedtQUkHBvTW.2z6hp8oXogsVnFi8"
+    },
+    {
+      "range": [
+        67,
+        77
+      ],
+      "_id": "xgW2fYpDEtcu3HMt",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rocky, moss-covered clearings",
+      "name": "",
+      "_key": "!tables.results!iGT0cedtQUkHBvTW.xgW2fYpDEtcu3HMt"
+    },
+    {
+      "range": [
+        78,
+        88
+      ],
+      "_id": "UYgjOxLR5SXE0EM9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Secluded streams or pools",
+      "name": "",
+      "_key": "!tables.results!iGT0cedtQUkHBvTW.UYgjOxLR5SXE0EM9"
+    },
+    {
+      "range": [
+        89,
+        100
+      ],
+      "_id": "M3fnqvATslGvZccg",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transition into a new &gt;Biome",
+      "name": "",
+      "_key": "!tables.results!iGT0cedtQUkHBvTW.M3fnqvATslGvZccg"
+    }
+  ],
+  "folder": "uqIYYdcorEC11vj9",
+  "sort": 12,
+  "_id": "iGT0cedtQUkHBvTW",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745469388179,
+    "modifiedTime": 1745469388179,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!iGT0cedtQUkHBvTW"
+}

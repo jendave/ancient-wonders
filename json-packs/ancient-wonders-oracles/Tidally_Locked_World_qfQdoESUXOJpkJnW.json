@@ -1,0 +1,22 @@
+{
+  "name": "Tidally-Locked World",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "qfQdoESUXOJpkJnW",
+  "description": "",
+  "folder": "GvsmSMYbvgjEYSQc",
+  "sort": 1900000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": null,
+    "modifiedTime": 1745457524600,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!qfQdoESUXOJpkJnW"
+}

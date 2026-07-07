@@ -1,0 +1,160 @@
+{
+  "name": "Rocky World Atmosphere",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        65
+      ],
+      "_id": "vSjfgoQ2CKbOS1dJ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None / thin",
+      "name": "",
+      "_key": "!tables.results!OHH4UaZbiyaFo9tG.vSjfgoQ2CKbOS1dJ"
+    },
+    {
+      "range": [
+        66,
+        80
+      ],
+      "_id": "rsDBmkKpxo0Ck7yw",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Toxic",
+      "name": "",
+      "_key": "!tables.results!OHH4UaZbiyaFo9tG.rsDBmkKpxo0Ck7yw"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "WwnQC7X04QS41FfK",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrosive",
+      "name": "",
+      "_key": "!tables.results!OHH4UaZbiyaFo9tG.WwnQC7X04QS41FfK"
+    },
+    {
+      "range": [
+        86,
+        95
+      ],
+      "_id": "ILL3JxX6pmO0cmsa",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Marginal",
+      "name": "",
+      "_key": "!tables.results!OHH4UaZbiyaFo9tG.ILL3JxX6pmO0cmsa"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "kxvhtvKvEjGnCBWi",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Breathable",
+      "name": "",
+      "_key": "!tables.results!OHH4UaZbiyaFo9tG.kxvhtvKvEjGnCBWi"
+    }
+  ],
+  "folder": "jgZy24x8EAmoCjSL",
+  "sort": 5,
+  "_id": "OHH4UaZbiyaFo9tG",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745348324737,
+    "modifiedTime": 1745348324737,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!OHH4UaZbiyaFo9tG"
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Exchange Wealth",
+  "type": "sfmove",
+  "img": "icons/dice/d10black.svg",
+  "system": {
+    "dfid": "",
+    "Category": "",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "__When you make a deal where currency is the medium of exchange__, envision the scene.\n\nIf you are acquiring an asset or service, reference this table to determine its cost in wealth:\n\n| Asset or Service | Mechanical outcome | Cost |\n| ----- | ----- | ----- |\n| Object improvement | Upgrade an item asset | 2 |\n| Object, fine | Acquire an uncommon item asset | 2 |\n| Object, simple | Acquire a common item and take +1 momentum | 1 |\n| Provisions, bountiful | Take up to +5 supply | 2 |\n| Provisions, modest | Take up to +2 supply | 1 |\n| Service, average | Make the appropriate move | 1 |\n| Service, fine | Make the appropriate move and add +2 | 2 |\n\n\nUpmarket (on a hit when you @Compendium[ancient-wonders.ancientwondersmoves.Item.PyWjKpW3jMYY5IDn]{Browse the Market})\n| Asset or Service | Mechanical outcome | Cost |\n| ----- | ----- | ----- |\n| Object, exceptional | Acquire a notable item asset | 3 |\n| Object, precious | Acquire a rare item asset | 4 |\n| Object, wondrous | Acquire an exotic item asset | 5 |\n| Object, greatly abnormal | Acquire a major splinter, item asset | 4 |\n| Object, slightly abnormal | Acquire a minor splinter, item asset | 3 |\n| Partnership | Acquire a companion asset | 4 |\n| Partnership, exceptional | Acquire a special companion asset | 5 |\n| Service, costly | Make the appropriate move; you  may reroll any dice | 3 |\n| Ship feature | Acquire a module asset | 4 |\n| Training | Upgrade a path asset | 3 |\n| Training, special | Acquire a path asset | 4 |\n| Training, partner | Upgrade a companion asset | 3 |\n| Training, exceptional partner | Upgrade a special companion asset | 4 |\n| Vessel improvement | Upgrade a vehicle or module asset | 3 |\n| Vessel, minor | Acquire a support vehicle asset | 4 |\n| Vessel, major | Acquire a command vehicle asset | 5 |\n\nIf you are selling...\n* A modest amount of provisions: @Compendium[foundry-ironsworn.starforgedmoves.Item.0fcfea7696d1de15]{Sacrifice Resources} (-2) and take +1 wealth\n* Apparels, consumables, tools, or weapons: Discard it and take +1 wealth for every marked ability. If the asset is broken, take 1 wealth less (to a minimum of 1).\n* A command vehicle or module: Discard it and take +2 wealth for every marked ability (to a maximum of 5). If the asset is broken, battered, or cursed, take 1 wealth less.",
+    "Trigger": {
+      "Text": "When you search in a community, physical or digital, to find an asset, service, or someone interested in what you offer",
+      "Options": []
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      },
+      "Weak Hit": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "",
+      "Authors": [],
+      "Page": null
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "effects": [],
+  "folder": "tI4NJ4Z0Gu4bYOjm",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746519688544,
+    "modifiedTime": 1746519688544,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "fuvuC83AP3ktMMVP",
+  "sort": 0,
+  "_key": "!items!fuvuC83AP3ktMMVP"
+}

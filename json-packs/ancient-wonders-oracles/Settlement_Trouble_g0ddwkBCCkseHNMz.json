@@ -1,0 +1,920 @@
+{
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Oracles/Settlements/Trouble",
+      "category": "Starforged/Oracles/Settlements",
+      "dsid": "oracle_rollable:starforged/settlement/trouble"
+    }
+  },
+  "name": "Settlement Trouble",
+  "description": "<p>Check the Settlement Trouble table when it’s appropriate for your character to know or uncover these details. The Settlement Trouble table provides a broad description of the site’s most dramatic current issue.</p>",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "range": [
+        1,
+        3
+      ],
+      "_id": "8ebc230a659f5698",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Battle for leadership",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.8ebc230a659f5698"
+    },
+    {
+      "range": [
+        4,
+        6
+      ],
+      "_id": "fb915dd2b1faf93c",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Betrayal from within",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.fb915dd2b1faf93c"
+    },
+    {
+      "range": [
+        7,
+        8
+      ],
+      "_id": "ff08a9529b98332d",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Caught in the crossfire",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.ff08a9529b98332d"
+    },
+    {
+      "range": [
+        9,
+        11
+      ],
+      "_id": "58b4bece9b1c415a",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Changing environment",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.58b4bece9b1c415a"
+    },
+    {
+      "range": [
+        12,
+        13
+      ],
+      "_id": "2006c791df9ae1e3",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clash of cultures",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.2006c791df9ae1e3"
+    },
+    {
+      "range": [
+        14,
+        17
+      ],
+      "_id": "4d2cfb1e92f88c57",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dangerous discovery",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.4d2cfb1e92f88c57"
+    },
+    {
+      "range": [
+        18,
+        21
+      ],
+      "_id": "15e39c2154ed7c29",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Depleted supplies",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.15e39c2154ed7c29"
+    },
+    {
+      "range": [
+        22,
+        24
+      ],
+      "_id": "e4ecdb2eeb1812d4",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deprived of a resource",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.e4ecdb2eeb1812d4"
+    },
+    {
+      "range": [
+        25,
+        28
+      ],
+      "_id": "8c8670b92f85c014",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Failing technology",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.8c8670b92f85c014"
+    },
+    {
+      "range": [
+        29,
+        32
+      ],
+      "_id": "2412c1f315753305",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Feuding factions",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.2412c1f315753305"
+    },
+    {
+      "range": [
+        33,
+        34
+      ],
+      "_id": "ddb1bab9729e497c",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ghostly visitations",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.ddb1bab9729e497c"
+    },
+    {
+      "range": [
+        35,
+        38
+      ],
+      "_id": "18cc24de9a1a590e",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hazardous environment",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.18cc24de9a1a590e"
+    },
+    {
+      "range": [
+        39,
+        42
+      ],
+      "_id": "3aa83d11b0b0cbe7",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hostile lifeforms",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.3aa83d11b0b0cbe7"
+    },
+    {
+      "range": [
+        43,
+        45
+      ],
+      "_id": "fe91790656944004",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impassable route",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.fe91790656944004"
+    },
+    {
+      "range": [
+        46,
+        48
+      ],
+      "_id": "c5c1c73ff905b914",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impending attack",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.c5c1c73ff905b914"
+    },
+    {
+      "range": [
+        49,
+        51
+      ],
+      "_id": "b93d09c8ca9cdbe5",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impending natural disaster",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.b93d09c8ca9cdbe5"
+    },
+    {
+      "range": [
+        52,
+        53
+      ],
+      "_id": "4d9d97498a697311",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Invasive organisms",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.4d9d97498a697311"
+    },
+    {
+      "range": [
+        54,
+        55
+      ],
+      "_id": "197be16dcf12f201",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mounting debt",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.197be16dcf12f201"
+    },
+    {
+      "range": [
+        56,
+        57
+      ],
+      "_id": "d29047a8d25b0200",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mysterious deaths",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.d29047a8d25b0200"
+    },
+    {
+      "range": [
+        58,
+        60
+      ],
+      "_id": "22eed892ff3cea00",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overdue delivery",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.22eed892ff3cea00"
+    },
+    {
+      "range": [
+        61,
+        62
+      ],
+      "_id": "93cd4614b1f70f41",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Plagued by sickness",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.93cd4614b1f70f41"
+    },
+    {
+      "range": [
+        63,
+        65
+      ],
+      "_id": "87022182c87547d3",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Preyed upon by raiders",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.87022182c87547d3"
+    },
+    {
+      "range": [
+        66,
+        67
+      ],
+      "_id": "8ea589bf83e4bc9c",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Revolt against leadership",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.8ea589bf83e4bc9c"
+    },
+    {
+      "range": [
+        68,
+        69
+      ],
+      "_id": "e9ce508588783801",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sabotaged technology",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.e9ce508588783801"
+    },
+    {
+      "range": [
+        70,
+        71
+      ],
+      "_id": "bf0de7e0c459631e",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shunned by others",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.bf0de7e0c459631e"
+    },
+    {
+      "range": [
+        72,
+        74
+      ],
+      "_id": "92c7990404dfd03e",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Social strife",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.92c7990404dfd03e"
+    },
+    {
+      "range": [
+        75,
+        76
+      ],
+      "_id": "327eea37862e4336",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Someone is ill or injured",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.327eea37862e4336"
+    },
+    {
+      "range": [
+        77,
+        78
+      ],
+      "_id": "2d391765242b5f4b",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Someone is missing",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.2d391765242b5f4b"
+    },
+    {
+      "range": [
+        79,
+        80
+      ],
+      "_id": "2f5542f9430a84a4",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stolen technology or object",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.2f5542f9430a84a4"
+    },
+    {
+      "range": [
+        81,
+        83
+      ],
+      "_id": "6845ba40fa630c9e",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Strange phenomenon",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.6845ba40fa630c9e"
+    },
+    {
+      "range": [
+        84,
+        86
+      ],
+      "_id": "984129c3dccaf127",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Toxic waste or pollution",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.984129c3dccaf127"
+    },
+    {
+      "range": [
+        87,
+        88
+      ],
+      "_id": "19ef6cd2f4d711d6",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Volatile energy source",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.19ef6cd2f4d711d6"
+    },
+    {
+      "range": [
+        89,
+        90
+      ],
+      "_id": "3634ea064748caf7",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vulnerable lifeforms",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.3634ea064748caf7"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "2a0822dcfe2614e9",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@Compendium[foundry-ironsworn.starforgedoracles.b347a87fb81a3abb]{Action} + @Compendium[foundry-ironsworn.starforgedoracles.0c5ce82c7adbb4e2]{Theme}",
+      "name": "",
+      "_key": "!tables.results!g0ddwkBCCkseHNMz.2a0822dcfe2614e9"
+    }
+  ],
+  "folder": "Vxxnc89YzwMyYvbP",
+  "img": "icons/dice/d10black.svg",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747787814310,
+    "modifiedTime": 1747787814310,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "g0ddwkBCCkseHNMz",
+  "sort": 0,
+  "_key": "!tables!g0ddwkBCCkseHNMz"
+}

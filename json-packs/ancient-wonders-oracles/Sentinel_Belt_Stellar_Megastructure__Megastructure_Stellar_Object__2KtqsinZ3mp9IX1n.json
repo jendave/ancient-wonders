@@ -1,0 +1,368 @@
+{
+  "name": "Sentinel Belt Stellar Megastructure (Megastructure/Stellar Object)",
+  "formula": "1d100",
+  "description": "<p>Use this table according to the When Discovered rules to reveal the stellar megastructure at the center of the sentinel belt.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "kdpWHyA4Pv7AeGGO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Accretion Macrocollector / Star",
+      "name": "",
+      "_key": "!tables.results!2KtqsinZ3mp9IX1n.kdpWHyA4Pv7AeGGO"
+    },
+    {
+      "range": [
+        11,
+        21
+      ],
+      "_id": "htNbOldVlb13Q0E8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dyson Object (if it is a Dyson Ring or Shell, it extends up to the 4th interplanetary orbit) / Star",
+      "name": "",
+      "_key": "!tables.results!2KtqsinZ3mp9IX1n.htNbOldVlb13Q0E8"
+    },
+    {
+      "range": [
+        22,
+        31
+      ],
+      "_id": "Vk3KTF1fyEQEQ2g9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fusion Suppressor / Star",
+      "name": "",
+      "_key": "!tables.results!2KtqsinZ3mp9IX1n.Vk3KTF1fyEQEQ2g9"
+    },
+    {
+      "range": [
+        32,
+        35
+      ],
+      "_id": "oMVQzAluUeUjymsO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Helio-obliterator / Star",
+      "name": "",
+      "_key": "!tables.results!2KtqsinZ3mp9IX1n.oMVQzAluUeUjymsO"
+    },
+    {
+      "range": [
+        36,
+        43
+      ],
+      "_id": "IO0iJRQauZ9l2Iwe",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hyperstructural Shipyard / -",
+      "name": "",
+      "_key": "!tables.results!2KtqsinZ3mp9IX1n.IO0iJRQauZ9l2Iwe"
+    },
+    {
+      "range": [
+        44,
+        53
+      ],
+      "_id": "0zbzPDZbo8hJKaoi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Kugelblitz Silo / Black  hole",
+      "name": "",
+      "_key": "!tables.results!2KtqsinZ3mp9IX1n.0zbzPDZbo8hJKaoi"
+    },
+    {
+      "range": [
+        54,
+        59
+      ],
+      "_id": "hxkCppAZGMdvC8TG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Matrioshka Brain / Star",
+      "name": "",
+      "_key": "!tables.results!2KtqsinZ3mp9IX1n.hxkCppAZGMdvC8TG"
+    },
+    {
+      "range": [
+        60,
+        63
+      ],
+      "_id": "eVaMvb4M2SFOgnZ1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nicoll-dyson Array / Star",
+      "name": "",
+      "_key": "!tables.results!2KtqsinZ3mp9IX1n.eVaMvb4M2SFOgnZ1"
+    },
+    {
+      "range": [
+        64,
+        67
+      ],
+      "_id": "Qp52od1vt0jWb0OD",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Penrose Sphere / Black  hole",
+      "name": "",
+      "_key": "!tables.results!2KtqsinZ3mp9IX1n.Qp52od1vt0jWb0OD"
+    },
+    {
+      "range": [
+        68,
+        77
+      ],
+      "_id": "rHW6ZIOzRcV6DD8X",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Star Lifter / Star",
+      "name": "",
+      "_key": "!tables.results!2KtqsinZ3mp9IX1n.rHW6ZIOzRcV6DD8X"
+    },
+    {
+      "range": [
+        78,
+        87
+      ],
+      "_id": "RaqS0CCz9ENwkZRF",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stellar Compressor / Star",
+      "name": "",
+      "_key": "!tables.results!2KtqsinZ3mp9IX1n.RaqS0CCz9ENwkZRF"
+    },
+    {
+      "range": [
+        88,
+        92
+      ],
+      "_id": "K06V4dmPaeXau0d2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stellar Engine / Star",
+      "name": "",
+      "_key": "!tables.results!2KtqsinZ3mp9IX1n.K06V4dmPaeXau0d2"
+    },
+    {
+      "range": [
+        93,
+        100
+      ],
+      "_id": "jSkOVnWaCUyCzamW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stellar Hyperforge / Star",
+      "name": "",
+      "_key": "!tables.results!2KtqsinZ3mp9IX1n.jSkOVnWaCUyCzamW"
+    }
+  ],
+  "folder": "fd5l5Oi1WXzqF2JY",
+  "sort": 5,
+  "_id": "2KtqsinZ3mp9IX1n",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1746059850465,
+    "modifiedTime": 1746059850465,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!2KtqsinZ3mp9IX1n"
+}

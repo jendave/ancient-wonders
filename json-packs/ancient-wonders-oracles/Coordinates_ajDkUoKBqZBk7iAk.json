@@ -1,0 +1,22 @@
+{
+  "name": "Coordinates",
+  "sorting": "m",
+  "folder": "GkhqdUZouosGDKWQ",
+  "type": "RollTable",
+  "_id": "ajDkUoKBqZBk7iAk",
+  "description": "",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743222361491,
+    "modifiedTime": 1744955960476,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!ajDkUoKBqZBk7iAk"
+}

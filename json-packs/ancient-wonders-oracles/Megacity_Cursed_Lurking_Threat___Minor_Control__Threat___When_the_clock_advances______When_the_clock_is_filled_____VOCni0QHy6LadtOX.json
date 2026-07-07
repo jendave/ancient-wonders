@@ -1,0 +1,238 @@
+{
+  "name": "Megacity Cursed Lurking Threat - Minor Control (Threat / When the clock advances... / When the clock is filled...)",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        6
+      ],
+      "_id": "NzpqEYc7KxHlIlXU",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrupted sectarians / Ill-omened ideograms; ritualistic objects or remains / The sect make its move!",
+      "name": "",
+      "_key": "!tables.results!VOCni0QHy6LadtOX.NzpqEYc7KxHlIlXU"
+    },
+    {
+      "range": [
+        7,
+        23
+      ],
+      "_id": "Gob7xFOs4AnXC2t4",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Devastating aberration / Minor side-effects; slight anomalous effects / A powerful aberration forms!",
+      "name": "",
+      "_key": "!tables.results!VOCni0QHy6LadtOX.Gob7xFOs4AnXC2t4"
+    },
+    {
+      "range": [
+        24,
+        33
+      ],
+      "_id": "tavVbWbXBAms9jl4",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Elite keeper / Activation signals; structures closing for protection / A dominant construct appears!",
+      "name": "",
+      "_key": "!tables.results!VOCni0QHy6LadtOX.tavVbWbXBAms9jl4"
+    },
+    {
+      "range": [
+        34,
+        38
+      ],
+      "_id": "uCxquz3KcNWYa5M0",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hazardous festival /  Foreboding announcements; structures modifying for arrival / A procession of keepers appear!",
+      "name": "",
+      "_key": "!tables.results!VOCni0QHy6LadtOX.uCxquz3KcNWYa5M0"
+    },
+    {
+      "range": [
+        39,
+        53
+      ],
+      "_id": "oDL0M8Q5xYhLcbsM",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Infesting organisms /  Scuttles or chittering; revolting nests / Vicious clusters of lifeforms spread!",
+      "name": "",
+      "_key": "!tables.results!VOCni0QHy6LadtOX.oDL0M8Q5xYhLcbsM"
+    },
+    {
+      "range": [
+        54,
+        68
+      ],
+      "_id": "GhnDcRXGAz9jnyZ9",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mighty creature / Territorial markings; signs or sounds of a creature on the hunt / The creature strikes!",
+      "name": "",
+      "_key": "!tables.results!VOCni0QHy6LadtOX.GhnDcRXGAz9jnyZ9"
+    },
+    {
+      "range": [
+        69,
+        83
+      ],
+      "_id": "7ia90PQmFbdNXMGF",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sanitation treatment / Protocol announcements; caustic substances are spread / Your body breaks down!",
+      "name": "",
+      "_key": "!tables.results!VOCni0QHy6LadtOX.7ia90PQmFbdNXMGF"
+    },
+    {
+      "range": [
+        84,
+        100
+      ],
+      "_id": "z7oghB3hpr1wsK65",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unleashed entities / Spectral noises; glimpses of phantom forms / A group entities spawn!",
+      "name": "",
+      "_key": "!tables.results!VOCni0QHy6LadtOX.z7oghB3hpr1wsK65"
+    }
+  ],
+  "folder": "nR1iJqDkm8MluDvh",
+  "sort": 14,
+  "_id": "VOCni0QHy6LadtOX",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746337614622,
+    "modifiedTime": 1746337614622,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!VOCni0QHy6LadtOX"
+}

@@ -1,0 +1,160 @@
+{
+  "name": "Ecosphere Life - Damaged",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        15
+      ],
+      "_id": "CjvILHhOzlCu34PK",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extinct",
+      "name": "",
+      "_key": "!tables.results!npaYaArXREeaWGUT.CjvILHhOzlCu34PK"
+    },
+    {
+      "range": [
+        16,
+        35
+      ],
+      "_id": "H7oFtfGUD5vpcxHg",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scarce",
+      "name": "",
+      "_key": "!tables.results!npaYaArXREeaWGUT.H7oFtfGUD5vpcxHg"
+    },
+    {
+      "range": [
+        36,
+        70
+      ],
+      "_id": "ul8H5lGrha15HCWz",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Diverse",
+      "name": "",
+      "_key": "!tables.results!npaYaArXREeaWGUT.ul8H5lGrha15HCWz"
+    },
+    {
+      "range": [
+        71,
+        90
+      ],
+      "_id": "0DNnEwm54EUI58Cy",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bountiful",
+      "name": "",
+      "_key": "!tables.results!npaYaArXREeaWGUT.0DNnEwm54EUI58Cy"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "mtWgXnKsTLRBhfYK",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overrun",
+      "name": "",
+      "_key": "!tables.results!npaYaArXREeaWGUT.mtWgXnKsTLRBhfYK"
+    }
+  ],
+  "folder": "wXMzUvQoCfDoUqQ5",
+  "sort": 8,
+  "_id": "npaYaArXREeaWGUT",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745821297335,
+    "modifiedTime": 1745821297335,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!npaYaArXREeaWGUT"
+}

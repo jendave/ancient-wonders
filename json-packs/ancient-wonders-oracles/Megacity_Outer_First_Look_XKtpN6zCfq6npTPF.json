@@ -1,0 +1,1044 @@
+{
+  "name": "Megacity Outer First Look",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "LlWCguj38ct04Unw",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cyphered messages in known alphabet",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.LlWCguj38ct04Unw"
+    },
+    {
+      "range": [
+        3,
+        4
+      ],
+      "_id": "GEwPjEC1rqh8k9No",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Idyllic appearance or architecture",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.GEwPjEC1rqh8k9No"
+    },
+    {
+      "range": [
+        5,
+        6
+      ],
+      "_id": "i8vDBiGJOUhd9ueT",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surrounded by smoldering ashes",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.i8vDBiGJOUhd9ueT"
+    },
+    {
+      "range": [
+        7,
+        8
+      ],
+      "_id": "DWd4tSx6ZdyNuuJO",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Immense crashed ship or vessel",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.DWd4tSx6ZdyNuuJO"
+    },
+    {
+      "range": [
+        9,
+        11
+      ],
+      "_id": "WkW1xzIkVRnuJEUb",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Majestic and grand adornments",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.WkW1xzIkVRnuJEUb"
+    },
+    {
+      "range": [
+        12,
+        13
+      ],
+      "_id": "o4VFMahkl1kvYZPc",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pervasive undulating vibrations",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.o4VFMahkl1kvYZPc"
+    },
+    {
+      "range": [
+        14,
+        15
+      ],
+      "_id": "pG7vZ2HMg8JwESgz",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Connective skyways or tunnels",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.pG7vZ2HMg8JwESgz"
+    },
+    {
+      "range": [
+        16,
+        17
+      ],
+      "_id": "UOc6ARDL3UVnLQyH",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Beautifying all its surroundings",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.UOc6ARDL3UVnLQyH"
+    },
+    {
+      "range": [
+        18,
+        20
+      ],
+      "_id": "daAuD9p0pXp2fsXn",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Grim, industrial infrastructure",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.daAuD9p0pXp2fsXn"
+    },
+    {
+      "range": [
+        21,
+        22
+      ],
+      "_id": "6yBcvX5iQewyB2ei",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evidence of new inhabitants",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.6yBcvX5iQewyB2ei"
+    },
+    {
+      "range": [
+        23,
+        25
+      ],
+      "_id": "8L1m8vBhePEfCQST",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Power-conducting surfaces",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.8L1m8vBhePEfCQST"
+    },
+    {
+      "range": [
+        26,
+        27
+      ],
+      "_id": "5opQuhMFy3Gg4wSJ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gigantic statue or monolith",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.5opQuhMFy3Gg4wSJ"
+    },
+    {
+      "range": [
+        28,
+        30
+      ],
+      "_id": "CXKd2bApaCWx6Thc",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flanked by huge monoliths",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.CXKd2bApaCWx6Thc"
+    },
+    {
+      "range": [
+        31,
+        32
+      ],
+      "_id": "rKiQt2emnBcJShVu",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Signs of a previous conflict",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.rKiQt2emnBcJShVu"
+    },
+    {
+      "range": [
+        33,
+        35
+      ],
+      "_id": "rvs1WAsGgEnMRPoi",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Entrance for large vehicles",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.rvs1WAsGgEnMRPoi"
+    },
+    {
+      "range": [
+        36,
+        37
+      ],
+      "_id": "q0Uwo5nLJE6NP69u",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scaled for outsized beings",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.q0Uwo5nLJE6NP69u"
+    },
+    {
+      "range": [
+        38,
+        40
+      ],
+      "_id": "r92sMsHpXF06xX3j",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Encased in an energy field",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.r92sMsHpXF06xX3j"
+    },
+    {
+      "range": [
+        41,
+        43
+      ],
+      "_id": "xefGjU8VGDQ6EdHV",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "No obvious point of entry",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.xefGjU8VGDQ6EdHV"
+    },
+    {
+      "range": [
+        44,
+        46
+      ],
+      "_id": "rfSiM6gEzbjR4s6n",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crumbling infrastructure",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.rfSiM6gEzbjR4s6n"
+    },
+    {
+      "range": [
+        47,
+        49
+      ],
+      "_id": "OD5kn5QKgL8PApRS",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bulwark against assaults",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.OD5kn5QKgL8PApRS"
+    },
+    {
+      "range": [
+        50,
+        51
+      ],
+      "_id": "hQnu4HzWDXrPENI5",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hazardous surroundings",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.hQnu4HzWDXrPENI5"
+    },
+    {
+      "range": [
+        52,
+        54
+      ],
+      "_id": "tq7NGhW9e7qEEfk0",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Electric arcs and sparks",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.tq7NGhW9e7qEEfk0"
+    },
+    {
+      "range": [
+        55,
+        56
+      ],
+      "_id": "l5fCpo1KbjBGZhkh",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Energy core or conduit",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.l5fCpo1KbjBGZhkh"
+    },
+    {
+      "range": [
+        57,
+        59
+      ],
+      "_id": "4jfTCdoRot9SHCET",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leaking gases or vapor",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.4jfTCdoRot9SHCET"
+    },
+    {
+      "range": [
+        60,
+        61
+      ],
+      "_id": "GB09WHY3kqhya0xe",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Distinct segmentation",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.GB09WHY3kqhya0xe"
+    },
+    {
+      "range": [
+        62,
+        64
+      ],
+      "_id": "S9DH4jGHKFlWCuIq",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lighted or illuminated",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.S9DH4jGHKFlWCuIq"
+    },
+    {
+      "range": [
+        65,
+        67
+      ],
+      "_id": "sFe6DEPhOK7CYnar",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Electromagnetic field",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.sFe6DEPhOK7CYnar"
+    },
+    {
+      "range": [
+        68,
+        69
+      ],
+      "_id": "71wqD1izETcnjB0N",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reflective structures",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.71wqD1izETcnjB0N"
+    },
+    {
+      "range": [
+        70,
+        72
+      ],
+      "_id": "DLhMc04MQtOVpoM1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Collapsed structures",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.DLhMc04MQtOVpoM1"
+    },
+    {
+      "range": [
+        73,
+        75
+      ],
+      "_id": "DhVo0Bl9qwT1518A",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Natural reclamation",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.DhVo0Bl9qwT1518A"
+    },
+    {
+      "range": [
+        76,
+        78
+      ],
+      "_id": "CCezrLYzewzgMmeM",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glyphs or symbols",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.CCezrLYzewzgMmeM"
+    },
+    {
+      "range": [
+        79,
+        81
+      ],
+      "_id": "ps04mDrTh2fzagn4",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Signal or message",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.ps04mDrTh2fzagn4"
+    },
+    {
+      "range": [
+        82,
+        84
+      ],
+      "_id": "K7GYp6gBivRj3bPw",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gigantic entrance",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.K7GYp6gBivRj3bPw"
+    },
+    {
+      "range": [
+        85,
+        86
+      ],
+      "_id": "KYlzWHGqVD5Z2GdE",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Breached exterior",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.KYlzWHGqVD5Z2GdE"
+    },
+    {
+      "range": [
+        87,
+        88
+      ],
+      "_id": "nv3CSYEYNQt0jUD8",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leaking radiation",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.nv3CSYEYNQt0jUD8"
+    },
+    {
+      "range": [
+        89,
+        91
+      ],
+      "_id": "Kuoe11DLJ3H61dx6",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flickering lights",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.Kuoe11DLJ3H61dx6"
+    },
+    {
+      "range": [
+        92,
+        93
+      ],
+      "_id": "nVjURmOsrYQdCbf4",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blocked access",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.nVjURmOsrYQdCbf4"
+    },
+    {
+      "range": [
+        94,
+        95
+      ],
+      "_id": "IvirW5q9jGi1BPmm",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orbiting object",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.IvirW5q9jGi1BPmm"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "M5e0qsLyU128FhFh",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Descriptor + Focus; pg 13",
+      "name": "",
+      "_key": "!tables.results!XKtpN6zCfq6npTPF.M5e0qsLyU128FhFh"
+    }
+  ],
+  "folder": "mrregFSVf6r5mYLu",
+  "sort": 10,
+  "_id": "XKtpN6zCfq6npTPF",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746313802515,
+    "modifiedTime": 1746313802515,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!XKtpN6zCfq6npTPF"
+}

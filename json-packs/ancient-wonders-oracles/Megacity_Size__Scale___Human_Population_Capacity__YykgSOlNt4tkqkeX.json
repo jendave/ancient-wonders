@@ -1,0 +1,160 @@
+{
+  "name": "Megacity Size (Scale / Human Population Capacity)",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "DzpWvGfGaYDol77W",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enormous / Tens of thousands",
+      "name": "",
+      "_key": "!tables.results!YykgSOlNt4tkqkeX.DzpWvGfGaYDol77W"
+    },
+    {
+      "range": [
+        11,
+        25
+      ],
+      "_id": "i2yMBGsQjnVzZsc9",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Massive / Hundreds of thousands",
+      "name": "",
+      "_key": "!tables.results!YykgSOlNt4tkqkeX.i2yMBGsQjnVzZsc9"
+    },
+    {
+      "range": [
+        26,
+        60
+      ],
+      "_id": "rFqjGZBcfZsiJdr1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gigantic / A million",
+      "name": "",
+      "_key": "!tables.results!YykgSOlNt4tkqkeX.rFqjGZBcfZsiJdr1"
+    },
+    {
+      "range": [
+        61,
+        85
+      ],
+      "_id": "XpPxn4nRttXbFMqS",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Colossal / Tens of millions",
+      "name": "",
+      "_key": "!tables.results!YykgSOlNt4tkqkeX.XpPxn4nRttXbFMqS"
+    },
+    {
+      "range": [
+        86,
+        100
+      ],
+      "_id": "fJcSjA2tIzvFyXEO",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Megalithic / A hundred million",
+      "name": "",
+      "_key": "!tables.results!YykgSOlNt4tkqkeX.fJcSjA2tIzvFyXEO"
+    }
+  ],
+  "folder": "mrregFSVf6r5mYLu",
+  "sort": 5,
+  "_id": "YykgSOlNt4tkqkeX",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746313802515,
+    "modifiedTime": 1746313802515,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!YykgSOlNt4tkqkeX"
+}

@@ -1,0 +1,150 @@
+{
+  "name": "Furnace World Atmosphere",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "description": "None / thin",
+      "_id": "3soOh48nSLYiv6ol",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!eGyCl2ySHvq98Cbz.3soOh48nSLYiv6ol"
+    },
+    {
+      "range": [
+        11,
+        50
+      ],
+      "description": "Toxic",
+      "_id": "JqBMsr7COHsVHiF7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!eGyCl2ySHvq98Cbz.JqBMsr7COHsVHiF7"
+    },
+    {
+      "range": [
+        51,
+        65
+      ],
+      "description": "Corrosive",
+      "_id": "GN5dP2buLzFYTKSH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!eGyCl2ySHvq98Cbz.GN5dP2buLzFYTKSH"
+    },
+    {
+      "range": [
+        66,
+        90
+      ],
+      "description": "Marginal",
+      "_id": "cluNC2sGGEGt0aNl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!eGyCl2ySHvq98Cbz.cluNC2sGGEGt0aNl"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "description": "Breathable",
+      "_id": "P615jQNvKPBX5NO9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!eGyCl2ySHvq98Cbz.P615jQNvKPBX5NO9"
+    }
+  ],
+  "folder": "LHnjnCnHvX1B9ly6",
+  "sort": 5,
+  "_id": "eGyCl2ySHvq98Cbz",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.5",
+    "createdTime": 1763675258098,
+    "modifiedTime": 1763675258098,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!tables!eGyCl2ySHvq98Cbz"
+}

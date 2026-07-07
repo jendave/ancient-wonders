@@ -1,0 +1,576 @@
+{
+  "name": "Living World Underground Peril",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "JIkFRIt7HLA4sJpM",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Anomaly, pg 194",
+      "name": "",
+      "_key": "!tables.results!HUzVcnjtOguERGly.JIkFRIt7HLA4sJpM"
+    },
+    {
+      "range": [
+        2,
+        20
+      ],
+      "_id": "YFwIzsa3YTSNq22N",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Lurking Threat",
+      "name": "",
+      "_key": "!tables.results!HUzVcnjtOguERGly.YFwIzsa3YTSNq22N"
+    },
+    {
+      "range": [
+        21,
+        24
+      ],
+      "_id": "IjUpuCxxF0PQwxsM",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A touch triggers a reaction",
+      "name": "",
+      "_key": "!tables.results!HUzVcnjtOguERGly.IjUpuCxxF0PQwxsM"
+    },
+    {
+      "range": [
+        25,
+        28
+      ],
+      "_id": "UXSEAGXgXxhGBIY1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aggressive lifeform",
+      "name": "",
+      "_key": "!tables.results!HUzVcnjtOguERGly.UXSEAGXgXxhGBIY1"
+    },
+    {
+      "range": [
+        29,
+        32
+      ],
+      "_id": "tuwui0yan76j45Hb",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bewildering paths",
+      "name": "",
+      "_key": "!tables.results!HUzVcnjtOguERGly.tuwui0yan76j45Hb"
+    },
+    {
+      "range": [
+        33,
+        36
+      ],
+      "_id": "FE7wZcqtvCQPh7RW",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blocked or barricaded path",
+      "name": "",
+      "_key": "!tables.results!HUzVcnjtOguERGly.FE7wZcqtvCQPh7RW"
+    },
+    {
+      "range": [
+        37,
+        40
+      ],
+      "_id": "Wkv2SHCdsvUPmEed",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Camouflaged antibody lifeform",
+      "name": "",
+      "_key": "!tables.results!HUzVcnjtOguERGly.Wkv2SHCdsvUPmEed"
+    },
+    {
+      "range": [
+        41,
+        44
+      ],
+      "_id": "LPq6PbIEh1WAL9jU",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Contracting passage",
+      "name": "",
+      "_key": "!tables.results!HUzVcnjtOguERGly.LPq6PbIEh1WAL9jU"
+    },
+    {
+      "range": [
+        45,
+        48
+      ],
+      "_id": "lhGD8cKATvyOUjCZ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crowding lifeforms",
+      "name": "",
+      "_key": "!tables.results!HUzVcnjtOguERGly.lhGD8cKATvyOUjCZ"
+    },
+    {
+      "range": [
+        49,
+        52
+      ],
+      "_id": "DY21TmOVORr5Sahx",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disorienting vapor",
+      "name": "",
+      "_key": "!tables.results!HUzVcnjtOguERGly.DY21TmOVORr5Sahx"
+    },
+    {
+      "range": [
+        53,
+        56
+      ],
+      "_id": "bltGijBKB3fjAwr4",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hindered visibility",
+      "name": "",
+      "_key": "!tables.results!HUzVcnjtOguERGly.bltGijBKB3fjAwr4"
+    },
+    {
+      "range": [
+        57,
+        60
+      ],
+      "_id": "yzIF07umR2AtNujW",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lost gear or supplies",
+      "name": "",
+      "_key": "!tables.results!HUzVcnjtOguERGly.yzIF07umR2AtNujW"
+    },
+    {
+      "range": [
+        61,
+        64
+      ],
+      "_id": "nDzqlARWJQeLNvid",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Party member causes trouble",
+      "name": "",
+      "_key": "!tables.results!HUzVcnjtOguERGly.nDzqlARWJQeLNvid"
+    },
+    {
+      "range": [
+        65,
+        68
+      ],
+      "_id": "Dk4wBNoc7lSb1gKt",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precipitous climb or descent",
+      "name": "",
+      "_key": "!tables.results!HUzVcnjtOguERGly.Dk4wBNoc7lSb1gKt"
+    },
+    {
+      "range": [
+        69,
+        72
+      ],
+      "_id": "reXkU1rh5vqN05Ma",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rolling fog of miasma",
+      "name": "",
+      "_key": "!tables.results!HUzVcnjtOguERGly.reXkU1rh5vqN05Ma"
+    },
+    {
+      "range": [
+        73,
+        76
+      ],
+      "_id": "XPXSI05UqOALyTwB",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Toxic or corrosive environment",
+      "name": "",
+      "_key": "!tables.results!HUzVcnjtOguERGly.XPXSI05UqOALyTwB"
+    },
+    {
+      "range": [
+        77,
+        80
+      ],
+      "_id": "AZbBZdo5HNnGGSF4",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Treacherous footing",
+      "name": "",
+      "_key": "!tables.results!HUzVcnjtOguERGly.AZbBZdo5HNnGGSF4"
+    },
+    {
+      "range": [
+        81,
+        84
+      ],
+      "_id": "qldCOXN9RnFlkGVR",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unfriendly or hostile explorers",
+      "name": "",
+      "_key": "!tables.results!HUzVcnjtOguERGly.qldCOXN9RnFlkGVR"
+    },
+    {
+      "range": [
+        85,
+        88
+      ],
+      "_id": "kULH9V66aDqTDuXC",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Venomous lifeform",
+      "name": "",
+      "_key": "!tables.results!HUzVcnjtOguERGly.kULH9V66aDqTDuXC"
+    },
+    {
+      "range": [
+        89,
+        94
+      ],
+      "_id": "QUtBTA3P1JZ3CAQD",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Action + Theme; pg 12",
+      "name": "",
+      "_key": "!tables.results!HUzVcnjtOguERGly.QUtBTA3P1JZ3CAQD"
+    },
+    {
+      "range": [
+        95,
+        100
+      ],
+      "_id": "73P3gm0THMI2nxGm",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice",
+      "name": "",
+      "_key": "!tables.results!HUzVcnjtOguERGly.73P3gm0THMI2nxGm"
+    }
+  ],
+  "folder": "7yP7GU5RkbnYXOd3",
+  "sort": 14,
+  "_id": "HUzVcnjtOguERGly",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745289001127,
+    "modifiedTime": 1745289001127,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!HUzVcnjtOguERGly"
+}

@@ -1,0 +1,368 @@
+{
+  "name": "Tainted World Biome Feature - Hive",
+  "formula": "1d100",
+  "description": "<p>Landscapes subjugated and terraformed by fauna.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        8
+      ],
+      "_id": "h0bl7tJqWDd2V6J8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crudely-hewn tunnels and caverns",
+      "name": "",
+      "_key": "!tables.results!462QQ8mHrOJ1j8Dl.h0bl7tJqWDd2V6J8"
+    },
+    {
+      "range": [
+        9,
+        15
+      ],
+      "_id": "ncOAgbWIPBbVFCDR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enormous parched wastes",
+      "name": "",
+      "_key": "!tables.results!462QQ8mHrOJ1j8Dl.ncOAgbWIPBbVFCDR"
+    },
+    {
+      "range": [
+        16,
+        22
+      ],
+      "_id": "pzJKwJ1AhL1bCrGK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expanses of putrefying flora",
+      "name": "",
+      "_key": "!tables.results!462QQ8mHrOJ1j8Dl.pzJKwJ1AhL1bCrGK"
+    },
+    {
+      "range": [
+        23,
+        29
+      ],
+      "_id": "lQz3WhUTA9Wicekb",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Isolated or secluded groves",
+      "name": "",
+      "_key": "!tables.results!462QQ8mHrOJ1j8Dl.lQz3WhUTA9Wicekb"
+    },
+    {
+      "range": [
+        30,
+        37
+      ],
+      "_id": "47vK2cct6rK88ycD",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mountains pockmarked by caves",
+      "name": "",
+      "_key": "!tables.results!462QQ8mHrOJ1j8Dl.47vK2cct6rK88ycD"
+    },
+    {
+      "range": [
+        38,
+        45
+      ],
+      "_id": "Gjw9h7OJrkYovQmE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pools of liquefied organic matter",
+      "name": "",
+      "_key": "!tables.results!462QQ8mHrOJ1j8Dl.Gjw9h7OJrkYovQmE"
+    },
+    {
+      "range": [
+        46,
+        53
+      ],
+      "_id": "9so2rPdOFzH6RouB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scabrous, infected terrain",
+      "name": "",
+      "_key": "!tables.results!462QQ8mHrOJ1j8Dl.9so2rPdOFzH6RouB"
+    },
+    {
+      "range": [
+        54,
+        61
+      ],
+      "_id": "X74hCtE6NYPQT3qe",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sinkholes coated with gelatinous fluid",
+      "name": "",
+      "_key": "!tables.results!462QQ8mHrOJ1j8Dl.X74hCtE6NYPQT3qe"
+    },
+    {
+      "range": [
+        62,
+        69
+      ],
+      "_id": "04OVOc8MHpQyVGYN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sky-breaching chitinous growths",
+      "name": "",
+      "_key": "!tables.results!462QQ8mHrOJ1j8Dl.04OVOc8MHpQyVGYN"
+    },
+    {
+      "range": [
+        70,
+        77
+      ],
+      "_id": "u6MqFHabpQBa8dDR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sludge-filled river networks",
+      "name": "",
+      "_key": "!tables.results!462QQ8mHrOJ1j8Dl.u6MqFHabpQBa8dDR"
+    },
+    {
+      "range": [
+        78,
+        85
+      ],
+      "_id": "aBKMbqCp05QCaHLW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Terrain marred by fleshy pustules",
+      "name": "",
+      "_key": "!tables.results!462QQ8mHrOJ1j8Dl.aBKMbqCp05QCaHLW"
+    },
+    {
+      "range": [
+        86,
+        93
+      ],
+      "_id": "SOhUnunBLZTPMjde",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Toxic seas",
+      "name": "",
+      "_key": "!tables.results!462QQ8mHrOJ1j8Dl.SOhUnunBLZTPMjde"
+    },
+    {
+      "range": [
+        94,
+        100
+      ],
+      "_id": "syj9OarUle5Os32S",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Viscous, necrotizing lakes",
+      "name": "",
+      "_key": "!tables.results!462QQ8mHrOJ1j8Dl.syj9OarUle5Os32S"
+    }
+  ],
+  "folder": "64DrLqEQ9Gx2HIMt",
+  "sort": 8,
+  "_id": "462QQ8mHrOJ1j8Dl",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745372518001,
+    "modifiedTime": 1745372518001,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!462QQ8mHrOJ1j8Dl"
+}

@@ -1,0 +1,160 @@
+{
+  "name": "Ring System",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        25
+      ],
+      "_id": "iY43jXtHmJDMlLuF",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thin and barely visible ring",
+      "name": "",
+      "_key": "!tables.results!dLnOCmITCop5R0gg.iY43jXtHmJDMlLuF"
+    },
+    {
+      "range": [
+        26,
+        80
+      ],
+      "_id": "u4491On5hdCFA5nA",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Banded ring of different shades",
+      "name": "",
+      "_key": "!tables.results!dLnOCmITCop5R0gg.u4491On5hdCFA5nA"
+    },
+    {
+      "range": [
+        81,
+        95
+      ],
+      "_id": "7mzIVnlITzgZCtLu",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lone ring of a consistent shade",
+      "name": "",
+      "_key": "!tables.results!dLnOCmITCop5R0gg.7mzIVnlITzgZCtLu"
+    },
+    {
+      "range": [
+        96,
+        99
+      ],
+      "_id": "BwVSKBY9qMVA0WYR",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vast system of concentric rings",
+      "name": "",
+      "_key": "!tables.results!dLnOCmITCop5R0gg.BwVSKBY9qMVA0WYR"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "ejeT4RY73ck1lmnf",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Concentric rings with varied angles",
+      "name": "",
+      "_key": "!tables.results!dLnOCmITCop5R0gg.ejeT4RY73ck1lmnf"
+    }
+  ],
+  "folder": "GvsmSMYbvgjEYSQc",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745010490499,
+    "modifiedTime": 1745011311281,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "dLnOCmITCop5R0gg",
+  "sort": 150000,
+  "_key": "!tables!dLnOCmITCop5R0gg"
+}

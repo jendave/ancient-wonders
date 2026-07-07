@@ -1,0 +1,342 @@
+{
+  "name": "Rocky World Biome Feature - Basalt",
+  "formula": "1d100",
+  "description": "<p>Long extinct volcanoes mark the igneous rock plains.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        8
+      ],
+      "_id": "OzZG8oi177OG02Nm",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Billowing winds carrying disturbed ash",
+      "name": "",
+      "_key": "!tables.results!4EPZpXlKicP7WiIj.OzZG8oi177OG02Nm"
+    },
+    {
+      "range": [
+        9,
+        16
+      ],
+      "_id": "vcMV6IL6YEynIB0w",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enormous pillars of volcanic rock or obsidian",
+      "name": "",
+      "_key": "!tables.results!4EPZpXlKicP7WiIj.vcMV6IL6YEynIB0w"
+    },
+    {
+      "range": [
+        17,
+        24
+      ],
+      "_id": "EfXmfS0Zh1fzWwfx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glowing sinkholes",
+      "name": "",
+      "_key": "!tables.results!4EPZpXlKicP7WiIj.EfXmfS0Zh1fzWwfx"
+    },
+    {
+      "range": [
+        25,
+        32
+      ],
+      "_id": "Y1PTQqSAS2OdNiM2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Isolated blooms of flora",
+      "name": "",
+      "_key": "!tables.results!4EPZpXlKicP7WiIj.Y1PTQqSAS2OdNiM2"
+    },
+    {
+      "range": [
+        33,
+        40
+      ],
+      "_id": "LJnEV03ntE81MdrL",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Isolated volcanoes billowing smoke and ash",
+      "name": "",
+      "_key": "!tables.results!4EPZpXlKicP7WiIj.LJnEV03ntE81MdrL"
+    },
+    {
+      "range": [
+        41,
+        48
+      ],
+      "_id": "TS1MBYEwClakWieG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Labyrinthine networks of lava tubes",
+      "name": "",
+      "_key": "!tables.results!4EPZpXlKicP7WiIj.TS1MBYEwClakWieG"
+    },
+    {
+      "range": [
+        49,
+        56
+      ],
+      "_id": "FPybHyVs2fDvxw3P",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Obsidian glass riverbeds",
+      "name": "",
+      "_key": "!tables.results!4EPZpXlKicP7WiIj.FPybHyVs2fDvxw3P"
+    },
+    {
+      "range": [
+        57,
+        64
+      ],
+      "_id": "6lS5YIO4BuJB4U0R",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rubble-strewn lava fields",
+      "name": "",
+      "_key": "!tables.results!4EPZpXlKicP7WiIj.6lS5YIO4BuJB4U0R"
+    },
+    {
+      "range": [
+        65,
+        72
+      ],
+      "_id": "WqgT0b30JCMFBA6Q",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Steam-heated caves",
+      "name": "",
+      "_key": "!tables.results!4EPZpXlKicP7WiIj.WqgT0b30JCMFBA6Q"
+    },
+    {
+      "range": [
+        73,
+        80
+      ],
+      "_id": "m1vDlAq1JFQj1ega",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Subsurface magma flows",
+      "name": "",
+      "_key": "!tables.results!4EPZpXlKicP7WiIj.m1vDlAq1JFQj1ega"
+    },
+    {
+      "range": [
+        81,
+        88
+      ],
+      "_id": "LiB0T59fuxHpAaus",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thick layers of enveloping ash",
+      "name": "",
+      "_key": "!tables.results!4EPZpXlKicP7WiIj.LiB0T59fuxHpAaus"
+    },
+    {
+      "range": [
+        89,
+        100
+      ],
+      "_id": "pI6F7sKxfPSvZbLK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transition into a new &gt;Biome",
+      "name": "",
+      "_key": "!tables.results!4EPZpXlKicP7WiIj.pI6F7sKxfPSvZbLK"
+    }
+  ],
+  "folder": "jgZy24x8EAmoCjSL",
+  "sort": 12,
+  "_id": "4EPZpXlKicP7WiIj",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745348324737,
+    "modifiedTime": 1745348324737,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!4EPZpXlKicP7WiIj"
+}

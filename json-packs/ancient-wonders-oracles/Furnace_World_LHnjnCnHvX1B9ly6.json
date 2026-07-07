@@ -1,0 +1,22 @@
+{
+  "name": "Furnace World",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "LHnjnCnHvX1B9ly6",
+  "description": "",
+  "folder": "GvsmSMYbvgjEYSQc",
+  "sort": 750000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.5",
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "modifiedTime": 1763675278740
+  },
+  "_key": "!folders!LHnjnCnHvX1B9ly6"
+}

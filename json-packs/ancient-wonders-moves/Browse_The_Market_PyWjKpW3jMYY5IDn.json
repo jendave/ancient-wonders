@@ -1,0 +1,94 @@
+{
+  "name": "Browse The Market",
+  "type": "sfmove",
+  "img": "icons/dice/d10black.svg",
+  "system": {
+    "dfid": "",
+    "Category": "",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "__When you search in a community, physical or digital, to find an asset, service, or someone interested in what you offer__, envision your approach and roll. If you...\n* Bargain across potential traders: Roll +heart\n* Assess the offers: Roll +wits\n\nIf you are performing the search in a dense and technologically advanced population, add +1. If you share a bond, add another +1.\n\nOn a __strong hit__, you find what you are looking for at a fair deal. If you...\n*  @Compendium[foundry-ironsworn.starforgedmoves.Item.703964b8d02355b8]{Resupply} now, add +2\n*  @Compendium[ancient-wonders.ancientwondersmoves.Item.fuvuC83AP3ktMMVP]{Exchange Wealth}, you have access to upmarket assets and services\n\nOn a __weak hit__, the search did not go as well as expected. If you...\n*  @Compendium[foundry-ironsworn.starforgedmoves.Item.703964b8d02355b8]{Resupply} now, add +1\n*  @Compendium[ancient-wonders.ancientwondersmoves.Item.fuvuC83AP3ktMMVP]{Exchange Wealth}, you have access to upmarket assets and services but with some extra time; @Compendium[foundry-ironsworn.starforgedmoves.Item.93d2d69b7e2b85e1]{Lose Momentum} (-1).\n\nOn a __miss__, you are out of luck; what you're looking for is not available and the situation worsens. @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+    "Trigger": {
+      "Text": "When you search in a community, physical or digital, to find an asset, service, or someone interested in what you offer",
+      "Options": [
+        {
+          "Text": "Bargain across potential traders",
+          "Method": "Any",
+          "Roll type": "Action roll",
+          "Using": [
+            "Heart"
+          ]
+        },
+        {
+          "Text": "Assess the offers",
+          "Method": "Any",
+          "Roll type": "Action roll",
+          "Using": [
+            "Wits"
+          ]
+        }
+      ]
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "On a __strong hit__, you find what you are looking for at a fair deal. If you...\n*  @Compendium[foundry-ironsworn.starforgedmoves.Item.703964b8d02355b8]{Resupply} now, add +2\n*  @Compendium[ancient-wonders.ancientwondersmoves.Item.fuvuC83AP3ktMMVP]{Exchange Wealth}, you have access to upmarket assets and services",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      },
+      "Weak Hit": {
+        "Text": "On a __weak hit__, the search did not go as well as expected. If you...\n*  @Compendium[foundry-ironsworn.starforgedmoves.Item.703964b8d02355b8]{Resupply} now, add +1\n*  @Compendium[ancient-wonders.ancientwondersmoves.Item.fuvuC83AP3ktMMVP]{Exchange Wealth}, you have access to upmarket assets and services but with some extra time; @Compendium[foundry-ironsworn.starforgedmoves.Item.93d2d69b7e2b85e1]{Lose Momentum} (-1).",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "On a __miss__, you are out of luck; what you're looking for is not available and the situation worsens. @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "",
+      "Authors": [],
+      "Page": null
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "effects": [],
+  "folder": "tI4NJ4Z0Gu4bYOjm",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746518302345,
+    "modifiedTime": 1746649584130,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "PyWjKpW3jMYY5IDn",
+  "sort": 0,
+  "_key": "!items!PyWjKpW3jMYY5IDn"
+}

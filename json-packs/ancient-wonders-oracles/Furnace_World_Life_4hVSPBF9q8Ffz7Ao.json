@@ -1,0 +1,174 @@
+{
+  "name": "Furnace World Life",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        35
+      ],
+      "description": "None",
+      "_id": "2qcrynmjn8Hlgz4I",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4hVSPBF9q8Ffz7Ao.2qcrynmjn8Hlgz4I"
+    },
+    {
+      "range": [
+        36,
+        60
+      ],
+      "description": "Extinct",
+      "_id": "hVFgpaMo9tTgoymK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4hVSPBF9q8Ffz7Ao.hVFgpaMo9tTgoymK"
+    },
+    {
+      "range": [
+        61,
+        85
+      ],
+      "description": "Scarce",
+      "_id": "0ndTCDsYUUAKTpsz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4hVSPBF9q8Ffz7Ao.0ndTCDsYUUAKTpsz"
+    },
+    {
+      "range": [
+        86,
+        95
+      ],
+      "description": "Diverse",
+      "_id": "3f5tAxkBjEHgC1bw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4hVSPBF9q8Ffz7Ao.3f5tAxkBjEHgC1bw"
+    },
+    {
+      "range": [
+        96,
+        98
+      ],
+      "description": "Bountiful",
+      "_id": "sqYHNPpiJMTAzICF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4hVSPBF9q8Ffz7Ao.sqYHNPpiJMTAzICF"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "description": "Overrun",
+      "_id": "1T3s6JNAV1d7mp4e",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4hVSPBF9q8Ffz7Ao.1T3s6JNAV1d7mp4e"
+    }
+  ],
+  "folder": "LHnjnCnHvX1B9ly6",
+  "sort": 6,
+  "_id": "4hVSPBF9q8Ffz7Ao",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.5",
+    "createdTime": 1763675258098,
+    "modifiedTime": 1763675258098,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!tables!4hVSPBF9q8Ffz7Ao"
+}

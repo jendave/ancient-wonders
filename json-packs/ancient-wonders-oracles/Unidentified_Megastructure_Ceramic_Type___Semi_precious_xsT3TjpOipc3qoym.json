@@ -1,0 +1,394 @@
+{
+  "name": "Unidentified Megastructure Ceramic Type - Semi-precious",
+  "formula": "1d100",
+  "description": "<p>Use the table below to reveal the type of ceramic and detail an object or environment. Roll once to determine which ceramic rarity column to reference. Then, roll again to uncover the ceramic type result.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "M6wMVVejW1u9enrq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bioglass",
+      "name": "",
+      "_key": "!tables.results!xsT3TjpOipc3qoym.M6wMVVejW1u9enrq"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "RM3jWdmysD0yHQeh",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Borosilicate glass",
+      "name": "",
+      "_key": "!tables.results!xsT3TjpOipc3qoym.RM3jWdmysD0yHQeh"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "4ZHUIyLlIVtUDkRo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Creamware",
+      "name": "",
+      "_key": "!tables.results!xsT3TjpOipc3qoym.4ZHUIyLlIVtUDkRo"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "uoomGUDPABegZa9j",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enamelware",
+      "name": "",
+      "_key": "!tables.results!xsT3TjpOipc3qoym.uoomGUDPABegZa9j"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "2mOFpTQ06ABI4Csr",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glazed earthenware",
+      "name": "",
+      "_key": "!tables.results!xsT3TjpOipc3qoym.2mOFpTQ06ABI4Csr"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "nSjcwDzpHzE77wM1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hard-paste porcelain",
+      "name": "",
+      "_key": "!tables.results!xsT3TjpOipc3qoym.nSjcwDzpHzE77wM1"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "DsoAuFbwqK6hhnCd",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lacquered glass",
+      "name": "",
+      "_key": "!tables.results!xsT3TjpOipc3qoym.DsoAuFbwqK6hhnCd"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "6Dqtrvvm6ETPu1Lp",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Laminated glass",
+      "name": "",
+      "_key": "!tables.results!xsT3TjpOipc3qoym.6Dqtrvvm6ETPu1Lp"
+    },
+    {
+      "range": [
+        57,
+        64
+      ],
+      "_id": "iSeZALZFxA9WUOBw",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Porcelain stoneware",
+      "name": "",
+      "_key": "!tables.results!xsT3TjpOipc3qoym.iSeZALZFxA9WUOBw"
+    },
+    {
+      "range": [
+        65,
+        71
+      ],
+      "_id": "Gmr9PnYXA07skdkO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Smoked raku",
+      "name": "",
+      "_key": "!tables.results!xsT3TjpOipc3qoym.Gmr9PnYXA07skdkO"
+    },
+    {
+      "range": [
+        72,
+        78
+      ],
+      "_id": "3i3NpXjcXppCJJD8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Soft-paste porcelain",
+      "name": "",
+      "_key": "!tables.results!xsT3TjpOipc3qoym.3i3NpXjcXppCJJD8"
+    },
+    {
+      "range": [
+        79,
+        85
+      ],
+      "_id": "Nx7qmfMlPAYhLAr9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tempered glass",
+      "name": "",
+      "_key": "!tables.results!xsT3TjpOipc3qoym.Nx7qmfMlPAYhLAr9"
+    },
+    {
+      "range": [
+        76,
+        92
+      ],
+      "_id": "yNZxkjuRbPdSh63M",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "White clinker or cement",
+      "name": "",
+      "_key": "!tables.results!xsT3TjpOipc3qoym.yNZxkjuRbPdSh63M"
+    },
+    {
+      "range": [
+        93,
+        100
+      ],
+      "_id": "QlXbhSnAP20QsGEl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Yellowware",
+      "name": "",
+      "_key": "!tables.results!xsT3TjpOipc3qoym.QlXbhSnAP20QsGEl"
+    }
+  ],
+  "folder": "EpVZ9VKEG5R6Tr0s",
+  "sort": 10,
+  "_id": "xsT3TjpOipc3qoym",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745687449403,
+    "modifiedTime": 1745687449403,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!xsT3TjpOipc3qoym"
+}

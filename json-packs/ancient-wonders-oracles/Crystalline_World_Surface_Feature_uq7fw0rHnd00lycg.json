@@ -1,0 +1,654 @@
+{
+  "name": "Crystalline World Surface Feature",
+  "formula": "1d100",
+  "description": "<p>In addition to the table below, you may roll up to thrice on the Crystal Type table to reveal the nature of the crystals that populate or make up a feature.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        4
+      ],
+      "_id": "eX7GaT3d5l8hKiZH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Angular, arch-like formations",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.eX7GaT3d5l8hKiZH"
+    },
+    {
+      "range": [
+        5,
+        8
+      ],
+      "_id": "2LXkQwxAHKScWhX3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Canyons linked by polygonal bridges",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.2LXkQwxAHKScWhX3"
+    },
+    {
+      "range": [
+        9,
+        12
+      ],
+      "_id": "M1maheTZ7V6w7ivz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crystalline-rubble wastes",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.M1maheTZ7V6w7ivz"
+    },
+    {
+      "range": [
+        13,
+        16
+      ],
+      "_id": "RQ7j5gZieZVMrsqf",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Densely gem-encrusted caves",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.RQ7j5gZieZVMrsqf"
+    },
+    {
+      "range": [
+        17,
+        20
+      ],
+      "_id": "eZgLB3SEJBVEM47v",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Faceted hills or mounds",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.eZgLB3SEJBVEM47v"
+    },
+    {
+      "range": [
+        21,
+        24
+      ],
+      "_id": "vnWvBgAauCiUWgWn",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fields of grass-like crystals",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.vnWvBgAauCiUWgWn"
+    },
+    {
+      "range": [
+        25,
+        28
+      ],
+      "_id": "HaVwGxveqkpoQ8CO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geometric sinkholes or chasms",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.HaVwGxveqkpoQ8CO"
+    },
+    {
+      "range": [
+        29,
+        32
+      ],
+      "_id": "yGDnTQCu4T29W1na",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glittering columns",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.yGDnTQCu4T29W1na"
+    },
+    {
+      "range": [
+        33,
+        36
+      ],
+      "_id": "z6xDU1qMlC2pquEl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glossy valleys",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.z6xDU1qMlC2pquEl"
+    },
+    {
+      "range": [
+        37,
+        40
+      ],
+      "_id": "wl0Io4SLJUQD6RTM",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intensely refracted light-rays",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.wl0Io4SLJUQD6RTM"
+    },
+    {
+      "range": [
+        41,
+        44
+      ],
+      "_id": "eJj6Ccn5eTYsGXjk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Iridescent mountain ranges",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.eJj6Ccn5eTYsGXjk"
+    },
+    {
+      "range": [
+        45,
+        48
+      ],
+      "_id": "FMj9aWrwnrM3XpOW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Polychromatic plains",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.FMj9aWrwnrM3XpOW"
+    },
+    {
+      "range": [
+        49,
+        52
+      ],
+      "_id": "qjg0SbIT6QGHRsku",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Polycrystalline mesas",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.qjg0SbIT6QGHRsku"
+    },
+    {
+      "range": [
+        53,
+        56
+      ],
+      "_id": "ZHjdn6l9DhJM6isI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pools of molten crystal",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.ZHjdn6l9DhJM6isI"
+    },
+    {
+      "range": [
+        57,
+        61
+      ],
+      "_id": "tL21FKGX2jrwXdH3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Razor-edged spires",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.tL21FKGX2jrwXdH3"
+    },
+    {
+      "range": [
+        62,
+        65
+      ],
+      "_id": "thHmTg05Gsgj4MRS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reverberating thunderstorms",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.thHmTg05Gsgj4MRS"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "6pgaGMqz0B1i3Mvp",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shattered impact craters",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.6pgaGMqz0B1i3Mvp"
+    },
+    {
+      "range": [
+        71,
+        74
+      ],
+      "_id": "U1x6HhSPO9uNQtkA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shimmering mountains",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.U1x6HhSPO9uNQtkA"
+    },
+    {
+      "range": [
+        75,
+        79
+      ],
+      "_id": "QqfT4F1jOeW7rlkp",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sky-breaching crystals",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.QqfT4F1jOeW7rlkp"
+    },
+    {
+      "range": [
+        80,
+        83
+      ],
+      "_id": "MDeDmpW5Srgiw2E9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Splintered etchplains",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.MDeDmpW5Srgiw2E9"
+    },
+    {
+      "range": [
+        84,
+        87
+      ],
+      "_id": "bytOZ1iirBSln8nh",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sweeping crystalline rains",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.bytOZ1iirBSln8nh"
+    },
+    {
+      "range": [
+        88,
+        91
+      ],
+      "_id": "7kxNMqN2ZXeAcc19",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Symmetrical landscapes",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.7kxNMqN2ZXeAcc19"
+    },
+    {
+      "range": [
+        92,
+        96
+      ],
+      "_id": "1NC7RdysjxSbMUQI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Translucent cliffs",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.1NC7RdysjxSbMUQI"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "V0Je7AHJAAXP8LeH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Twinkling dust storms",
+      "name": "",
+      "_key": "!tables.results!uq7fw0rHnd00lycg.V0Je7AHJAAXP8LeH"
+    }
+  ],
+  "folder": "0JSMPE3mLyqMtbq8",
+  "sort": 6,
+  "_id": "uq7fw0rHnd00lycg",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745179560568,
+    "modifiedTime": 1745179560568,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!uq7fw0rHnd00lycg"
+}

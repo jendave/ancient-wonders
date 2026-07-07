@@ -1,0 +1,22 @@
+{
+  "name": "Cylindrical Habitats",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "SgCn0IXRNrcbvnvo",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 1200000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745812193082,
+    "modifiedTime": 1745812193201,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!SgCn0IXRNrcbvnvo"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Core Manipulators",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "ifPVYKTtpv57IrDT",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 1100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745809702116,
+    "modifiedTime": 1745809702260,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!ifPVYKTtpv57IrDT"
+}

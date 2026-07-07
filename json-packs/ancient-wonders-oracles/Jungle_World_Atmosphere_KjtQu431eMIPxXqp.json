@@ -1,0 +1,160 @@
+{
+  "name": "Jungle World Atmosphere",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        25
+      ],
+      "_id": "tT3VYa76FbsUSHwx",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Toxic",
+      "name": "",
+      "_key": "!tables.results!KjtQu431eMIPxXqp.tT3VYa76FbsUSHwx"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "7oswSHhJv5yPCJUs",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrosive",
+      "name": "",
+      "_key": "!tables.results!KjtQu431eMIPxXqp.7oswSHhJv5yPCJUs"
+    },
+    {
+      "range": [
+        31,
+        60
+      ],
+      "_id": "nVtr1uyLPxvLgCPW",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Marginal",
+      "name": "",
+      "_key": "!tables.results!KjtQu431eMIPxXqp.nVtr1uyLPxvLgCPW"
+    },
+    {
+      "range": [
+        61,
+        90
+      ],
+      "_id": "31RqHZCVvEiXq2hm",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Breathable",
+      "name": "",
+      "_key": "!tables.results!KjtQu431eMIPxXqp.31RqHZCVvEiXq2hm"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "OPufvdlOvnlUp1rg",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ideal",
+      "name": "",
+      "_key": "!tables.results!KjtQu431eMIPxXqp.OPufvdlOvnlUp1rg"
+    }
+  ],
+  "folder": "LPHNPP6s8p8hGyxR",
+  "sort": 6,
+  "_id": "KjtQu431eMIPxXqp",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745260316584,
+    "modifiedTime": 1745260316584,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!KjtQu431eMIPxXqp"
+}

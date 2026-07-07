@@ -1,0 +1,22 @@
+{
+  "name": "Dyson Object",
+  "sorting": "m",
+  "folder": "XnItQfjzDdXkTpmK",
+  "type": "RollTable",
+  "_id": "eRn4gnYyjAHxNx7k",
+  "description": "",
+  "sort": 1300000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745812451543,
+    "modifiedTime": 1745812451656,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!eRn4gnYyjAHxNx7k"
+}

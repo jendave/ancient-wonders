@@ -1,0 +1,160 @@
+{
+  "name": "Vital World Biome Diversity - Large, huge, giant, enormous",
+  "formula": "1d100",
+  "description": "<p>You may discount the numerical specification of any result of the oracle, and instead take each result as a guideline when determining how many times to roll on the Biome oracle.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "E5tWAC5zsrMGM2zW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Complex (four biomes)",
+      "name": "",
+      "_key": "!tables.results!ZTdxMp03JGUM99sm.E5tWAC5zsrMGM2zW"
+    },
+    {
+      "range": [
+        11,
+        25
+      ],
+      "_id": "7mIS8TEqYDIJFxcl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intricate (five biomes)",
+      "name": "",
+      "_key": "!tables.results!ZTdxMp03JGUM99sm.7mIS8TEqYDIJFxcl"
+    },
+    {
+      "range": [
+        26,
+        65
+      ],
+      "_id": "LIkFt1f5sMXRi8np",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multifaceted (six biomes)",
+      "name": "",
+      "_key": "!tables.results!ZTdxMp03JGUM99sm.LIkFt1f5sMXRi8np"
+    },
+    {
+      "range": [
+        66,
+        90
+      ],
+      "_id": "39Gep4MakEB53epY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mosaic (seven biomes)",
+      "name": "",
+      "_key": "!tables.results!ZTdxMp03JGUM99sm.39Gep4MakEB53epY"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "NTnJ8Q7UEDA8PCgm",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Garden (eight biomes)",
+      "name": "",
+      "_key": "!tables.results!ZTdxMp03JGUM99sm.NTnJ8Q7UEDA8PCgm"
+    }
+  ],
+  "folder": "uqIYYdcorEC11vj9",
+  "sort": 2,
+  "_id": "ZTdxMp03JGUM99sm",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745469388179,
+    "modifiedTime": 1745469388179,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!ZTdxMp03JGUM99sm"
+}

@@ -1,0 +1,238 @@
+{
+  "name": "Celestial Brains Asking Questions - When - Determined Continuity",
+  "formula": "1d100",
+  "description": "<p>Use this oracle if you want to determine when an event occurs. If you already know that an event happened in the past or future, reference the Determined Continuity column. Otherwise, reference the Undetermined Continuity column.</p><p>There are \"when\" questions that this oracle might not be suitable for answering, such as \"When did the precursor civilizations fall\" or \"When will the universe end\". In such cases, you may still use the oracle below solely for vaguely past or future answers but not specific time scales.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        8
+      ],
+      "_id": "dJrOwBHIIK3TRfXI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Never",
+      "name": "",
+      "_key": "!tables.results!ntnA7vbkGiskhqDo.dJrOwBHIIK3TRfXI"
+    },
+    {
+      "range": [
+        9,
+        20
+      ],
+      "_id": "O9HkrGLZhX1yW1tr",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Distant past or far future",
+      "name": "",
+      "_key": "!tables.results!ntnA7vbkGiskhqDo.O9HkrGLZhX1yW1tr"
+    },
+    {
+      "range": [
+        21,
+        34
+      ],
+      "_id": "2jNintY3b09BQXgK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Years ago, or from now",
+      "name": "",
+      "_key": "!tables.results!ntnA7vbkGiskhqDo.2jNintY3b09BQXgK"
+    },
+    {
+      "range": [
+        35,
+        50
+      ],
+      "_id": "bVAHkg7LcaNU979N",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Months ago, or from now",
+      "name": "",
+      "_key": "!tables.results!ntnA7vbkGiskhqDo.bVAHkg7LcaNU979N"
+    },
+    {
+      "range": [
+        51,
+        66
+      ],
+      "_id": "1ZSYRKr5JhAJPd7g",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weeks ago, or from now",
+      "name": "",
+      "_key": "!tables.results!ntnA7vbkGiskhqDo.1ZSYRKr5JhAJPd7g"
+    },
+    {
+      "range": [
+        67,
+        80
+      ],
+      "_id": "P8AkTCc5CqLFExgv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Days ago, or from now",
+      "name": "",
+      "_key": "!tables.results!ntnA7vbkGiskhqDo.P8AkTCc5CqLFExgv"
+    },
+    {
+      "range": [
+        81,
+        92
+      ],
+      "_id": "LtibRzC9a3jhgJwg",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hours ago, or from now",
+      "name": "",
+      "_key": "!tables.results!ntnA7vbkGiskhqDo.LtibRzC9a3jhgJwg"
+    },
+    {
+      "range": [
+        93,
+        100
+      ],
+      "_id": "x3xPFfNZgnwlilod",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Right now",
+      "name": "",
+      "_key": "!tables.results!ntnA7vbkGiskhqDo.x3xPFfNZgnwlilod"
+    }
+  ],
+  "folder": "qYpEuWCIIpVKfhxw",
+  "sort": 3,
+  "_id": "ntnA7vbkGiskhqDo",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745727898070,
+    "modifiedTime": 1745727898070,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!ntnA7vbkGiskhqDo"
+}

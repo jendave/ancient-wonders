@@ -1,0 +1,368 @@
+{
+  "name": "Tainted World Biome Feature - Mycelium",
+  "formula": "1d100",
+  "description": "<p>Rocky terrains overtaken by fungal growths and spores.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        8
+      ],
+      "_id": "vgKEXpiU3X9EzQ5W",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Colossal, free-floating spores",
+      "name": "",
+      "_key": "!tables.results!axKbBf8jDJtStZii.vgKEXpiU3X9EzQ5W"
+    },
+    {
+      "range": [
+        9,
+        15
+      ],
+      "_id": "zyr9BwKtyBpco022",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Eerily desolate clearings",
+      "name": "",
+      "_key": "!tables.results!axKbBf8jDJtStZii.zyr9BwKtyBpco022"
+    },
+    {
+      "range": [
+        16,
+        23
+      ],
+      "_id": "NZZylFwB3hhYnc5K",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expansive fungal plains",
+      "name": "",
+      "_key": "!tables.results!axKbBf8jDJtStZii.NZZylFwB3hhYnc5K"
+    },
+    {
+      "range": [
+        24,
+        31
+      ],
+      "_id": "EYpuJFKayVWINrQM",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fungal forests",
+      "name": "",
+      "_key": "!tables.results!axKbBf8jDJtStZii.EYpuJFKayVWINrQM"
+    },
+    {
+      "range": [
+        32,
+        38
+      ],
+      "_id": "g6z6WNzC8vIQKWnF",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fungal jungles with unbroken canopies",
+      "name": "",
+      "_key": "!tables.results!axKbBf8jDJtStZii.g6z6WNzC8vIQKWnF"
+    },
+    {
+      "range": [
+        39,
+        46
+      ],
+      "_id": "swVTu3ahSRtl63lm",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fungus-encrusted caves",
+      "name": "",
+      "_key": "!tables.results!axKbBf8jDJtStZii.swVTu3ahSRtl63lm"
+    },
+    {
+      "range": [
+        47,
+        53
+      ],
+      "_id": "eTr1AqI0VZYxApl6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mountains coated with frill-like fungi",
+      "name": "",
+      "_key": "!tables.results!axKbBf8jDJtStZii.eTr1AqI0VZYxApl6"
+    },
+    {
+      "range": [
+        54,
+        61
+      ],
+      "_id": "qMMao4m22UGnfJab",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Murky seas pockmarked by fungal stalks",
+      "name": "",
+      "_key": "!tables.results!axKbBf8jDJtStZii.qMMao4m22UGnfJab"
+    },
+    {
+      "range": [
+        62,
+        68
+      ],
+      "_id": "JieQPTbNqzBlQw6e",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Networks of tendrilous roots or vines",
+      "name": "",
+      "_key": "!tables.results!axKbBf8jDJtStZii.JieQPTbNqzBlQw6e"
+    },
+    {
+      "range": [
+        69,
+        76
+      ],
+      "_id": "NV90EtwTH2QmIE8o",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overgrown remains of ancient flora",
+      "name": "",
+      "_key": "!tables.results!axKbBf8jDJtStZii.NV90EtwTH2QmIE8o"
+    },
+    {
+      "range": [
+        77,
+        84
+      ],
+      "_id": "jm1sVzLiE7Lotuhl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sky-breaching fungi",
+      "name": "",
+      "_key": "!tables.results!axKbBf8jDJtStZii.jm1sVzLiE7Lotuhl"
+    },
+    {
+      "range": [
+        85,
+        92
+      ],
+      "_id": "0AviuUPVOVvnOFC2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spore clouds",
+      "name": "",
+      "_key": "!tables.results!axKbBf8jDJtStZii.0AviuUPVOVvnOFC2"
+    },
+    {
+      "range": [
+        93,
+        100
+      ],
+      "_id": "t8ZniOhiW9BiS6GK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Virulent fungal infestations",
+      "name": "",
+      "_key": "!tables.results!axKbBf8jDJtStZii.t8ZniOhiW9BiS6GK"
+    }
+  ],
+  "folder": "64DrLqEQ9Gx2HIMt",
+  "sort": 10,
+  "_id": "axKbBf8jDJtStZii",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745372518001,
+    "modifiedTime": 1745372518001,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!axKbBf8jDJtStZii"
+}

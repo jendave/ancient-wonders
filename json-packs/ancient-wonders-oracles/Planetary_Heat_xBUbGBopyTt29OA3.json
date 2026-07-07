@@ -1,0 +1,22 @@
+{
+  "name": "Planetary Heat",
+  "sorting": "a",
+  "folder": "NMT8A3FtXEFxvYTO",
+  "type": "RollTable",
+  "_id": "xBUbGBopyTt29OA3",
+  "description": "",
+  "sort": 300000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": null,
+    "modifiedTime": 1744956524428,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!xBUbGBopyTt29OA3"
+}

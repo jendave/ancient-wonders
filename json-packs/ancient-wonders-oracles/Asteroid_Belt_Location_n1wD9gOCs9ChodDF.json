@@ -1,0 +1,22 @@
+{
+  "name": "Asteroid Belt Location",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "n1wD9gOCs9ChodDF",
+  "description": "",
+  "folder": "aj3iyWvQqHmshfmS",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743224951219,
+    "modifiedTime": 1744956037995,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!n1wD9gOCs9ChodDF"
+}

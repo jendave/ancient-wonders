@@ -1,0 +1,264 @@
+{
+  "name": "Vital World Biome Feature - Grassland",
+  "formula": "1d100",
+  "description": "<p>Lush grasses engulf fertile plains and hills.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        11
+      ],
+      "_id": "LykmuCaQ5gYgoRfZ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fern or shrub thickets",
+      "name": "",
+      "_key": "!tables.results!3cRd0hGBr0k9YoPG.LykmuCaQ5gYgoRfZ"
+    },
+    {
+      "range": [
+        12,
+        22
+      ],
+      "_id": "XvluXOxqeks5Fo1E",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Frequent rainfall",
+      "name": "",
+      "_key": "!tables.results!3cRd0hGBr0k9YoPG.XvluXOxqeks5Fo1E"
+    },
+    {
+      "range": [
+        23,
+        33
+      ],
+      "_id": "Oa8BFdY28rcIrK8a",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Isolated mountains or cavemouths",
+      "name": "",
+      "_key": "!tables.results!3cRd0hGBr0k9YoPG.Oa8BFdY28rcIrK8a"
+    },
+    {
+      "range": [
+        34,
+        44
+      ],
+      "_id": "mF9wQwTdzSzryjKL",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Meandering streams or rivers",
+      "name": "",
+      "_key": "!tables.results!3cRd0hGBr0k9YoPG.mF9wQwTdzSzryjKL"
+    },
+    {
+      "range": [
+        45,
+        55
+      ],
+      "_id": "DFTTHYHN2Ir5yqbL",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Regions of obfuscating grasses",
+      "name": "",
+      "_key": "!tables.results!3cRd0hGBr0k9YoPG.DFTTHYHN2Ir5yqbL"
+    },
+    {
+      "range": [
+        56,
+        66
+      ],
+      "_id": "YmpWtpBmjEzwIlar",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Small groves of trees",
+      "name": "",
+      "_key": "!tables.results!3cRd0hGBr0k9YoPG.YmpWtpBmjEzwIlar"
+    },
+    {
+      "range": [
+        67,
+        77
+      ],
+      "_id": "DkkQ3jWEW8fGLQbX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Still or misty lakes",
+      "name": "",
+      "_key": "!tables.results!3cRd0hGBr0k9YoPG.DkkQ3jWEW8fGLQbX"
+    },
+    {
+      "range": [
+        78,
+        88
+      ],
+      "_id": "mzuDejfyPdAxPKmU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vividly colored flowers",
+      "name": "",
+      "_key": "!tables.results!3cRd0hGBr0k9YoPG.mzuDejfyPdAxPKmU"
+    },
+    {
+      "range": [
+        89,
+        100
+      ],
+      "_id": "JM13R3S4HaRoREe6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transition into a new &gt;Biome",
+      "name": "",
+      "_key": "!tables.results!3cRd0hGBr0k9YoPG.JM13R3S4HaRoREe6"
+    }
+  ],
+  "folder": "uqIYYdcorEC11vj9",
+  "sort": 11,
+  "_id": "3cRd0hGBr0k9YoPG",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745469388179,
+    "modifiedTime": 1745469388179,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!3cRd0hGBr0k9YoPG"
+}

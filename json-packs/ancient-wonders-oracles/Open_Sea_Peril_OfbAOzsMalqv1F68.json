@@ -1,0 +1,342 @@
+{
+  "name": "Open Sea Peril",
+  "formula": "1d100",
+  "description": "<p>Use the following tables to inspire the details of a waypoint during underwater expeditions. The Perils table inspires a cost or trouble and the Opportunities table offers a beneficial encounter or event.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "SDR5CvHOlfCjglRB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Anomaly; pg 194",
+      "name": "",
+      "_key": "!tables.results!OfbAOzsMalqv1F68.SDR5CvHOlfCjglRB"
+    },
+    {
+      "range": [
+        2,
+        30
+      ],
+      "_id": "YC02TGiwx2htKiQV",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Lurking Threat",
+      "name": "",
+      "_key": "!tables.results!OfbAOzsMalqv1F68.YC02TGiwx2htKiQV"
+    },
+    {
+      "range": [
+        31,
+        36
+      ],
+      "_id": "OzSGRPg4Vl67PUic",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dangerous sinking debris",
+      "name": "",
+      "_key": "!tables.results!OfbAOzsMalqv1F68.OzSGRPg4Vl67PUic"
+    },
+    {
+      "range": [
+        37,
+        42
+      ],
+      "_id": "5r1mBV8wBnbjbd5W",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Equipment or ship suffers damage",
+      "name": "",
+      "_key": "!tables.results!OfbAOzsMalqv1F68.5r1mBV8wBnbjbd5W"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "y8Zq7AaWvxmDMkxi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hostile flora or fauna",
+      "name": "",
+      "_key": "!tables.results!OfbAOzsMalqv1F68.y8Zq7AaWvxmDMkxi"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "os9AW6ocKlMVeoHT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Led astray or lost the path",
+      "name": "",
+      "_key": "!tables.results!OfbAOzsMalqv1F68.os9AW6ocKlMVeoHT"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "fmLwV4GQz0JxnKI3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lost gear or provisions",
+      "name": "",
+      "_key": "!tables.results!OfbAOzsMalqv1F68.fmLwV4GQz0JxnKI3"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "rDi1k9KTSDPo8j8H",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Restricted visibility",
+      "name": "",
+      "_key": "!tables.results!OfbAOzsMalqv1F68.rDi1k9KTSDPo8j8H"
+    },
+    {
+      "range": [
+        71,
+        76
+      ],
+      "_id": "1Sn5T54sYEDEXuQQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Troubling visions or apparitions",
+      "name": "",
+      "_key": "!tables.results!OfbAOzsMalqv1F68.1Sn5T54sYEDEXuQQ"
+    },
+    {
+      "range": [
+        77,
+        82
+      ],
+      "_id": "HXuwg7dmNSXNwy7Q",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Violent currents",
+      "name": "",
+      "_key": "!tables.results!OfbAOzsMalqv1F68.HXuwg7dmNSXNwy7Q"
+    },
+    {
+      "range": [
+        83,
+        91
+      ],
+      "_id": "CdH7AAvkCl4MOklY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Action + Theme; pg 12",
+      "name": "",
+      "_key": "!tables.results!OfbAOzsMalqv1F68.CdH7AAvkCl4MOklY"
+    },
+    {
+      "range": [
+        92,
+        100
+      ],
+      "_id": "7Shp8Bkg72HdGyn5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice",
+      "name": "",
+      "_key": "!tables.results!OfbAOzsMalqv1F68.7Shp8Bkg72HdGyn5"
+    }
+  ],
+  "folder": "gqk7xGweM3UMtnW2",
+  "sort": 2,
+  "_id": "OfbAOzsMalqv1F68",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1744997272600,
+    "modifiedTime": 1744997272600,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!OfbAOzsMalqv1F68"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Planetside Waypoint",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "bS3dJ6VM5RDAIgcI",
+  "description": "",
+  "folder": "5rB5MQ2yt6jc86Mx",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743713772286,
+    "modifiedTime": 1744956580264,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!bS3dJ6VM5RDAIgcI"
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Work The Field",
+  "type": "sfmove",
+  "img": "icons/dice/d10black.svg",
+  "system": {
+    "dfid": "",
+    "Category": "",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "__When you use your downtime to profit or acquire something of worth__, envision the labor. If your work mainly consists of...\n\n* Exerting physical grace or using your dexterity: Roll +edge\n* Working with people or using your charisma: Roll +heart\n* Exercising force or using your brawn: Roll +iron\n* Duping people or using your guile: Roll +shadow\n* Deciphering truths or using your intelligence: Roll +wits\n\nOn a __hit__, your work efficiency allows you to save for your adventures. Add +1 on your next move (not a progress move).\n\n\nOn a __strong hit__, mark progress. On a __strong hit with a match__, mark progress twice.\n\n\nOn a __weak hit__, mark progress and fill a clock segment.\nIf you fill a profit progress track, you may set another and continue marking progress.\n\n\nOn a __miss__, you encounter setbacks during your routine and do not save; fill a clock segment. On a __miss with a match__, fill two segments instead.",
+    "Trigger": {
+      "Text": "When you leverage your downtime to develop your abilities, improve your resources, gain a reward, or boost your influence",
+      "Options": [
+        {
+          "Text": "Exerting physical grace or using your dexterity",
+          "Method": "Any",
+          "Roll type": "Action roll",
+          "Using": [
+            "Edge"
+          ]
+        },
+        {
+          "Text": "Working with people or using your charisma",
+          "Method": "Any",
+          "Roll type": "Action roll",
+          "Using": [
+            "Heart"
+          ]
+        },
+        {
+          "Text": "Exercising force or using your brawn",
+          "Method": "Any",
+          "Roll type": "Action roll",
+          "Using": [
+            "Iron"
+          ]
+        },
+        {
+          "Text": "Duping people or using your guile",
+          "Method": "Any",
+          "Roll type": "Action roll",
+          "Using": [
+            "Shadow"
+          ]
+        },
+        {
+          "Text": "Deciphering truths or using your intelligence",
+          "Method": "Any",
+          "Roll type": "Action roll",
+          "Using": [
+            "Wits"
+          ]
+        }
+      ]
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "On a __strong hit__, mark progress.",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "On a __strong hit with a match__, mark progress twice.",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      },
+      "Weak Hit": {
+        "Text": "On a __weak hit__, as above, mark progress and fill a clock segment.",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "On a __miss__, you encounter setbacks during your routine and do not save; fill a clock segment.",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "On a __miss with a match__, fill two clock segments instead.",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "",
+      "Authors": [],
+      "Page": null
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "effects": [],
+  "folder": "Fb5HWtUREfR0yFIZ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746578401604,
+    "modifiedTime": 1746578401604,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "tWfyDdqIuAz6CN0L",
+  "sort": 0,
+  "_key": "!items!tWfyDdqIuAz6CN0L"
+}

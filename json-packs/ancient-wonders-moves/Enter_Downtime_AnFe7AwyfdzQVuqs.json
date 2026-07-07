@@ -1,0 +1,77 @@
+{
+  "name": "Enter Downtime",
+  "type": "sfmove",
+  "img": "icons/dice/d10black.svg",
+  "system": {
+    "dfid": "",
+    "Category": "",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "__When you have at least one active campaign clock that threatens a vow (formidable or greater) and you spend extended time in a place safe enough to recuperate, profit, and develop your legacy__, determine the amount of time you are committing to the hiatus. Then, as appropriate to that time, set the rank of the profit progress track and a number of segments for the downtime's tension clock.\n\n* Half a season: Dangerous rank / four segments\n* A full season: Formidable rank / eight segments\n\nWhen the downtime tension clock is full, you must @Compendium[ancient-wonders.ancientwondersmoves.Item.BZ1aRPB41ebQ9Z77]{Depart To Quest}",
+    "Trigger": {
+      "Text": "When you have at least one active campaign clock that threatens a vow (formidable or greater) and you spend extended time in a place safe enough to recuperate, profit, and develop your legacy",
+      "Options": []
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      },
+      "Weak Hit": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "",
+      "Authors": [],
+      "Page": null
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "effects": [],
+  "folder": "Fb5HWtUREfR0yFIZ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746577198468,
+    "modifiedTime": 1746649692780,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "AnFe7AwyfdzQVuqs",
+  "sort": 0,
+  "_key": "!items!AnFe7AwyfdzQVuqs"
+}

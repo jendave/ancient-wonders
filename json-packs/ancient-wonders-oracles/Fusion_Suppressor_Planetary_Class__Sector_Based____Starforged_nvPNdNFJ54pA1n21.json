@@ -1,0 +1,238 @@
+{
+  "name": "Fusion Suppressor Planetary Class (Sector Based) - Starforged",
+  "formula": "1d100",
+  "description": "<p>Use this table to define the type of worlds orbiting a fusion suppressor.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "FY18bMiftfGDohKM",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jungle World; pg 60",
+      "name": "",
+      "_key": "!tables.results!nvPNdNFJ54pA1n21.FY18bMiftfGDohKM"
+    },
+    {
+      "range": [
+        6,
+        25
+      ],
+      "_id": "bKFceIUCj4yC1kF0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ocean World; pg 70",
+      "name": "",
+      "_key": "!tables.results!nvPNdNFJ54pA1n21.bKFceIUCj4yC1kF0"
+    },
+    {
+      "range": [
+        26,
+        57
+      ],
+      "_id": "bNmvtFXz5oR84vjR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ice World; pg 56",
+      "name": "",
+      "_key": "!tables.results!nvPNdNFJ54pA1n21.bNmvtFXz5oR84vjR"
+    },
+    {
+      "range": [
+        58,
+        72
+      ],
+      "_id": "59OvPIdKIGGyQWJ0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jovian World; pg 58",
+      "name": "",
+      "_key": "!tables.results!nvPNdNFJ54pA1n21.59OvPIdKIGGyQWJ0"
+    },
+    {
+      "range": [
+        73,
+        84
+      ],
+      "_id": "cm1UuP2RsonA76V5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rocky World; pg 72",
+      "name": "",
+      "_key": "!tables.results!nvPNdNFJ54pA1n21.cm1UuP2RsonA76V5"
+    },
+    {
+      "range": [
+        85,
+        94
+      ],
+      "_id": "7KOJDtxRZlEj4usq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tainted World; pg 76",
+      "name": "",
+      "_key": "!tables.results!nvPNdNFJ54pA1n21.7KOJDtxRZlEj4usq"
+    },
+    {
+      "range": [
+        95,
+        97
+      ],
+      "_id": "bnIeg6ERHjKwMqcO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Grave World; pg 54",
+      "name": "",
+      "_key": "!tables.results!nvPNdNFJ54pA1n21.bnIeg6ERHjKwMqcO"
+    },
+    {
+      "range": [
+        98,
+        100
+      ],
+      "_id": "yRZHzLevNVPn3QCE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shattered World; pg 74",
+      "name": "",
+      "_key": "!tables.results!nvPNdNFJ54pA1n21.yRZHzLevNVPn3QCE"
+    }
+  ],
+  "folder": "b5gYSZEdsP4VHIZT",
+  "sort": 0,
+  "_id": "nvPNdNFJ54pA1n21",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746175532658,
+    "modifiedTime": 1746175532658,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!nvPNdNFJ54pA1n21"
+}

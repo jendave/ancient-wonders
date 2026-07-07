@@ -1,0 +1,660 @@
+{
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Oracles/Factions/Dominion",
+      "category": "Starforged/Oracles/Factions",
+      "dsid": "oracle_rollable:starforged/faction/dominion"
+    }
+  },
+  "name": "Faction Dominion",
+  "description": "",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "2e2876db67e8d6c7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Agriculture",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.2e2876db67e8d6c7"
+    },
+    {
+      "range": [
+        6,
+        9
+      ],
+      "_id": "49aa0ae680e9ae07",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Artistry",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.49aa0ae680e9ae07"
+    },
+    {
+      "range": [
+        10,
+        14
+      ],
+      "_id": "8fcee174808f305d",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Commerce",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.8fcee174808f305d"
+    },
+    {
+      "range": [
+        15,
+        18
+      ],
+      "_id": "16f1a8da3a05b74f",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Conquest",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.16f1a8da3a05b74f"
+    },
+    {
+      "range": [
+        19,
+        22
+      ],
+      "_id": "327b9aefd8f37552",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Construction",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.327b9aefd8f37552"
+    },
+    {
+      "range": [
+        23,
+        26
+      ],
+      "_id": "512f107d372ab864",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Diplomacy",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.512f107d372ab864"
+    },
+    {
+      "range": [
+        27,
+        30
+      ],
+      "_id": "83082fbddb257682",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Education",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.83082fbddb257682"
+    },
+    {
+      "range": [
+        31,
+        34
+      ],
+      "_id": "9662acadda827018",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Environmentalism",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.9662acadda827018"
+    },
+    {
+      "range": [
+        35,
+        38
+      ],
+      "_id": "0a92ab361dd7b1d8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exploration",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.0a92ab361dd7b1d8"
+    },
+    {
+      "range": [
+        39,
+        42
+      ],
+      "_id": "1e25fd1d46cf7b66",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Faith",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.1e25fd1d46cf7b66"
+    },
+    {
+      "range": [
+        43,
+        46
+      ],
+      "_id": "f0fd6e382d501b5f",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "History",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.f0fd6e382d501b5f"
+    },
+    {
+      "range": [
+        47,
+        50
+      ],
+      "_id": "7e770d7954eba7cd",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Honor",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.7e770d7954eba7cd"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "e80b425d490cdca8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Industry",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.e80b425d490cdca8"
+    },
+    {
+      "range": [
+        56,
+        59
+      ],
+      "_id": "89c324943a80a88a",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Isolationism",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.89c324943a80a88a"
+    },
+    {
+      "range": [
+        60,
+        63
+      ],
+      "_id": "841437b3c19f0b22",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Law",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.841437b3c19f0b22"
+    },
+    {
+      "range": [
+        64,
+        67
+      ],
+      "_id": "ab79341f3bba5acd",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mysticism",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.ab79341f3bba5acd"
+    },
+    {
+      "range": [
+        68,
+        71
+      ],
+      "_id": "91b0b438097511c2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pacifism",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.91b0b438097511c2"
+    },
+    {
+      "range": [
+        72,
+        75
+      ],
+      "_id": "71bc55285ca6e23a",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prophecy",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.71bc55285ca6e23a"
+    },
+    {
+      "range": [
+        76,
+        79
+      ],
+      "_id": "c179f0ea73495fc4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Science",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.c179f0ea73495fc4"
+    },
+    {
+      "range": [
+        80,
+        83
+      ],
+      "_id": "aaede72c140cbe27",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Secrecy",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.aaede72c140cbe27"
+    },
+    {
+      "range": [
+        84,
+        87
+      ],
+      "_id": "5bea99e91dd16af6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Technology",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.5bea99e91dd16af6"
+    },
+    {
+      "range": [
+        88,
+        91
+      ],
+      "_id": "b6de584c3f215d13",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Treachery",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.b6de584c3f215d13"
+    },
+    {
+      "range": [
+        92,
+        96
+      ],
+      "_id": "627fdeb3fe44590e",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Warfare",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.627fdeb3fe44590e"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "d742aa5f7b44c179",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wealth",
+      "name": "",
+      "_key": "!tables.results!8BmSiD90JCXqcvt6.d742aa5f7b44c179"
+    }
+  ],
+  "folder": "Vxxnc89YzwMyYvbP",
+  "img": "icons/dice/d10black.svg",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747345315359,
+    "modifiedTime": 1747345322303,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "8BmSiD90JCXqcvt6",
+  "sort": 0,
+  "_key": "!tables!8BmSiD90JCXqcvt6"
+}

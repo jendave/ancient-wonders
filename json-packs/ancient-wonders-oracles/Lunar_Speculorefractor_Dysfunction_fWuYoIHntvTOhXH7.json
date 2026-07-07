@@ -1,0 +1,108 @@
+{
+  "name": "Lunar Speculorefractor Dysfunction",
+  "formula": "1d50",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        33
+      ],
+      "_id": "uwxeLLhimCCKAyYA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The megastructure's orbital position is such that it is now illuminating the dark side of the planet. The world has the additional feature of being in perpetual daylight.",
+      "name": "",
+      "_key": "!tables.results!fWuYoIHntvTOhXH7.uwxeLLhimCCKAyYA"
+    },
+    {
+      "range": [
+        34,
+        67
+      ],
+      "_id": "I6ThxXTeyqUJye91",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The megastructure is refracting a significant amount of additional sunlight toward the world's daylight side, resulting in extreme temperatures.",
+      "name": "",
+      "_key": "!tables.results!fWuYoIHntvTOhXH7.I6ThxXTeyqUJye91"
+    },
+    {
+      "range": [
+        68,
+        100
+      ],
+      "_id": "btsJ6oy8lcKpq03u",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The megastructure's orbital position is such that it is now actively blocking and refracting light away from the world. The planet is an ice world in perpetual darkness.",
+      "name": "",
+      "_key": "!tables.results!fWuYoIHntvTOhXH7.btsJ6oy8lcKpq03u"
+    }
+  ],
+  "folder": "ksVn2RXQFMsV2dNq",
+  "sort": 2,
+  "_id": "fWuYoIHntvTOhXH7",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745953863456,
+    "modifiedTime": 1763694954727,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!fWuYoIHntvTOhXH7"
+}

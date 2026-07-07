@@ -1,0 +1,160 @@
+{
+  "name": "Planet Proximity - Five Planets",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "1YBOB8aAx78IMICh",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1-5    1st",
+      "name": "",
+      "_key": "!tables.results!GQV2tPQdOfWQD5dI.1YBOB8aAx78IMICh"
+    },
+    {
+      "range": [
+        6,
+        15
+      ],
+      "_id": "PmDN1Y9m9cHM09OR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "6-15   2nd",
+      "name": "",
+      "_key": "!tables.results!GQV2tPQdOfWQD5dI.PmDN1Y9m9cHM09OR"
+    },
+    {
+      "range": [
+        16,
+        65
+      ],
+      "_id": "TEHRCGwy5bSZzjUN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "3rd",
+      "name": "",
+      "_key": "!tables.results!GQV2tPQdOfWQD5dI.TEHRCGwy5bSZzjUN"
+    },
+    {
+      "range": [
+        66,
+        90
+      ],
+      "_id": "PGs2l1E8DkyDxq4q",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "4th",
+      "name": "",
+      "_key": "!tables.results!GQV2tPQdOfWQD5dI.PGs2l1E8DkyDxq4q"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "FC3Ocf2t1tLSnYJ3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "5th",
+      "name": "",
+      "_key": "!tables.results!GQV2tPQdOfWQD5dI.FC3Ocf2t1tLSnYJ3"
+    }
+  ],
+  "folder": "41sU9W41ZYPNEZO9",
+  "sort": 400000,
+  "_id": "GQV2tPQdOfWQD5dI",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>Each column of the table below corresponds to the number of planets in the solar system. On the other side, the result is the proximity of the planet to the stellar object, not the orbit in which they reside. A planet in the 1st proximity is the one in the nearest orbit to the stellar object, whereas the planet in the 2nd or higher proximity is the one in a farther orbit.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.GQV2tPQdOfWQD5dI",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743226623051,
+    "modifiedTime": 1743226693003,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!GQV2tPQdOfWQD5dI"
+}

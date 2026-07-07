@@ -1,0 +1,160 @@
+{
+  "name": "Megacity Complexity",
+  "formula": "1d100",
+  "description": "<p>Use this oracle to identify the intricacy of a megacity's interior design.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "47sLxr7zz9E3dGZM",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Simple",
+      "name": "",
+      "_key": "!tables.results!0vy9jPlwSSIFf69m.47sLxr7zz9E3dGZM"
+    },
+    {
+      "range": [
+        6,
+        20
+      ],
+      "_id": "0ap4s8nF9fuT0Iw8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Basic",
+      "name": "",
+      "_key": "!tables.results!0vy9jPlwSSIFf69m.0ap4s8nF9fuT0Iw8"
+    },
+    {
+      "range": [
+        21,
+        45
+      ],
+      "_id": "6CvlvTEq9RrF6VkZ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Manageable",
+      "name": "",
+      "_key": "!tables.results!0vy9jPlwSSIFf69m.6CvlvTEq9RrF6VkZ"
+    },
+    {
+      "range": [
+        46,
+        80
+      ],
+      "_id": "BuaRUNCatUUIWbYX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Complicated",
+      "name": "",
+      "_key": "!tables.results!0vy9jPlwSSIFf69m.BuaRUNCatUUIWbYX"
+    },
+    {
+      "range": [
+        81,
+        100
+      ],
+      "_id": "oOggi1FxebQ00vez",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bewildering",
+      "name": "",
+      "_key": "!tables.results!0vy9jPlwSSIFf69m.oOggi1FxebQ00vez"
+    }
+  ],
+  "folder": "mrregFSVf6r5mYLu",
+  "sort": 6,
+  "_id": "0vy9jPlwSSIFf69m",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746313802515,
+    "modifiedTime": 1746313802515,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!0vy9jPlwSSIFf69m"
+}

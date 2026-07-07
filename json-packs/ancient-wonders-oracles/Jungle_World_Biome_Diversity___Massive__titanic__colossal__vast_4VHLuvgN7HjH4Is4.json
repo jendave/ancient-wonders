@@ -1,0 +1,160 @@
+{
+  "name": "Jungle World Biome Diversity - Massive, titanic, colossal, vast",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "o8gKkd67wnXVKxAj",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mono (one biome)",
+      "name": "",
+      "_key": "!tables.results!4VHLuvgN7HjH4Is4.o8gKkd67wnXVKxAj"
+    },
+    {
+      "range": [
+        3,
+        10
+      ],
+      "_id": "97N8BmQCm3thvnyt",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Simple (two biomes)",
+      "name": "",
+      "_key": "!tables.results!4VHLuvgN7HjH4Is4.97N8BmQCm3thvnyt"
+    },
+    {
+      "range": [
+        11,
+        25
+      ],
+      "_id": "bm6FkGPvOxpKAbqw",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Diverse (three biomes)",
+      "name": "",
+      "_key": "!tables.results!4VHLuvgN7HjH4Is4.bm6FkGPvOxpKAbqw"
+    },
+    {
+      "range": [
+        26,
+        55
+      ],
+      "_id": "EHzQ4gYeWgyqcjzB",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Complex (four biomes)",
+      "name": "",
+      "_key": "!tables.results!4VHLuvgN7HjH4Is4.EHzQ4gYeWgyqcjzB"
+    },
+    {
+      "range": [
+        56,
+        100
+      ],
+      "_id": "3WctJDP8distUXnU",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intricate (five biomes)",
+      "name": "",
+      "_key": "!tables.results!4VHLuvgN7HjH4Is4.3WctJDP8distUXnU"
+    }
+  ],
+  "folder": "LPHNPP6s8p8hGyxR",
+  "sort": 3,
+  "_id": "4VHLuvgN7HjH4Is4",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745260316584,
+    "modifiedTime": 1745260316584,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!4VHLuvgN7HjH4Is4"
+}

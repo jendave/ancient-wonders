@@ -1,0 +1,134 @@
+{
+  "name": "Number of Moons - Massive",
+  "formula": "1d100",
+  "description": "<p>Use this oracle to define the number of moons of a planetary body.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "afEHGZzhwkLU4we0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Many",
+      "name": "",
+      "_key": "!tables.results!WM188SYhQbBOIOPn.afEHGZzhwkLU4we0"
+    },
+    {
+      "range": [
+        6,
+        15
+      ],
+      "_id": "F6jU001ZAZ5SwxZl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Numerous",
+      "name": "",
+      "_key": "!tables.results!WM188SYhQbBOIOPn.F6jU001ZAZ5SwxZl"
+    },
+    {
+      "range": [
+        16,
+        70
+      ],
+      "_id": "udS1XxCosQcvye5l",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abundant",
+      "name": "",
+      "_key": "!tables.results!WM188SYhQbBOIOPn.udS1XxCosQcvye5l"
+    },
+    {
+      "range": [
+        71,
+        100
+      ],
+      "_id": "JbaqarM7algxWSsz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Plethora",
+      "name": "",
+      "_key": "!tables.results!WM188SYhQbBOIOPn.JbaqarM7algxWSsz"
+    }
+  ],
+  "folder": "BrKmU9b5W958cT7l",
+  "sort": 8,
+  "_id": "WM188SYhQbBOIOPn",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745085140307,
+    "modifiedTime": 1745085140307,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!WM188SYhQbBOIOPn"
+}

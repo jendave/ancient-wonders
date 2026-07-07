@@ -1,0 +1,238 @@
+{
+  "name": "Ice World Biome",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        12
+      ],
+      "_id": "yTJ2taXYKayKKRgf",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cryoflora",
+      "name": "",
+      "_key": "!tables.results!2CT88OtADFp90BVt.yTJ2taXYKayKKRgf"
+    },
+    {
+      "range": [
+        13,
+        24
+      ],
+      "_id": "T3HTYLgnPfERJ6ZT",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Frigid",
+      "name": "",
+      "_key": "!tables.results!2CT88OtADFp90BVt.T3HTYLgnPfERJ6ZT"
+    },
+    {
+      "range": [
+        25,
+        36
+      ],
+      "_id": "Z2PScOqz972MzPxg",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geothermal",
+      "name": "",
+      "_key": "!tables.results!2CT88OtADFp90BVt.Z2PScOqz972MzPxg"
+    },
+    {
+      "range": [
+        37,
+        49
+      ],
+      "_id": "VCnhhwQHkohHUPw9",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glacial",
+      "name": "",
+      "_key": "!tables.results!2CT88OtADFp90BVt.VCnhhwQHkohHUPw9"
+    },
+    {
+      "range": [
+        50,
+        61
+      ],
+      "_id": "FCCGcBk2uaKWy4gO",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glaciovolcanic",
+      "name": "",
+      "_key": "!tables.results!2CT88OtADFp90BVt.FCCGcBk2uaKWy4gO"
+    },
+    {
+      "range": [
+        62,
+        74
+      ],
+      "_id": "qOGd0EN72EMwrrmD",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Iceberg",
+      "name": "",
+      "_key": "!tables.results!2CT88OtADFp90BVt.qOGd0EN72EMwrrmD"
+    },
+    {
+      "range": [
+        75,
+        87
+      ],
+      "_id": "vmimzyoNk8yYfcEU",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Snow",
+      "name": "",
+      "_key": "!tables.results!2CT88OtADFp90BVt.vmimzyoNk8yYfcEU"
+    },
+    {
+      "range": [
+        88,
+        100
+      ],
+      "_id": "TjFnsomHKQ5nb93F",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Subglacial",
+      "name": "",
+      "_key": "!tables.results!2CT88OtADFp90BVt.TjFnsomHKQ5nb93F"
+    }
+  ],
+  "folder": "FihhzdgG6Tlxel9Q",
+  "sort": 4,
+  "_id": "2CT88OtADFp90BVt",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745214414983,
+    "modifiedTime": 1745214414983,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!2CT88OtADFp90BVt"
+}

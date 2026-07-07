@@ -1,0 +1,134 @@
+{
+  "name": "Megastructure Gravity",
+  "formula": "1d100",
+  "description": "<p>Use this oracle to reveal the gravity experienced on or within any area of a megastructure.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "iDMiYGgSMPvGZxIw",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weak - With enough caution, greatly reduced gravitational forces allow for major freedom of movement",
+      "name": "",
+      "_key": "!tables.results!vAPn3pOWKcwCJtaL.iDMiYGgSMPvGZxIw"
+    },
+    {
+      "range": [
+        11,
+        35
+      ],
+      "_id": "lfhoJ1Ldd2eoFlp8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Low - Reduced gravitational forces allow for significant maneuverability",
+      "name": "",
+      "_key": "!tables.results!vAPn3pOWKcwCJtaL.lfhoJ1Ldd2eoFlp8"
+    },
+    {
+      "range": [
+        36,
+        85
+      ],
+      "_id": "sCndcTo5GQUfqbvY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ideal - Gravitational forces are at levels in which humans evolved to thrive",
+      "name": "",
+      "_key": "!tables.results!vAPn3pOWKcwCJtaL.sCndcTo5GQUfqbvY"
+    },
+    {
+      "range": [
+        86,
+        100
+      ],
+      "_id": "KvDMHxkbqZm1hBb5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "High - Human can only survive for a short period of time without mechanical aids",
+      "name": "",
+      "_key": "!tables.results!vAPn3pOWKcwCJtaL.KvDMHxkbqZm1hBb5"
+    }
+  ],
+  "folder": "4ZwBRz70exteZSrB",
+  "sort": 1,
+  "_id": "vAPn3pOWKcwCJtaL",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745623954511,
+    "modifiedTime": 1745623954511,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!vAPn3pOWKcwCJtaL"
+}

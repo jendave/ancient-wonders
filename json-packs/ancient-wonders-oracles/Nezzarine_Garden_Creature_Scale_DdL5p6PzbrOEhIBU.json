@@ -1,0 +1,160 @@
+{
+  "name": "Nezzarine Garden Creature Scale",
+  "formula": "1d100",
+  "description": "<p>Use this oracle to determine the size  of an encountered biological creature while exploring the world.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "NxUooOV7ZXMB7lyt",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Medium (person-sized)",
+      "name": "",
+      "_key": "!tables.results!DdL5p6PzbrOEhIBU.NxUooOV7ZXMB7lyt"
+    },
+    {
+      "range": [
+        6,
+        15
+      ],
+      "_id": "df7RUdlJ0lKZgwnW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large (vehicle-sized)",
+      "name": "",
+      "_key": "!tables.results!DdL5p6PzbrOEhIBU.df7RUdlJ0lKZgwnW"
+    },
+    {
+      "range": [
+        16,
+        55
+      ],
+      "_id": "twK9hahDARg0E7Xl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Huge (whale-sized)",
+      "name": "",
+      "_key": "!tables.results!DdL5p6PzbrOEhIBU.twK9hahDARg0E7Xl"
+    },
+    {
+      "range": [
+        56,
+        85
+      ],
+      "_id": "97eDgN2gpylggGE6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Titanic (hill-sized)",
+      "name": "",
+      "_key": "!tables.results!DdL5p6PzbrOEhIBU.97eDgN2gpylggGE6"
+    },
+    {
+      "range": [
+        86,
+        100
+      ],
+      "_id": "M17rHGnkx6uop3aE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Colossal (mountain-sized)",
+      "name": "",
+      "_key": "!tables.results!DdL5p6PzbrOEhIBU.M17rHGnkx6uop3aE"
+    }
+  ],
+  "folder": "UefPzgMooIyfKZHN",
+  "sort": 2,
+  "_id": "DdL5p6PzbrOEhIBU",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745954179627,
+    "modifiedTime": 1745954179627,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!DdL5p6PzbrOEhIBU"
+}

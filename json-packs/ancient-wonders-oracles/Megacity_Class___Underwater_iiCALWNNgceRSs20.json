@@ -1,0 +1,108 @@
+{
+  "name": "Megacity Class - Underwater",
+  "formula": "1d100",
+  "description": "<p>Use this oracle to identify a megacity based on the surrounding environment.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "j8rJrkkOJkzCBJib",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dome City",
+      "name": "",
+      "_key": "!tables.results!iiCALWNNgceRSs20.j8rJrkkOJkzCBJib"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "wdYOLLyOViSPuD1k",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Underground City",
+      "name": "",
+      "_key": "!tables.results!iiCALWNNgceRSs20.wdYOLLyOViSPuD1k"
+    },
+    {
+      "range": [
+        21,
+        100
+      ],
+      "_id": "yzpZstGW8FGIxr9l",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Underwater City",
+      "name": "",
+      "_key": "!tables.results!iiCALWNNgceRSs20.yzpZstGW8FGIxr9l"
+    }
+  ],
+  "folder": "mrregFSVf6r5mYLu",
+  "sort": 4,
+  "_id": "iiCALWNNgceRSs20",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746313802515,
+    "modifiedTime": 1746313802515,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!iiCALWNNgceRSs20"
+}

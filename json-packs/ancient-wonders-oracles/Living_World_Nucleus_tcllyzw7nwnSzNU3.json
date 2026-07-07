@@ -1,0 +1,186 @@
+{
+  "name": "Living World Nucleus",
+  "formula": "1d100",
+  "description": "<p>The nucleus of the living world is one of the focal points of this vast organism. If you are on an expedition without a specific mission, these areas can serve as your destination. Use the table below to reveal what vital organ lies there.</p><p>If you interact with a nucleus, envision how the world is affected by it. If a vital organ ends up damaged, how does the whole organism suffer? If this affectation constitutes the death of the planet, how does it manifest? What is a necrotic living world like and how do other organisms survive this environmental change?</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        15
+      ],
+      "_id": "t92uI4jsxEwr9nQ8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Brain",
+      "name": "",
+      "_key": "!tables.results!tcllyzw7nwnSzNU3.t92uI4jsxEwr9nQ8"
+    },
+    {
+      "range": [
+        16,
+        45
+      ],
+      "_id": "tSx8JXU7Lii3qyaQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Heart",
+      "name": "",
+      "_key": "!tables.results!tcllyzw7nwnSzNU3.tSx8JXU7Lii3qyaQ"
+    },
+    {
+      "range": [
+        46,
+        55
+      ],
+      "_id": "anjhn2cDHp8Q8x4F",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Kidney",
+      "name": "",
+      "_key": "!tables.results!tcllyzw7nwnSzNU3.anjhn2cDHp8Q8x4F"
+    },
+    {
+      "range": [
+        56,
+        65
+      ],
+      "_id": "6JFxgceRShu9G3r0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Liver",
+      "name": "",
+      "_key": "!tables.results!tcllyzw7nwnSzNU3.6JFxgceRShu9G3r0"
+    },
+    {
+      "range": [
+        66,
+        75
+      ],
+      "_id": "T8IQURhTIPkgUxrS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lung",
+      "name": "",
+      "_key": "!tables.results!tcllyzw7nwnSzNU3.T8IQURhTIPkgUxrS"
+    },
+    {
+      "range": [
+        76,
+        100
+      ],
+      "_id": "D6MwCLpVTflT7m3O",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stomach",
+      "name": "",
+      "_key": "!tables.results!tcllyzw7nwnSzNU3.D6MwCLpVTflT7m3O"
+    }
+  ],
+  "folder": "7yP7GU5RkbnYXOd3",
+  "sort": 16,
+  "_id": "tcllyzw7nwnSzNU3",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745289001127,
+    "modifiedTime": 1745289001127,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!tcllyzw7nwnSzNU3"
+}

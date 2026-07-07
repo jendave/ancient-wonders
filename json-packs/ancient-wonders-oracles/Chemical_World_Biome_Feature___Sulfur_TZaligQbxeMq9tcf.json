@@ -1,0 +1,290 @@
+{
+  "name": "Chemical World Biome Feature - Sulfur",
+  "formula": "1d100",
+  "description": "<p>Volcanic activity forms innumerable hot springs and vents.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "771JSNuLOsnIZgt0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Colorful geothermal springs",
+      "name": "",
+      "_key": "!tables.results!TZaligQbxeMq9tcf.771JSNuLOsnIZgt0"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "b39tTDmWaObd7gsu",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dense forests of volcanic vents",
+      "name": "",
+      "_key": "!tables.results!TZaligQbxeMq9tcf.b39tTDmWaObd7gsu"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "MsefK6Qpf39LyIeR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Eroded and vibrantly colored shores",
+      "name": "",
+      "_key": "!tables.results!TZaligQbxeMq9tcf.MsefK6Qpf39LyIeR"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "mXKtLx1HH4017Nmx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Massive supervolcanoes",
+      "name": "",
+      "_key": "!tables.results!TZaligQbxeMq9tcf.mXKtLx1HH4017Nmx"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "HYrC7BaCnDux7iBh",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Networks of flooded lava tubes",
+      "name": "",
+      "_key": "!tables.results!TZaligQbxeMq9tcf.HYrC7BaCnDux7iBh"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "ez9uVdXoOwHUFxQM",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Plains of solidified volcanic rock",
+      "name": "",
+      "_key": "!tables.results!TZaligQbxeMq9tcf.ez9uVdXoOwHUFxQM"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "tLxNkgJTH8nVzcoO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Powerfully corrosive pools or lakes",
+      "name": "",
+      "_key": "!tables.results!TZaligQbxeMq9tcf.tLxNkgJTH8nVzcoO"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "zwkuf2qdcmXIC05N",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scalding geysers",
+      "name": "",
+      "_key": "!tables.results!TZaligQbxeMq9tcf.zwkuf2qdcmXIC05N"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "exiINnHkeX5kE0dI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sky-breaching plumes of volcanic gases",
+      "name": "",
+      "_key": "!tables.results!TZaligQbxeMq9tcf.exiINnHkeX5kE0dI"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "n4VJMAQyaql16D0y",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Submerged and bubbling calderas",
+      "name": "",
+      "_key": "!tables.results!TZaligQbxeMq9tcf.n4VJMAQyaql16D0y"
+    }
+  ],
+  "folder": "bfU9msCL4HxpF6vZ",
+  "sort": 1400000,
+  "_id": "TZaligQbxeMq9tcf",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745171240939,
+    "modifiedTime": 1745171240939,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!TZaligQbxeMq9tcf"
+}

@@ -1,0 +1,238 @@
+{
+  "name": "Splinter Material",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        40
+      ],
+      "_id": "2ATHrQPHNs8rO00K",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Metal Type; pg 69",
+      "name": "",
+      "_key": "!tables.results!ta9g82OIVRPlWe8K.2ATHrQPHNs8rO00K"
+    },
+    {
+      "range": [
+        41,
+        65
+      ],
+      "_id": "CWwRdlPMq6G7ls5O",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Ceramic Type; pg 103",
+      "name": "",
+      "_key": "!tables.results!ta9g82OIVRPlWe8K.CWwRdlPMq6G7ls5O"
+    },
+    {
+      "range": [
+        66,
+        75
+      ],
+      "_id": "jUGIchlBc6cMl3ZU",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Crystal Type; pg 49",
+      "name": "",
+      "_key": "!tables.results!ta9g82OIVRPlWe8K.jUGIchlBc6cMl3ZU"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "TTTO3b6HuWPiD1hm",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Animal Organic Matter; pg 64",
+      "name": "",
+      "_key": "!tables.results!ta9g82OIVRPlWe8K.TTTO3b6HuWPiD1hm"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "3uOogtqn8dbxJg82",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Plant-like",
+      "name": "",
+      "_key": "!tables.results!ta9g82OIVRPlWe8K.3uOogtqn8dbxJg82"
+    },
+    {
+      "range": [
+        86,
+        87
+      ],
+      "_id": "MZcRcQu4yO3BUdGA",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Energy",
+      "name": "",
+      "_key": "!tables.results!ta9g82OIVRPlWe8K.MZcRcQu4yO3BUdGA"
+    },
+    {
+      "range": [
+        88,
+        90
+      ],
+      "_id": "drtCSqUPW9yclZXF",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Liquid",
+      "name": "",
+      "_key": "!tables.results!ta9g82OIVRPlWe8K.drtCSqUPW9yclZXF"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "1DyjaSwsHnR0ntCu",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice",
+      "name": "",
+      "_key": "!tables.results!ta9g82OIVRPlWe8K.1DyjaSwsHnR0ntCu"
+    }
+  ],
+  "folder": "TeD2FCTVTXBuwiAN",
+  "sort": 1,
+  "_id": "ta9g82OIVRPlWe8K",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746467797038,
+    "modifiedTime": 1746467797038,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!ta9g82OIVRPlWe8K"
+}

@@ -1,0 +1,108 @@
+{
+  "name": "Quantity Of Megastructures - Type 3",
+  "formula": "1d100",
+  "description": "<p>The default assumption for most megastructures is that only one may exist in any individual sector or solar system. This doesn't count for gigatransporters, which can be present without quantity restriction by inhabiting worlds or the greater megastructures enlisted in this section.</p><p>If you wish to include more megastructures in your setting, use the following guidelines. This assumes that your Megastructure Prevalence truth is that these marvels greet explorers and travelers with regularity. You determine your megastructure truths on page 87.</p><p>In a solar system confirmed to contain a megastructure, roll on the following table and reference the column that corresponds with your previously established truth about the precursor technological scale.</p><p>After determining the total megastructures present in a sector or solar system, roll &gt;Megastructure Class (next page) to determine their types. When doing so, keep in mind that only one type 3 megastructure may exist in any individual solar system. If one is discovered, any subsequent rolls must be made referencing the Type 2 column.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        25
+      ],
+      "_id": "nqb8JvBl1ny4o1us",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "One",
+      "name": "",
+      "_key": "!tables.results!mmvKCTz1fniHHMVy.nqb8JvBl1ny4o1us"
+    },
+    {
+      "range": [
+        26,
+        75
+      ],
+      "_id": "o5bfbBfIM3rTz8tH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Two",
+      "name": "",
+      "_key": "!tables.results!mmvKCTz1fniHHMVy.o5bfbBfIM3rTz8tH"
+    },
+    {
+      "range": [
+        76,
+        100
+      ],
+      "_id": "iioSRCu7XrMsIdkt",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Three",
+      "name": "",
+      "_key": "!tables.results!mmvKCTz1fniHHMVy.iioSRCu7XrMsIdkt"
+    }
+  ],
+  "folder": "7szeNgIZ8ptuarAX",
+  "sort": 2,
+  "_id": "mmvKCTz1fniHHMVy",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745559243167,
+    "modifiedTime": 1745559243167,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!mmvKCTz1fniHHMVy"
+}

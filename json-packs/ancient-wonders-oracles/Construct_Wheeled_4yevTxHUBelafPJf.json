@@ -1,0 +1,186 @@
+{
+  "name": "Construct Wheeled",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "iKYKPDWenHaGLaEE",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mono-wheeled",
+      "name": "",
+      "_key": "!tables.results!4yevTxHUBelafPJf.iKYKPDWenHaGLaEE"
+    },
+    {
+      "range": [
+        6,
+        20
+      ],
+      "_id": "uNBu4ibHs2U2AKsu",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bi-wheeled",
+      "name": "",
+      "_key": "!tables.results!4yevTxHUBelafPJf.uNBu4ibHs2U2AKsu"
+    },
+    {
+      "range": [
+        21,
+        35
+      ],
+      "_id": "hsksQuhNpXBAYhEj",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tri-wheeled",
+      "name": "",
+      "_key": "!tables.results!4yevTxHUBelafPJf.hsksQuhNpXBAYhEj"
+    },
+    {
+      "range": [
+        36,
+        75
+      ],
+      "_id": "vMgARiL8lQt2r3mu",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Quad-wheeled",
+      "name": "",
+      "_key": "!tables.results!4yevTxHUBelafPJf.vMgARiL8lQt2r3mu"
+    },
+    {
+      "range": [
+        76,
+        95
+      ],
+      "_id": "zKRRvzSTBr8Tv1hN",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hexa-wheeled",
+      "name": "",
+      "_key": "!tables.results!4yevTxHUBelafPJf.zKRRvzSTBr8Tv1hN"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "mtTRitvYyjGLW3hd",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "More than six",
+      "name": "",
+      "_key": "!tables.results!4yevTxHUBelafPJf.mtTRitvYyjGLW3hd"
+    }
+  ],
+  "folder": "J715TeOdqxPDq33D",
+  "sort": 1600000,
+  "_id": "4yevTxHUBelafPJf",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.4yevTxHUBelafPJf",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746413854523,
+    "modifiedTime": 1746413854523,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!4yevTxHUBelafPJf"
+}

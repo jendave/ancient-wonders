@@ -1,0 +1,22 @@
+{
+  "name": "Constructs",
+  "sorting": "m",
+  "folder": "0JfjqLCYQkGLD6go",
+  "type": "RollTable",
+  "_id": "J715TeOdqxPDq33D",
+  "description": "",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746413854444,
+    "modifiedTime": 1746413868792,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!J715TeOdqxPDq33D"
+}

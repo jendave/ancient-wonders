@@ -1,0 +1,22 @@
+{
+  "name": "Delving into a Megastructure",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "4ZwBRz70exteZSrB",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 300000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745623954441,
+    "modifiedTime": 1745623954573,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!4ZwBRz70exteZSrB"
+}

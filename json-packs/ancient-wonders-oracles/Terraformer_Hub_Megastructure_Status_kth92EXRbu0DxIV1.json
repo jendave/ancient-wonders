@@ -1,0 +1,160 @@
+{
+  "name": "Terraformer Hub Megastructure Status",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        15
+      ],
+      "_id": "aeSvPhk1UjB2GbaJ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Partially constructed / When you roll &gt;Planet (page 40) to generate the features of the world that hosts the terraformer hub, reroll the \"Anomalous World\", \"Jovian World', \"Karst World\", \"Tidally-locked World\", and \"Shattered World\" Planetary Class results.",
+      "name": "",
+      "_key": "!tables.results!kth92EXRbu0DxIV1.aeSvPhk1UjB2GbaJ"
+    },
+    {
+      "range": [
+        16,
+        50
+      ],
+      "_id": "MXZoBwPUCpfCyWxb",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Operational / When you roll &gt;Planet (page 40) to generate the features of the world that hosts the terraformer hub, do not use the Planetary Class oracle. Instead, use the Altered Planetary Class oracle. When you explore the sanctum of the megastructure, you may attempt to use its systems to rapidly alter a small region of the world. If you do, introduce the features of another planetary class.",
+      "name": "",
+      "_key": "!tables.results!kth92EXRbu0DxIV1.MXZoBwPUCpfCyWxb"
+    },
+    {
+      "range": [
+        51,
+        85
+      ],
+      "_id": "tuV05I1wlTw9M0Ek",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Non-functional or offline / Roll on Non-functional table below",
+      "name": "",
+      "_key": "!tables.results!kth92EXRbu0DxIV1.tuV05I1wlTw9M0Ek"
+    },
+    {
+      "range": [
+        86,
+        95
+      ],
+      "_id": "7Tpxeu6vqAoWdcdb",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dysfunctional / As operational, but roll &gt;Altered Planetary Class twice (next page). The second result is the original class. Additionally, the planet has powerful earthquakes and violent weather events.",
+      "name": "",
+      "_key": "!tables.results!kth92EXRbu0DxIV1.7Tpxeu6vqAoWdcdb"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "0Euuxv41fXjkjn3x",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destroyed / Determine how the terraformer hub affects its world by rolling on the Destroyed oracle. Additionally, the area surrounding the megastructure is a grim wreckage. When you explore this area, envision the features of a grave world (page 54).",
+      "name": "",
+      "_key": "!tables.results!kth92EXRbu0DxIV1.0Euuxv41fXjkjn3x"
+    }
+  ],
+  "folder": "5T2S2EBEUpTFLz7a",
+  "sort": 0,
+  "_id": "kth92EXRbu0DxIV1",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746259394612,
+    "modifiedTime": 1746259394612,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!kth92EXRbu0DxIV1"
+}

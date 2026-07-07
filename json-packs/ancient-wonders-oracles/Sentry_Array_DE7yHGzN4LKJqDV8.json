@@ -1,0 +1,22 @@
+{
+  "name": "Sentry Array",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "DE7yHGzN4LKJqDV8",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 2600000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1746060648268,
+    "modifiedTime": 1746060648421,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!DE7yHGzN4LKJqDV8"
+}

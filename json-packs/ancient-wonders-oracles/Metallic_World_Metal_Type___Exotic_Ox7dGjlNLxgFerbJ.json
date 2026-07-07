@@ -1,0 +1,550 @@
+{
+  "name": "Metallic World Metal Type - Exotic",
+  "formula": "1d100",
+  "description": "<p>To identify a metal type, Ask the Oracle (50/50) if the metal is ferrous. If it is not, reference the appropriate column of the table below. Then, roll again to uncover the metal type result. The exotic column provides descriptors for incredibly rare metals; roll up to twice when referencing said column.</p><p>If you are using the Space Sightings Expanded supplement published by Ludic Pen, you can roll on these tables to generate the minerals of debris fields if they are made of metals.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "LGRWywcujCsFZkF0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Biological",
+      "name": "",
+      "_key": "!tables.results!Ox7dGjlNLxgFerbJ.LGRWywcujCsFZkF0"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "sjvsO7C1ymfInt9N",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bleeding",
+      "name": "",
+      "_key": "!tables.results!Ox7dGjlNLxgFerbJ.sjvsO7C1ymfInt9N"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "puDCvtDq6VOoJsm0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blighted",
+      "name": "",
+      "_key": "!tables.results!Ox7dGjlNLxgFerbJ.puDCvtDq6VOoJsm0"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "2p19tOwVEYuuCCGX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blinking",
+      "name": "",
+      "_key": "!tables.results!Ox7dGjlNLxgFerbJ.2p19tOwVEYuuCCGX"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "cwoF1K4cqBCLMrBJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Charging",
+      "name": "",
+      "_key": "!tables.results!Ox7dGjlNLxgFerbJ.cwoF1K4cqBCLMrBJ"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "JTGBwrQnJgFu3aeL",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Emissive",
+      "name": "",
+      "_key": "!tables.results!Ox7dGjlNLxgFerbJ.JTGBwrQnJgFu3aeL"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "vle7Th7C5QZ7OPwX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Featherweight",
+      "name": "",
+      "_key": "!tables.results!Ox7dGjlNLxgFerbJ.vle7Th7C5QZ7OPwX"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "tCgzYvdRctNRMS5t",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fiery",
+      "name": "",
+      "_key": "!tables.results!Ox7dGjlNLxgFerbJ.tCgzYvdRctNRMS5t"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "OOAAcpolsV0YlTRx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fortified",
+      "name": "",
+      "_key": "!tables.results!Ox7dGjlNLxgFerbJ.OOAAcpolsV0YlTRx"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "3lalJC7QJyinN62N",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fragile",
+      "name": "",
+      "_key": "!tables.results!Ox7dGjlNLxgFerbJ.3lalJC7QJyinN62N"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "ABG4fniMKnjHCwSy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Frigid",
+      "name": "",
+      "_key": "!tables.results!Ox7dGjlNLxgFerbJ.ABG4fniMKnjHCwSy"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "ld0XrbWkGqQD5rwn",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Living",
+      "name": "",
+      "_key": "!tables.results!Ox7dGjlNLxgFerbJ.ld0XrbWkGqQD5rwn"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "I6d11WqeCtQvtzHL",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lush",
+      "name": "",
+      "_key": "!tables.results!Ox7dGjlNLxgFerbJ.I6d11WqeCtQvtzHL"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "ZvVDI0xhPqmN82B6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Moving",
+      "name": "",
+      "_key": "!tables.results!Ox7dGjlNLxgFerbJ.ZvVDI0xhPqmN82B6"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "R3nLPzq417u5oHwj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shifting",
+      "name": "",
+      "_key": "!tables.results!Ox7dGjlNLxgFerbJ.R3nLPzq417u5oHwj"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "2cbGi06wT6zqyTpA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shrouded",
+      "name": "",
+      "_key": "!tables.results!Ox7dGjlNLxgFerbJ.2cbGi06wT6zqyTpA"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "yC3h512IKEJuivYF",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stormy",
+      "name": "",
+      "_key": "!tables.results!Ox7dGjlNLxgFerbJ.yC3h512IKEJuivYF"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "VKsh8HWYZyCZKDZ8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stratified",
+      "name": "",
+      "_key": "!tables.results!Ox7dGjlNLxgFerbJ.VKsh8HWYZyCZKDZ8"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "6wVdfQStRYsCI9tV",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Translucent",
+      "name": "",
+      "_key": "!tables.results!Ox7dGjlNLxgFerbJ.6wVdfQStRYsCI9tV"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "5Tn3S8rZ0ppriTDF",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unstable",
+      "name": "",
+      "_key": "!tables.results!Ox7dGjlNLxgFerbJ.5Tn3S8rZ0ppriTDF"
+    }
+  ],
+  "folder": "oK4ZOVshS1n7Yu4O",
+  "sort": 10,
+  "_id": "Ox7dGjlNLxgFerbJ",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745300225282,
+    "modifiedTime": 1745300225282,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!Ox7dGjlNLxgFerbJ"
+}

@@ -1,0 +1,134 @@
+{
+  "name": "Sentinel Belt Emplacements Amount",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        30
+      ],
+      "_id": "48BJZ38XWn8FiZUH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Several",
+      "name": "",
+      "_key": "!tables.results!8L9lTSh8GWYC0dWZ.48BJZ38XWn8FiZUH"
+    },
+    {
+      "range": [
+        31,
+        65
+      ],
+      "_id": "iszoMWXpKkoGUIAg",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Many",
+      "name": "",
+      "_key": "!tables.results!8L9lTSh8GWYC0dWZ.iszoMWXpKkoGUIAg"
+    },
+    {
+      "range": [
+        66,
+        85
+      ],
+      "_id": "fIcmFTo0iGPGmdvv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Numerous",
+      "name": "",
+      "_key": "!tables.results!8L9lTSh8GWYC0dWZ.fIcmFTo0iGPGmdvv"
+    },
+    {
+      "range": [
+        86,
+        100
+      ],
+      "_id": "9EtMFHfUJbJoDJIk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abundant",
+      "name": "",
+      "_key": "!tables.results!8L9lTSh8GWYC0dWZ.9EtMFHfUJbJoDJIk"
+    }
+  ],
+  "folder": "fd5l5Oi1WXzqF2JY",
+  "sort": 0,
+  "_id": "8L9lTSh8GWYC0dWZ",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1746059850465,
+    "modifiedTime": 1763695059762,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!8L9lTSh8GWYC0dWZ"
+}

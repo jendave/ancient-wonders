@@ -1,0 +1,22 @@
+{
+  "name": "Planet Proximity",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "41sU9W41ZYPNEZO9",
+  "description": "",
+  "folder": "aj3iyWvQqHmshfmS",
+  "sort": 300000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743226623016,
+    "modifiedTime": 1744956367768,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!41sU9W41ZYPNEZO9"
+}

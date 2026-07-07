@@ -1,0 +1,22 @@
+{
+  "name": "Planets Expanded",
+  "sorting": "m",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "Oya0xgOo7UNRQ3hj",
+  "description": "",
+  "sort": 225000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1744956224448,
+    "modifiedTime": 1745554026685,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!Oya0xgOo7UNRQ3hj"
+}

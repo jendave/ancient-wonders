@@ -1,0 +1,2636 @@
+{
+  "_id": "b347a87fb81a3abb",
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Oracles/Core/Action",
+      "category": "Starforged/Oracles/Core",
+      "dsid": "oracle_rollable:starforged/core/action"
+    }
+  },
+  "name": "Action",
+  "description": "<p>Use this oracle to generate a verb that, if matched with the <em>Theme</em> oracle, provides a prompt that can answer any goal, situation, or event.</p>",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "123d384d80235ea9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abandon",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.123d384d80235ea9"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "ef7f1b53c5ec8df7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Acquire",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.ef7f1b53c5ec8df7"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "b28026976fec8961",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Advance",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.b28026976fec8961"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "e0690f2795ed2fdb",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Affect",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.e0690f2795ed2fdb"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "6752eceaacaa28cc",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aid",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.6752eceaacaa28cc"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "06c1cc35d1dd4686",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Arrive",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.06c1cc35d1dd4686"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "0b9b9b32ffa767d5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Assault",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.0b9b9b32ffa767d5"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "df60e8e06754db7a",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Attack",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.df60e8e06754db7a"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "a991eadc4506bdd5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Avenge",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.a991eadc4506bdd5"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "a3744502f68b739b",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Avoid",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.a3744502f68b739b"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "6d1181cf445f90f2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Await",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.6d1181cf445f90f2"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "76bc18adcd12710d",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Begin",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.76bc18adcd12710d"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "b4838886fdbf0ddd",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Betray",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.b4838886fdbf0ddd"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "d64205f620928d7e",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bolster",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.d64205f620928d7e"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "d3a29ee95eef754b",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Breach",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.d3a29ee95eef754b"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "9f3f3a589d52641a",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Break",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.9f3f3a589d52641a"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "e33b97956989e79b",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Capture",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.e33b97956989e79b"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "6c8b6a9129bf0ee7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Challenge",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.6c8b6a9129bf0ee7"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "e56c12fe8932330d",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Change",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.e56c12fe8932330d"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "32340e1c2d59aa1d",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Charge",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.32340e1c2d59aa1d"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "a06aea2f577961c8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clash",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.a06aea2f577961c8"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "fad8110adbc68c0c",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Command",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.fad8110adbc68c0c"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "f071910a012bfa68",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Communicate",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.f071910a012bfa68"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "aa21f613f6432c3d",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Construct",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.aa21f613f6432c3d"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "0796006cc51b2539",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Control",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.0796006cc51b2539"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "12c680b1be9df392",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Coordinate",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.12c680b1be9df392"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "bb191872b1bfae03",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Create",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.bb191872b1bfae03"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "9c5b35cea4b0dd0f",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Debate",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.9c5b35cea4b0dd0f"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "dad92d7ef772e861",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Defeat",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.dad92d7ef772e861"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "2b9ea15a061e8669",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Defend",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.2b9ea15a061e8669"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "_id": "f56e1002aad4f366",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deflect",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.f56e1002aad4f366"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "_id": "e8651da0fa6f1d74",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Defy",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.e8651da0fa6f1d74"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "_id": "7beebaccbb36ffe6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deliver",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.7beebaccbb36ffe6"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "b42d290376535018",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Demand",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.b42d290376535018"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "_id": "00defdf7ac870bbb",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Depart",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.00defdf7ac870bbb"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "_id": "db17805c11f0f539",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destroy",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.db17805c11f0f539"
+    },
+    {
+      "range": [
+        37,
+        37
+      ],
+      "_id": "9ec7c18b7b7f01ab",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Distract",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.9ec7c18b7b7f01ab"
+    },
+    {
+      "range": [
+        38,
+        38
+      ],
+      "_id": "b192c68a980cd653",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Eliminate",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.b192c68a980cd653"
+    },
+    {
+      "range": [
+        39,
+        39
+      ],
+      "_id": "c2484112a4529a97",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Endure",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.c2484112a4529a97"
+    },
+    {
+      "range": [
+        40,
+        40
+      ],
+      "_id": "7746827780ccf8fa",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Escalate",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.7746827780ccf8fa"
+    },
+    {
+      "range": [
+        41,
+        41
+      ],
+      "_id": "e9a7459eb63355ee",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Escort",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.e9a7459eb63355ee"
+    },
+    {
+      "range": [
+        42,
+        42
+      ],
+      "_id": "a98ebde86312084a",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evade",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.a98ebde86312084a"
+    },
+    {
+      "range": [
+        43,
+        43
+      ],
+      "_id": "2068dfd7cf777702",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Explore",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.2068dfd7cf777702"
+    },
+    {
+      "range": [
+        44,
+        44
+      ],
+      "_id": "d44647f61c577c45",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Falter",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.d44647f61c577c45"
+    },
+    {
+      "range": [
+        45,
+        45
+      ],
+      "_id": "ee62bac338ad893b",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Find",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.ee62bac338ad893b"
+    },
+    {
+      "range": [
+        46,
+        46
+      ],
+      "_id": "7736f2c5600202c3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Finish",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.7736f2c5600202c3"
+    },
+    {
+      "range": [
+        47,
+        47
+      ],
+      "_id": "abec924b0bd87005",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Focus",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.abec924b0bd87005"
+    },
+    {
+      "range": [
+        48,
+        48
+      ],
+      "_id": "d83ba8857de2ab9e",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Follow",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.d83ba8857de2ab9e"
+    },
+    {
+      "range": [
+        49,
+        49
+      ],
+      "_id": "82e636c489c47adf",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fortify",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.82e636c489c47adf"
+    },
+    {
+      "range": [
+        50,
+        50
+      ],
+      "_id": "2e296e9ad1407cb1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gather",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.2e296e9ad1407cb1"
+    },
+    {
+      "range": [
+        51,
+        51
+      ],
+      "_id": "f1fdad98f674cc2d",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Guard",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.f1fdad98f674cc2d"
+    },
+    {
+      "range": [
+        52,
+        52
+      ],
+      "_id": "7557513588592a13",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hide",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.7557513588592a13"
+    },
+    {
+      "range": [
+        53,
+        53
+      ],
+      "_id": "18c373f749c17166",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hold",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.18c373f749c17166"
+    },
+    {
+      "range": [
+        54,
+        54
+      ],
+      "_id": "b8e9cd42dd2ba272",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hunt",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.b8e9cd42dd2ba272"
+    },
+    {
+      "range": [
+        55,
+        55
+      ],
+      "_id": "662cb7aaf55453ce",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impress",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.662cb7aaf55453ce"
+    },
+    {
+      "range": [
+        56,
+        56
+      ],
+      "_id": "7d0bbc2b142b5a4e",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Initiate",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.7d0bbc2b142b5a4e"
+    },
+    {
+      "range": [
+        57,
+        57
+      ],
+      "_id": "2ec3a008b7f95484",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Inspect",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.2ec3a008b7f95484"
+    },
+    {
+      "range": [
+        58,
+        58
+      ],
+      "_id": "667a99a882ec599c",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Investigate",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.667a99a882ec599c"
+    },
+    {
+      "range": [
+        59,
+        59
+      ],
+      "_id": "a381b576b32012a5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Journey",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.a381b576b32012a5"
+    },
+    {
+      "range": [
+        60,
+        60
+      ],
+      "_id": "3f4332ce3c7e3f89",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Learn",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.3f4332ce3c7e3f89"
+    },
+    {
+      "range": [
+        61,
+        61
+      ],
+      "_id": "868a93a5bc30ca7c",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leave",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.868a93a5bc30ca7c"
+    },
+    {
+      "range": [
+        62,
+        62
+      ],
+      "_id": "8c8be2e17bdb14cc",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Locate",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.8c8be2e17bdb14cc"
+    },
+    {
+      "range": [
+        63,
+        63
+      ],
+      "_id": "1f59b3f30aa21034",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lose",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.1f59b3f30aa21034"
+    },
+    {
+      "range": [
+        64,
+        64
+      ],
+      "_id": "a3a4cfe1fa90b97a",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Manipulate",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.a3a4cfe1fa90b97a"
+    },
+    {
+      "range": [
+        65,
+        65
+      ],
+      "_id": "710781c2d6754bea",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mourn",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.710781c2d6754bea"
+    },
+    {
+      "range": [
+        66,
+        66
+      ],
+      "_id": "b9cfe6982e0b5db0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Move",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.b9cfe6982e0b5db0"
+    },
+    {
+      "range": [
+        67,
+        67
+      ],
+      "_id": "2ca686ebd2b790ee",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oppose",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.2ca686ebd2b790ee"
+    },
+    {
+      "range": [
+        68,
+        68
+      ],
+      "_id": "be380d0c97235302",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overwhelm",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.be380d0c97235302"
+    },
+    {
+      "range": [
+        69,
+        69
+      ],
+      "_id": "635788a6d05b94eb",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Persevere",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.635788a6d05b94eb"
+    },
+    {
+      "range": [
+        70,
+        70
+      ],
+      "_id": "2f876fcc98d780c2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Preserve",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.2f876fcc98d780c2"
+    },
+    {
+      "range": [
+        71,
+        71
+      ],
+      "_id": "7e41209c0a4ba950",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Protect",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.7e41209c0a4ba950"
+    },
+    {
+      "range": [
+        72,
+        72
+      ],
+      "_id": "ef0b3909d776f017",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Raid",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.ef0b3909d776f017"
+    },
+    {
+      "range": [
+        73,
+        73
+      ],
+      "_id": "96c7cf6f6314219a",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reduce",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.96c7cf6f6314219a"
+    },
+    {
+      "range": [
+        74,
+        74
+      ],
+      "_id": "e0bc14776056b432",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Refuse",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.e0bc14776056b432"
+    },
+    {
+      "range": [
+        75,
+        75
+      ],
+      "_id": "9982ca5c7cf53604",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reject",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.9982ca5c7cf53604"
+    },
+    {
+      "range": [
+        76,
+        76
+      ],
+      "_id": "e99c4cb903d2dcb1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Release",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.e99c4cb903d2dcb1"
+    },
+    {
+      "range": [
+        77,
+        77
+      ],
+      "_id": "f2b4deb6ab2e04f4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Remove",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.f2b4deb6ab2e04f4"
+    },
+    {
+      "range": [
+        78,
+        78
+      ],
+      "_id": "b4f2cd0406d80344",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Research",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.b4f2cd0406d80344"
+    },
+    {
+      "range": [
+        79,
+        79
+      ],
+      "_id": "36b6e618c9261780",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Resist",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.36b6e618c9261780"
+    },
+    {
+      "range": [
+        80,
+        80
+      ],
+      "_id": "b11fcd33db3846ec",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Restore",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.b11fcd33db3846ec"
+    },
+    {
+      "range": [
+        81,
+        81
+      ],
+      "_id": "fb0a7fdf99561025",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reveal",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.fb0a7fdf99561025"
+    },
+    {
+      "range": [
+        82,
+        82
+      ],
+      "_id": "0ea62069b74642c9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Risk",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.0ea62069b74642c9"
+    },
+    {
+      "range": [
+        83,
+        83
+      ],
+      "_id": "e34687beb572376c",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scheme",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.e34687beb572376c"
+    },
+    {
+      "range": [
+        84,
+        84
+      ],
+      "_id": "ed887658c6773307",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Search",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.ed887658c6773307"
+    },
+    {
+      "range": [
+        85,
+        85
+      ],
+      "_id": "ef0ce7a6a35adb38",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Secure",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.ef0ce7a6a35adb38"
+    },
+    {
+      "range": [
+        86,
+        86
+      ],
+      "_id": "9b3841ef89d1453c",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Seize",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.9b3841ef89d1453c"
+    },
+    {
+      "range": [
+        87,
+        87
+      ],
+      "_id": "837bd4728ddef9aa",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Serve",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.837bd4728ddef9aa"
+    },
+    {
+      "range": [
+        88,
+        88
+      ],
+      "_id": "2f47e5e5c1129ba0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Share",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.2f47e5e5c1129ba0"
+    },
+    {
+      "range": [
+        89,
+        89
+      ],
+      "_id": "2793c2c57b7b751c",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Strengthen",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.2793c2c57b7b751c"
+    },
+    {
+      "range": [
+        90,
+        90
+      ],
+      "_id": "a2583127db5eb64c",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Summon",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.a2583127db5eb64c"
+    },
+    {
+      "range": [
+        91,
+        91
+      ],
+      "_id": "aa556a03151d2432",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Support",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.aa556a03151d2432"
+    },
+    {
+      "range": [
+        92,
+        92
+      ],
+      "_id": "2ddf70fcb5305dbf",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Suppress",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.2ddf70fcb5305dbf"
+    },
+    {
+      "range": [
+        93,
+        93
+      ],
+      "_id": "654c06bbcf4d0d88",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surrender",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.654c06bbcf4d0d88"
+    },
+    {
+      "range": [
+        94,
+        94
+      ],
+      "_id": "13b683ea487a1274",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Swear",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.13b683ea487a1274"
+    },
+    {
+      "range": [
+        95,
+        95
+      ],
+      "_id": "75186ac80c364f40",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Threaten",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.75186ac80c364f40"
+    },
+    {
+      "range": [
+        96,
+        96
+      ],
+      "_id": "5a9999e5799c4404",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transform",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.5a9999e5799c4404"
+    },
+    {
+      "range": [
+        97,
+        97
+      ],
+      "_id": "018e3d9872f76de9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Uncover",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.018e3d9872f76de9"
+    },
+    {
+      "range": [
+        98,
+        98
+      ],
+      "_id": "20117d7a95ac94b9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Uphold",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.20117d7a95ac94b9"
+    },
+    {
+      "range": [
+        99,
+        99
+      ],
+      "_id": "0cc39192154eaaa3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weaken",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.0cc39192154eaaa3"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "9b7bcd10907ee658",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Withdraw",
+      "name": "",
+      "_key": "!tables.results!b347a87fb81a3abb.9b7bcd10907ee658"
+    }
+  ],
+  "folder": "312c7e84afc43125",
+  "sort": 100000,
+  "img": "icons/dice/d10black.svg",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743222361553,
+    "modifiedTime": 1743222361553,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_key": "!tables!b347a87fb81a3abb"
+}

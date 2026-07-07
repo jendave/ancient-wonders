@@ -1,0 +1,264 @@
+{
+  "name": "Ice World Biome Feature - Glacial",
+  "formula": "1d100",
+  "description": "<p>Rocky valleys carved by masses of ice.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        11
+      ],
+      "_id": "nD01sS8vaxddBXWI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exalted icy fjords",
+      "name": "",
+      "_key": "!tables.results!LVZMThh2x1MYfpQY.nD01sS8vaxddBXWI"
+    },
+    {
+      "range": [
+        12,
+        22
+      ],
+      "_id": "1hP336vOk0bhzZwE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Frozen lakes connected by frigid waterfalls",
+      "name": "",
+      "_key": "!tables.results!LVZMThh2x1MYfpQY.1hP336vOk0bhzZwE"
+    },
+    {
+      "range": [
+        23,
+        33
+      ],
+      "_id": "ELbiKmeK0fQlK7Ik",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Frozen oceans",
+      "name": "",
+      "_key": "!tables.results!LVZMThh2x1MYfpQY.ELbiKmeK0fQlK7Ik"
+    },
+    {
+      "range": [
+        34,
+        44
+      ],
+      "_id": "MdtBs092Myvg0H0D",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hidden crevasses",
+      "name": "",
+      "_key": "!tables.results!LVZMThh2x1MYfpQY.MdtBs092Myvg0H0D"
+    },
+    {
+      "range": [
+        45,
+        55
+      ],
+      "_id": "JcTavfz870XAt2oX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Imposing walls or columns of ice",
+      "name": "",
+      "_key": "!tables.results!LVZMThh2x1MYfpQY.JcTavfz870XAt2oX"
+    },
+    {
+      "range": [
+        56,
+        66
+      ],
+      "_id": "6ReypfRXk5vgVjks",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Perpetual heavy snowfall",
+      "name": "",
+      "_key": "!tables.results!LVZMThh2x1MYfpQY.6ReypfRXk5vgVjks"
+    },
+    {
+      "range": [
+        67,
+        77
+      ],
+      "_id": "ISYHeq4S3VpttrJo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Raging cold winds",
+      "name": "",
+      "_key": "!tables.results!LVZMThh2x1MYfpQY.ISYHeq4S3VpttrJo"
+    },
+    {
+      "range": [
+        78,
+        88
+      ],
+      "_id": "VLAFSoIJjrju2DcP",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Windborne glittering ice crystals",
+      "name": "",
+      "_key": "!tables.results!LVZMThh2x1MYfpQY.VLAFSoIJjrju2DcP"
+    },
+    {
+      "range": [
+        89,
+        100
+      ],
+      "_id": "wz72rXvwoicl734O",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transition into a new &gt;Biome",
+      "name": "",
+      "_key": "!tables.results!LVZMThh2x1MYfpQY.wz72rXvwoicl734O"
+    }
+  ],
+  "folder": "FihhzdgG6Tlxel9Q",
+  "sort": 14,
+  "_id": "LVZMThh2x1MYfpQY",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745214414983,
+    "modifiedTime": 1745214414983,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!LVZMThh2x1MYfpQY"
+}

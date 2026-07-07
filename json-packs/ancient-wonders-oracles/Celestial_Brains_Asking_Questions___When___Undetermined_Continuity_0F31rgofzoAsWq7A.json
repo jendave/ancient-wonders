@@ -1,0 +1,394 @@
+{
+  "name": "Celestial Brains Asking Questions - When - Undetermined Continuity",
+  "formula": "1d100",
+  "description": "<p>Use this oracle if you want to determine when an event occurs. If you already know that an event happened in the past or future, reference the Determined Continuity column. Otherwise, reference the Undetermined Continuity column.</p><p>There are \"when\" questions that this oracle might not be suitable for answering, such as \"When did the precursor civilizations fall\" or \"When will the universe end\". In such cases, you may still use the oracle below solely for vaguely past or future answers but not specific time scales.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "1bFpGBIDw42CZMOT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Never",
+      "name": "",
+      "_key": "!tables.results!0F31rgofzoAsWq7A.1bFpGBIDw42CZMOT"
+    },
+    {
+      "range": [
+        3,
+        7
+      ],
+      "_id": "ZBexznW6yo6CYNDo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Distant past",
+      "name": "",
+      "_key": "!tables.results!0F31rgofzoAsWq7A.ZBexznW6yo6CYNDo"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "n0xLcGspRsmYZFc1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Years ago",
+      "name": "",
+      "_key": "!tables.results!0F31rgofzoAsWq7A.n0xLcGspRsmYZFc1"
+    },
+    {
+      "range": [
+        15,
+        22
+      ],
+      "_id": "izLN1GobiH790JFc",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Months ago",
+      "name": "",
+      "_key": "!tables.results!0F31rgofzoAsWq7A.izLN1GobiH790JFc"
+    },
+    {
+      "range": [
+        23,
+        32
+      ],
+      "_id": "6wt8cBPCVe61Ffxs",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weeks ago",
+      "name": "",
+      "_key": "!tables.results!0F31rgofzoAsWq7A.6wt8cBPCVe61Ffxs"
+    },
+    {
+      "range": [
+        33,
+        47
+      ],
+      "_id": "9uMXl96e8zNUXFSM",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Days ago",
+      "name": "",
+      "_key": "!tables.results!0F31rgofzoAsWq7A.9uMXl96e8zNUXFSM"
+    },
+    {
+      "range": [
+        48,
+        50
+      ],
+      "_id": "jgfSZDIOeq7ndq9Q",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hours ago",
+      "name": "",
+      "_key": "!tables.results!0F31rgofzoAsWq7A.jgfSZDIOeq7ndq9Q"
+    },
+    {
+      "range": [
+        51,
+        52
+      ],
+      "_id": "Ak5sh8EpZfL9gvjm",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Right now",
+      "name": "",
+      "_key": "!tables.results!0F31rgofzoAsWq7A.Ak5sh8EpZfL9gvjm"
+    },
+    {
+      "range": [
+        53,
+        55
+      ],
+      "_id": "Inx3jlZiBd0OmBvf",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hours from now",
+      "name": "",
+      "_key": "!tables.results!0F31rgofzoAsWq7A.Inx3jlZiBd0OmBvf"
+    },
+    {
+      "range": [
+        56,
+        70
+      ],
+      "_id": "zLGhRFBRhId06KbO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Days from now",
+      "name": "",
+      "_key": "!tables.results!0F31rgofzoAsWq7A.zLGhRFBRhId06KbO"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "qTycjtoWm4ocayBi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weeks from now",
+      "name": "",
+      "_key": "!tables.results!0F31rgofzoAsWq7A.qTycjtoWm4ocayBi"
+    },
+    {
+      "range": [
+        81,
+        88
+      ],
+      "_id": "MZnJffFrBSkCXk4Y",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Months from now",
+      "name": "",
+      "_key": "!tables.results!0F31rgofzoAsWq7A.MZnJffFrBSkCXk4Y"
+    },
+    {
+      "range": [
+        89,
+        95
+      ],
+      "_id": "wXkZZtDFP8KHD1GR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Years from now",
+      "name": "",
+      "_key": "!tables.results!0F31rgofzoAsWq7A.wXkZZtDFP8KHD1GR"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "qFcsUJplwGy89OFp",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Far future",
+      "name": "",
+      "_key": "!tables.results!0F31rgofzoAsWq7A.qFcsUJplwGy89OFp"
+    }
+  ],
+  "folder": "qYpEuWCIIpVKfhxw",
+  "sort": 4,
+  "_id": "0F31rgofzoAsWq7A",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745727898070,
+    "modifiedTime": 1745727898070,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!0F31rgofzoAsWq7A"
+}

@@ -1,0 +1,290 @@
+{
+  "name": "Chemical World Biome Feature - Ethane",
+  "formula": "1d100",
+  "description": "<p>Hued, dark-emerald oceans span the surface.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "crjvLRJfuybln9HA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expanses of floating silt or mud",
+      "name": "",
+      "_key": "!tables.results!8nZG0ehZKIfRMHtH.crjvLRJfuybln9HA"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "8D9LPuUgJA6A0um2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Iridescent surface",
+      "name": "",
+      "_key": "!tables.results!8nZG0ehZKIfRMHtH.8D9LPuUgJA6A0um2"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "duGZhB4iJtG7jwJg",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opaque gaseous fog banks",
+      "name": "",
+      "_key": "!tables.results!8nZG0ehZKIfRMHtH.duGZhB4iJtG7jwJg"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "07EwX9SqhNyEz6DE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Powerful thunderstorms",
+      "name": "",
+      "_key": "!tables.results!8nZG0ehZKIfRMHtH.07EwX9SqhNyEz6DE"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "aot0StX8Lj2gASZL",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Raging hurricanes",
+      "name": "",
+      "_key": "!tables.results!8nZG0ehZKIfRMHtH.aot0StX8Lj2gASZL"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "u0RsJaIECNMZ6B9h",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roaming ethanolic spots",
+      "name": "",
+      "_key": "!tables.results!8nZG0ehZKIfRMHtH.u0RsJaIECNMZ6B9h"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "dMZPbmGohju9vZzv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roaming icebergs or islets",
+      "name": "",
+      "_key": "!tables.results!8nZG0ehZKIfRMHtH.dMZPbmGohju9vZzv"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "CWq3uR0qlKr6gX3e",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shallow subsurface plains",
+      "name": "",
+      "_key": "!tables.results!8nZG0ehZKIfRMHtH.CWq3uR0qlKr6gX3e"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "vBz2vq6CQmc4T3Av",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Titanic waves",
+      "name": "",
+      "_key": "!tables.results!8nZG0ehZKIfRMHtH.vBz2vq6CQmc4T3Av"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "FTcOBn2ukGV5JoRA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Turbulent winds and choppy seas",
+      "name": "",
+      "_key": "!tables.results!8nZG0ehZKIfRMHtH.FTcOBn2ukGV5JoRA"
+    }
+  ],
+  "folder": "bfU9msCL4HxpF6vZ",
+  "sort": 1300000,
+  "_id": "8nZG0ehZKIfRMHtH",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745171240939,
+    "modifiedTime": 1745171240939,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!8nZG0ehZKIfRMHtH"
+}

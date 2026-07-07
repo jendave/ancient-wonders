@@ -1,0 +1,95 @@
+{
+  "type": "asset",
+  "folder": "VGDM9gKIusGTm2DW",
+  "name": "Droid 1",
+  "system": {
+    "requirement": "",
+    "category": "Special Companion",
+    "color": "#3d8b8a",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "description": "<p>The droid has a module that allows them to modify the core of their being with specialized assistance. You may spend 2 experience or 3 wealth to change the stats of the droid. If you do, instead of using an array, redistribute the 9 points across the stats, with a resulting minimum of 0 and a maximum of 4 in each of them. When you do this, clear any impacts the droid has marked--misfortunes and lasting effects. Then, take +3 momentum.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "Edge",
+        "selected": false
+      },
+      {
+        "name": "Heart",
+        "selected": false
+      },
+      {
+        "name": "Iron",
+        "selected": false
+      },
+      {
+        "name": "Shadow",
+        "selected": false
+      },
+      {
+        "name": "Wits",
+        "selected": true
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Wounded",
+        "ticked": false
+      }
+    ],
+    "description": "<p>A construct expert at anything, so long as they have the right parts.</p>\n<p>Master Ability</p>"
+  },
+  "img": "modules/ancient-wonders/assets/android-mask.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1746824673771,
+    "modifiedTime": 1764466776183,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.331",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.2"
+    }
+  },
+  "_id": "Ggbklq5robiv1xhu",
+  "sort": 0,
+  "_key": "!items!Ggbklq5robiv1xhu"
+}

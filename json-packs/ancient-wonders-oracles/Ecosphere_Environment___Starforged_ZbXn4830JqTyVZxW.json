@@ -1,0 +1,238 @@
+{
+  "name": "Ecosphere Environment - Starforged",
+  "formula": "1d100",
+  "description": "<p>Use this oracle to determine the internal habitat of an ecosphere.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        13
+      ],
+      "_id": "4JD0H2G1J0kyFuY7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Desert World; pg 50",
+      "name": "",
+      "_key": "!tables.results!ZbXn4830JqTyVZxW.4JD0H2G1J0kyFuY7"
+    },
+    {
+      "range": [
+        14,
+        26
+      ],
+      "_id": "ajJtbsybzWNeZPTG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Furnace World; pg 52",
+      "name": "",
+      "_key": "!tables.results!ZbXn4830JqTyVZxW.ajJtbsybzWNeZPTG"
+    },
+    {
+      "range": [
+        27,
+        39
+      ],
+      "_id": "UMbFwo2TLXhpY8ay",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Ice World; pg 56",
+      "name": "",
+      "_key": "!tables.results!ZbXn4830JqTyVZxW.UMbFwo2TLXhpY8ay"
+    },
+    {
+      "range": [
+        40,
+        52
+      ],
+      "_id": "cOt4zvzuzdtVCHxy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Jungle World; pg 60",
+      "name": "",
+      "_key": "!tables.results!ZbXn4830JqTyVZxW.cOt4zvzuzdtVCHxy"
+    },
+    {
+      "range": [
+        53,
+        65
+      ],
+      "_id": "rKHr8vPUZc1uASph",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Ocean World; pg 70",
+      "name": "",
+      "_key": "!tables.results!ZbXn4830JqTyVZxW.rKHr8vPUZc1uASph"
+    },
+    {
+      "range": [
+        66,
+        78
+      ],
+      "_id": "ero9WbufGXEjPqx6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Rocky World; pg 72",
+      "name": "",
+      "_key": "!tables.results!ZbXn4830JqTyVZxW.ero9WbufGXEjPqx6"
+    },
+    {
+      "range": [
+        79,
+        91
+      ],
+      "_id": "bYJ9LO0rNJS0SlwT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Tainted World; pg 76",
+      "name": "",
+      "_key": "!tables.results!ZbXn4830JqTyVZxW.bYJ9LO0rNJS0SlwT"
+    },
+    {
+      "range": [
+        92,
+        100
+      ],
+      "_id": "RJq8KBcDMp1u7niu",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Vital World; pg 80",
+      "name": "",
+      "_key": "!tables.results!ZbXn4830JqTyVZxW.RJq8KBcDMp1u7niu"
+    }
+  ],
+  "folder": "wXMzUvQoCfDoUqQ5",
+  "sort": 0,
+  "_id": "ZbXn4830JqTyVZxW",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745821297335,
+    "modifiedTime": 1745821297335,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!ZbXn4830JqTyVZxW"
+}

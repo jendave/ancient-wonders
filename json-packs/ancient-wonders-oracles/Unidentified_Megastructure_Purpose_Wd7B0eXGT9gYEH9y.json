@@ -1,0 +1,394 @@
+{
+  "name": "Unidentified Megastructure Purpose",
+  "formula": "1d100",
+  "description": "<p>Megastructures are massive alien vaults built to fulfill a particular function. Coming to a definitive conclusion about their purpose requires undertaking an arduous, intense expedition.</p><p>When you explore an unidentified megastructure, you may use this oracle to reveal the megastructure function at an appropriate point in your survey, either due to the completion of your expedition or a because your narrative framing would naturally lead you to a revelation regarding the nature of the site.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "lLA819mK2jkxdFlk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Archive of inestimable knowledge",
+      "name": "",
+      "_key": "!tables.results!Wd7B0eXGT9gYEH9y.lLA819mK2jkxdFlk"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "xpZCIWOe4DFwhshx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Conduit to mystical powers",
+      "name": "",
+      "_key": "!tables.results!Wd7B0eXGT9gYEH9y.xpZCIWOe4DFwhshx"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "njj8rtLfkPCx1JFg",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Containment of a reality-defying being",
+      "name": "",
+      "_key": "!tables.results!Wd7B0eXGT9gYEH9y.njj8rtLfkPCx1JFg"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "pHIrNt1Ix0P5gkf6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Containment of weapons",
+      "name": "",
+      "_key": "!tables.results!Wd7B0eXGT9gYEH9y.pHIrNt1Ix0P5gkf6"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "sfrJuJYiZ1wbfWds",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Imprisonment of beings or individuals",
+      "name": "",
+      "_key": "!tables.results!Wd7B0eXGT9gYEH9y.sfrJuJYiZ1wbfWds"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "XUo7VAwLXaDI0P2v",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Interment of the dead",
+      "name": "",
+      "_key": "!tables.results!Wd7B0eXGT9gYEH9y.XUo7VAwLXaDI0P2v"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "kNXzXBECGlsCUfFR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Manipulation of spacetime",
+      "name": "",
+      "_key": "!tables.results!Wd7B0eXGT9gYEH9y.kNXzXBECGlsCUfFR"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "w7kCIuEVQbHcZYUe",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Preservation of an ancient intelligence",
+      "name": "",
+      "_key": "!tables.results!Wd7B0eXGT9gYEH9y.w7kCIuEVQbHcZYUe"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "SMyyVqu8LDvDUZln",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Protection of precious technology or artifacts",
+      "name": "",
+      "_key": "!tables.results!Wd7B0eXGT9gYEH9y.SMyyVqu8LDvDUZln"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "QUl76dPHR5V1RCp4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Remotely controlling other beings",
+      "name": "",
+      "_key": "!tables.results!Wd7B0eXGT9gYEH9y.QUl76dPHR5V1RCp4"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "4GLdErZgNGDVwDQh",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Safeguard relics or treasury",
+      "name": "",
+      "_key": "!tables.results!Wd7B0eXGT9gYEH9y.4GLdErZgNGDVwDQh"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "SeBWp0BKTiMpIGeg",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surveying or researching unknown realities",
+      "name": "",
+      "_key": "!tables.results!Wd7B0eXGT9gYEH9y.SeBWp0BKTiMpIGeg"
+    },
+    {
+      "range": [
+        85,
+        95
+      ],
+      "_id": "rOTtM5k0iTlYB3M5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Action + Theme; pg 12",
+      "name": "",
+      "_key": "!tables.results!Wd7B0eXGT9gYEH9y.rOTtM5k0iTlYB3M5"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "ELU1XFEBJ0XpKPIT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice",
+      "name": "",
+      "_key": "!tables.results!Wd7B0eXGT9gYEH9y.ELU1XFEBJ0XpKPIT"
+    }
+  ],
+  "folder": "EpVZ9VKEG5R6Tr0s",
+  "sort": 12,
+  "_id": "Wd7B0eXGT9gYEH9y",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745687449403,
+    "modifiedTime": 1745687449403,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!Wd7B0eXGT9gYEH9y"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Planet Location",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "ZDvf4JsLi2o33ZiD",
+  "description": "",
+  "folder": "aj3iyWvQqHmshfmS",
+  "sort": 200000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743224959714,
+    "modifiedTime": 1744956187134,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!ZDvf4JsLi2o33ZiD"
+}

@@ -1,0 +1,88 @@
+{
+  "type": "asset",
+  "folder": "VGDM9gKIusGTm2DW",
+  "name": "Psionicist 2",
+  "system": {
+    "requirement": "",
+    "category": "Special Companion",
+    "color": "#3d8b8a",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": false,
+        "description": "<p>The psionicist may remotely push, pull, lift, or constrict objects or beings that are their size or smaller. When they are in a charged situation and draw on their powers to make a move or change the outcome of an action, reroll any dice and @Compendium[foundry-ironsworn.starforgedmoves.Item.93d2d69b7e2b85e1]{Lose Momentum} (-2).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>The psionicist may remotely interact with devices. When they make a move drawing on this power, add +1 and take +2 momentum on a hit. If they make the move to make a device explode or cause damage to a machine, @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} and add +2 to the initial move per each stress suffered.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>The psionicist may play with someone's mind. When they @Compendium[foundry-ironsworn.starforgedmoves.Item.9f538fabf8998c5b]{Compel} or make a move to create an illusion or cause mental harm, add +1 and take +2 momentum on a hit. On a miss, they may harden the cognitive link. If they do, @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} (1 stress) and reroll any dice, but count a weak hit as a miss.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Spirit",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [
+      {
+        "name": "Shaken",
+        "ticked": false
+      }
+    ],
+    "description": ""
+  },
+  "img": "modules/ancient-wonders/assets/card-play.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1746826242343,
+    "modifiedTime": 1764466887161,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.331",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.2"
+    }
+  },
+  "_id": "F230NVZkxCZjNwxx",
+  "sort": 0,
+  "_key": "!items!F230NVZkxCZjNwxx"
+}

@@ -1,0 +1,79 @@
+{
+  "type": "asset",
+  "folder": "bOcZzkQSUb3oUpS2",
+  "name": "Aquatic Suit",
+  "system": {
+    "requirement": "",
+    "category": "Item - Apparel",
+    "color": "#3d8b8a",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>The aquatic suit has up to 3 oxygen. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.78baa51694fe37c5]{Pay the Price} while using it, you may suffer -1 oxygen as the cost. When the aquatic suit is in a breathable atmosphere, it replenishes its oxygen; set it to its max.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>The aquatic suit has up to 5 oxygen. You may @Compendium[foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} to replenish it from an improvised oxygen source. On a strong, take +4 oxygen. On a weak hit, take +2.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you make a move with quickness or agility, you may suffer -1 oxygen for the aquatic suit to generate a stream of gas to propel you and increase maneuverability. If you do, reroll any dice and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "description": "<p>The aquatic suit does not run out of oxygen, but it cannot be used to increase maneuverability.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Oxygen",
+      "current": 0,
+      "max": 5,
+      "value": 3,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "<p>A set of diving gear that allows you to survive underwater.</p>"
+  },
+  "img": "modules/ancient-wonders/assets/scuba-mask.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747009679054,
+    "modifiedTime": 1764468230813,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "Ectp7IbpiHZ1gDq9",
+  "sort": 0,
+  "_key": "!items!Ectp7IbpiHZ1gDq9"
+}

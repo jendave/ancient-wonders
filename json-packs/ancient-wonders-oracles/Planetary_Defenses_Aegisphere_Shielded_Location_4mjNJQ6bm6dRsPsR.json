@@ -1,0 +1,108 @@
+{
+  "name": "Planetary Defenses Aegisphere Shielded Location",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        33
+      ],
+      "_id": "Jq0Xrfd4D4wuzggX",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Planet; pg 40",
+      "name": "",
+      "_key": "!tables.results!4mjNJQ6bm6dRsPsR.Jq0Xrfd4D4wuzggX"
+    },
+    {
+      "range": [
+        34,
+        67
+      ],
+      "_id": "SmLTNvvDrH1WjQ7l",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Ecumenopolis; pg 130",
+      "name": "",
+      "_key": "!tables.results!4mjNJQ6bm6dRsPsR.SmLTNvvDrH1WjQ7l"
+    },
+    {
+      "range": [
+        68,
+        100
+      ],
+      "_id": "w5q3wS59NBCqxv9b",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Kintsugi World; pg 134",
+      "name": "",
+      "_key": "!tables.results!4mjNJQ6bm6dRsPsR.w5q3wS59NBCqxv9b"
+    }
+  ],
+  "folder": "svNaxx45pnxVZEm2",
+  "sort": 2,
+  "_id": "4mjNJQ6bm6dRsPsR",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745955150879,
+    "modifiedTime": 1745955150879,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!4mjNJQ6bm6dRsPsR"
+}

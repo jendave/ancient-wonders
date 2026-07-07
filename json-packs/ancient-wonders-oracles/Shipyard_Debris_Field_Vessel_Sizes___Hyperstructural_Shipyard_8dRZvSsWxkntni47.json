@@ -1,0 +1,82 @@
+{
+  "name": "Shipyard Debris Field Vessel Sizes - Hyperstructural Shipyard",
+  "formula": "1d100",
+  "description": "<p>Use this table to determine the scale of any or all of the vessels that constitute the shipyard's debris field. This may inform you as to how to treat the exploration of these derelicts.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        60
+      ],
+      "_id": "6iXgthNW5yV0zt25",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large, elaborate site",
+      "name": "",
+      "_key": "!tables.results!8dRZvSsWxkntni47.6iXgthNW5yV0zt25"
+    },
+    {
+      "range": [
+        61,
+        100
+      ],
+      "_id": "GZBXG0tAC6Q8RpTS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vast site of unfathomable complexity",
+      "name": "",
+      "_key": "!tables.results!8dRZvSsWxkntni47.GZBXG0tAC6Q8RpTS"
+    }
+  ],
+  "folder": "vwLllcMF8jEpu72a",
+  "sort": 4,
+  "_id": "8dRZvSsWxkntni47",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746145410496,
+    "modifiedTime": 1746145410496,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!8dRZvSsWxkntni47"
+}

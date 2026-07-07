@@ -1,0 +1,22 @@
+{
+  "name": "Megastructure Class",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "J4qshrz9reA49AI9",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 200000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745562930680,
+    "modifiedTime": 1745562930856,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!J4qshrz9reA49AI9"
+}

@@ -1,0 +1,72 @@
+{
+  "type": "asset",
+  "folder": "bOcZzkQSUb3oUpS2",
+  "name": "Shipbreaker",
+  "system": {
+    "requirement": "",
+    "category": "Item - Tool",
+    "color": "#3d8b8a",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you make a move using the shipbreaker to cut through a barrier (such as a ship's hull, a vehicle's armor, or a wall), add +1. Then, you may @Compendium[foundry-ironsworn.starforgedmoves.Item.93d2d69b7e2b85e1]{Lose Momentum} (-2) to reroll one challenge die.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>The shipbreaker features aturbo. When you make a move using this tool, you may leverage its turbo after rolling. If you do, improve a miss to a weak hit, or a weak hit to a strong hit, but @Compendium[foundry-ironsworn.starforgedmoves.Item.905205c073b09eac]{Endure Harm} (-1).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>The shipbreaker may detect valuable materials. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.367804b98f30d5f4]{Explore a Waypoint} or @Compendium[foundry-ironsworn.starforgedmoves.Item.703964b8d02355b8]{Resupply} using this tool and score a strong hit with a 6 on your action die, you find a highly valuable resource; take +1 momentum. Then, you may choose to continue to look for more. If you do, reroll your action die and one challenge die. Resolve the move as a new outcome.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Shield",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "<p>An industrial tool to salvage vessels and break through thick barriers.</p>"
+  },
+  "img": "modules/ancient-wonders/assets/laserburn.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747109232566,
+    "modifiedTime": 1764468624943,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "wlM93bcdQRSvGbho",
+  "sort": 0,
+  "_key": "!items!wlM93bcdQRSvGbho"
+}

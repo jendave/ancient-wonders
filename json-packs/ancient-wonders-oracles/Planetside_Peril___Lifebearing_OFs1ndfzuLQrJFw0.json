@@ -1,0 +1,940 @@
+{
+  "name": "Planetside Peril - Lifebearing",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "T2g8GQF39oWfddj3",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Anomaly; pg 194",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.T2g8GQF39oWfddj3"
+    },
+    {
+      "range": [
+        2,
+        3
+      ],
+      "_id": "IhE9qGZhKZD7tiLR",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrupted or mutated lifeform",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.IhE9qGZhKZD7tiLR"
+    },
+    {
+      "range": [
+        4,
+        6
+      ],
+      "_id": "sB1RBJVWwysnGmiO",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Signs of a lifeform's power or cunning",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.sB1RBJVWwysnGmiO"
+    },
+    {
+      "range": [
+        7,
+        9
+      ],
+      "_id": "xuVwjA0tfeokjr0k",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hazardous plant life or malignant spores",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.xuVwjA0tfeokjr0k"
+    },
+    {
+      "range": [
+        10,
+        12
+      ],
+      "_id": "QcceCtfRwdRTGETA",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lifeform hunts for prey",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.QcceCtfRwdRTGETA"
+    },
+    {
+      "range": [
+        13,
+        15
+      ],
+      "_id": "GOw1mIgXooXzwdmE",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lifeform makes its lair here",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.GOw1mIgXooXzwdmE"
+    },
+    {
+      "range": [
+        16,
+        18
+      ],
+      "_id": "pfLBTz89W75NkV0z",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lifeforms guided by a greater threat",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.pfLBTz89W75NkV0z"
+    },
+    {
+      "range": [
+        19,
+        21
+      ],
+      "_id": "ezLC5oknxgYnhAq5",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lifeforms spooked or stampeding",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.ezLC5oknxgYnhAq5"
+    },
+    {
+      "range": [
+        22,
+        24
+      ],
+      "_id": "1zHAObaCai8M9c43",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Threatening lifeform draws near",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.1zHAObaCai8M9c43"
+    },
+    {
+      "range": [
+        25,
+        27
+      ],
+      "_id": "zsHAtGxKEsNPNGBb",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Life is revealed or takes an unexpected form",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.zsHAtGxKEsNPNGBb"
+    },
+    {
+      "range": [
+        28,
+        30
+      ],
+      "_id": "ktWKjBHgydqiKvpj",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blocked or impassable path",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.ktWKjBHgydqiKvpj"
+    },
+    {
+      "range": [
+        31,
+        33
+      ],
+      "_id": "cHuaI61BW6LkrUDL",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrosive substance or environment",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.cHuaI61BW6LkrUDL"
+    },
+    {
+      "range": [
+        34,
+        36
+      ],
+      "_id": "JOibFM7VmQ3R76lc",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disturbing remains or evidence of death",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.JOibFM7VmQ3R76lc"
+    },
+    {
+      "range": [
+        37,
+        39
+      ],
+      "_id": "GqrhnudwrhZbwFrc",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Drastic environmental change",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.GqrhnudwrhZbwFrc"
+    },
+    {
+      "range": [
+        40,
+        42
+      ],
+      "_id": "TBsPrmqNICqlgPSZ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enemy holds this area",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.TBsPrmqNICqlgPSZ"
+    },
+    {
+      "range": [
+        43,
+        45
+      ],
+      "_id": "Umg6CRw1cOgWP5I1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Entangling or engulfing hazard",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.Umg6CRw1cOgWP5I1"
+    },
+    {
+      "range": [
+        46,
+        48
+      ],
+      "_id": "pFp79vsv0f2h5t91",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Equipment fails or malfunctions",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.pFp79vsv0f2h5t91"
+    },
+    {
+      "range": [
+        49,
+        51
+      ],
+      "_id": "hvfQQhpbpExqlDp6",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Guarded or patrolled path",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.hvfQQhpbpExqlDp6"
+    },
+    {
+      "range": [
+        52,
+        54
+      ],
+      "_id": "vLj2S2fX97ZIkWiI",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Led astray",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.vLj2S2fX97ZIkWiI"
+    },
+    {
+      "range": [
+        55,
+        57
+      ],
+      "_id": "NQ28MhIj6Qko6xpS",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lost the path",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.NQ28MhIj6Qko6xpS"
+    },
+    {
+      "range": [
+        58,
+        60
+      ],
+      "_id": "GchhZpflj6P0J2TQ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Meteorites fall from the sky",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.GchhZpflj6P0J2TQ"
+    },
+    {
+      "range": [
+        61,
+        63
+      ],
+      "_id": "F9lSNq9KAWzCLN9W",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Irradiated area or object",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.F9lSNq9KAWzCLN9W"
+    },
+    {
+      "range": [
+        64,
+        66
+      ],
+      "_id": "Q3oIrS6vDzEEkCmB",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Realization that something was left behind",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.Q3oIrS6vDzEEkCmB"
+    },
+    {
+      "range": [
+        67,
+        69
+      ],
+      "_id": "inyDVz1NFXksNgdQ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Seismic or volcanic upheaval",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.inyDVz1NFXksNgdQ"
+    },
+    {
+      "range": [
+        70,
+        72
+      ],
+      "_id": "IHw0mfKcra4ZCxCw",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Signs of a lurking or trailing foe",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.IHw0mfKcra4ZCxCw"
+    },
+    {
+      "range": [
+        73,
+        75
+      ],
+      "_id": "MUFbhajbomZQ8FxN",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Storm or atmospheric disruption",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.MUFbhajbomZQ8FxN"
+    },
+    {
+      "range": [
+        76,
+        78
+      ],
+      "_id": "rXhDhFpMqtHwp1Sq",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Toxic or sickening environment",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.rXhDhFpMqtHwp1Sq"
+    },
+    {
+      "range": [
+        79,
+        81
+      ],
+      "_id": "DGaeVtLS0X7Jag7g",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trap or alarm",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.DGaeVtLS0X7Jag7g"
+    },
+    {
+      "range": [
+        82,
+        84
+      ],
+      "_id": "q9fC7nyQYSbMXAlc",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Treacherous or arduous path",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.q9fC7nyQYSbMXAlc"
+    },
+    {
+      "range": [
+        85,
+        87
+      ],
+      "_id": "b9cC8a0dSQb7m51S",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Troubling visions or apparitions",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.b9cC8a0dSQb7m51S"
+    },
+    {
+      "range": [
+        88,
+        90
+      ],
+      "_id": "hCgqkUvXAbYiI4J3",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Visibility hindered by atmospheric effects",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.hCgqkUvXAbYiI4J3"
+    },
+    {
+      "range": [
+        91,
+        93
+      ],
+      "_id": "iv5W4loJcWvxfVle",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Worrying arrival of a ship or vehicle",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.iv5W4loJcWvxfVle"
+    },
+    {
+      "range": [
+        94,
+        96
+      ],
+      "_id": "6MB4NUzt9r3qvIH1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wreckage or ruins portend a new threat",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.6MB4NUzt9r3qvIH1"
+    },
+    {
+      "range": [
+        97,
+        99
+      ],
+      "_id": "a8TNqgWvvFeH8Oup",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Action + Theme; pg 12",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.a8TNqgWvvFeH8Oup"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "86Nj9aeHQvkWf7vb",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice",
+      "name": "",
+      "_key": "!tables.results!OFs1ndfzuLQrJFw0.86Nj9aeHQvkWf7vb"
+    }
+  ],
+  "folder": "Xme28qJBZvc3Owpj",
+  "sort": 100000,
+  "_id": "OFs1ndfzuLQrJFw0",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.OFs1ndfzuLQrJFw0",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743714636692,
+    "modifiedTime": 1743714636692,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!OFs1ndfzuLQrJFw0"
+}

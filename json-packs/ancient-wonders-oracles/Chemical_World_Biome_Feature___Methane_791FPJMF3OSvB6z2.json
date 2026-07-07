@@ -1,0 +1,290 @@
+{
+  "name": "Chemical World Biome Feature - Methane",
+  "formula": "1d100",
+  "description": "<p>Sandy domains enveloped by bitter frost and snow.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "zoEvgphy1ngymlZN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enormous stone arches",
+      "name": "",
+      "_key": "!tables.results!791FPJMF3OSvB6z2.zoEvgphy1ngymlZN"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "sUkY3YBPx16fDL11",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Frosted sandy plains",
+      "name": "",
+      "_key": "!tables.results!791FPJMF3OSvB6z2.sUkY3YBPx16fDL11"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "OveO7rK4Vmb3qwu6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glistening snow-crowned dunes",
+      "name": "",
+      "_key": "!tables.results!791FPJMF3OSvB6z2.OveO7rK4Vmb3qwu6"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "497jRQZnpXOeag7L",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glittering rivers or streams",
+      "name": "",
+      "_key": "!tables.results!791FPJMF3OSvB6z2.497jRQZnpXOeag7L"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "DXS9ImW7bGpd70B8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Huge shimmering pools",
+      "name": "",
+      "_key": "!tables.results!791FPJMF3OSvB6z2.DXS9ImW7bGpd70B8"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "yeytU1UZjSJM81HY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Icy lakes rimmed by gravel shores",
+      "name": "",
+      "_key": "!tables.results!791FPJMF3OSvB6z2.yeytU1UZjSJM81HY"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "kxIHkV0TFyID2JId",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intricate networks of canyons",
+      "name": "",
+      "_key": "!tables.results!791FPJMF3OSvB6z2.kxIHkV0TFyID2JId"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "jlan9n1PmdOZBn3q",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Looming rocky plateaus",
+      "name": "",
+      "_key": "!tables.results!791FPJMF3OSvB6z2.jlan9n1PmdOZBn3q"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "HTVDrjq9WTmwW2py",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stratified methanofalls",
+      "name": "",
+      "_key": "!tables.results!791FPJMF3OSvB6z2.HTVDrjq9WTmwW2py"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "kv27TFkL5wV9gvS0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Towering snowcapped mountains",
+      "name": "",
+      "_key": "!tables.results!791FPJMF3OSvB6z2.kv27TFkL5wV9gvS0"
+    }
+  ],
+  "folder": "bfU9msCL4HxpF6vZ",
+  "sort": 1200000,
+  "_id": "791FPJMF3OSvB6z2",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745171240939,
+    "modifiedTime": 1745171240939,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!791FPJMF3OSvB6z2"
+}

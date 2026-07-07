@@ -1,0 +1,290 @@
+{
+  "name": "Rocky World Surface Feature",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        3
+      ],
+      "_id": "sU6ZyKPr50qyxSlX",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Craggy outcrops",
+      "name": "",
+      "_key": "!tables.results!7yJBHZ4l5YGexO3H.sU6ZyKPr50qyxSlX"
+    },
+    {
+      "range": [
+        4,
+        6
+      ],
+      "_id": "IHdKOb37t8N1spFY",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glassy impact craters",
+      "name": "",
+      "_key": "!tables.results!7yJBHZ4l5YGexO3H.IHdKOb37t8N1spFY"
+    },
+    {
+      "range": [
+        7,
+        9
+      ],
+      "_id": "V6uIauF9RpiTgPcW",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jagged mountains",
+      "name": "",
+      "_key": "!tables.results!7yJBHZ4l5YGexO3H.V6uIauF9RpiTgPcW"
+    },
+    {
+      "range": [
+        10,
+        12
+      ],
+      "_id": "edzaFGqVRCCkzIth",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Massive impact crater",
+      "name": "",
+      "_key": "!tables.results!7yJBHZ4l5YGexO3H.edzaFGqVRCCkzIth"
+    },
+    {
+      "range": [
+        13,
+        15
+      ],
+      "_id": "QmlhicLXnenpQxua",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rugged and rocky flatlands",
+      "name": "",
+      "_key": "!tables.results!7yJBHZ4l5YGexO3H.QmlhicLXnenpQxua"
+    },
+    {
+      "range": [
+        16,
+        18
+      ],
+      "_id": "ro3XBN6GkpBorDFG",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Swirling, low-lying gasses",
+      "name": "",
+      "_key": "!tables.results!7yJBHZ4l5YGexO3H.ro3XBN6GkpBorDFG"
+    },
+    {
+      "range": [
+        19,
+        21
+      ],
+      "_id": "Ypj8mLjzMQb47OTU",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Towering plateaus",
+      "name": "",
+      "_key": "!tables.results!7yJBHZ4l5YGexO3H.Ypj8mLjzMQb47OTU"
+    },
+    {
+      "range": [
+        22,
+        24
+      ],
+      "_id": "WS1iNdj0LhmQjF1S",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unusual terrain coloration",
+      "name": "",
+      "_key": "!tables.results!7yJBHZ4l5YGexO3H.WS1iNdj0LhmQjF1S"
+    },
+    {
+      "range": [
+        25,
+        27
+      ],
+      "_id": "98jpjQti7Qgd6Lmh",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weathered rocky monoliths",
+      "name": "",
+      "_key": "!tables.results!7yJBHZ4l5YGexO3H.98jpjQti7Qgd6Lmh"
+    },
+    {
+      "range": [
+        28,
+        100
+      ],
+      "_id": "8xiP2QhGcM1Nt7ZV",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Biome Feature",
+      "name": "",
+      "_key": "!tables.results!7yJBHZ4l5YGexO3H.8xiP2QhGcM1Nt7ZV"
+    }
+  ],
+  "folder": "jgZy24x8EAmoCjSL",
+  "sort": 10,
+  "_id": "7yJBHZ4l5YGexO3H",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745348324737,
+    "modifiedTime": 1745348324737,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!7yJBHZ4l5YGexO3H"
+}

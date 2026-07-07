@@ -1,0 +1,22 @@
+{
+  "name": "Vital World",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "uqIYYdcorEC11vj9",
+  "description": "",
+  "folder": "GvsmSMYbvgjEYSQc",
+  "sort": 2000000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": null,
+    "modifiedTime": 1745469388272,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!uqIYYdcorEC11vj9"
+}

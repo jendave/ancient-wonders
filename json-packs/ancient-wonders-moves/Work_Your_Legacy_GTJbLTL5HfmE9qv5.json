@@ -1,0 +1,118 @@
+{
+  "name": "Work Your Legacy",
+  "type": "sfmove",
+  "img": "icons/dice/d10black.svg",
+  "system": {
+    "dfid": "",
+    "Category": "",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "__When you leverage your downtime to develop your abilities, improve your resources, gain a reward, or boost your influence__, envision the challenges you overcome to acquire or improve assets for your campaign. If you focus on...\n\n* Training for your quest: Roll +edge or +iron\n* Fostering your reputation for your bonds: Roll +heart or +shadow\n* Researching lore for your discoveries: Roll +wits\n\n...envision how can you make this a perpetual safe place to rest. Then, roll +wits.\n\nOn a __strong hit__, mark one tick on the appropriate legacy track. On a __strong hit with a match__, mark two ticks instead.\n\nOn a __weak hit__, as above, mark progress and fill a clock segment.\n\nOn a __miss__, fill a clock segment. On a __miss with a match__, fill two segments instead.",
+    "Trigger": {
+      "Text": "When you leverage your downtime to develop your abilities, improve your resources, gain a reward, or boost your influence",
+      "Options": [
+        {
+          "Text": "Training for your quest",
+          "Method": "Any",
+          "Roll type": "Action roll",
+          "Using": [
+            "Edge"
+          ]
+        },
+        {
+          "Text": "Training for your quest",
+          "Method": "Any",
+          "Roll type": "Action roll",
+          "Using": [
+            "Iron"
+          ]
+        },
+        {
+          "Text": "Fostering your reputation for your bonds",
+          "Method": "Any",
+          "Roll type": "Action roll",
+          "Using": [
+            "Heart"
+          ]
+        },
+        {
+          "Text": "Fostering your reputation for your bonds",
+          "Method": "Any",
+          "Roll type": "Action roll",
+          "Using": [
+            "Shadow"
+          ]
+        },
+        {
+          "Text": "Researching lore for your discoveries",
+          "Method": "Any",
+          "Roll type": "Action roll",
+          "Using": [
+            "Wits"
+          ]
+        }
+      ]
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "On a __strong hit__, mark one tick on the appropriate legacy track.",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "On a __strong hit with a match__, mark two ticks on the appropriate legacy track.",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      },
+      "Weak Hit": {
+        "Text": "On a __weak hit__, as above, mark progress and fill a clock segment.",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "On a __miss__, fill a clock segment.",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "On a __miss with a match__, fill two segments instead.",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "",
+      "Authors": [],
+      "Page": null
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "effects": [],
+  "folder": "Fb5HWtUREfR0yFIZ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746577761277,
+    "modifiedTime": 1746577761277,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "GTJbLTL5HfmE9qv5",
+  "sort": 0,
+  "_key": "!items!GTJbLTL5HfmE9qv5"
+}

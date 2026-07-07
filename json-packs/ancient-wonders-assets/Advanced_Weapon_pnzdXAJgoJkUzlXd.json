@@ -1,0 +1,106 @@
+{
+  "type": "asset",
+  "folder": "bOcZzkQSUb3oUpS2",
+  "name": "Advanced Weapon",
+  "system": {
+    "requirement": "",
+    "category": "Item - Weapon",
+    "color": "#3d8b8a",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} or @Compendium[foundry-ironsworn.starforgedmoves.Item.723192c97fec4fe2]{Clash} against an unarmored or lightly armored foe using the advanced weapon, add +1.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Choose one of the following three abilities.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<ul><li>When you move to conceal the weapon or make a feint with it, you may preset your action die to 4.</li></ul>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "description": "<ul><li>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.78baa51694fe37c5]{Pay the Price} by marking the weapon as broken, it instead continues to function; mark it as marred. If you Pay the Price yet again this way, the weapon breaks; mark it as broken.</li></ul>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<ul><li>When you make a move using the weapon with speed or endurance, take +2 momentum on a hit.</li></ul>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Choose an additional ability from above.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Marred",
+      "current": 0,
+      "max": 0,
+      "value": 4,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "Functioning",
+        "selected": true
+      },
+      {
+        "name": "Marred",
+        "selected": false
+      },
+      {
+        "name": "Broken",
+        "selected": false
+      }
+    ],
+    "conditions": [],
+    "description": "<p>A weapon born from superior craftsmanship.</p>"
+  },
+  "img": "modules/ancient-wonders/assets/bolter-gun.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747034464925,
+    "modifiedTime": 1764468216799,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "pnzdXAJgoJkUzlXd",
+  "sort": 0,
+  "_key": "!items!pnzdXAJgoJkUzlXd"
+}

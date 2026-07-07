@@ -1,0 +1,150 @@
+{
+  "name": "Furnace World Settlements - Outlands",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        85
+      ],
+      "description": "None",
+      "_id": "yeDvNNlgWsoYUEE3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!kK4OBPR8JMCNsdAV.yeDvNNlgWsoYUEE3"
+    },
+    {
+      "range": [
+        86,
+        92
+      ],
+      "description": "Orbital",
+      "_id": "zEvLHciKZCZEBScT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!kK4OBPR8JMCNsdAV.zEvLHciKZCZEBScT"
+    },
+    {
+      "range": [
+        93,
+        97
+      ],
+      "description": "Grounded",
+      "_id": "Pv8vl7HZPjfgYmKL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!kK4OBPR8JMCNsdAV.Pv8vl7HZPjfgYmKL"
+    },
+    {
+      "range": [
+        98,
+        99
+      ],
+      "description": "Multiple",
+      "_id": "KY3MoBGMV9WnMeKI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!kK4OBPR8JMCNsdAV.KY3MoBGMV9WnMeKI"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "description": "Multiple in  conflict",
+      "_id": "HdY4pXNNgVfxLmRP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!kK4OBPR8JMCNsdAV.HdY4pXNNgVfxLmRP"
+    }
+  ],
+  "folder": "LHnjnCnHvX1B9ly6",
+  "sort": 8,
+  "_id": "kK4OBPR8JMCNsdAV",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.5",
+    "createdTime": 1763675258098,
+    "modifiedTime": 1763675258098,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!tables!kK4OBPR8JMCNsdAV"
+}

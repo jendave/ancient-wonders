@@ -1,0 +1,108 @@
+{
+  "name": "Cylindrical Habitats Mckendree Diurnal Cycle",
+  "formula": "1d100",
+  "description": "<p>Use this table to identify how the McKendree cylinder gets its light and creates a diurnal cycle.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        75
+      ],
+      "_id": "glzjLqcZi60vnh2T",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Structure-spanning windows",
+      "name": "",
+      "_key": "!tables.results!pu0ozrWJvncELtoD.glzjLqcZi60vnh2T"
+    },
+    {
+      "range": [
+        76,
+        95
+      ],
+      "_id": "XCt2VhhiTa44GJMm",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lights built upon the surface",
+      "name": "",
+      "_key": "!tables.results!pu0ozrWJvncELtoD.XCt2VhhiTa44GJMm"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "qqs06D3YeiD2TXEE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hovering lights in the central axis",
+      "name": "",
+      "_key": "!tables.results!pu0ozrWJvncELtoD.qqs06D3YeiD2TXEE"
+    }
+  ],
+  "folder": "SgCn0IXRNrcbvnvo",
+  "sort": 0,
+  "_id": "pu0ozrWJvncELtoD",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745812193146,
+    "modifiedTime": 1745812193146,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!pu0ozrWJvncELtoD"
+}

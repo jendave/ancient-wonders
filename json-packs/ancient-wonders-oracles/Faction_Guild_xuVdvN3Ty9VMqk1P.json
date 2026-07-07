@@ -1,0 +1,426 @@
+{
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Oracles/Factions/Guild",
+      "category": "Starforged/Oracles/Factions",
+      "dsid": "oracle_rollable:starforged/faction/guild"
+    }
+  },
+  "name": "Faction Guild",
+  "description": "",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "fa9980765de8f6f9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Assassins",
+      "name": "",
+      "_key": "!tables.results!xuVdvN3Ty9VMqk1P.fa9980765de8f6f9"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "687ebb7b798e1692",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bounty Hunters",
+      "name": "",
+      "_key": "!tables.results!xuVdvN3Ty9VMqk1P.687ebb7b798e1692"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "931ae831d8a8f7be",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Couriers",
+      "name": "",
+      "_key": "!tables.results!xuVdvN3Ty9VMqk1P.931ae831d8a8f7be"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "247e356932372035",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Courtesans",
+      "name": "",
+      "_key": "!tables.results!xuVdvN3Ty9VMqk1P.247e356932372035"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "4596f90664b626fc",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Engineers",
+      "name": "",
+      "_key": "!tables.results!xuVdvN3Ty9VMqk1P.4596f90664b626fc"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "7912a2ce92520a3b",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Healers",
+      "name": "",
+      "_key": "!tables.results!xuVdvN3Ty9VMqk1P.7912a2ce92520a3b"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "23c996df398c8a60",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Industrialists",
+      "name": "",
+      "_key": "!tables.results!xuVdvN3Ty9VMqk1P.23c996df398c8a60"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "48da12f42665cc4c",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mercenaries",
+      "name": "",
+      "_key": "!tables.results!xuVdvN3Ty9VMqk1P.48da12f42665cc4c"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "e3ff4991bbfd9754",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Merchants",
+      "name": "",
+      "_key": "!tables.results!xuVdvN3Ty9VMqk1P.e3ff4991bbfd9754"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "300b433916bc8343",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mystics",
+      "name": "",
+      "_key": "!tables.results!xuVdvN3Ty9VMqk1P.300b433916bc8343"
+    },
+    {
+      "range": [
+        66,
+        75
+      ],
+      "_id": "8e55fbc38557e6ce",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Navigators",
+      "name": "",
+      "_key": "!tables.results!xuVdvN3Ty9VMqk1P.8e55fbc38557e6ce"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "ed2d728a38657bd4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Peacekeepers",
+      "name": "",
+      "_key": "!tables.results!xuVdvN3Ty9VMqk1P.ed2d728a38657bd4"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "36a97c010605bc1b",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Researchers",
+      "name": "",
+      "_key": "!tables.results!xuVdvN3Ty9VMqk1P.36a97c010605bc1b"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "9f68f61ed38e2ea2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spies",
+      "name": "",
+      "_key": "!tables.results!xuVdvN3Ty9VMqk1P.9f68f61ed38e2ea2"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "ee2d1071b4df0bf5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice",
+      "name": "",
+      "_key": "!tables.results!xuVdvN3Ty9VMqk1P.ee2d1071b4df0bf5"
+    }
+  ],
+  "folder": "Vxxnc89YzwMyYvbP",
+  "img": "icons/dice/d10black.svg",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747123858597,
+    "modifiedTime": 1747328364894,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "xuVdvN3Ty9VMqk1P",
+  "sort": 700000,
+  "_key": "!tables!xuVdvN3Ty9VMqk1P"
+}

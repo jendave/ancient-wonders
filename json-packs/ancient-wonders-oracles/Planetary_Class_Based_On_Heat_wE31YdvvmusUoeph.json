@@ -1,0 +1,22 @@
+{
+  "name": "Planetary Class Based On Heat",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "wE31YdvvmusUoeph",
+  "description": "",
+  "folder": "xBUbGBopyTt29OA3",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743628362058,
+    "modifiedTime": 1744956527350,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!wE31YdvvmusUoeph"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Planetside Opportunity",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "iJ0EUUrAVRKjND7c",
+  "description": "",
+  "folder": "5rB5MQ2yt6jc86Mx",
+  "sort": 200000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743714714522,
+    "modifiedTime": 1744956583749,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!iJ0EUUrAVRKjND7c"
+}

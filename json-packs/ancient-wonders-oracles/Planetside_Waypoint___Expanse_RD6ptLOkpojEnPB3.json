@@ -1,0 +1,238 @@
+{
+  "name": "Planetside Waypoint - Expanse",
+  "formula": "1d95",
+  "results": [
+    {
+      "range": [
+        1,
+        60
+      ],
+      "_id": "IboOeJsCBM3UaHoQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Terrain feature (choose one) 1. Surface Feature; planetary class page 2. Region Landmark; SI, pg 151 3.Underwater Feature; pg 31",
+      "name": "",
+      "_key": "!tables.results!RD6ptLOkpojEnPB3.IboOeJsCBM3UaHoQ"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "zu8FNCHS6LjKV1WX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Instance &gt;Descriptor + Focus; pg 13",
+      "name": "",
+      "_key": "!tables.results!RD6ptLOkpojEnPB3.zu8FNCHS6LjKV1WX"
+    },
+    {
+      "range": [
+        71,
+        73
+      ],
+      "_id": "OjORr0RyoWtUHGRv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spacecraft &gt;Starship; RG, pg 58",
+      "name": "",
+      "_key": "!tables.results!RD6ptLOkpojEnPB3.OjORr0RyoWtUHGRv"
+    },
+    {
+      "range": [
+        74,
+        75
+      ],
+      "_id": "YIHokxglPEH7x53M",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetside community &gt;Settlement; RG, pg 54 or SI, pg 164",
+      "name": "",
+      "_key": "!tables.results!RD6ptLOkpojEnPB3.YIHokxglPEH7x53M"
+    },
+    {
+      "range": [
+        76,
+        77
+      ],
+      "_id": "btMKeoSO8kGa571w",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Human wreckage &gt;Derelict; RG, pg 80",
+      "name": "",
+      "_key": "!tables.results!RD6ptLOkpojEnPB3.btMKeoSO8kGa571w"
+    },
+    {
+      "range": [
+        78,
+        81
+      ],
+      "_id": "08xwXzdSSddPPrLI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ancient city &gt;Megacity; pg 168",
+      "name": "",
+      "_key": "!tables.results!RD6ptLOkpojEnPB3.08xwXzdSSddPPrLI"
+    },
+    {
+      "range": [
+        82,
+        85
+      ],
+      "_id": "qPXTOQRX0H7Qfqp5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Alien structure &gt;Precursor Vault; RG, pg 922",
+      "name": "",
+      "_key": "!tables.results!RD6ptLOkpojEnPB3.qPXTOQRX0H7Qfqp5"
+    },
+    {
+      "range": [
+        86,
+        95
+      ],
+      "_id": "kNLWsXRcorQ33Hn0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Character focus &gt;Interlude Scene; SI, pg 250",
+      "name": "",
+      "_key": "!tables.results!RD6ptLOkpojEnPB3.kNLWsXRcorQ33Hn0"
+    }
+  ],
+  "folder": "bS3dJ6VM5RDAIgcI",
+  "sort": 300000,
+  "_id": "RD6ptLOkpojEnPB3",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>When you reach a waypoint while exploring a planet, use the table below to provide an event, encounter, or moment of character focus.</p><p>If you get the \"Planetside community\" result but have previously determined there are no settlements in the world, reroll or envision how this contradiction adds an unexpected revelation.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.RD6ptLOkpojEnPB3",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743713772332,
+    "modifiedTime": 1743713772332,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!RD6ptLOkpojEnPB3"
+}

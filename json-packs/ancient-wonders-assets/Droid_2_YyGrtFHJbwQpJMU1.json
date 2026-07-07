@@ -1,0 +1,88 @@
+{
+  "type": "asset",
+  "folder": "VGDM9gKIusGTm2DW",
+  "name": "Droid 2",
+  "system": {
+    "requirement": "",
+    "category": "Special Companion",
+    "color": "#3d8b8a",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": false,
+        "description": "<p>The droid has the following stats:\nEdge: 1 / Heart: 1 / Iron: 3 / Shadow: 2 / Wits: 2. The droid does not eat, drink, or breathe. They @Compendium[foundry-ironsworn.starforgedmoves.Item.905205c073b09eac]{Endure Harm} as normal, but restore health only when they @Compendium[foundry-ironsworn.starforgedmoves.Item.eece9a67d1961f70]{Repair} (spend 1 repair point to take +1 health and 2 points to clear the wounded impact).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When the droid makes a move to build, repair, study, manipulate a device, or question or convince a mechanical being, you may roll +their spirit and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>The droid has mechanical fittings or modifications. Gain one path asset for them at no extra cost. Spend 1 experience or 2 wealth to upgrade this asset or swap it for another path asset with an equal number of upgrades. The droid may suffer the cost of a move by marking the installed asset as broken and spend 2 repair points to restore its function.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Spirit",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [
+      {
+        "name": "Shaken",
+        "ticked": false
+      }
+    ],
+    "description": ""
+  },
+  "img": "modules/ancient-wonders/assets/android-mask.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1746824676175,
+    "modifiedTime": 1764466781607,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.331",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.2"
+    }
+  },
+  "_id": "YyGrtFHJbwQpJMU1",
+  "sort": 0,
+  "_key": "!items!YyGrtFHJbwQpJMU1"
+}

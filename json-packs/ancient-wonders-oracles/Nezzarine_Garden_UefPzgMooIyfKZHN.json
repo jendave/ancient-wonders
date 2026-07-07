@@ -1,0 +1,22 @@
+{
+  "name": "Nezzarine Garden",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "UefPzgMooIyfKZHN",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 2000000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745954179505,
+    "modifiedTime": 1745954179713,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!UefPzgMooIyfKZHN"
+}

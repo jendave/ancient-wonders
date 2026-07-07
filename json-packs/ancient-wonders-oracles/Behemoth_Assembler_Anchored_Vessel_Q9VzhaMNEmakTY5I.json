@@ -1,0 +1,134 @@
+{
+  "name": "Behemoth Assembler Anchored Vessel",
+  "formula": "1d100",
+  "description": "<p>Use this table to determine the object the behemoth assembler encircles or orbits.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "bXCpdUBdxHFDmZp3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!Q9VzhaMNEmakTY5I.bXCpdUBdxHFDmZp3"
+    },
+    {
+      "range": [
+        21,
+        40
+      ],
+      "_id": "QUBUzlKS9BlvG1b9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Planet; pg 40",
+      "name": "",
+      "_key": "!tables.results!Q9VzhaMNEmakTY5I.QUBUzlKS9BlvG1b9"
+    },
+    {
+      "range": [
+        41,
+        65
+      ],
+      "_id": "pyfYkUoBxco08qp0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Planetcraft; pg 142",
+      "name": "",
+      "_key": "!tables.results!Q9VzhaMNEmakTY5I.pyfYkUoBxco08qp0"
+    },
+    {
+      "range": [
+        66,
+        100
+      ],
+      "_id": "DGRM8XUPqLJ63Vgi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Precursor vault (world-spanning site, vessel); pg 92",
+      "name": "",
+      "_key": "!tables.results!Q9VzhaMNEmakTY5I.DGRM8XUPqLJ63Vgi"
+    }
+  ],
+  "folder": "vwLllcMF8jEpu72a",
+  "sort": 1,
+  "_id": "Q9VzhaMNEmakTY5I",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746145410496,
+    "modifiedTime": 1746145410496,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!Q9VzhaMNEmakTY5I"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Terravore",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "iYmTLltqFQu7yPaA",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 3000000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746260069678,
+    "modifiedTime": 1746260069797,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!iYmTLltqFQu7yPaA"
+}

@@ -1,0 +1,186 @@
+{
+  "name": "Cursed Lurking Threat (Threat / When the clock advances / When the clock is filled)",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        40
+      ],
+      "_id": "l8n97l4Ajy1kiYJj",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Command keeper / Sounds of calls or activation; increased keeper presence / A dominant construct appears!",
+      "name": "",
+      "_key": "!tables.results!vtyKsdyXoo2DQlk6.l8n97l4Ajy1kiYJj"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "m3kLonvm4GxbA8fs",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrupted sectarians / Ill-omened ideograms; ritualistic objects or remains / The sectarians make their move!",
+      "name": "",
+      "_key": "!tables.results!vtyKsdyXoo2DQlk6.m3kLonvm4GxbA8fs"
+    },
+    {
+      "range": [
+        46,
+        65
+      ],
+      "_id": "5y9Q5vdqMHOnk3CP",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Devastating aberration  Minor side-effects; slight anomalous effects / A powerful aberration forms!",
+      "name": "",
+      "_key": "!tables.results!vtyKsdyXoo2DQlk6.5y9Q5vdqMHOnk3CP"
+    },
+    {
+      "range": [
+        66,
+        75
+      ],
+      "_id": "8BSCeJkqNSbDfoBi",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mighty creature / Territorial markings; signs or sounds of a beast / The creature strikes!",
+      "name": "",
+      "_key": "!tables.results!vtyKsdyXoo2DQlk6.8BSCeJkqNSbDfoBi"
+    },
+    {
+      "range": [
+        76,
+        85
+      ],
+      "_id": "DyS8x8y6j4p18FxN",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Organic infestation / Skitters and chitters; hideous nests / A vile flock of lifeforms strikes!",
+      "name": "",
+      "_key": "!tables.results!vtyKsdyXoo2DQlk6.DyS8x8y6j4p18FxN"
+    },
+    {
+      "range": [
+        86,
+        100
+      ],
+      "_id": "BmpbjgIg7jH2cUpf",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roaming entities / Spectral noises; glimpses of phantom forms / Entities attack!",
+      "name": "",
+      "_key": "!tables.results!vtyKsdyXoo2DQlk6.BmpbjgIg7jH2cUpf"
+    }
+  ],
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "XnItQfjzDdXkTpmK",
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745634794260,
+    "modifiedTime": 1745634794260,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "vtyKsdyXoo2DQlk6",
+  "sort": 0,
+  "_key": "!tables!vtyKsdyXoo2DQlk6"
+}

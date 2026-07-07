@@ -1,0 +1,86 @@
+{
+  "name": "Measure Profit",
+  "type": "sfmove",
+  "img": "icons/dice/d10black.svg",
+  "system": {
+    "dfid": "",
+    "Category": "",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "__When you take note of the fruits of your labor__, roll the challenge dice and compare to your progress.\n\nOn a __hit__, envision and record a ledger item with a wealth value per the hiatus duration and hit result.\n\n| Hiatus Duration | On a Strong Hit | On a Weak Hit |\n|---|---|---|\n| Half a season | 3 value | 2 value |\n| A full season | 5 value | 3 value |\n\nOn a __strong hit with a match__, record an additional ledger item with a value equivalent to a weak hit.\n\nOn a __miss__, the result of your labors do not translate into anything of value, and you become aware of some unanticipated complication or realization. @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+    "Trigger": {
+      "Text": "When you take note of the fruits of your labor",
+      "Options": [
+        {
+          "Text": "",
+          "Method": "Any",
+          "Roll type": "Progress roll",
+          "Using": [
+            "Progress Track"
+          ]
+        }
+      ]
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "On a __strong hit__, envision and record a ledger item with a wealth value per the hiatus duration and hit result.\n\n| Hiatus Duration | On a Strong Hit |\n|---|---|\n| Half a season | 3 value |\n| A full season | 5 value |",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "On a __strong hit with a match__, record an additional ledger item with a value equivalent to a weak hit.",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      },
+      "Weak Hit": {
+        "Text": "On a __weak hit__, envision and record a ledger item with a wealth value per the hiatus duration and hit result.\n\n| Hiatus Duration | On a Weak Hit |\n|---|---|\n| Half a season | 2 value |\n| A full season | 3 value |",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "",
+      "Authors": [],
+      "Page": null
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "effects": [],
+  "folder": "Fb5HWtUREfR0yFIZ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746591494543,
+    "modifiedTime": 1746591494543,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "zHc1GOqY7AeUpSS6",
+  "sort": 0,
+  "_key": "!items!zHc1GOqY7AeUpSS6"
+}

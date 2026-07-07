@@ -1,0 +1,22 @@
+{
+  "name": "Jovian World",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "1sEBX1FLDXiTtSoT",
+  "description": "",
+  "folder": "GvsmSMYbvgjEYSQc",
+  "sort": 1000000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": null,
+    "modifiedTime": 1745257769188,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!1sEBX1FLDXiTtSoT"
+}

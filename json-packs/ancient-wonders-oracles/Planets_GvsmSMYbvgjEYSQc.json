@@ -1,0 +1,22 @@
+{
+  "name": "Planets",
+  "sorting": "m",
+  "folder": "Oya0xgOo7UNRQ3hj",
+  "type": "RollTable",
+  "_id": "GvsmSMYbvgjEYSQc",
+  "description": "",
+  "sort": 400000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745010116958,
+    "modifiedTime": 1745010130211,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!GvsmSMYbvgjEYSQc"
+}

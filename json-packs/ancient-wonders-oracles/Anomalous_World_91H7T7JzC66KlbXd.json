@@ -1,0 +1,22 @@
+{
+  "name": "Anomalous World",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "91H7T7JzC66KlbXd",
+  "description": "",
+  "folder": "GvsmSMYbvgjEYSQc",
+  "sort": 400000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": null,
+    "modifiedTime": 1745107454226,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!91H7T7JzC66KlbXd"
+}

@@ -1,0 +1,348 @@
+{
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Oracles/Factions/Fringe_Group",
+      "category": "Starforged/Oracles/Factions",
+      "dsid": "oracle_rollable:starforged/faction/fringe_group"
+    }
+  },
+  "name": "Faction Fringe Group",
+  "description": "",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "78565179c5b8dbc4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cultists",
+      "name": "",
+      "_key": "!tables.results!l5K7B1gGYVnHyE8w.78565179c5b8dbc4"
+    },
+    {
+      "range": [
+        6,
+        15
+      ],
+      "_id": "ca38cd1e782e4ebf",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exiles",
+      "name": "",
+      "_key": "!tables.results!l5K7B1gGYVnHyE8w.ca38cd1e782e4ebf"
+    },
+    {
+      "range": [
+        16,
+        25
+      ],
+      "_id": "0111ac267e348350",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gangsters",
+      "name": "",
+      "_key": "!tables.results!l5K7B1gGYVnHyE8w.0111ac267e348350"
+    },
+    {
+      "range": [
+        26,
+        35
+      ],
+      "_id": "8a00e64834affcd7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hackers",
+      "name": "",
+      "_key": "!tables.results!l5K7B1gGYVnHyE8w.8a00e64834affcd7"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "7aa3ccc5fa3b070a",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Monster hunters",
+      "name": "",
+      "_key": "!tables.results!l5K7B1gGYVnHyE8w.7aa3ccc5fa3b070a"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "4863b2a25b478ae2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pirates",
+      "name": "",
+      "_key": "!tables.results!l5K7B1gGYVnHyE8w.4863b2a25b478ae2"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "f4261987708fbd90",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Raiders",
+      "name": "",
+      "_key": "!tables.results!l5K7B1gGYVnHyE8w.f4261987708fbd90"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "4419ad2d84cd4beb",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rebels",
+      "name": "",
+      "_key": "!tables.results!l5K7B1gGYVnHyE8w.4419ad2d84cd4beb"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "1412a9b0cc738233",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rogue AI",
+      "name": "",
+      "_key": "!tables.results!l5K7B1gGYVnHyE8w.1412a9b0cc738233"
+    },
+    {
+      "range": [
+        76,
+        85
+      ],
+      "_id": "8b889be7785f29c5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scavengers",
+      "name": "",
+      "_key": "!tables.results!l5K7B1gGYVnHyE8w.8b889be7785f29c5"
+    },
+    {
+      "range": [
+        86,
+        95
+      ],
+      "_id": "f70db29d9c9b2cf9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Smugglers",
+      "name": "",
+      "_key": "!tables.results!l5K7B1gGYVnHyE8w.f70db29d9c9b2cf9"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "273c1e8c0a1519f0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice",
+      "name": "",
+      "_key": "!tables.results!l5K7B1gGYVnHyE8w.273c1e8c0a1519f0"
+    }
+  ],
+  "folder": "Vxxnc89YzwMyYvbP",
+  "img": "icons/dice/d10black.svg",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747328535999,
+    "modifiedTime": 1747328543649,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "l5K7B1gGYVnHyE8w",
+  "sort": 0,
+  "_key": "!tables!l5K7B1gGYVnHyE8w"
+}

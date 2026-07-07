@@ -1,0 +1,238 @@
+{
+  "name": "Living World Underground Opportunity",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        15
+      ],
+      "_id": "vyl5YG27ki8xKYrX",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Advance warning of a danger",
+      "name": "",
+      "_key": "!tables.results!Zg2hlExl3BBu7jYV.vyl5YG27ki8xKYrX"
+    },
+    {
+      "range": [
+        16,
+        30
+      ],
+      "_id": "pyLx7khChgxKUdB1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clue points the way forward",
+      "name": "",
+      "_key": "!tables.results!Zg2hlExl3BBu7jYV.pyLx7khChgxKUdB1"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "yMr8kkdfTodWWaf8",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Friendly denizen or explorer",
+      "name": "",
+      "_key": "!tables.results!Zg2hlExl3BBu7jYV.yMr8kkdfTodWWaf8"
+    },
+    {
+      "range": [
+        41,
+        55
+      ],
+      "_id": "4fbzXHlSIJoxcGyd",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Helpful shortcut or detour",
+      "name": "",
+      "_key": "!tables.results!Zg2hlExl3BBu7jYV.4fbzXHlSIJoxcGyd"
+    },
+    {
+      "range": [
+        56,
+        65
+      ],
+      "_id": "zi2QcbtaZkVwUDlK",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Safe space to refuge",
+      "name": "",
+      "_key": "!tables.results!Zg2hlExl3BBu7jYV.zi2QcbtaZkVwUDlK"
+    },
+    {
+      "range": [
+        66,
+        75
+      ],
+      "_id": "yTrZRTRHitVsyHk7",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Useful resource or supply",
+      "name": "",
+      "_key": "!tables.results!Zg2hlExl3BBu7jYV.yTrZRTRHitVsyHk7"
+    },
+    {
+      "range": [
+        76,
+        90
+      ],
+      "_id": "brWcaeuEPYz5Mmi6",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rare resource",
+      "name": "",
+      "_key": "!tables.results!Zg2hlExl3BBu7jYV.brWcaeuEPYz5Mmi6"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "s2mV0YDXlH00NYEn",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Washed up or lost artificial object",
+      "name": "",
+      "_key": "!tables.results!Zg2hlExl3BBu7jYV.s2mV0YDXlH00NYEn"
+    }
+  ],
+  "folder": "7yP7GU5RkbnYXOd3",
+  "sort": 15,
+  "_id": "Zg2hlExl3BBu7jYV",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745289001127,
+    "modifiedTime": 1745289001127,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!Zg2hlExl3BBu7jYV"
+}

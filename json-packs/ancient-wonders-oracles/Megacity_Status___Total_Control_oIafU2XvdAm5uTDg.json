@@ -1,0 +1,134 @@
+{
+  "name": "Megacity Status - Total Control",
+  "formula": "1d100",
+  "description": "<p>Megacities are in a ruinous state. Use the table below to identify the current condition of a megacity within that framework. Keepers have maintained near total control of the megacities</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "0dGptYuGUWp4wJI4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Partially built / The megacity never reached a point of completion. The population that originated this megacity never inhabited it",
+      "name": "",
+      "_key": "!tables.results!oIafU2XvdAm5uTDg.0dGptYuGUWp4wJI4"
+    },
+    {
+      "range": [
+        11,
+        35
+      ],
+      "_id": "hnEYGYvUy94Hwdp2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Devastated / The megacity has either been destroyed or taken significant damage at some point, naturally or by other means",
+      "name": "",
+      "_key": "!tables.results!oIafU2XvdAm5uTDg.hnEYGYvUy94Hwdp2"
+    },
+    {
+      "range": [
+        36,
+        90
+      ],
+      "_id": "ERzyd8UpNH2SBy9l",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abandoned / The megacity's population left. The habitat may be functional, but its lack of adequate maintenance has taken its toll",
+      "name": "",
+      "_key": "!tables.results!oIafU2XvdAm5uTDg.ERzyd8UpNH2SBy9l"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "q0B46LX3iHpT7qWa",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Inhabited / The megacity, despite its state of disrepair, has become a settlement for humanity",
+      "name": "",
+      "_key": "!tables.results!oIafU2XvdAm5uTDg.q0B46LX3iHpT7qWa"
+    }
+  ],
+  "folder": "mrregFSVf6r5mYLu",
+  "sort": 7,
+  "_id": "oIafU2XvdAm5uTDg",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746313802515,
+    "modifiedTime": 1746313802515,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!oIafU2XvdAm5uTDg"
+}

@@ -1,0 +1,108 @@
+{
+  "name": "Three Free Interplanetary Orbits",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        33
+      ],
+      "_id": "TwnuKRpBBN17gJod",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1st",
+      "name": "",
+      "_key": "!tables.results!7Cf3Fn9jrnE6dI5A.TwnuKRpBBN17gJod"
+    },
+    {
+      "range": [
+        34,
+        66
+      ],
+      "_id": "rVU0W8HZ8ZMotFb4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "2nd",
+      "name": "",
+      "_key": "!tables.results!7Cf3Fn9jrnE6dI5A.rVU0W8HZ8ZMotFb4"
+    },
+    {
+      "range": [
+        67,
+        100
+      ],
+      "_id": "Z66kn81SWoksIM1X",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "3rd",
+      "name": "",
+      "_key": "!tables.results!7Cf3Fn9jrnE6dI5A.Z66kn81SWoksIM1X"
+    }
+  ],
+  "folder": "n1wD9gOCs9ChodDF",
+  "sort": 300000,
+  "_id": "7Cf3Fn9jrnE6dI5A",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>Use this oracle to determine the placement of an asteroid belt around its star. To use it...</p><ul><li>Calculate the number of orbits that are currently free - in which no asteroid belt or megastructure has been marked - and reference the corresponding column.</li><li>Mark the asteroid belt in the resulting free interplanetary orbit. These are numbered as per their proximity to the stellar object--the 1st being the closest one.</li><li>Shift one column to the right as the number of free interplanetary orbits changes and there are asteroid belts left to place.</li></ul>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.7Cf3Fn9jrnE6dI5A",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743224951254,
+    "modifiedTime": 1743224951254,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!7Cf3Fn9jrnE6dI5A"
+}

@@ -1,0 +1,290 @@
+{
+  "name": "Megacity Cipher",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "suv9AC22kYRIAJSn",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aesthetic creation or art piece",
+      "name": "",
+      "_key": "!tables.results!UCbjt42NqTMAyj6I.suv9AC22kYRIAJSn"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "dVOP6MoFr6AfkTXk",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chart or log",
+      "name": "",
+      "_key": "!tables.results!UCbjt42NqTMAyj6I.dVOP6MoFr6AfkTXk"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "co4XPN6T3rOZrs3h",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evidence of other venturers",
+      "name": "",
+      "_key": "!tables.results!UCbjt42NqTMAyj6I.co4XPN6T3rOZrs3h"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "0qqYXzgzGPkfbhVz",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hand-crafted message",
+      "name": "",
+      "_key": "!tables.results!UCbjt42NqTMAyj6I.0qqYXzgzGPkfbhVz"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "Rx52HivCVuufq4Td",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hidden zone or area",
+      "name": "",
+      "_key": "!tables.results!UCbjt42NqTMAyj6I.Rx52HivCVuufq4Td"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "tIgRRKRl6NUmdb66",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Machinery or contraption",
+      "name": "",
+      "_key": "!tables.results!UCbjt42NqTMAyj6I.tIgRRKRl6NUmdb66"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "usuSms7XUh9fCWFu",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Personal item",
+      "name": "",
+      "_key": "!tables.results!UCbjt42NqTMAyj6I.usuSms7XUh9fCWFu"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "pyZLaFJHJzjEhFx0",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Remains of the dead",
+      "name": "",
+      "_key": "!tables.results!UCbjt42NqTMAyj6I.pyZLaFJHJzjEhFx0"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "aFzd62Jpmzbv2NGF",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Signs projected on screen",
+      "name": "",
+      "_key": "!tables.results!UCbjt42NqTMAyj6I.aFzd62Jpmzbv2NGF"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "jCRd0u39nYw7gjfy",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unusual structure",
+      "name": "",
+      "_key": "!tables.results!UCbjt42NqTMAyj6I.jCRd0u39nYw7gjfy"
+    }
+  ],
+  "folder": "nR1iJqDkm8MluDvh",
+  "sort": 4,
+  "_id": "UCbjt42NqTMAyj6I",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746337614622,
+    "modifiedTime": 1746337614622,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!UCbjt42NqTMAyj6I"
+}

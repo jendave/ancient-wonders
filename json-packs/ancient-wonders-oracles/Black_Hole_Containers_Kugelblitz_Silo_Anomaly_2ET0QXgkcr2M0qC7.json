@@ -1,0 +1,160 @@
+{
+  "name": "Black Hole Containers Kugelblitz Silo Anomaly",
+  "formula": "1d100",
+  "description": "<p>For unknown reasons, storing energy in a kugelblitz silo for gradual use causes anomalous effects in the surrounding environment. Use the following table to determine which effect is manifested.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        20
+      ],
+      "_id": "sNlkEAXLCf2nQdDx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destructive gravitational waves",
+      "name": "",
+      "_key": "!tables.results!2ET0QXgkcr2M0qC7.sNlkEAXLCf2nQdDx"
+    },
+    {
+      "range": [
+        21,
+        50
+      ],
+      "_id": "rrBLaZNzTABA6Z0p",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Electromagnetic pulses",
+      "name": "",
+      "_key": "!tables.results!2ET0QXgkcr2M0qC7.rrBLaZNzTABA6Z0p"
+    },
+    {
+      "range": [
+        51,
+        70
+      ],
+      "_id": "8cEshcTpI5SGd35e",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roaming entities",
+      "name": "",
+      "_key": "!tables.results!2ET0QXgkcr2M0qC7.8cEshcTpI5SGd35e"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "hqM5XbjZ1fQ2e1lu",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Space-time distortions",
+      "name": "",
+      "_key": "!tables.results!2ET0QXgkcr2M0qC7.hqM5XbjZ1fQ2e1lu"
+    },
+    {
+      "range": [
+        81,
+        100
+      ],
+      "_id": "CgrTAg9ypWgk5nmN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unnatural deformations",
+      "name": "",
+      "_key": "!tables.results!2ET0QXgkcr2M0qC7.CgrTAg9ypWgk5nmN"
+    }
+  ],
+  "folder": "oKWDL3txuvU9cRSE",
+  "sort": 0,
+  "_id": "2ET0QXgkcr2M0qC7",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745721770620,
+    "modifiedTime": 1745721770620,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!2ET0QXgkcr2M0qC7"
+}

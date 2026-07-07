@@ -1,0 +1,160 @@
+{
+  "name": "Atmosphere Harvester Megastructure Status (Status / Effect)",
+  "formula": "1d100",
+  "description": "<p>A cloud-roaming structure that siphons  off a world's atmosphere.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        15
+      ],
+      "_id": "huNhZ8WJeQPZcVQl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Partially constructed / The megastructure's skeleton drifts amongst the worlds clouds, awaiting completion. The host planet is a Jovian world (page 58).",
+      "name": "",
+      "_key": "!tables.results!GVMc3WAEXHKxBH1h.huNhZ8WJeQPZcVQl"
+    },
+    {
+      "range": [
+        16,
+        50
+      ],
+      "_id": "FOqnBRC8poqXXOh9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Operational / A vast column of gases is easily visible in the Jovian world that hosts the megastructure (page 58). This column violently churns while being drawn into the atmosphere harvester.",
+      "name": "",
+      "_key": "!tables.results!GVMc3WAEXHKxBH1h.FOqnBRC8poqXXOh9"
+    },
+    {
+      "range": [
+        51,
+        85
+      ],
+      "_id": "03tnMhQDaHxhxaza",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Non-functional or offline / Ask the Oracle (50/50) if the atmosphere harvester has completely siphoned the world's atmosphere. *  If yes: The megastructure left only the world's solid core. When you generate the Jovian world that serves as a host to the megastructure, use the Surface Biome guideline (page 59). The world has no atmosphere, nor does it have any features that are related to atmospheric weather. * If no: The atmosphere harvester is eerily still as it hovers among the Jovian world's clouds.",
+      "name": "",
+      "_key": "!tables.results!GVMc3WAEXHKxBH1h.03tnMhQDaHxhxaza"
+    },
+    {
+      "range": [
+        86,
+        95
+      ],
+      "_id": "LILJhWX5I2Yvn0HV",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dysfunctional / The atmosphere harvester is siphoning the Jovian world's gases at such a terrific rate that it has generated an enormous superstorm with the megastructure at its heart. The world has the additional feature of having a perpetual superstorm.",
+      "name": "",
+      "_key": "!tables.results!GVMc3WAEXHKxBH1h.LILJhWX5I2Yvn0HV"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "myVF42CZBjHeRnpM",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destroyed / The remains of the atmosphere harvester float silently, hidden amidst the world's clouds. The planet is a Jovian world (page 58).",
+      "name": "",
+      "_key": "!tables.results!GVMc3WAEXHKxBH1h.myVF42CZBjHeRnpM"
+    }
+  ],
+  "_id": "GVMc3WAEXHKxBH1h",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "4oHb80aaQ1SJSJ8f",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.GVMc3WAEXHKxBH1h",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745701790309,
+    "modifiedTime": 1745701889872,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!GVMc3WAEXHKxBH1h"
+}

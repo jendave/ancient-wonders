@@ -1,0 +1,550 @@
+{
+  "name": "Jungle World Names",
+  "formula": "1d100",
+  "description": "<p>A humid, rain-soaked planet that keeps its secrets under a thick canopy of vegetation.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "wGrvi9kZ0PGBS1yQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Acacia",
+      "name": "",
+      "_key": "!tables.results!odK69OS7HkWXzvOv.wGrvi9kZ0PGBS1yQ"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "YPpG3ZFCS82QgRwk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aster",
+      "name": "",
+      "_key": "!tables.results!odK69OS7HkWXzvOv.YPpG3ZFCS82QgRwk"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "2gbGiDssw22v1X0w",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Beryl",
+      "name": "",
+      "_key": "!tables.results!odK69OS7HkWXzvOv.2gbGiDssw22v1X0w"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "aS7DenweJpHPgswH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Celadon",
+      "name": "",
+      "_key": "!tables.results!odK69OS7HkWXzvOv.aS7DenweJpHPgswH"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "mirQbskL5ox7rSEI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ceres",
+      "name": "",
+      "_key": "!tables.results!odK69OS7HkWXzvOv.mirQbskL5ox7rSEI"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "To7ifZTO4P7EVjYi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Damu",
+      "name": "",
+      "_key": "!tables.results!odK69OS7HkWXzvOv.To7ifZTO4P7EVjYi"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "wQiEYaf27WmjCwDv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dryad",
+      "name": "",
+      "_key": "!tables.results!odK69OS7HkWXzvOv.wQiEYaf27WmjCwDv"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "prxit8YPeHN4Tt5Q",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flora",
+      "name": "",
+      "_key": "!tables.results!odK69OS7HkWXzvOv.prxit8YPeHN4Tt5Q"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "gt0tMCHd8wST1tCU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Iridum",
+      "name": "",
+      "_key": "!tables.results!odK69OS7HkWXzvOv.gt0tMCHd8wST1tCU"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "u03UgwuxW9WhRRuM",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Iris",
+      "name": "",
+      "_key": "!tables.results!odK69OS7HkWXzvOv.u03UgwuxW9WhRRuM"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "g37C2v0atrqKvYZg",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Kishar",
+      "name": "",
+      "_key": "!tables.results!odK69OS7HkWXzvOv.g37C2v0atrqKvYZg"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "hzRSGxfIQtXSK0lY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Penumbra",
+      "name": "",
+      "_key": "!tables.results!odK69OS7HkWXzvOv.hzRSGxfIQtXSK0lY"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "F17nEDI52EwnLW5i",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roris",
+      "name": "",
+      "_key": "!tables.results!odK69OS7HkWXzvOv.F17nEDI52EwnLW5i"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "t4lrnHhrV2SDqR0b",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sylva",
+      "name": "",
+      "_key": "!tables.results!odK69OS7HkWXzvOv.t4lrnHhrV2SDqR0b"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "uXRyU1Yqqfv1X1vO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tangle",
+      "name": "",
+      "_key": "!tables.results!odK69OS7HkWXzvOv.uXRyU1Yqqfv1X1vO"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "Nfpd8qKuf0j0aj9E",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thorn",
+      "name": "",
+      "_key": "!tables.results!odK69OS7HkWXzvOv.Nfpd8qKuf0j0aj9E"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "YAQhx6qIUgSFfF9W",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Venom",
+      "name": "",
+      "_key": "!tables.results!odK69OS7HkWXzvOv.YAQhx6qIUgSFfF9W"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "KuDnqcTKa3OsQAje",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Verdure",
+      "name": "",
+      "_key": "!tables.results!odK69OS7HkWXzvOv.KuDnqcTKa3OsQAje"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "qK9drjRTykzxWUKt",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Veris",
+      "name": "",
+      "_key": "!tables.results!odK69OS7HkWXzvOv.qK9drjRTykzxWUKt"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "A7GVC3CSy2jYGsiK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Viridian",
+      "name": "",
+      "_key": "!tables.results!odK69OS7HkWXzvOv.A7GVC3CSy2jYGsiK"
+    }
+  ],
+  "folder": "LPHNPP6s8p8hGyxR",
+  "sort": 0,
+  "_id": "odK69OS7HkWXzvOv",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745260316584,
+    "modifiedTime": 1745260316584,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!odK69OS7HkWXzvOv"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Ringworlds",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "5zOTbGAmH3PM293F",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 2400000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745989742528,
+    "modifiedTime": 1745989743445,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!5zOTbGAmH3PM293F"
+}

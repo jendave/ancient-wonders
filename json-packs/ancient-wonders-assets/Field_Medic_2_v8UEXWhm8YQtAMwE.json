@@ -1,0 +1,88 @@
+{
+  "type": "asset",
+  "folder": "VGDM9gKIusGTm2DW",
+  "name": "Field Medic 2",
+  "system": {
+    "requirement": "",
+    "category": "Special Companion",
+    "color": "#3d8b8a",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": false,
+        "description": "<p>When the field medic @Compendium[foundry-ironsworn.starforgedmoves.Item.2051538f0c9d5d27]{Heal} themselves or another character, add +1. If they are...\n<ul>\n<li>Treating someone other than themselves: Either takes +1 spirit.</li>\n<li>In a fight: Reroll one challenge die.</li>\n</ul>\n</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.05909d6310d209a6]{Make a Connection}, you reroll one challenge die. If they roll a match, the field medic and the connection have a history.\n<ul>\n<li>On a strong hit with a match, the field medic once assisted them and is owed a favor. Mark 1 tick on your bonds legacy track, and @Compendium[foundry-ironsworn.starforgedmoves.Item.141aec8b92efd14b]{Develop Your Relationship} now.</li>\n<li>On a miss with a match, they fought against each other, and hold a grudge.</li>\n</ul>\n</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When the field medic @Compendium[foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} or @Compendium[foundry-ironsworn.starforgedmoves.Item.3f5a834fa3fea5d1]{Gain Ground} by recurring to a lesson from their field experiences, add +1. If the experience is about providing care, add +2 instead. On a hit, take +2 momentum.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Spirit",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [
+      {
+        "name": "Shaken",
+        "ticked": false
+      }
+    ],
+    "description": ""
+  },
+  "img": "modules/ancient-wonders/assets/medical-pack.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.5",
+    "createdTime": 1746825954376,
+    "modifiedTime": 1764468086712,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.331",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.2"
+    }
+  },
+  "_id": "v8UEXWhm8YQtAMwE",
+  "sort": 0,
+  "_key": "!items!v8UEXWhm8YQtAMwE"
+}

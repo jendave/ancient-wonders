@@ -1,0 +1,79 @@
+{
+  "type": "asset",
+  "folder": "bOcZzkQSUb3oUpS2",
+  "name": "Implosion Grenades",
+  "system": {
+    "requirement": "",
+    "category": "Item - Weapon",
+    "color": "#3d8b8a",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you make a move using an implosion grenade against a light target or group of foes, add +1 and take +2 momentum on a hit. Then, suffer -1 ordnance.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you make a combat move using an implosion grenade, suffer -1 ordnance and choose one (decide after rolling).</p>\n   <ul>\n   <li>Increased radius: Reroll one challenge die)</li>\n   <li>Increased pull: Take +3 momentum)</li>\n   </ul>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Take both outcomes above.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "description": "<p>Two implosion grenades may be fused together and thrown to create a short-lived, miniature black hole. If you @Compendium[foundry-ironsworn.starforgedmoves.Item.3129f4caa4754caf]{Take Decisive Action} by doing so, suffer -2 ordnances, take an automatic weak hit, roll twice on the move's table, and choose one result.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Ordnance",
+      "current": 0,
+      "max": 4,
+      "value": 4,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "<p>Ordnances that use gravitational forces.</p>"
+  },
+  "img": "modules/ancient-wonders/assets/implosion.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747107664604,
+    "modifiedTime": 1764468467679,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "G6cJdMhRy1YJRb5J",
+  "sort": 0,
+  "_key": "!items!G6cJdMhRy1YJRb5J"
+}

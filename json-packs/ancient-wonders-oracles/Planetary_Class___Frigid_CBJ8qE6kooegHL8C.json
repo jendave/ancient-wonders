@@ -1,0 +1,212 @@
+{
+  "name": "Planetary Class - Frigid",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "4Dc46nweCAqhh3qK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ocean World",
+      "name": "",
+      "_key": "!tables.results!CBJ8qE6kooegHL8C.4Dc46nweCAqhh3qK"
+    },
+    {
+      "range": [
+        11,
+        57
+      ],
+      "_id": "OL3ViwDwAg8xWJgN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ice World",
+      "name": "",
+      "_key": "!tables.results!CBJ8qE6kooegHL8C.OL3ViwDwAg8xWJgN"
+    },
+    {
+      "range": [
+        58,
+        72
+      ],
+      "_id": "49GlURMo7FGtdWTD",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jovian World",
+      "name": "",
+      "_key": "!tables.results!CBJ8qE6kooegHL8C.49GlURMo7FGtdWTD"
+    },
+    {
+      "range": [
+        73,
+        84
+      ],
+      "_id": "vliUAYcA04JUZcIz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rocky World",
+      "name": "",
+      "_key": "!tables.results!CBJ8qE6kooegHL8C.vliUAYcA04JUZcIz"
+    },
+    {
+      "range": [
+        85,
+        94
+      ],
+      "_id": "8ES3DO4DJVxJwU2o",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tainted World",
+      "name": "",
+      "_key": "!tables.results!CBJ8qE6kooegHL8C.8ES3DO4DJVxJwU2o"
+    },
+    {
+      "range": [
+        95,
+        97
+      ],
+      "_id": "q6f2SaDFL64yTvgN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Grave World",
+      "name": "",
+      "_key": "!tables.results!CBJ8qE6kooegHL8C.q6f2SaDFL64yTvgN"
+    },
+    {
+      "range": [
+        98,
+        100
+      ],
+      "_id": "fW6bDfs1KNTfvzYj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shattered World",
+      "name": "",
+      "_key": "!tables.results!CBJ8qE6kooegHL8C.fW6bDfs1KNTfvzYj"
+    }
+  ],
+  "folder": "wE31YdvvmusUoeph",
+  "sort": 600000,
+  "_id": "CBJ8qE6kooegHL8C",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>Use this oracle to determine the type of a world based on the heat level of its orbit if you are only using the planets from Starforged.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.CBJ8qE6kooegHL8C",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743628362115,
+    "modifiedTime": 1743628942943,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!CBJ8qE6kooegHL8C"
+}

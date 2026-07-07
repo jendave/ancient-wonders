@@ -1,0 +1,82 @@
+{
+  "name": "Terraformer Hub Megastructure Status - Non-functional",
+  "formula": "1d100",
+  "description": "<p>The megastructure affects its host world in one of the following ways</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        75
+      ],
+      "_id": "zNockKy7e39Kgrfe",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "As operational, but roll &gt;Altered Planetary Class twice (next page). The second result is the world's original class.",
+      "name": "",
+      "_key": "!tables.results!Bd1ENUIsRNygrtIK.zNockKy7e39Kgrfe"
+    },
+    {
+      "range": [
+        76,
+        100
+      ],
+      "_id": "BNj0yWw5013u2eQA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "As if the terraformer hub were partially constructed.",
+      "name": "",
+      "_key": "!tables.results!Bd1ENUIsRNygrtIK.BNj0yWw5013u2eQA"
+    }
+  ],
+  "folder": "5T2S2EBEUpTFLz7a",
+  "sort": 1,
+  "_id": "Bd1ENUIsRNygrtIK",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746259394612,
+    "modifiedTime": 1746259394612,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!Bd1ENUIsRNygrtIK"
+}

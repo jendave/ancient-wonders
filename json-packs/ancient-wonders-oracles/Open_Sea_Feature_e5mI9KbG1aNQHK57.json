@@ -1,0 +1,342 @@
+{
+  "name": "Open Sea Feature",
+  "formula": "1d100",
+  "description": "<p>Use the following tables to inspire the details of a waypoint during underwater expeditions.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        6
+      ],
+      "_id": "nzIxZWBdDOL7hfbW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bioluminescent flora or fauna",
+      "name": "",
+      "_key": "!tables.results!e5mI9KbG1aNQHK57.nzIxZWBdDOL7hfbW"
+    },
+    {
+      "range": [
+        7,
+        12
+      ],
+      "_id": "HIL96DP8INYvCUo2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cluster of drifting flora",
+      "name": "",
+      "_key": "!tables.results!e5mI9KbG1aNQHK57.HIL96DP8INYvCUo2"
+    },
+    {
+      "range": [
+        13,
+        18
+      ],
+      "_id": "NP76BozgAFaAOqDi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Drifting clouds of gas or brine",
+      "name": "",
+      "_key": "!tables.results!e5mI9KbG1aNQHK57.NP76BozgAFaAOqDi"
+    },
+    {
+      "range": [
+        19,
+        24
+      ],
+      "_id": "pFzLggU1syfyNDSQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gargantuan flora emerging from below",
+      "name": "",
+      "_key": "!tables.results!e5mI9KbG1aNQHK57.pFzLggU1syfyNDSQ"
+    },
+    {
+      "range": [
+        25,
+        30
+      ],
+      "_id": "PQ8EC51xziX0bB0i",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rain of sinking detritus",
+      "name": "",
+      "_key": "!tables.results!e5mI9KbG1aNQHK57.PQ8EC51xziX0bB0i"
+    },
+    {
+      "range": [
+        31,
+        36
+      ],
+      "_id": "jglEf7iR7sVopmvW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Region of luminescent water",
+      "name": "",
+      "_key": "!tables.results!e5mI9KbG1aNQHK57.jglEf7iR7sVopmvW"
+    },
+    {
+      "range": [
+        37,
+        42
+      ],
+      "_id": "4imltVtXrYbYiWrI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rising bubbles of air or gas",
+      "name": "",
+      "_key": "!tables.results!e5mI9KbG1aNQHK57.4imltVtXrYbYiWrI"
+    },
+    {
+      "range": [
+        43,
+        48
+      ],
+      "_id": "B3UwKejtUZsrRVY0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shafts of light",
+      "name": "",
+      "_key": "!tables.results!e5mI9KbG1aNQHK57.B3UwKejtUZsrRVY0"
+    },
+    {
+      "range": [
+        49,
+        82
+      ],
+      "_id": "wAi9E0wXzWnXLBce",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Still, empty waters",
+      "name": "",
+      "_key": "!tables.results!e5mI9KbG1aNQHK57.wAi9E0wXzWnXLBce"
+    },
+    {
+      "range": [
+        83,
+        88
+      ],
+      "_id": "aSYpcPZi59e6T6Wj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Submerged, floating terrain",
+      "name": "",
+      "_key": "!tables.results!e5mI9KbG1aNQHK57.aSYpcPZi59e6T6Wj"
+    },
+    {
+      "range": [
+        89,
+        94
+      ],
+      "_id": "wxWEL1gwxzicoHoU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Towering geological formations",
+      "name": "",
+      "_key": "!tables.results!e5mI9KbG1aNQHK57.wxWEL1gwxzicoHoU"
+    },
+    {
+      "range": [
+        95,
+        100
+      ],
+      "_id": "63mNSizgpU96Mk80",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Visible currents",
+      "name": "",
+      "_key": "!tables.results!e5mI9KbG1aNQHK57.63mNSizgpU96Mk80"
+    }
+  ],
+  "folder": "gqk7xGweM3UMtnW2",
+  "sort": 0,
+  "_id": "e5mI9KbG1aNQHK57",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1744997272600,
+    "modifiedTime": 1744997272600,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!e5mI9KbG1aNQHK57"
+}

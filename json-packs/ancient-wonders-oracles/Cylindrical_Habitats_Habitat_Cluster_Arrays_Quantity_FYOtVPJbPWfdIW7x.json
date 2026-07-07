@@ -1,0 +1,186 @@
+{
+  "name": "Cylindrical Habitats Habitat Cluster Arrays Quantity",
+  "formula": "1d100",
+  "description": "<p>Use this table to determine the amount of smaller arrays that compose a cluster. Individual arrays may also be grouped with additional cylinders to create more complex shapes.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "bkt71DKjZklbzYiE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "One",
+      "name": "",
+      "_key": "!tables.results!FYOtVPJbPWfdIW7x.bkt71DKjZklbzYiE"
+    },
+    {
+      "range": [
+        11,
+        25
+      ],
+      "_id": "TToSyrp9NXzRGol8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Two",
+      "name": "",
+      "_key": "!tables.results!FYOtVPJbPWfdIW7x.TToSyrp9NXzRGol8"
+    },
+    {
+      "range": [
+        26,
+        55
+      ],
+      "_id": "gAPZBUc0ydmhFDEo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Three",
+      "name": "",
+      "_key": "!tables.results!FYOtVPJbPWfdIW7x.gAPZBUc0ydmhFDEo"
+    },
+    {
+      "range": [
+        56,
+        80
+      ],
+      "_id": "O6uGzFhSKrMyh0th",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Four",
+      "name": "",
+      "_key": "!tables.results!FYOtVPJbPWfdIW7x.O6uGzFhSKrMyh0th"
+    },
+    {
+      "range": [
+        81,
+        95
+      ],
+      "_id": "0pTgzVhSIztY6fY9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Five",
+      "name": "",
+      "_key": "!tables.results!FYOtVPJbPWfdIW7x.0pTgzVhSIztY6fY9"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "dorJl6XmOLtHZ5GI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Six",
+      "name": "",
+      "_key": "!tables.results!FYOtVPJbPWfdIW7x.dorJl6XmOLtHZ5GI"
+    }
+  ],
+  "folder": "SgCn0IXRNrcbvnvo",
+  "sort": 2,
+  "_id": "FYOtVPJbPWfdIW7x",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745812193146,
+    "modifiedTime": 1745812193146,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!FYOtVPJbPWfdIW7x"
+}

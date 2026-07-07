@@ -1,0 +1,1330 @@
+{
+  "name": "Revealed Construct Aspect",
+  "formula": "1d100",
+  "description": "<p>Roll on this table as you interact with the construct to introduce new features or behaviors.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "YrZHNnQPUuR3AGyI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Accessible interface",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.YrZHNnQPUuR3AGyI"
+    },
+    {
+      "range": [
+        3,
+        4
+      ],
+      "_id": "kv0deXvw9RdtUcAj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Alternative environment",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.kv0deXvw9RdtUcAj"
+    },
+    {
+      "range": [
+        5,
+        6
+      ],
+      "_id": "FCELYYBzz88Z6VxK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Alternative movement",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.FCELYYBzz88Z6VxK"
+    },
+    {
+      "range": [
+        7,
+        8
+      ],
+      "_id": "RO0NQK098oH7qLLk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Alternative purpose",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.RO0NQK098oH7qLLk"
+    },
+    {
+      "range": [
+        9,
+        10
+      ],
+      "_id": "PSu2uElAOwHTlswz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Alternative senses",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.PSu2uElAOwHTlswz"
+    },
+    {
+      "range": [
+        11,
+        12
+      ],
+      "_id": "cxmdpwzeE32Ipasx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Audible communications",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.cxmdpwzeE32Ipasx"
+    },
+    {
+      "range": [
+        13,
+        14
+      ],
+      "_id": "9UWRhRul4FPR62UF",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chameleon",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.9UWRhRul4FPR62UF"
+    },
+    {
+      "range": [
+        15,
+        16
+      ],
+      "_id": "9wsE8mQVm5XZ2kvg",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Charges attacks",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.9wsE8mQVm5XZ2kvg"
+    },
+    {
+      "range": [
+        17,
+        18
+      ],
+      "_id": "P3oLnp6Kku9IGNeh",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Computes before acting",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.P3oLnp6Kku9IGNeh"
+    },
+    {
+      "range": [
+        19,
+        20
+      ],
+      "_id": "ScGo3Kna8mrY0joh",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Contains creature or construct",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.ScGo3Kna8mrY0joh"
+    },
+    {
+      "range": [
+        21,
+        22
+      ],
+      "_id": "tKRSQi3Z9ISBYcRC",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Controls other constructs",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.tKRSQi3Z9ISBYcRC"
+    },
+    {
+      "range": [
+        23,
+        24
+      ],
+      "_id": "HeMeDl9iehQNZ9Hx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crusher or constrictor",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.HeMeDl9iehQNZ9Hx"
+    },
+    {
+      "range": [
+        25,
+        26
+      ],
+      "_id": "sTusU6lVAw4Fb9OB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Depleting power source",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.sTusU6lVAw4Fb9OB"
+    },
+    {
+      "range": [
+        27,
+        28
+      ],
+      "_id": "6JHbXaSTXxFPCFsc",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Detachable limbs",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.6JHbXaSTXxFPCFsc"
+    },
+    {
+      "range": [
+        29,
+        30
+      ],
+      "_id": "QNSA81uhUEMSJcQ8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Electrical discharges",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.QNSA81uhUEMSJcQ8"
+    },
+    {
+      "range": [
+        31,
+        32
+      ],
+      "_id": "hYQdatKj3vUXVxEi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Electromagnetic pulse",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.hYQdatKj3vUXVxEi"
+    },
+    {
+      "range": [
+        33,
+        34
+      ],
+      "_id": "0aHvJlK7uT7oZFL5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Emits smoke or steam",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.0aHvJlK7uT7oZFL5"
+    },
+    {
+      "range": [
+        35,
+        36
+      ],
+      "_id": "Fpd2lXrJNBuMQtJk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Energy manipulation",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.Fpd2lXrJNBuMQtJk"
+    },
+    {
+      "range": [
+        37,
+        38
+      ],
+      "_id": "OAYFgFEvtfrZaZQC",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enhanced senses",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.OAYFgFEvtfrZaZQC"
+    },
+    {
+      "range": [
+        39,
+        40
+      ],
+      "_id": "xbJXYFY9sM4iUVgy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exotic armament",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.xbJXYFY9sM4iUVgy"
+    },
+    {
+      "range": [
+        41,
+        42
+      ],
+      "_id": "eBTCoPGtragIAWvg",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expels noxious or toxic waste",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.eBTCoPGtragIAWvg"
+    },
+    {
+      "range": [
+        43,
+        44
+      ],
+      "_id": "voXEcD02YnQVJOxB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hacked",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.voXEcD02YnQVJOxB"
+    },
+    {
+      "range": [
+        45,
+        46
+      ],
+      "_id": "36TfxxmkiEkKmtMS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hidden weaponry",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.36TfxxmkiEkKmtMS"
+    },
+    {
+      "range": [
+        47,
+        48
+      ],
+      "_id": "WdzOT3YXw5Tnay55",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Inefficient",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.WdzOT3YXw5Tnay55"
+    },
+    {
+      "range": [
+        49,
+        50
+      ],
+      "_id": "DeBv7psX22sjqDJ4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Limited senses",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.DeBv7psX22sjqDJ4"
+    },
+    {
+      "range": [
+        51,
+        52
+      ],
+      "_id": "wrueiUyCItsoa2ql",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Made from exotic metals",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.wrueiUyCItsoa2ql"
+    },
+    {
+      "range": [
+        53,
+        54
+      ],
+      "_id": "1n4s6topipRzwV1F",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Made from ferrous metals",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.1n4s6topipRzwV1F"
+    },
+    {
+      "range": [
+        55,
+        56
+      ],
+      "_id": "IlW1yLoE5WLqFytd",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Made from precious metals",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.IlW1yLoE5WLqFytd"
+    },
+    {
+      "range": [
+        57,
+        58
+      ],
+      "_id": "XufUcSErLqKrqanK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Made of multiple constructs",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.XufUcSErLqKrqanK"
+    },
+    {
+      "range": [
+        59,
+        60
+      ],
+      "_id": "yZQwKhCw6DjuXPhH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Magnetic",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.yZQwKhCw6DjuXPhH"
+    },
+    {
+      "range": [
+        61,
+        62
+      ],
+      "_id": "nPTEuLTse5wg0580",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Malfunctioning",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.nPTEuLTse5wg0580"
+    },
+    {
+      "range": [
+        63,
+        64
+      ],
+      "_id": "3Go9HMkLuRlK5Gp2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Movement belies its size",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.3Go9HMkLuRlK5Gp2"
+    },
+    {
+      "range": [
+        65,
+        66
+      ],
+      "_id": "AFTAlKL1vIQKDo6T",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Omni-purpose",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.AFTAlKL1vIQKDo6T"
+    },
+    {
+      "range": [
+        67,
+        68
+      ],
+      "_id": "Tn8ZX49Vb4LAEr3R",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Optimized for a singular task",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.Tn8ZX49Vb4LAEr3R"
+    },
+    {
+      "range": [
+        69,
+        70
+      ],
+      "_id": "Iut6VHgc9lBEfmCx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Radiates intense heat",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.Iut6VHgc9lBEfmCx"
+    },
+    {
+      "range": [
+        71,
+        72
+      ],
+      "_id": "Gk3DJt2L1y4eC87H",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Radioactive",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.Gk3DJt2L1y4eC87H"
+    },
+    {
+      "range": [
+        73,
+        74
+      ],
+      "_id": "NPe5lXmnI15QLbrz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reckless",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.NPe5lXmnI15QLbrz"
+    },
+    {
+      "range": [
+        75,
+        76
+      ],
+      "_id": "qumdGdpIYhqj92TL",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Redundant core components",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.qumdGdpIYhqj92TL"
+    },
+    {
+      "range": [
+        77,
+        78
+      ],
+      "_id": "gEjTEPrHjTdqPqWT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reinforced interior",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.gEjTEPrHjTdqPqWT"
+    },
+    {
+      "range": [
+        79,
+        80
+      ],
+      "_id": "8xdEH8XQvSywg5L1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Replicates",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.8xdEH8XQvSywg5L1"
+    },
+    {
+      "range": [
+        81,
+        82
+      ],
+      "_id": "OUmggS5rwJ3zrUGB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Self-destructs",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.OUmggS5rwJ3zrUGB"
+    },
+    {
+      "range": [
+        83,
+        84
+      ],
+      "_id": "sTekpntHLzZDXrmb",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Self-preserving",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.sTekpntHLzZDXrmb"
+    },
+    {
+      "range": [
+        85,
+        86
+      ],
+      "_id": "c6zS0wUCZKSqQZfX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Self-repairing or regenerative",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.c6zS0wUCZKSqQZfX"
+    },
+    {
+      "range": [
+        87,
+        88
+      ],
+      "_id": "KIcRF24OoqAXhHMi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sets traps",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.KIcRF24OoqAXhHMi"
+    },
+    {
+      "range": [
+        89,
+        90
+      ],
+      "_id": "OAjaWMKSMTGxLlCz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Significant vulnerability",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.OAjaWMKSMTGxLlCz"
+    },
+    {
+      "range": [
+        91,
+        92
+      ],
+      "_id": "SNA0DXBqGkNhyag0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sonic blasts",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.SNA0DXBqGkNhyag0"
+    },
+    {
+      "range": [
+        93,
+        94
+      ],
+      "_id": "OC8rffp2wEFOVm9g",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transforms",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.OC8rffp2wEFOVm9g"
+    },
+    {
+      "range": [
+        95,
+        96
+      ],
+      "_id": "ahdVw0Ac3e0eZYHV",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Uses minerals as fuel",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.ahdVw0Ac3e0eZYHV"
+    },
+    {
+      "range": [
+        97,
+        98
+      ],
+      "_id": "2a3Jv3epkPqNS3IU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Uses ordnance",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.2a3Jv3epkPqNS3IU"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "OjL7sOSBjuTq6uzB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Uses organic matter as fuel",
+      "name": "",
+      "_key": "!tables.results!5RXjgXVj0SIX4jRO.OjL7sOSBjuTq6uzB"
+    }
+  ],
+  "folder": "J715TeOdqxPDq33D",
+  "sort": 2400000,
+  "_id": "5RXjgXVj0SIX4jRO",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.5RXjgXVj0SIX4jRO",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746413854523,
+    "modifiedTime": 1746413854523,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!5RXjgXVj0SIX4jRO"
+}

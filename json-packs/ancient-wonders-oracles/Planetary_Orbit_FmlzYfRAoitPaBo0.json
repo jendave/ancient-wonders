@@ -1,0 +1,186 @@
+{
+  "name": "Planetary Orbit",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        16
+      ],
+      "_id": "xoVASQ6FCOodBmCI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1st",
+      "name": "",
+      "_key": "!tables.results!FmlzYfRAoitPaBo0.xoVASQ6FCOodBmCI"
+    },
+    {
+      "range": [
+        17,
+        32
+      ],
+      "_id": "F3fSfyuoiaz4sa0m",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "2nd",
+      "name": "",
+      "_key": "!tables.results!FmlzYfRAoitPaBo0.F3fSfyuoiaz4sa0m"
+    },
+    {
+      "range": [
+        33,
+        49
+      ],
+      "_id": "pdPyW0dIKkn8Xtn8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "3rd",
+      "name": "",
+      "_key": "!tables.results!FmlzYfRAoitPaBo0.pdPyW0dIKkn8Xtn8"
+    },
+    {
+      "range": [
+        50,
+        66
+      ],
+      "_id": "22x7uuHrzsqVOKHo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "4th",
+      "name": "",
+      "_key": "!tables.results!FmlzYfRAoitPaBo0.22x7uuHrzsqVOKHo"
+    },
+    {
+      "range": [
+        67,
+        83
+      ],
+      "_id": "FZsQzQItfX9GIrHo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "5th",
+      "name": "",
+      "_key": "!tables.results!FmlzYfRAoitPaBo0.FZsQzQItfX9GIrHo"
+    },
+    {
+      "range": [
+        84,
+        100
+      ],
+      "_id": "Q983bpEo3qT8Yk3Z",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "6th",
+      "name": "",
+      "_key": "!tables.results!FmlzYfRAoitPaBo0.Q983bpEo3qT8Yk3Z"
+    }
+  ],
+  "folder": "EvMRxNDsQMydVM5q",
+  "sort": 100000,
+  "_id": "FmlzYfRAoitPaBo0",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>Use these oracles to determine the orbital placements of any given object in a solar system.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.FmlzYfRAoitPaBo0",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743225318569,
+    "modifiedTime": 1743225318569,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!FmlzYfRAoitPaBo0"
+}

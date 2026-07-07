@@ -1,0 +1,79 @@
+{
+  "type": "asset",
+  "folder": "bOcZzkQSUb3oUpS2",
+  "name": "Advanced Power Cell",
+  "system": {
+    "requirement": "",
+    "category": "Item - Consumable",
+    "color": "#3d8b8a",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>Your advanced power cell stores 4 energy. You may use it to provide a boost of power when making a move that would leverage the energy. If you do, add +1 and take +1 momentum on a hit. Then, suffer -1 energy.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Your advanced power cell stores 6 energy. When you make a move that would leverage its power, take +2 momentum on a hit instead.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you make a move to leverage the energy of the advanced power cell, add +2 instead +1.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "description": "<p>The advanced power cell doesn't run out of energy, but the combustion needed for such endless power makes the cell dangerously volatile and prone to spontaneous detonation if in close proximity to another energy source.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Energy",
+      "current": 0,
+      "max": 6,
+      "value": 4,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "<p>A large energy container with higher than normal capacity and power.</p>"
+  },
+  "img": "modules/ancient-wonders/assets/energise.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.starforgedassets.Item.e4073bee0b5a7b04",
+    "duplicateSource": "Item.8o0QNix8tw6f9HUn",
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747009441945,
+    "modifiedTime": 1764468196417,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "sort": 100000,
+  "_id": "Wc32ic42Mw162NxO",
+  "_key": "!items!Wc32ic42Mw162NxO"
+}

@@ -1,0 +1,108 @@
+{
+  "name": "Precursor Construct Motility - Interior",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        15
+      ],
+      "_id": "TLpx5LKoNeF8vKqu",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Anti-gravity or exotic propulsion",
+      "name": "",
+      "_key": "!tables.results!uo3cuXtAC3JkvVR6.TLpx5LKoNeF8vKqu"
+    },
+    {
+      "range": [
+        16,
+        45
+      ],
+      "_id": "sZ20EkMLG7UtHMxC",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stationary",
+      "name": "",
+      "_key": "!tables.results!uo3cuXtAC3JkvVR6.sZ20EkMLG7UtHMxC"
+    },
+    {
+      "range": [
+        46,
+        100
+      ],
+      "_id": "rNnfjyxkWs97vM4F",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Legged",
+      "name": "",
+      "_key": "!tables.results!uo3cuXtAC3JkvVR6.rNnfjyxkWs97vM4F"
+    }
+  ],
+  "folder": "J715TeOdqxPDq33D",
+  "sort": 1500000,
+  "_id": "uo3cuXtAC3JkvVR6",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.uo3cuXtAC3JkvVR6",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746413854523,
+    "modifiedTime": 1746413854523,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!uo3cuXtAC3JkvVR6"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Megastructure Oracle Arrays",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "6tMLIfkOUdVxj23v",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 400000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745634120428,
+    "modifiedTime": 1745634120602,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!6tMLIfkOUdVxj23v"
+}

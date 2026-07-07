@@ -1,0 +1,290 @@
+{
+  "name": "Cursed Megastructure Outer First Look",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "TIVKTh6lvcsfjaVm",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Areas of obfuscating, unnatural darkness",
+      "name": "",
+      "_key": "!tables.results!k8KglVp9dvGV7gm5.TIVKTh6lvcsfjaVm"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "X7T9eeE7GmcBgsHv",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Biological infestation",
+      "name": "",
+      "_key": "!tables.results!k8KglVp9dvGV7gm5.X7T9eeE7GmcBgsHv"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "c3Xx8ohgdOJ9BX3U",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Desiccated or putrefied corpses",
+      "name": "",
+      "_key": "!tables.results!k8KglVp9dvGV7gm5.c3Xx8ohgdOJ9BX3U"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "R5Bog3nOsh1unXnQ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mutated or warped structures",
+      "name": "",
+      "_key": "!tables.results!k8KglVp9dvGV7gm5.R5Bog3nOsh1unXnQ"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "Bqche6ZFAVarZjsT",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Powerful electro-magnetic pulses",
+      "name": "",
+      "_key": "!tables.results!k8KglVp9dvGV7gm5.Bqche6ZFAVarZjsT"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "FNHAqzGmy5ZQ4K1a",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scarred by vast tears or impacts",
+      "name": "",
+      "_key": "!tables.results!k8KglVp9dvGV7gm5.FNHAqzGmy5ZQ4K1a"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "AMa5Ap5JyItY1zt5",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ship graveyards",
+      "name": "",
+      "_key": "!tables.results!k8KglVp9dvGV7gm5.AMa5Ap5JyItY1zt5"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "vjweRKaULquG47QY",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Time or reality distortions",
+      "name": "",
+      "_key": "!tables.results!k8KglVp9dvGV7gm5.vjweRKaULquG47QY"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "lDJ23OYzLn6SdA5i",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vibrantly colored aura",
+      "name": "",
+      "_key": "!tables.results!k8KglVp9dvGV7gm5.lDJ23OYzLn6SdA5i"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "X6Bos56cO6LtPAp5",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vibrating gravitational waves",
+      "name": "",
+      "_key": "!tables.results!k8KglVp9dvGV7gm5.X6Bos56cO6LtPAp5"
+    }
+  ],
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "XnItQfjzDdXkTpmK",
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745619962322,
+    "modifiedTime": 1745619962322,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "k8KglVp9dvGV7gm5",
+  "sort": 0,
+  "_key": "!tables!k8KglVp9dvGV7gm5"
+}

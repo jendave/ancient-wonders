@@ -1,0 +1,186 @@
+{
+  "name": "Lunar Speculorefractor Planetary Class",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        13
+      ],
+      "_id": "4yOIqt6HJGs9vZHv",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Desert World; pg 50",
+      "name": "",
+      "_key": "!tables.results!kPRhKCl3Z7Y6Dsoa.4yOIqt6HJGs9vZHv"
+    },
+    {
+      "range": [
+        14,
+        30
+      ],
+      "_id": "c0Ahq3wW2oRwsa6e",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Jungle World; pg 60",
+      "name": "",
+      "_key": "!tables.results!kPRhKCl3Z7Y6Dsoa.c0Ahq3wW2oRwsa6e"
+    },
+    {
+      "range": [
+        31,
+        50
+      ],
+      "_id": "crYhS7Hwvck0IVow",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Ocean World; pg 70",
+      "name": "",
+      "_key": "!tables.results!kPRhKCl3Z7Y6Dsoa.crYhS7Hwvck0IVow"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "e3RIKPpQy9x7grgn",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Rocky World; pg 72",
+      "name": "",
+      "_key": "!tables.results!kPRhKCl3Z7Y6Dsoa.e3RIKPpQy9x7grgn"
+    },
+    {
+      "range": [
+        61,
+        75
+      ],
+      "_id": "HgFcWKetrWk9YLPD",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Tainted World; pg 76",
+      "name": "",
+      "_key": "!tables.results!kPRhKCl3Z7Y6Dsoa.HgFcWKetrWk9YLPD"
+    },
+    {
+      "range": [
+        76,
+        100
+      ],
+      "_id": "Jppo1xdE6L8eImqa",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Vital World; pg 80",
+      "name": "",
+      "_key": "!tables.results!kPRhKCl3Z7Y6Dsoa.Jppo1xdE6L8eImqa"
+    }
+  ],
+  "folder": "ksVn2RXQFMsV2dNq",
+  "sort": 1,
+  "_id": "kPRhKCl3Z7Y6Dsoa",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745953863456,
+    "modifiedTime": 1745953863456,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!kPRhKCl3Z7Y6Dsoa"
+}

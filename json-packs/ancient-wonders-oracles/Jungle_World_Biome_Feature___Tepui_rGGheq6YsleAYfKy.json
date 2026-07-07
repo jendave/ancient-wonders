@@ -1,0 +1,264 @@
+{
+  "name": "Jungle World Biome Feature - Tepui",
+  "formula": "1d100",
+  "description": "<p>Tiered mountains enveloped by vegetation cover the land.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        11
+      ],
+      "_id": "Z7v1EQiQcxdiDFIO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deep river gorges",
+      "name": "",
+      "_key": "!tables.results!rGGheq6YsleAYfKy.Z7v1EQiQcxdiDFIO"
+    },
+    {
+      "range": [
+        12,
+        22
+      ],
+      "_id": "C4Hq8zz0eFF0705e",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fog or mist cascades from the mountain tops",
+      "name": "",
+      "_key": "!tables.results!rGGheq6YsleAYfKy.C4Hq8zz0eFF0705e"
+    },
+    {
+      "range": [
+        23,
+        33
+      ],
+      "_id": "BtRiUyPM5LVaqWrO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Massive canyons or caves",
+      "name": "",
+      "_key": "!tables.results!rGGheq6YsleAYfKy.BtRiUyPM5LVaqWrO"
+    },
+    {
+      "range": [
+        34,
+        44
+      ],
+      "_id": "sgVVdpQ3Vk5MPuCm",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Megalithic plateaus",
+      "name": "",
+      "_key": "!tables.results!rGGheq6YsleAYfKy.sgVVdpQ3Vk5MPuCm"
+    },
+    {
+      "range": [
+        45,
+        55
+      ],
+      "_id": "ERCpfmOpSf85hScj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stretches of grassy plains",
+      "name": "",
+      "_key": "!tables.results!rGGheq6YsleAYfKy.ERCpfmOpSf85hScj"
+    },
+    {
+      "range": [
+        56,
+        66
+      ],
+      "_id": "CKYEIlo1iRnGWO8C",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surging rivers",
+      "name": "",
+      "_key": "!tables.results!rGGheq6YsleAYfKy.CKYEIlo1iRnGWO8C"
+    },
+    {
+      "range": [
+        67,
+        77
+      ],
+      "_id": "A0VcnbUFJPr4YGzc",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Towering waterfalls",
+      "name": "",
+      "_key": "!tables.results!rGGheq6YsleAYfKy.A0VcnbUFJPr4YGzc"
+    },
+    {
+      "range": [
+        78,
+        88
+      ],
+      "_id": "qokJXIvwTZiO97b9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Columns wreathed in flora",
+      "name": "",
+      "_key": "!tables.results!rGGheq6YsleAYfKy.qokJXIvwTZiO97b9"
+    },
+    {
+      "range": [
+        89,
+        100
+      ],
+      "_id": "yvdMBbTk8mmojfTB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transition into a new &gt;Biome",
+      "name": "",
+      "_key": "!tables.results!rGGheq6YsleAYfKy.yvdMBbTk8mmojfTB"
+    }
+  ],
+  "folder": "LPHNPP6s8p8hGyxR",
+  "sort": 18,
+  "_id": "rGGheq6YsleAYfKy",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745260316584,
+    "modifiedTime": 1745260316584,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!rGGheq6YsleAYfKy"
+}

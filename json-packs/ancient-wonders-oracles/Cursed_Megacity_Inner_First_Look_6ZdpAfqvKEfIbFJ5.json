@@ -1,0 +1,1122 @@
+{
+  "name": "Cursed Megacity Inner First Look",
+  "formula": "1d100",
+  "description": "<p>The following oracle provides inspiration for the initial survey of a megacity by generating details about each new area of a megacity's interior.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "Ke2haT63zy23Sn1m",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Structures of disturbing subject matter",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.Ke2haT63zy23Sn1m"
+    },
+    {
+      "range": [
+        3,
+        5
+      ],
+      "_id": "wVwkiogmt48fxhpv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Structures defaced with cryptic glyphs",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.wVwkiogmt48fxhpv"
+    },
+    {
+      "range": [
+        6,
+        7
+      ],
+      "_id": "ta8nRlitK5JAtJ9J",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ostentatious display of organic matter",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.ta8nRlitK5JAtJ9J"
+    },
+    {
+      "range": [
+        8,
+        9
+      ],
+      "_id": "nq67TZr9H4hFEf1E",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Constant flow of organic liquid matter",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.nq67TZr9H4hFEf1E"
+    },
+    {
+      "range": [
+        10,
+        11
+      ],
+      "_id": "paqhWuLMWmXnOMif",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scarred with huge bestial scratches",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.paqhWuLMWmXnOMif"
+    },
+    {
+      "range": [
+        12,
+        13
+      ],
+      "_id": "IG5MZXIWZc2WTx56",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dead show glimpses of reanimation",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.IG5MZXIWZc2WTx56"
+    },
+    {
+      "range": [
+        14,
+        16
+      ],
+      "_id": "CVQ8bF9DymWjUrKc",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Foreboding or esoteric monuments",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.CVQ8bF9DymWjUrKc"
+    },
+    {
+      "range": [
+        17,
+        18
+      ],
+      "_id": "JNqMM1o7gqPYOODy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sounds reminiscent of human pain",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.JNqMM1o7gqPYOODy"
+    },
+    {
+      "range": [
+        19,
+        20
+      ],
+      "_id": "RP3gVFOWW340Ouz3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Structures made of organic matter",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.RP3gVFOWW340Ouz3"
+    },
+    {
+      "range": [
+        21,
+        22
+      ],
+      "_id": "BrpndrCfylc7aBwT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unsettling sense of being watched",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.BrpndrCfylc7aBwT"
+    },
+    {
+      "range": [
+        23,
+        24
+      ],
+      "_id": "Q3CsROAdn48DiksZ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glimpses of shadows on the move",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.Q3CsROAdn48DiksZ"
+    },
+    {
+      "range": [
+        25,
+        27
+      ],
+      "_id": "EpUPoCiQdPivghZy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lifeforms with evident mutations",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.EpUPoCiQdPivghZy"
+    },
+    {
+      "range": [
+        28,
+        29
+      ],
+      "_id": "R643qMSy9qZM39wq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Desiccated or putrefied corpses",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.R643qMSy9qZM39wq"
+    },
+    {
+      "range": [
+        30,
+        31
+      ],
+      "_id": "q3YNFEOV2nqTWUrN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overwhelming stillness or quiet",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.q3YNFEOV2nqTWUrN"
+    },
+    {
+      "range": [
+        32,
+        34
+      ],
+      "_id": "URVVzVr4j1WbZZf8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mutated or warped structures",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.URVVzVr4j1WbZZf8"
+    },
+    {
+      "range": [
+        35,
+        36
+      ],
+      "_id": "QMMB8KbzoofDMI4O",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scale does not match exterior",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.QMMB8KbzoofDMI4O"
+    },
+    {
+      "range": [
+        37,
+        39
+      ],
+      "_id": "95P2WPR0WrCq6djA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ominous, untraceable sounds",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.95P2WPR0WrCq6djA"
+    },
+    {
+      "range": [
+        40,
+        42
+      ],
+      "_id": "AEp73SPyXrN5UtlA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Haunting visions of the dead",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.AEp73SPyXrN5UtlA"
+    },
+    {
+      "range": [
+        43,
+        44
+      ],
+      "_id": "2d9z90mMjDdYENiU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lair of a monstrous creature",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.2d9z90mMjDdYENiU"
+    },
+    {
+      "range": [
+        45,
+        47
+      ],
+      "_id": "iqQNS6QJT4aWuk8k",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sticky and viscous surfaces",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.iqQNS6QJT4aWuk8k"
+    },
+    {
+      "range": [
+        48,
+        50
+      ],
+      "_id": "bhpsrVp0w1CVmopY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Signs of hurried evacuation",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.bhpsrVp0w1CVmopY"
+    },
+    {
+      "range": [
+        51,
+        52
+      ],
+      "_id": "XqOcuoezEJMywMuk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Esoteric writing or symbols",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.XqOcuoezEJMywMuk"
+    },
+    {
+      "range": [
+        53,
+        55
+      ],
+      "_id": "HcB3pHj7U1Q9X0YZ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Time or reality distortions",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.HcB3pHj7U1Q9X0YZ"
+    },
+    {
+      "range": [
+        56,
+        57
+      ],
+      "_id": "Mmss9zL9Jydybryc",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Foul masses of secretions",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.Mmss9zL9Jydybryc"
+    },
+    {
+      "range": [
+        58,
+        60
+      ],
+      "_id": "Fp2o7p6GIAlAAuX4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dissonant tones or music",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.Fp2o7p6GIAlAAuX4"
+    },
+    {
+      "range": [
+        61,
+        63
+      ],
+      "_id": "mKlacUskJb84DRTx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shrouded in mist or haze",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.mKlacUskJb84DRTx"
+    },
+    {
+      "range": [
+        64,
+        65
+      ],
+      "_id": "T3mloH7xS1RzhMb6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Carried tech is disrupted",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.T3mloH7xS1RzhMb6"
+    },
+    {
+      "range": [
+        66,
+        67
+      ],
+      "_id": "QzhGtfJgfK6LAEaj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Echoes of distant voices",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.QzhGtfJgfK6LAEaj"
+    },
+    {
+      "range": [
+        68,
+        70
+      ],
+      "_id": "PHNxkJ2HSvmZYgFk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dreadful howls or roars",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.PHNxkJ2HSvmZYgFk"
+    },
+    {
+      "range": [
+        71,
+        72
+      ],
+      "_id": "9KPDvcVTdE54FAoZ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impenetrable darkness",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.9KPDvcVTdE54FAoZ"
+    },
+    {
+      "range": [
+        73,
+        74
+      ],
+      "_id": "BqTUxuTHDmOgILHS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Splattered with blood",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.BqTUxuTHDmOgILHS"
+    },
+    {
+      "range": [
+        75,
+        77
+      ],
+      "_id": "GJYycTMFGbLBDfNp",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Visions or apparitions",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.GJYycTMFGbLBDfNp"
+    },
+    {
+      "range": [
+        78,
+        79
+      ],
+      "_id": "9wF4ToJ93zO7UpN7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Whispers of the dead",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.9wF4ToJ93zO7UpN7"
+    },
+    {
+      "range": [
+        80,
+        81
+      ],
+      "_id": "TL1MyWIjmkGrhgv4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Uncanny illumination",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.TL1MyWIjmkGrhgv4"
+    },
+    {
+      "range": [
+        82,
+        83
+      ],
+      "_id": "NMWuMFi5Ga94zBBW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Biological infestation",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.NMWuMFi5Ga94zBBW"
+    },
+    {
+      "range": [
+        84,
+        85
+      ],
+      "_id": "pbCNM503GdHJqved",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hazardous readings",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.pbCNM503GdHJqved"
+    },
+    {
+      "range": [
+        86,
+        88
+      ],
+      "_id": "CdlMuZzGsQnjCw4T",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dying flora or fauna",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.CdlMuZzGsQnjCw4T"
+    },
+    {
+      "range": [
+        89,
+        91
+      ],
+      "_id": "ZzAiw6ewZrhhV067",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abnormal gravity",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.ZzAiw6ewZrhhV067"
+    },
+    {
+      "range": [
+        92,
+        94
+      ],
+      "_id": "c16m5HRApZoSV0L5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Moldering bones",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.c16m5HRApZoSV0L5"
+    },
+    {
+      "range": [
+        95,
+        96
+      ],
+      "_id": "w12RLkxaDESBNlZc",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mass graves",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.w12RLkxaDESBNlZc"
+    },
+    {
+      "range": [
+        97,
+        98
+      ],
+      "_id": "deQrkgfIYgeKZV6g",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Noxious fog",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.deQrkgfIYgeKZV6g"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "VCwUcgVHiPCyfAym",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Watchful AI",
+      "name": "",
+      "_key": "!tables.results!6ZdpAfqvKEfIbFJ5.VCwUcgVHiPCyfAym"
+    }
+  ],
+  "folder": "nR1iJqDkm8MluDvh",
+  "sort": 1,
+  "_id": "6ZdpAfqvKEfIbFJ5",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746337614622,
+    "modifiedTime": 1746337614622,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!6ZdpAfqvKEfIbFJ5"
+}

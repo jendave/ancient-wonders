@@ -1,0 +1,108 @@
+{
+  "name": "Unidentified Megastructure When Discovered Solar System Based",
+  "formula": "1d100",
+  "description": "<p>Sub-planetary scale -- First, roll on the following table to determine the megastructure location.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        40
+      ],
+      "_id": "664c4ktulnylP4aa",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetside",
+      "name": "",
+      "_key": "!tables.results!qz9N3RRww8gTGnSc.664c4ktulnylP4aa"
+    },
+    {
+      "range": [
+        41,
+        75
+      ],
+      "_id": "f9CtHxfwuY6pvyZt",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orbital",
+      "name": "",
+      "_key": "!tables.results!qz9N3RRww8gTGnSc.f9CtHxfwuY6pvyZt"
+    },
+    {
+      "range": [
+        76,
+        100
+      ],
+      "_id": "2PwwP2824GgM0ooY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deep space",
+      "name": "",
+      "_key": "!tables.results!qz9N3RRww8gTGnSc.2PwwP2824GgM0ooY"
+    }
+  ],
+  "folder": "EpVZ9VKEG5R6Tr0s",
+  "sort": 13,
+  "_id": "qz9N3RRww8gTGnSc",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745687449403,
+    "modifiedTime": 1745687449403,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!qz9N3RRww8gTGnSc"
+}

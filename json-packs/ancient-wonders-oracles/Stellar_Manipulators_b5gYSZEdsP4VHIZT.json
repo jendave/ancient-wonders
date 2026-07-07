@@ -1,0 +1,22 @@
+{
+  "name": "Stellar Manipulators",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "b5gYSZEdsP4VHIZT",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 2800000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746175532572,
+    "modifiedTime": 1746175532762,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!b5gYSZEdsP4VHIZT"
+}

@@ -1,0 +1,290 @@
+{
+  "name": "Seabed Opportunity",
+  "formula": "1d100",
+  "description": "<p>Use the following tables to inspire the details of a waypoint during underwater expeditions. The Perils table inspires a cost or trouble and the Opportunities table offers a beneficial encounter or event.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "0SJyKU1mA7Ev0QGL",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abandoned or lost cargo",
+      "name": "",
+      "_key": "!tables.results!OK3jkpq0cRhuV3bV.0SJyKU1mA7Ev0QGL"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "tdJKlqFAWBAHf6R5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Advance warning of a hazard",
+      "name": "",
+      "_key": "!tables.results!OK3jkpq0cRhuV3bV.tdJKlqFAWBAHf6R5"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "qEOX9JE2rlKwbFOr",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Awe-inspiring natural feature",
+      "name": "",
+      "_key": "!tables.results!OK3jkpq0cRhuV3bV.qEOX9JE2rlKwbFOr"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "pF3I5aSEvwPoH7c3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clear path through otherwise perilous  terrain",
+      "name": "",
+      "_key": "!tables.results!OK3jkpq0cRhuV3bV.pF3I5aSEvwPoH7c3"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "n6OjcGmcrMTztHfX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fauna show a way or offer inspiration",
+      "name": "",
+      "_key": "!tables.results!OK3jkpq0cRhuV3bV.n6OjcGmcrMTztHfX"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "cjUKs8otEA1C5kb1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hint reveals a path or route forward",
+      "name": "",
+      "_key": "!tables.results!OK3jkpq0cRhuV3bV.cjUKs8otEA1C5kb1"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "YivpiwrCQroj7iI8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Object of power or precious item",
+      "name": "",
+      "_key": "!tables.results!OK3jkpq0cRhuV3bV.YivpiwrCQroj7iI8"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "87MGBsc5g9XPdKfw",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sheltered air pocket",
+      "name": "",
+      "_key": "!tables.results!OK3jkpq0cRhuV3bV.87MGBsc5g9XPdKfw"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "yyiZRkAQ5VhmwBwI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unusually clear view",
+      "name": "",
+      "_key": "!tables.results!OK3jkpq0cRhuV3bV.yyiZRkAQ5VhmwBwI"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "ZEVnqt8f4z3vi9Cs",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Useful resource or provision",
+      "name": "",
+      "_key": "!tables.results!OK3jkpq0cRhuV3bV.ZEVnqt8f4z3vi9Cs"
+    }
+  ],
+  "folder": "gqk7xGweM3UMtnW2",
+  "sort": 7,
+  "_id": "OK3jkpq0cRhuV3bV",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1744997272600,
+    "modifiedTime": 1744997272600,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!OK3jkpq0cRhuV3bV"
+}

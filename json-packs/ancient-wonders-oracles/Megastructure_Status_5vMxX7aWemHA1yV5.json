@@ -1,0 +1,160 @@
+{
+  "name": "Megastructure Status",
+  "formula": "1d100",
+  "description": "<p>Use this oracle to identify the current condition of a megastructure. Some of these marvels are made up of many individual structures. In those cases, you may roll on this table to determine the status of any individual assemblies instead of the whole megastructure. Additionally, you may Ask the Oracle to determine whether the megastructure or assembly is visibly damaged. If yes, you may interpret the status result as a consequence of the damage.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "rLrE2p5rOv7M2TP6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Partially constructed - The megastructure never reached a point of completion and was never operable",
+      "name": "",
+      "_key": "!tables.results!5vMxX7aWemHA1yV5.rLrE2p5rOv7M2TP6"
+    },
+    {
+      "range": [
+        11,
+        40
+      ],
+      "_id": "Lkighb7LTv8ruTjk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Operational - The megastructure appears to be fulfilling its original purpose as intended",
+      "name": "",
+      "_key": "!tables.results!5vMxX7aWemHA1yV5.Lkighb7LTv8ruTjk"
+    },
+    {
+      "range": [
+        41,
+        55
+      ],
+      "_id": "eTdzgy7Tj8hOPTe4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Non-functional / offline - While still intact, the megastructure is either no longer functional or is offline",
+      "name": "",
+      "_key": "!tables.results!5vMxX7aWemHA1yV5.eTdzgy7Tj8hOPTe4"
+    },
+    {
+      "range": [
+        56,
+        95
+      ],
+      "_id": "UwYwYjrGePsNyL3H",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dysfunctional - The megastructure is not functioning as originally intended",
+      "name": "",
+      "_key": "!tables.results!5vMxX7aWemHA1yV5.UwYwYjrGePsNyL3H"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "MjXcHFXTEyZ2pnSk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destroyed - The megastructure has been wrecked",
+      "name": "",
+      "_key": "!tables.results!5vMxX7aWemHA1yV5.MjXcHFXTEyZ2pnSk"
+    }
+  ],
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "XnItQfjzDdXkTpmK",
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745619859955,
+    "modifiedTime": 1745619969205,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "5vMxX7aWemHA1yV5",
+  "sort": -100000,
+  "_key": "!tables!5vMxX7aWemHA1yV5"
+}

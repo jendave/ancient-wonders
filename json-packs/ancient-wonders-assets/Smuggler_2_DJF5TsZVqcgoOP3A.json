@@ -1,0 +1,88 @@
+{
+  "type": "asset",
+  "folder": "VGDM9gKIusGTm2DW",
+  "name": "Smuggler 2",
+  "system": {
+    "requirement": "",
+    "category": "Special Companion",
+    "color": "#3d8b8a",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": false,
+        "description": "<p>The smuggler is hunted by many factions. When they make a move, you may improve the result to a strong hit. If you do, fill one segment of a four-segment clock to represent hunters closing in. When the clock is filled, a notable foe or force has tracked the party down. If you overcome them or escape, reset the clock and take +3 momentum.</p>",
+        "hasClock": true,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.9c9ab6a42daa96e0]{Swear an Iron Vow} alongside the smuggler to transport and protect something or someone, add +2. When they @Compendium[foundry-ironsworn.starforgedmoves.Item.ed490d43a2533506]{Set a Course} in space, choose one of their proposed paths (before rolling).</p>\n<ul>\n<li>The fastest: Count a weak hit as a\nstrong hit.</li>\n<li>The safest: Count a miss as a weak hit.</li>\n</ul>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When the smuggler makes a move by hiding, fleeing, lying, bluffing, stealing, or cheating, add +2 and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Spirit",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [
+      {
+        "name": "Shaken",
+        "ticked": false
+      }
+    ],
+    "description": ""
+  },
+  "img": "modules/ancient-wonders/assets/iron-mask.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1746826732354,
+    "modifiedTime": 1764466907126,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.331",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.2"
+    }
+  },
+  "_id": "DJF5TsZVqcgoOP3A",
+  "sort": 0,
+  "_key": "!items!DJF5TsZVqcgoOP3A"
+}

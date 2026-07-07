@@ -1,0 +1,31 @@
+{
+  "name": "Oracle Quest - Atmosphere Harvester",
+  "type": "script",
+  "scope": "global",
+  "author": "MmM06BuCrG9h1GLg",
+  "img": "icons/svg/dice-target.svg",
+  "command": "// Module macro code by David Hudson and licensed for use under the CC BY-NC-SA 4.0.\n\nasync function printMessage(message) {\n    let chatData = { content: message };\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\", \"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\nasync function rollOracle(tableID, lowerCase = true) {\n    let table = await fromUuid(tableID);\n    let roll = await table.roll();\n    let result = roll.results[0].text;\n\n    if (result.startsWith(\"@Compendium\")) {\n        table = await fromUuid(result.slice(1).replace(\"[\", \".\").split(\"]\")[0]);\n        roll = await table.roll();\n        result = roll.results[0].text;\n    }\n\n    if (result == \"Roll twice\") {\n        let results = [\"Roll twice\", \"Roll twice\"];\n        for (let index = 0; index < results.length; index++) {\n            let element = results[index];\n            do {\n                const table = await fromUuid(tableID);\n                let roll = await table.roll();\n                element = roll.results[0].text.toLowerCase();\n            } while (element == \"roll twice\");\n            results[index] = element;\n        };\n        result = results[0] + \" and \" + results[1];\n    }\n    return lowerCase ? result.toLowerCase() : result;\n};\n\nlet title = \"<h3><strong>Oracle Quest - Atmosphere Harvester</strong></h3>\";\nlet message = \"A \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.165pYBMpRkAewRXO\") + \" is recruiting a delver to search for a team of \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.3hsqYaXgMPJkGgvA\") + \"s they had dispatched to a nearby atmosphere harvester. The faction relays that the team was being shuttled by a \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.k7Dk6GrZu3lIwLTP\") + \" starship and went silent shortly after announcing their arrival. Though the faction describes the mission as routine, their urgency suggests the team may have uncovered something unexpected within the harvester's system. What was the faction truly hoping to achieve? Why has the team not responded since entering the megastructure?\"\n\n// Print the message\nprintMessage(title + message);",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747262927031,
+    "modifiedTime": 1763695849545,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "fxxpHvgxD4B0Uq5i",
+  "sort": 2800000,
+  "_key": "!macros!fxxpHvgxD4B0Uq5i"
+}

@@ -1,0 +1,72 @@
+{
+  "type": "asset",
+  "folder": "bOcZzkQSUb3oUpS2",
+  "name": "Last-Chance Bubble",
+  "system": {
+    "requirement": "",
+    "category": "Item - Consumable",
+    "color": "#3d8b8a",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you must @Compendium[foundry-ironsworn.starforgedmoves.Item.0cfcd6fbaf6135d0]{Face Death} by being exposed to a life-threatening situation (such as the vacuum of space, high-pressures underwater, or explosion), you may deploy the last-chance bubble. If you do, take an automatic strong hit. When deployed, the bubble is a non-reusable, non-pilotable, incidental vehicle of 3 integrity that forms around you. It provides a communications kit, enough oxygen for up to 24 hours, and cannot be repaired.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>The last-chance bubble is pilotable, equipped with micro-rockets capable of limited flight or travel.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>The last-chance bubble is reinforced with armor; it has 5 integrity instead of 3.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Integrity",
+      "current": 0,
+      "max": 5,
+      "value": 3,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "<p>A single-use inflatable life-boat deployed when destruction is imminent.</p>"
+  },
+  "img": "modules/ancient-wonders/assets/life-buoy.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747108005541,
+    "modifiedTime": 1764468844518,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "51q25hSF8uhGjTt1",
+  "sort": 0,
+  "_key": "!items!51q25hSF8uhGjTt1"
+}

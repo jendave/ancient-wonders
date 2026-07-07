@@ -1,0 +1,22 @@
+{
+  "name": "Moon Attributes",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "DB2UpdgI0lbafjLX",
+  "description": "",
+  "folder": "GvsmSMYbvgjEYSQc",
+  "sort": 300000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745094300318,
+    "modifiedTime": 1745094305911,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!DB2UpdgI0lbafjLX"
+}

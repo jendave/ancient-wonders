@@ -1,0 +1,342 @@
+{
+  "name": "Rocky World Biome Feature - Bog",
+  "formula": "1d100",
+  "description": "<p>Stagnant pools and grassy mires stretch across the horizon.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        8
+      ],
+      "_id": "7nDEiS2RZb9sq53f",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enormous obscuring grasses or reeds",
+      "name": "",
+      "_key": "!tables.results!QYLco9GztkFXbq7x.7nDEiS2RZb9sq53f"
+    },
+    {
+      "range": [
+        9,
+        16
+      ],
+      "_id": "xsLUK4h9MubNV5Iz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expanses of swallowing sludge",
+      "name": "",
+      "_key": "!tables.results!QYLco9GztkFXbq7x.xsLUK4h9MubNV5Iz"
+    },
+    {
+      "range": [
+        17,
+        24
+      ],
+      "_id": "FmpKkgQBSXESvV8G",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flooded chasms or canyons",
+      "name": "",
+      "_key": "!tables.results!QYLco9GztkFXbq7x.FmpKkgQBSXESvV8G"
+    },
+    {
+      "range": [
+        25,
+        32
+      ],
+      "_id": "XMmpWUjBOzyPfBMP",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Incessant rainfall",
+      "name": "",
+      "_key": "!tables.results!QYLco9GztkFXbq7x.XMmpWUjBOzyPfBMP"
+    },
+    {
+      "range": [
+        33,
+        40
+      ],
+      "_id": "yVEhPA0eugeQC4hW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large and motionless lakes",
+      "name": "",
+      "_key": "!tables.results!QYLco9GztkFXbq7x.yVEhPA0eugeQC4hW"
+    },
+    {
+      "range": [
+        41,
+        48
+      ],
+      "_id": "CfAhgc1T8ROugLnC",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rocky outcrops enveloped by moss or grass",
+      "name": "",
+      "_key": "!tables.results!QYLco9GztkFXbq7x.CfAhgc1T8ROugLnC"
+    },
+    {
+      "range": [
+        49,
+        56
+      ],
+      "_id": "HKBA5LhnrvMcu19G",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Small groves surrounded by murky pools",
+      "name": "",
+      "_key": "!tables.results!QYLco9GztkFXbq7x.HKBA5LhnrvMcu19G"
+    },
+    {
+      "range": [
+        57,
+        64
+      ],
+      "_id": "Bmq5BcM5wXl2O85K",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sprawling unmarred grasslands",
+      "name": "",
+      "_key": "!tables.results!QYLco9GztkFXbq7x.Bmq5BcM5wXl2O85K"
+    },
+    {
+      "range": [
+        65,
+        72
+      ],
+      "_id": "lu6kv3jO4tP6sDG6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Submerged and preserved remains",
+      "name": "",
+      "_key": "!tables.results!QYLco9GztkFXbq7x.lu6kv3jO4tP6sDG6"
+    },
+    {
+      "range": [
+        73,
+        80
+      ],
+      "_id": "lhGcJ4eeDkyAhncY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thick and unmoving fogs",
+      "name": "",
+      "_key": "!tables.results!QYLco9GztkFXbq7x.lhGcJ4eeDkyAhncY"
+    },
+    {
+      "range": [
+        81,
+        88
+      ],
+      "_id": "0fzwKVD5fXR5zFV6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Undulating mists",
+      "name": "",
+      "_key": "!tables.results!QYLco9GztkFXbq7x.0fzwKVD5fXR5zFV6"
+    },
+    {
+      "range": [
+        89,
+        100
+      ],
+      "_id": "9rCo2wVz7nqRQooq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transition into a new &gt;Biome",
+      "name": "",
+      "_key": "!tables.results!QYLco9GztkFXbq7x.9rCo2wVz7nqRQooq"
+    }
+  ],
+  "folder": "jgZy24x8EAmoCjSL",
+  "sort": 14,
+  "_id": "QYLco9GztkFXbq7x",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745348324737,
+    "modifiedTime": 1745348324737,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!QYLco9GztkFXbq7x"
+}

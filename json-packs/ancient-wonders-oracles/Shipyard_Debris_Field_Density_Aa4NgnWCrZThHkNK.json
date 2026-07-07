@@ -1,0 +1,186 @@
+{
+  "name": "Shipyard Debris Field Density",
+  "formula": "1d100",
+  "description": "<p>When approaching a equatorial or hyperstructural shipyard, use this oracle to determine the existence of a debris field and its density.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        20
+      ],
+      "_id": "ctAT98oiZOz8fgJK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!Aa4NgnWCrZThHkNK.ctAT98oiZOz8fgJK"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "PvlSza0Xx2U1VrFq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sparse",
+      "name": "",
+      "_key": "!tables.results!Aa4NgnWCrZThHkNK.PvlSza0Xx2U1VrFq"
+    },
+    {
+      "range": [
+        31,
+        45
+      ],
+      "_id": "3Glk0JV6M5wmXX27",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scattered",
+      "name": "",
+      "_key": "!tables.results!Aa4NgnWCrZThHkNK.3Glk0JV6M5wmXX27"
+    },
+    {
+      "range": [
+        46,
+        80
+      ],
+      "_id": "q2lissLB9iHtSDzQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clustered",
+      "name": "",
+      "_key": "!tables.results!Aa4NgnWCrZThHkNK.q2lissLB9iHtSDzQ"
+    },
+    {
+      "range": [
+        81,
+        95
+      ],
+      "_id": "uE3hgW7HK8WxyBDQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dense",
+      "name": "",
+      "_key": "!tables.results!Aa4NgnWCrZThHkNK.uE3hgW7HK8WxyBDQ"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "gDdyVgyZlqzD6AcA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Immeasurable",
+      "name": "",
+      "_key": "!tables.results!Aa4NgnWCrZThHkNK.gDdyVgyZlqzD6AcA"
+    }
+  ],
+  "folder": "vwLllcMF8jEpu72a",
+  "sort": 2,
+  "_id": "Aa4NgnWCrZThHkNK",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746145410496,
+    "modifiedTime": 1746145410496,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!Aa4NgnWCrZThHkNK"
+}

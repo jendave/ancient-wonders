@@ -1,0 +1,244 @@
+{
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Oracles/Starships/Fleet",
+      "category": "Starforged/Oracles/Starships",
+      "dsid": "oracle_rollable:starforged/starship/fleet"
+    }
+  },
+  "name": "Starship Fleet",
+  "description": "",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "b5d1a8de38483749",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Battle fleet",
+      "name": "",
+      "_key": "!tables.results!zyhn4G8Ptvjj6bwM.b5d1a8de38483749"
+    },
+    {
+      "range": [
+        11,
+        25
+      ],
+      "_id": "1c94f1192c0dae65",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pirate wing",
+      "name": "",
+      "_key": "!tables.results!zyhn4G8Ptvjj6bwM.1c94f1192c0dae65"
+    },
+    {
+      "range": [
+        26,
+        35
+      ],
+      "_id": "1271008f2013dc47",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Raider horde",
+      "name": "",
+      "_key": "!tables.results!zyhn4G8Ptvjj6bwM.1271008f2013dc47"
+    },
+    {
+      "range": [
+        36,
+        50
+      ],
+      "_id": "0ceef2cc89115fe6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Salvager hive",
+      "name": "",
+      "_key": "!tables.results!zyhn4G8Ptvjj6bwM.0ceef2cc89115fe6"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "8dbec456725c62d9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Settler caravan",
+      "name": "",
+      "_key": "!tables.results!zyhn4G8Ptvjj6bwM.8dbec456725c62d9"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "cb090b04be41e10a",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trade caravan",
+      "name": "",
+      "_key": "!tables.results!zyhn4G8Ptvjj6bwM.cb090b04be41e10a"
+    },
+    {
+      "range": [
+        71,
+        90
+      ],
+      "_id": "b2d6e827325f352f",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transport and escorts",
+      "name": "",
+      "_key": "!tables.results!zyhn4G8Ptvjj6bwM.b2d6e827325f352f"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "3a3e1d400c48bbe2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/starship/mission\">    <i class=\"fa fa-caret-right\"></i> Starship Mission</a></p>",
+      "name": "",
+      "_key": "!tables.results!zyhn4G8Ptvjj6bwM.3a3e1d400c48bbe2"
+    }
+  ],
+  "folder": "Vxxnc89YzwMyYvbP",
+  "img": "icons/dice/d10black.svg",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747262344544,
+    "modifiedTime": 1747328364894,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "zyhn4G8Ptvjj6bwM",
+  "sort": 800000,
+  "_key": "!tables!zyhn4G8Ptvjj6bwM"
+}

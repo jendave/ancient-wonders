@@ -1,0 +1,160 @@
+{
+  "name": "Rocky World Biome",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        20
+      ],
+      "_id": "egLgWeVXfyjnswjN",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aeolian",
+      "name": "",
+      "_key": "!tables.results!WPF55zCSgb8c4Mkb.egLgWeVXfyjnswjN"
+    },
+    {
+      "range": [
+        21,
+        40
+      ],
+      "_id": "OJRNiCV9iZpjp6c6",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Basalt",
+      "name": "",
+      "_key": "!tables.results!WPF55zCSgb8c4Mkb.OJRNiCV9iZpjp6c6"
+    },
+    {
+      "range": [
+        41,
+        60
+      ],
+      "_id": "UakYlk6AmResq0Qv",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bleak",
+      "name": "",
+      "_key": "!tables.results!WPF55zCSgb8c4Mkb.UakYlk6AmResq0Qv"
+    },
+    {
+      "range": [
+        61,
+        80
+      ],
+      "_id": "dHJXDlEBmRt7HxBo",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bog",
+      "name": "",
+      "_key": "!tables.results!WPF55zCSgb8c4Mkb.dHJXDlEBmRt7HxBo"
+    },
+    {
+      "range": [
+        81,
+        100
+      ],
+      "_id": "vUVt3VoaMkrV6IPx",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mud",
+      "name": "",
+      "_key": "!tables.results!WPF55zCSgb8c4Mkb.vUVt3VoaMkrV6IPx"
+    }
+  ],
+  "folder": "jgZy24x8EAmoCjSL",
+  "sort": 4,
+  "_id": "WPF55zCSgb8c4Mkb",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745348324737,
+    "modifiedTime": 1745348324737,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!WPF55zCSgb8c4Mkb"
+}

@@ -1,0 +1,654 @@
+{
+  "name": "Jovian World Surface Feature",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        4
+      ],
+      "_id": "4Jzr2KL7iJEHHugZ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cascading cloudfalls",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.4Jzr2KL7iJEHHugZ"
+    },
+    {
+      "range": [
+        5,
+        8
+      ],
+      "_id": "yVXMVyDe8cviq028",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ceaseless atmospheric escape",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.yVXMVyDe8cviq028"
+    },
+    {
+      "range": [
+        9,
+        12
+      ],
+      "_id": "9qNj5pHEkWe7nMFm",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clouds of metal particles",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.9qNj5pHEkWe7nMFm"
+    },
+    {
+      "range": [
+        13,
+        16
+      ],
+      "_id": "KROKXw6lntZeek6M",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crystalline rains",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.KROKXw6lntZeek6M"
+    },
+    {
+      "range": [
+        17,
+        20
+      ],
+      "_id": "nEE33hF2rhCanzkp",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expansive zones of odd gravity",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.nEE33hF2rhCanzkp"
+    },
+    {
+      "range": [
+        21,
+        24
+      ],
+      "_id": "ZSbony626FNx32ND",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Floating glaciers",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.ZSbony626FNx32ND"
+    },
+    {
+      "range": [
+        25,
+        28
+      ],
+      "_id": "QYAykSdcdBj289Ew",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Floating islands",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.QYAykSdcdBj289Ew"
+    },
+    {
+      "range": [
+        29,
+        32
+      ],
+      "_id": "ebxfUF9PhRzIDEuX",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Floating, solidified clouds",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.ebxfUF9PhRzIDEuX"
+    },
+    {
+      "range": [
+        33,
+        36
+      ],
+      "_id": "xlu07TiZaMJo6Ho9",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Layer of suspended liquid",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.xlu07TiZaMJo6Ho9"
+    },
+    {
+      "range": [
+        37,
+        40
+      ],
+      "_id": "GaIxtEED80ecmq7d",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Matter visibly transitioning",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.GaIxtEED80ecmq7d"
+    },
+    {
+      "range": [
+        41,
+        44
+      ],
+      "_id": "SrbgXhmT9mNFcaKy",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Metallic rains",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.SrbgXhmT9mNFcaKy"
+    },
+    {
+      "range": [
+        45,
+        48
+      ],
+      "_id": "pUTlEUn1zqXATBuh",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Monochromatic atmosphere",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.pUTlEUn1zqXATBuh"
+    },
+    {
+      "range": [
+        49,
+        52
+      ],
+      "_id": "oK9u6E3s1LaB2H8q",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Perpetual superstorm",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.oK9u6E3s1LaB2H8q"
+    },
+    {
+      "range": [
+        53,
+        56
+      ],
+      "_id": "pofBtM2OwDfQpbxI",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pockets of explosive gases",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.pofBtM2OwDfQpbxI"
+    },
+    {
+      "range": [
+        57,
+        61
+      ],
+      "_id": "xRI5h8bg1alyf6jZ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Powerful vortexes",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.xRI5h8bg1alyf6jZ"
+    },
+    {
+      "range": [
+        62,
+        65
+      ],
+      "_id": "KoHmMKD8AS8yAAzc",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Radiation fields",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.KoHmMKD8AS8yAAzc"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "VSLXdpiaKPa8jT5l",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Severe electrical storms",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.VSLXdpiaKPa8jT5l"
+    },
+    {
+      "range": [
+        71,
+        74
+      ],
+      "_id": "rx2tfSieIvZtN2V1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Storm-swept rocky debris",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.rx2tfSieIvZtN2V1"
+    },
+    {
+      "range": [
+        75,
+        79
+      ],
+      "_id": "KHLQvTC80GaEH0jB",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Torrential rain",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.KHLQvTC80GaEH0jB"
+    },
+    {
+      "range": [
+        80,
+        83
+      ],
+      "_id": "nNzyNUXcsB5Tenu7",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Towering thunderheads",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.nNzyNUXcsB5Tenu7"
+    },
+    {
+      "range": [
+        84,
+        87
+      ],
+      "_id": "YhlwShcsmHOqp5C0",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unusual atmospheric colors",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.YhlwShcsmHOqp5C0"
+    },
+    {
+      "range": [
+        88,
+        91
+      ],
+      "_id": "K2M3kTuzHF1fTVS3",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vibrant, cloud-piercing auroras",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.K2M3kTuzHF1fTVS3"
+    },
+    {
+      "range": [
+        92,
+        96
+      ],
+      "_id": "qQEOCNhSw0SQimok",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Violent turbulence",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.qQEOCNhSw0SQimok"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "Me4ujSSLT4sn9wII",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Zones of localized atmosphere",
+      "name": "",
+      "_key": "!tables.results!C8uN6U2CXx4WdDnb.Me4ujSSLT4sn9wII"
+    }
+  ],
+  "folder": "1sEBX1FLDXiTtSoT",
+  "sort": 6,
+  "_id": "C8uN6U2CXx4WdDnb",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745257769142,
+    "modifiedTime": 1745257769142,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!C8uN6U2CXx4WdDnb"
+}

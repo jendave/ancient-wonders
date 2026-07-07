@@ -1,0 +1,576 @@
+{
+  "name": "Anomaly Effect - Aberration",
+  "formula": "1d100",
+  "description": "<p>Use this table to determine the effect of an aberrations or entities' core zone, or the anomalous backlash experienced when meddling with alien objects or forbidden magic.</p><p>The Anomaly Backlash table can also be used when determining the infrequent, though especially powerful, capabilities of aberrations or entities.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "iQHSd5fnLSIazTKU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Alters or focuses gravity",
+      "name": "",
+      "_key": "!tables.results!xL7pVNai1hHvPdT8.iQHSd5fnLSIazTKU"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "khvVbsW80ecir3SO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Alters or reshapes nonliving matter",
+      "name": "",
+      "_key": "!tables.results!xL7pVNai1hHvPdT8.khvVbsW80ecir3SO"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "PsqEUrPEcZ8VndkD",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Alters surrounding air or atmosphere",
+      "name": "",
+      "_key": "!tables.results!xL7pVNai1hHvPdT8.PsqEUrPEcZ8VndkD"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "gntQ9CcrlhAniEZA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Alters surrounding ecosystems",
+      "name": "",
+      "_key": "!tables.results!xL7pVNai1hHvPdT8.gntQ9CcrlhAniEZA"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "Z0ApnhTmr5QDo6uS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Causes rapid biological growth",
+      "name": "",
+      "_key": "!tables.results!xL7pVNai1hHvPdT8.Z0ApnhTmr5QDo6uS"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "D2Bo4D8ADbiIjaiT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrupts living matter",
+      "name": "",
+      "_key": "!tables.results!xL7pVNai1hHvPdT8.D2Bo4D8ADbiIjaiT"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "vTzU3nRH3TDdJUbV",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Decays or weakens surrounding terrain or structures",
+      "name": "",
+      "_key": "!tables.results!xL7pVNai1hHvPdT8.vTzU3nRH3TDdJUbV"
+    },
+    {
+      "range": [
+        50,
+        52
+      ],
+      "_id": "bePiloYIa2tsGKOJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Emits forceful or destructive energy",
+      "name": "",
+      "_key": "!tables.results!xL7pVNai1hHvPdT8.bePiloYIa2tsGKOJ"
+    },
+    {
+      "range": [
+        53,
+        59
+      ],
+      "_id": "VguyUO4S03MdHnyZ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Emits radiation",
+      "name": "",
+      "_key": "!tables.results!xL7pVNai1hHvPdT8.VguyUO4S03MdHnyZ"
+    },
+    {
+      "range": [
+        60,
+        62
+      ],
+      "_id": "SswoE2dzEE9H2F5h",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Generates a barrier or ward",
+      "name": "",
+      "_key": "!tables.results!xL7pVNai1hHvPdT8.SswoE2dzEE9H2F5h"
+    },
+    {
+      "range": [
+        63,
+        65
+      ],
+      "_id": "qHdybsmCE2vaqQDa",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Generates extreme temperature variation",
+      "name": "",
+      "_key": "!tables.results!xL7pVNai1hHvPdT8.qHdybsmCE2vaqQDa"
+    },
+    {
+      "range": [
+        66,
+        68
+      ],
+      "_id": "Ue7JWNU3E7BwgsC5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Generates intense lights or sounds",
+      "name": "",
+      "_key": "!tables.results!xL7pVNai1hHvPdT8.Ue7JWNU3E7BwgsC5"
+    },
+    {
+      "range": [
+        69,
+        71
+      ],
+      "_id": "UJAHH0By2CR7ugBp",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Generates tendrils of energy that slither or grasp",
+      "name": "",
+      "_key": "!tables.results!xL7pVNai1hHvPdT8.UJAHH0By2CR7ugBp"
+    },
+    {
+      "range": [
+        72,
+        74
+      ],
+      "_id": "exvixum6GdgRZRiv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Harvests or destroys living matter",
+      "name": "",
+      "_key": "!tables.results!xL7pVNai1hHvPdT8.exvixum6GdgRZRiv"
+    },
+    {
+      "range": [
+        75,
+        77
+      ],
+      "_id": "yp78cVcZWFg1Ce91",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Harvests or destroys nonliving matter",
+      "name": "",
+      "_key": "!tables.results!xL7pVNai1hHvPdT8.yp78cVcZWFg1Ce91"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "WrImHPUqdsEeYLb1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nullifies or consumes all light or sound",
+      "name": "",
+      "_key": "!tables.results!xL7pVNai1hHvPdT8.WrImHPUqdsEeYLb1"
+    },
+    {
+      "range": [
+        85,
+        87
+      ],
+      "_id": "Ru88WLvGA8TFR92q",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Replicates or mimics living matter",
+      "name": "",
+      "_key": "!tables.results!xL7pVNai1hHvPdT8.Ru88WLvGA8TFR92q"
+    },
+    {
+      "range": [
+        88,
+        90
+      ],
+      "_id": "I7jaNvvuFiPFfF1O",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Replicates or mimics nonliving matter",
+      "name": "",
+      "_key": "!tables.results!xL7pVNai1hHvPdT8.I7jaNvvuFiPFfF1O"
+    },
+    {
+      "range": [
+        91,
+        92
+      ],
+      "_id": "66Eu4LzqUgOHsvGG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reverses time by a few moments or minutes",
+      "name": "",
+      "_key": "!tables.results!xL7pVNai1hHvPdT8.66Eu4LzqUgOHsvGG"
+    },
+    {
+      "range": [
+        93,
+        94
+      ],
+      "_id": "nx0mLtKxssdGFJUm",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Slows or stops time",
+      "name": "",
+      "_key": "!tables.results!xL7pVNai1hHvPdT8.nx0mLtKxssdGFJUm"
+    },
+    {
+      "range": [
+        95,
+        100
+      ],
+      "_id": "Hpz39Wn9EnRYnNhI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Summons or manifests creatures",
+      "name": "",
+      "_key": "!tables.results!xL7pVNai1hHvPdT8.Hpz39Wn9EnRYnNhI"
+    }
+  ],
+  "folder": "dRrT6HWOTXN1ryOh",
+  "sort": 3,
+  "_id": "xL7pVNai1hHvPdT8",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746434450727,
+    "modifiedTime": 1746434450727,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!xL7pVNai1hHvPdT8"
+}

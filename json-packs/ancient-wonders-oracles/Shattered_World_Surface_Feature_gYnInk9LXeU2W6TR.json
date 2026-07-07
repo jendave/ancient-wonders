@@ -1,0 +1,654 @@
+{
+  "name": "Shattered World Surface Feature",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        4
+      ],
+      "_id": "ZWdQfPf96Z4BS5M0",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Barren ocean basin",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.ZWdQfPf96Z4BS5M0"
+    },
+    {
+      "range": [
+        5,
+        8
+      ],
+      "_id": "nfHjTV4LUCBFcwaw",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Broken cities",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.nfHjTV4LUCBFcwaw"
+    },
+    {
+      "range": [
+        9,
+        13
+      ],
+      "_id": "xdeQW1m3oVQQvj84",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Broken, crumbling mountains",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.xdeQW1m3oVQQvj84"
+    },
+    {
+      "range": [
+        14,
+        18
+      ],
+      "_id": "c4ZIXRFLbjxAzF9R",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Colliding fragments",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.c4ZIXRFLbjxAzF9R"
+    },
+    {
+      "range": [
+        19,
+        23
+      ],
+      "_id": "0AdMgv6iUV8RI2mM",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cracked or shattered plains",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.0AdMgv6iUV8RI2mM"
+    },
+    {
+      "range": [
+        24,
+        27
+      ],
+      "_id": "bNqQbZWs62vVvKHu",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disastrous earthquakes",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.bNqQbZWs62vVvKHu"
+    },
+    {
+      "range": [
+        28,
+        31
+      ],
+      "_id": "oCGY1irisz3znWrF",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Drifting volumes of liquid",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.oCGY1irisz3znWrF"
+    },
+    {
+      "range": [
+        32,
+        35
+      ],
+      "_id": "Vbk0ALaFrCSybl7G",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Energy storms",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.Vbk0ALaFrCSybl7G"
+    },
+    {
+      "range": [
+        36,
+        39
+      ],
+      "_id": "y9YSXE45N1G5SHmh",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enormous sinkholes",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.y9YSXE45N1G5SHmh"
+    },
+    {
+      "range": [
+        40,
+        43
+      ],
+      "_id": "U6qH7baWhu71aUYQ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exposed caverns",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.U6qH7baWhu71aUYQ"
+    },
+    {
+      "range": [
+        44,
+        47
+      ],
+      "_id": "UvTwWuRWOvzAlpGm",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fierce shockwaves",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.UvTwWuRWOvzAlpGm"
+    },
+    {
+      "range": [
+        48,
+        51
+      ],
+      "_id": "BVxamE94QLXFjvgF",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fluctuating gravity",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.BVxamE94QLXFjvgF"
+    },
+    {
+      "range": [
+        52,
+        55
+      ],
+      "_id": "ZkpIVlULJurxHcNs",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geomagnetic storms",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.ZkpIVlULJurxHcNs"
+    },
+    {
+      "range": [
+        56,
+        59
+      ],
+      "_id": "TXibPLvpln3qYdaN",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Magnetic disturbances",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.TXibPLvpln3qYdaN"
+    },
+    {
+      "range": [
+        60,
+        64
+      ],
+      "_id": "BAWYRxB1AlLConeZ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Molten fissures or canyons",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.BAWYRxB1AlLConeZ"
+    },
+    {
+      "range": [
+        65,
+        68
+      ],
+      "_id": "t3W2mdTCfUof2rBW",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Phantom visions of the past",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.t3W2mdTCfUof2rBW"
+    },
+    {
+      "range": [
+        69,
+        72
+      ],
+      "_id": "S98gGKk58c3qu4mB",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Plethoras of impact craters",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.S98gGKk58c3qu4mB"
+    },
+    {
+      "range": [
+        73,
+        76
+      ],
+      "_id": "dr6dVjpH857HXZRs",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pocket atmosphere",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.dr6dVjpH857HXZRs"
+    },
+    {
+      "range": [
+        77,
+        80
+      ],
+      "_id": "qws5BEt0WNAbeATl",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Residual energy storms",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.qws5BEt0WNAbeATl"
+    },
+    {
+      "range": [
+        81,
+        84
+      ],
+      "_id": "XH0vyoD57ZnSojd4",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Revealed crystal or ore deposits",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.XH0vyoD57ZnSojd4"
+    },
+    {
+      "range": [
+        85,
+        88
+      ],
+      "_id": "2A7hVIq5J7oJ60f8",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Swirling, corrosive gases",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.2A7hVIq5J7oJ60f8"
+    },
+    {
+      "range": [
+        89,
+        92
+      ],
+      "_id": "J4OdJ7a6Es6tvITJ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unstable and fracturing terrain",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.J4OdJ7a6Es6tvITJ"
+    },
+    {
+      "range": [
+        93,
+        96
+      ],
+      "_id": "lJufpvMmB90pxcg3",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Venting magma",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.lJufpvMmB90pxcg3"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "7J73BR9xGWN28fWQ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Preserved biome",
+      "name": "",
+      "_key": "!tables.results!gYnInk9LXeU2W6TR.7J73BR9xGWN28fWQ"
+    }
+  ],
+  "folder": "OUXtiYi9GdiVvewP",
+  "sort": 6,
+  "_id": "gYnInk9LXeU2W6TR",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745371677905,
+    "modifiedTime": 1745371677905,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!gYnInk9LXeU2W6TR"
+}

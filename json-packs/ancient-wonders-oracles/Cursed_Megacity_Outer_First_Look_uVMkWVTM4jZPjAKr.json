@@ -1,0 +1,732 @@
+{
+  "name": "Cursed Megacity Outer First Look",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        4
+      ],
+      "_id": "dxg2EAQQRglh7vJp",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Structures of disturbing subject matter",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.dxg2EAQQRglh7vJp"
+    },
+    {
+      "range": [
+        5,
+        8
+      ],
+      "_id": "Wa5w90amT5LIvifY",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Structures defaced with cryptic glyphs",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.Wa5w90amT5LIvifY"
+    },
+    {
+      "range": [
+        9,
+        12
+      ],
+      "_id": "TpW4Vtgdp2Q6ij0P",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fouled with large masses of excretions",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.TpW4Vtgdp2Q6ij0P"
+    },
+    {
+      "range": [
+        13,
+        16
+      ],
+      "_id": "v0ELtUtDoN2l2Ki2",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Foreboding ornate and dramatic forms",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.v0ELtUtDoN2l2Ki2"
+    },
+    {
+      "range": [
+        17,
+        20
+      ],
+      "_id": "4INqpdcJefT8XyQ9",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ostentatious display of organic matter",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.4INqpdcJefT8XyQ9"
+    },
+    {
+      "range": [
+        21,
+        24
+      ],
+      "_id": "hKpglVZDtdxxB8i2",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Constant flow of organic liquid matter",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.hKpglVZDtdxxB8i2"
+    },
+    {
+      "range": [
+        25,
+        27
+      ],
+      "_id": "Uycgni46Vz2Ot6Ev",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dead show glimpses of reanimation",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.Uycgni46Vz2Ot6Ev"
+    },
+    {
+      "range": [
+        28,
+        30
+      ],
+      "_id": "UGvfS1t2WmeB5Mxz",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dreadful howls or roars from within",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.UGvfS1t2WmeB5Mxz"
+    },
+    {
+      "range": [
+        31,
+        34
+      ],
+      "_id": "ksvO9NjqUhOrdoMz",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sounds reminiscent of human pain",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.ksvO9NjqUhOrdoMz"
+    },
+    {
+      "range": [
+        35,
+        37
+      ],
+      "_id": "HfrYXi0y5RxAPeBD",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Desiccated or putrefied corpses",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.HfrYXi0y5RxAPeBD"
+    },
+    {
+      "range": [
+        38,
+        40
+      ],
+      "_id": "H1dvYfB4HqcuNAWr",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Guarded by monstrous creature",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.H1dvYfB4HqcuNAWr"
+    },
+    {
+      "range": [
+        41,
+        44
+      ],
+      "_id": "HiICIC99BOXo8wlc",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overwhelming stench of decay",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.HiICIC99BOXo8wlc"
+    },
+    {
+      "range": [
+        45,
+        48
+      ],
+      "_id": "lxWPfZEzjoKZWJoc",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scarred with bestial scratches",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.lxWPfZEzjoKZWJoc"
+    },
+    {
+      "range": [
+        49,
+        52
+      ],
+      "_id": "FvS16EbKzf3sGokU",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mutated or warped structures",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.FvS16EbKzf3sGokU"
+    },
+    {
+      "range": [
+        53,
+        56
+      ],
+      "_id": "pqFY4fVBq0gP9OI9",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrupting its surroundings",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.pqFY4fVBq0gP9OI9"
+    },
+    {
+      "range": [
+        57,
+        60
+      ],
+      "_id": "MERUPgHyGX5wlTNg",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Esoteric writing or symbols",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.MERUPgHyGX5wlTNg"
+    },
+    {
+      "range": [
+        61,
+        64
+      ],
+      "_id": "Kwt0Ayoblq3Am3Vz",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surrounded by destruction",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.Kwt0Ayoblq3Am3Vz"
+    },
+    {
+      "range": [
+        65,
+        68
+      ],
+      "_id": "jaQxioLO6X1npsh9",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Time or reality distortions",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.jaQxioLO6X1npsh9"
+    },
+    {
+      "range": [
+        69,
+        72
+      ],
+      "_id": "8ooDQTzM8euqsrkA",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shrouded in mist or haze",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.8ooDQTzM8euqsrkA"
+    },
+    {
+      "range": [
+        73,
+        75
+      ],
+      "_id": "uVSDCm9rRimiIGPs",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Visions or apparitions",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.uVSDCm9rRimiIGPs"
+    },
+    {
+      "range": [
+        76,
+        78
+      ],
+      "_id": "1cd8nBBLUpDzHZzH",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Whispers of the dead",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.1cd8nBBLUpDzHZzH"
+    },
+    {
+      "range": [
+        79,
+        81
+      ],
+      "_id": "xNwyqqADiZxyUAyR",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Uncanny illumination",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.xNwyqqADiZxyUAyR"
+    },
+    {
+      "range": [
+        82,
+        85
+      ],
+      "_id": "bb5DHuNOGvrH5t0p",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Automated defenses",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.bb5DHuNOGvrH5t0p"
+    },
+    {
+      "range": [
+        86,
+        89
+      ],
+      "_id": "rlPmNBZIAEb6Uscy",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hazardous readings",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.rlPmNBZIAEb6Uscy"
+    },
+    {
+      "range": [
+        90,
+        93
+      ],
+      "_id": "MP9X90gDL4mpw2zm",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mysterious echoes",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.MP9X90gDL4mpw2zm"
+    },
+    {
+      "range": [
+        94,
+        96
+      ],
+      "_id": "ctCOoq9fpo68Dh61",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mass graves",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.ctCOoq9fpo68Dh61"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "iFn3rjWOe3xJQg1Q",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Noxious fog",
+      "name": "",
+      "_key": "!tables.results!uVMkWVTM4jZPjAKr.iFn3rjWOe3xJQg1Q"
+    }
+  ],
+  "folder": "mrregFSVf6r5mYLu",
+  "sort": 11,
+  "_id": "uVMkWVTM4jZPjAKr",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746313802515,
+    "modifiedTime": 1746313802515,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!uVMkWVTM4jZPjAKr"
+}

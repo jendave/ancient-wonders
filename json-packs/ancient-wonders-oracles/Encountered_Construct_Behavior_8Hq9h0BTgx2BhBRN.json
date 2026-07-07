@@ -1,0 +1,238 @@
+{
+  "name": "Encountered Construct Behavior",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        30
+      ],
+      "_id": "nQW1OayxIhj2RpHK",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Primary purpose",
+      "name": "",
+      "_key": "!tables.results!8Hq9h0BTgx2BhBRN.nQW1OayxIhj2RpHK"
+    },
+    {
+      "range": [
+        31,
+        50
+      ],
+      "_id": "Jan7KXKMHIxsxhyU",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Secondary purpose",
+      "name": "",
+      "_key": "!tables.results!8Hq9h0BTgx2BhBRN.Jan7KXKMHIxsxhyU"
+    },
+    {
+      "range": [
+        51,
+        65
+      ],
+      "_id": "XvgPy3YsdIXgVfZn",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Moving",
+      "name": "",
+      "_key": "!tables.results!8Hq9h0BTgx2BhBRN.XvgPy3YsdIXgVfZn"
+    },
+    {
+      "range": [
+        66,
+        75
+      ],
+      "_id": "b68PKXvuNJQF8yIX",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Recharging",
+      "name": "",
+      "_key": "!tables.results!8Hq9h0BTgx2BhBRN.b68PKXvuNJQF8yIX"
+    },
+    {
+      "range": [
+        76,
+        85
+      ],
+      "_id": "LzwimF9EAh7UwaaE",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rebooting",
+      "name": "",
+      "_key": "!tables.results!8Hq9h0BTgx2BhBRN.LzwimF9EAh7UwaaE"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "64g21kWQndolWnUK",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Awaiting commands",
+      "name": "",
+      "_key": "!tables.results!8Hq9h0BTgx2BhBRN.64g21kWQndolWnUK"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "bnyDgqfe9As0WIHU",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crashed performing task",
+      "name": "",
+      "_key": "!tables.results!8Hq9h0BTgx2BhBRN.bnyDgqfe9As0WIHU"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "5LjlPTm0LsuufIi0",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Offline",
+      "name": "",
+      "_key": "!tables.results!8Hq9h0BTgx2BhBRN.5LjlPTm0LsuufIi0"
+    }
+  ],
+  "folder": "J715TeOdqxPDq33D",
+  "sort": 1800000,
+  "_id": "8Hq9h0BTgx2BhBRN",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.8Hq9h0BTgx2BhBRN",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746413854523,
+    "modifiedTime": 1746413854523,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!8Hq9h0BTgx2BhBRN"
+}

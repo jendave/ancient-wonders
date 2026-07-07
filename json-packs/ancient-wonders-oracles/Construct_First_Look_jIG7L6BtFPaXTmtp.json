@@ -1,0 +1,1330 @@
+{
+  "name": "Construct First Look",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "5Uv2EHOsnX4BeKft",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Includes fabrics or plastics",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.5Uv2EHOsnX4BeKft"
+    },
+    {
+      "range": [
+        3,
+        4
+      ],
+      "_id": "R6Dz7Xr2IssZ5QUY",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Damaged or dysfunctional",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.R6Dz7Xr2IssZ5QUY"
+    },
+    {
+      "range": [
+        5,
+        6
+      ],
+      "_id": "shk1X1JXzDn6LVgC",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Primitive or rudimentary",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.shk1X1JXzDn6LVgC"
+    },
+    {
+      "range": [
+        7,
+        8
+      ],
+      "_id": "MUX34ys8kFOwt5QP",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leaking coolant or fuel",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.MUX34ys8kFOwt5QP"
+    },
+    {
+      "range": [
+        9,
+        10
+      ],
+      "_id": "7MTIvHruKXfrAxWs",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exposed power source",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.7MTIvHruKXfrAxWs"
+    },
+    {
+      "range": [
+        11,
+        12
+      ],
+      "_id": "nk8wh5YsYLkMe3vs",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Staggered movement",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.nk8wh5YsYLkMe3vs"
+    },
+    {
+      "range": [
+        13,
+        14
+      ],
+      "_id": "ng3NceFh0HLZW0OL",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Missing limbs or parts",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.ng3NceFh0HLZW0OL"
+    },
+    {
+      "range": [
+        15,
+        16
+      ],
+      "_id": "8kvSq4OqP0nQKl4e",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disproportional limbs",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.8kvSq4OqP0nQKl4e"
+    },
+    {
+      "range": [
+        17,
+        18
+      ],
+      "_id": "x4zOYFIy6RBffLyb",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Protruding antennae",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.x4zOYFIy6RBffLyb"
+    },
+    {
+      "range": [
+        19,
+        20
+      ],
+      "_id": "Pmtu4LuHgYfShyIx",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Distinctive markings",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.Pmtu4LuHgYfShyIx"
+    },
+    {
+      "range": [
+        21,
+        22
+      ],
+      "_id": "oAwQlycFZr8C0QLO",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Immobile or trapped",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.oAwQlycFZr8C0QLO"
+    },
+    {
+      "range": [
+        23,
+        24
+      ],
+      "_id": "4Q4RfF9U47VZxNWQ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Remarkably unclean",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.4Q4RfF9U47VZxNWQ"
+    },
+    {
+      "range": [
+        25,
+        26
+      ],
+      "_id": "dzlUxZ0JP04FfDyc",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Visible mechanisms",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.dzlUxZ0JP04FfDyc"
+    },
+    {
+      "range": [
+        27,
+        28
+      ],
+      "_id": "yiierCBDwafa3CWc",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jagged part or parts",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.yiierCBDwafa3CWc"
+    },
+    {
+      "range": [
+        29,
+        30
+      ],
+      "_id": "xhjtleZSaHxIUg0s",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mechanical tendrils",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.xhjtleZSaHxIUg0s"
+    },
+    {
+      "range": [
+        31,
+        32
+      ],
+      "_id": "cWpOvl8IFNiYcSTR",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transparent casing",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.cWpOvl8IFNiYcSTR"
+    },
+    {
+      "range": [
+        33,
+        34
+      ],
+      "_id": "csIw6mZtUVNk4Jd4",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ancient or archaic",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.csIw6mZtUVNk4Jd4"
+    },
+    {
+      "range": [
+        35,
+        36
+      ],
+      "_id": "HnwV2aJhqkgCQmq4",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sparking or arcing",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.HnwV2aJhqkgCQmq4"
+    },
+    {
+      "range": [
+        37,
+        38
+      ],
+      "_id": "wsoO6RPrtggOPWGw",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vibrant coloration",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.wsoO6RPrtggOPWGw"
+    },
+    {
+      "range": [
+        39,
+        40
+      ],
+      "_id": "RkhnbtOsZsgNJSEi",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Distinctive sound",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.RkhnbtOsZsgNJSEi"
+    },
+    {
+      "range": [
+        41,
+        42
+      ],
+      "_id": "k3gOfvQzEWMPdQXN",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multi-segmented",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.k3gOfvQzEWMPdQXN"
+    },
+    {
+      "range": [
+        43,
+        44
+      ],
+      "_id": "1iubXBDNVfH7QETA",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Energy emissions",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.1iubXBDNVfH7QETA"
+    },
+    {
+      "range": [
+        45,
+        46
+      ],
+      "_id": "UtfpCBaInTKGHKiV",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Distinctive smell",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.UtfpCBaInTKGHKiV"
+    },
+    {
+      "range": [
+        47,
+        48
+      ],
+      "_id": "qkAK0BHBd5gHQ5Hh",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Previous repairs",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.qkAK0BHBd5gHQ5Hh"
+    },
+    {
+      "range": [
+        49,
+        50
+      ],
+      "_id": "SnaqMEXg1nceKmxL",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Directional light",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.SnaqMEXg1nceKmxL"
+    },
+    {
+      "range": [
+        51,
+        52
+      ],
+      "_id": "mMq17XA2Dmni75F2",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disparate parts",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.mMq17XA2Dmni75F2"
+    },
+    {
+      "range": [
+        53,
+        54
+      ],
+      "_id": "I1nH1UNoqffKyHfh",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Visible sensors",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.I1nH1UNoqffKyHfh"
+    },
+    {
+      "range": [
+        55,
+        56
+      ],
+      "_id": "TvMN19754xr4HTtQ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blood splatter",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.TvMN19754xr4HTtQ"
+    },
+    {
+      "range": [
+        57,
+        58
+      ],
+      "_id": "LLRXgIc6LOJQnIto",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multi-jointed",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.LLRXgIc6LOJQnIto"
+    },
+    {
+      "range": [
+        59,
+        60
+      ],
+      "_id": "Oz7o04CKeWAG29tO",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Luminescent",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.Oz7o04CKeWAG29tO"
+    },
+    {
+      "range": [
+        61,
+        62
+      ],
+      "_id": "r3v4563QIDM0fhAR",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Plant growth",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.r3v4563QIDM0fhAR"
+    },
+    {
+      "range": [
+        63,
+        64
+      ],
+      "_id": "qive4JjK56dVuItk",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ornamented",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.qive4JjK56dVuItk"
+    },
+    {
+      "range": [
+        65,
+        66
+      ],
+      "_id": "HltzOu197kAptBd7",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bio-mimicry",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.HltzOu197kAptBd7"
+    },
+    {
+      "range": [
+        67,
+        68
+      ],
+      "_id": "CeAIRm9NP16Aph0Y",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extra limbs",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.CeAIRm9NP16Aph0Y"
+    },
+    {
+      "range": [
+        69,
+        70
+      ],
+      "_id": "SfxvBC73zc0IuilM",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vandalized",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.SfxvBC73zc0IuilM"
+    },
+    {
+      "range": [
+        71,
+        72
+      ],
+      "_id": "O5XgsggjkPPDr9HE",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crystalline",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.O5XgsggjkPPDr9HE"
+    },
+    {
+      "range": [
+        73,
+        74
+      ],
+      "_id": "F9TczKEpfphuCnX1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Concealed",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.F9TczKEpfphuCnX1"
+    },
+    {
+      "range": [
+        75,
+        76
+      ],
+      "_id": "tIn9Qxe6KGsQ6pmF",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrupted",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.tIn9Qxe6KGsQ6pmF"
+    },
+    {
+      "range": [
+        77,
+        78
+      ],
+      "_id": "56E1Chr0bWqI6bio",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destroyed",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.56E1Chr0bWqI6bio"
+    },
+    {
+      "range": [
+        79,
+        80
+      ],
+      "_id": "qelUDUWpicIdpioK",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Iridescent",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.qelUDUWpicIdpioK"
+    },
+    {
+      "range": [
+        81,
+        82
+      ],
+      "_id": "mQ7qihiQqpLfN7kN",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Utilitarian",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.mQ7qihiQqpLfN7kN"
+    },
+    {
+      "range": [
+        83,
+        84
+      ],
+      "_id": "02J5G2Jdhoe6U2Yq",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corroded",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.02J5G2Jdhoe6U2Yq"
+    },
+    {
+      "range": [
+        85,
+        86
+      ],
+      "_id": "0IB4ZLfSCSoqC4qj",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shielded",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.0IB4ZLfSCSoqC4qj"
+    },
+    {
+      "range": [
+        87,
+        88
+      ],
+      "_id": "ClpBOJ7gw7B71wI1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Armored",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.ClpBOJ7gw7B71wI1"
+    },
+    {
+      "range": [
+        89,
+        90
+      ],
+      "_id": "pOlvhtA79cWo4ZzA",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Beautiful",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.pOlvhtA79cWo4ZzA"
+    },
+    {
+      "range": [
+        91,
+        92
+      ],
+      "_id": "FJJymMaoXnSsoGSD",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Graceful",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.FJJymMaoXnSsoGSD"
+    },
+    {
+      "range": [
+        93,
+        94
+      ],
+      "_id": "BeWldZuEPQmM0EZD",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pristine",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.BeWldZuEPQmM0EZD"
+    },
+    {
+      "range": [
+        95,
+        96
+      ],
+      "_id": "ZAhKKG4ZEIKUw1xN",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Painted",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.ZAhKKG4ZEIKUw1xN"
+    },
+    {
+      "range": [
+        97,
+        98
+      ],
+      "_id": "ZIFPPmdnjBg7zmHm",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fragile",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.ZIFPPmdnjBg7zmHm"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "RNDUiM8rvAOvQN1V",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bulky",
+      "name": "",
+      "_key": "!tables.results!jIG7L6BtFPaXTmtp.RNDUiM8rvAOvQN1V"
+    }
+  ],
+  "folder": "J715TeOdqxPDq33D",
+  "sort": 1700000,
+  "_id": "jIG7L6BtFPaXTmtp",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.jIG7L6BtFPaXTmtp",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746413854523,
+    "modifiedTime": 1746413854523,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!jIG7L6BtFPaXTmtp"
+}

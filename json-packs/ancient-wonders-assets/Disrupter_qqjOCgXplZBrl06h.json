@@ -1,0 +1,79 @@
+{
+  "type": "asset",
+  "folder": "bOcZzkQSUb3oUpS2",
+  "name": "Disrupter",
+  "system": {
+    "requirement": "",
+    "category": "Item - Tool",
+    "color": "#3d8b8a",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>The disrupter can store up to 3 energy. When you charge it, roll +wits. On a strong hit, take +3 energy. On a weak hit, take +2. When you fire the disrupter's tether to sabotage a device or vehicle, roll +energy. Then, suffer -1 energy.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you charge the disrupter, you may reroll your action die. When you make a move using this tool, take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you make a move using the disrupter to snare a machine or object, consider if the tool is charged with enough energy to carry the weight of the object (heavy=3; medium=2; light=1). If it does, roll +energy. Then, suffer -energy as per the weight.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "description": "<p>When you make a move to inflict harm with the disrupter, reroll your action die if its value is less than the energy +2.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Energy",
+      "current": 0,
+      "max": 3,
+      "value": 3,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "<p>A device that fires an electromagnetic tether.</p>"
+  },
+  "img": "modules/ancient-wonders/assets/magnet-blast.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747104900887,
+    "modifiedTime": 1764468436923,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "qqjOCgXplZBrl06h",
+  "sort": 0,
+  "_key": "!items!qqjOCgXplZBrl06h"
+}

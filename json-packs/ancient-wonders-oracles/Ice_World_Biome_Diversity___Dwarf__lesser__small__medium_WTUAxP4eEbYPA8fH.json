@@ -1,0 +1,160 @@
+{
+  "name": "Ice World Biome Diversity - Dwarf, lesser, small, medium",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        45
+      ],
+      "_id": "QpKBcLrFqyfoTfEz",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mono (one biome)",
+      "name": "",
+      "_key": "!tables.results!WTUAxP4eEbYPA8fH.QpKBcLrFqyfoTfEz"
+    },
+    {
+      "range": [
+        46,
+        75
+      ],
+      "_id": "Sfm3leOce0X7ENcA",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Simple (two biomes)",
+      "name": "",
+      "_key": "!tables.results!WTUAxP4eEbYPA8fH.Sfm3leOce0X7ENcA"
+    },
+    {
+      "range": [
+        76,
+        90
+      ],
+      "_id": "cMeTKjBtVwz9Xgzj",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Diverse (three biomes)",
+      "name": "",
+      "_key": "!tables.results!WTUAxP4eEbYPA8fH.cMeTKjBtVwz9Xgzj"
+    },
+    {
+      "range": [
+        91,
+        98
+      ],
+      "_id": "kpMn1J4wu2qZ6uqQ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Complex (four biomes)",
+      "name": "",
+      "_key": "!tables.results!WTUAxP4eEbYPA8fH.kpMn1J4wu2qZ6uqQ"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "bKrg4Nx1epmg7qYt",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intricate (five biomes)",
+      "name": "",
+      "_key": "!tables.results!WTUAxP4eEbYPA8fH.bKrg4Nx1epmg7qYt"
+    }
+  ],
+  "folder": "FihhzdgG6Tlxel9Q",
+  "sort": 1,
+  "_id": "WTUAxP4eEbYPA8fH",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745214414983,
+    "modifiedTime": 1745214414983,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!WTUAxP4eEbYPA8fH"
+}

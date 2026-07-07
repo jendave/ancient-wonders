@@ -1,0 +1,290 @@
+{
+  "name": "Chemical World Biome Feature - Hydrocarbon",
+  "formula": "1d100",
+  "description": "<p>Desolate rocky terrains eroded by wind and ice.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "FPaHc5BPLOimPmq2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blustering winds",
+      "name": "",
+      "_key": "!tables.results!vE3sZ40ewq7hzHHP.FPaHc5BPLOimPmq2"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "s557hiRv1Qk4tLSG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cavernous sinkholes or fissures",
+      "name": "",
+      "_key": "!tables.results!vE3sZ40ewq7hzHHP.s557hiRv1Qk4tLSG"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "pgf2tunG42QXoJx9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enormous mountain ranges",
+      "name": "",
+      "_key": "!tables.results!vE3sZ40ewq7hzHHP.pgf2tunG42QXoJx9"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "H7uxq6xuG2d8qzVu",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fields of imposing rocky spires",
+      "name": "",
+      "_key": "!tables.results!vE3sZ40ewq7hzHHP.H7uxq6xuG2d8qzVu"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "6dmyKhicJ3OiszOg",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flatlands littered with ice",
+      "name": "",
+      "_key": "!tables.results!vE3sZ40ewq7hzHHP.6dmyKhicJ3OiszOg"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "8BaHTt3i8A33wmDU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Frequent and heavy rainfall",
+      "name": "",
+      "_key": "!tables.results!vE3sZ40ewq7hzHHP.8BaHTt3i8A33wmDU"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "Ls7yDRJxeXAmLDki",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rivers littered with broken ice",
+      "name": "",
+      "_key": "!tables.results!vE3sZ40ewq7hzHHP.Ls7yDRJxeXAmLDki"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "L3gVq60yGHI6bCSD",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Streams spanning cracked rocky plains",
+      "name": "",
+      "_key": "!tables.results!vE3sZ40ewq7hzHHP.L3gVq60yGHI6bCSD"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "lSkUm3viP0dDIHMi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Valleys carved megalithic glaciers",
+      "name": "",
+      "_key": "!tables.results!vE3sZ40ewq7hzHHP.lSkUm3viP0dDIHMi"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "FG9dU6AkfYwNBggN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vast misty lakes",
+      "name": "",
+      "_key": "!tables.results!vE3sZ40ewq7hzHHP.FG9dU6AkfYwNBggN"
+    }
+  ],
+  "folder": "bfU9msCL4HxpF6vZ",
+  "sort": 1000000,
+  "_id": "vE3sZ40ewq7hzHHP",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745171240939,
+    "modifiedTime": 1745171240939,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!vE3sZ40ewq7hzHHP"
+}

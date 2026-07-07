@@ -1,0 +1,72 @@
+{
+  "type": "asset",
+  "folder": "bOcZzkQSUb3oUpS2",
+  "name": "Bioprocessor",
+  "system": {
+    "requirement": "",
+    "category": "Item - Tool",
+    "color": "#3d8b8a",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you feed the tool with unprocessed organic matter, @Compendium[foundry-ironsworn.starforgedmoves.Item.0fcfea7696d1de15]{Sacrifice Resources} (-1) and roll +wits. On a strong hit, take +4 nutrition. On a weak hit, take +2. Then, when you @Compendium[foundry-ironsworn.starforgedmoves.Item.0fcfea7696d1de15]{Sacrifice Resources} that are potable water or nutrition, you may instead suffer -ration for any portion of the cost.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.c2c2f31f564caa06]{Hearten} consuming a created ration, add +1 and suffer -1 ration.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>The bioprocessor can turn inedible organic samples into a consumable that enhances capabilities. When you feed the tool for this purpose, @Compendium[foundry-ironsworn.starforgedmoves.Item.0fcfea7696d1de15]{Sacrifice Resources} (-3). Then, determine the stat to affect. On a hit, you have a single special ration. The character that consumes it may add +1 when making moves with the stat until they roll a 1 on their action die. On a strong hit, also take +1 momentum.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Nutrition",
+      "current": 0,
+      "max": 4,
+      "value": 4,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "<p>A converter of organic materials into edibles.</p>"
+  },
+  "img": "modules/ancient-wonders/assets/oat.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747035144627,
+    "modifiedTime": 1764468248964,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "z0a1G8zebOoSZ8DJ",
+  "sort": 0,
+  "_key": "!items!z0a1G8zebOoSZ8DJ"
+}

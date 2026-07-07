@@ -1,0 +1,290 @@
+{
+  "name": "Kintsugi World Landscape Style",
+  "formula": "1d100",
+  "description": "<p>You may use the table below whenever you encounter any artwork, human or precursor, to envision its appearance.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "BoNfI9Qm73XZB1sF",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cave / Figurative representations in ochre or red",
+      "name": "",
+      "_key": "!tables.results!IK1rBfAMNGFrU3N5.BoNfI9Qm73XZB1sF"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "6eUkrZ7GhHG4ZYNl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cubism / Fragmentation by strong angles and lines",
+      "name": "",
+      "_key": "!tables.results!IK1rBfAMNGFrU3N5.6eUkrZ7GhHG4ZYNl"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "qS2Bm0anPBAqk9iE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fractal art / Mathematical precision and patterns",
+      "name": "",
+      "_key": "!tables.results!IK1rBfAMNGFrU3N5.qS2Bm0anPBAqk9iE"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "GGinBKBi8RVtCrLB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hyperrealism / Emphasis on highlighting details",
+      "name": "",
+      "_key": "!tables.results!IK1rBfAMNGFrU3N5.GGinBKBi8RVtCrLB"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "UllyZrvl504Q2bG3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nouveau / Abstractions into sinuous, flowing forms",
+      "name": "",
+      "_key": "!tables.results!IK1rBfAMNGFrU3N5.UllyZrvl504Q2bG3"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "PpkbX6UGK4gYuKGG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Optical / Subverting viewer expectations",
+      "name": "",
+      "_key": "!tables.results!IK1rBfAMNGFrU3N5.PpkbX6UGK4gYuKGG"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "BXEADbV17GhzI6TI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pointillism / Small dots or spheres in patterns",
+      "name": "",
+      "_key": "!tables.results!IK1rBfAMNGFrU3N5.BXEADbV17GhzI6TI"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "UJYBxDKqG1e1riJI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Suprematism / The fundamentals of geometry",
+      "name": "",
+      "_key": "!tables.results!IK1rBfAMNGFrU3N5.UJYBxDKqG1e1riJI"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "rgwTr3b9DHp5RHsj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surrealism / Unnerving, oniric, or illogical depictions",
+      "name": "",
+      "_key": "!tables.results!IK1rBfAMNGFrU3N5.rgwTr3b9DHp5RHsj"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "LO4XGfEHJ4f27FeJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ukiyo-e / Flat depictions in three-dimensions",
+      "name": "",
+      "_key": "!tables.results!IK1rBfAMNGFrU3N5.LO4XGfEHJ4f27FeJ"
+    }
+  ],
+  "folder": "QYJDtxrcH8LiBWBc",
+  "sort": 0,
+  "_id": "IK1rBfAMNGFrU3N5",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745897702899,
+    "modifiedTime": 1745897702899,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!IK1rBfAMNGFrU3N5"
+}

@@ -1,0 +1,134 @@
+{
+  "name": "Asteroid Belts Quantity",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        25
+      ],
+      "_id": "j6uNwHzN9bJGBBVT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "No asteroid belts",
+      "name": "",
+      "_key": "!tables.results!Aj99BMUU7JHfFLlh.j6uNwHzN9bJGBBVT"
+    },
+    {
+      "range": [
+        26,
+        75
+      ],
+      "_id": "SAfV3SSW2PkOYagz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "One asteroid belt",
+      "name": "",
+      "_key": "!tables.results!Aj99BMUU7JHfFLlh.SAfV3SSW2PkOYagz"
+    },
+    {
+      "range": [
+        76,
+        95
+      ],
+      "_id": "1EKUmphocNctMRIR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Two asteroid belts",
+      "name": "",
+      "_key": "!tables.results!Aj99BMUU7JHfFLlh.1EKUmphocNctMRIR"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "cFfCVIFYG2ffDAed",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Three asteroid belts",
+      "name": "",
+      "_key": "!tables.results!Aj99BMUU7JHfFLlh.cFfCVIFYG2ffDAed"
+    }
+  ],
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>Roll on this table to identify the occurrence of asteroid belts in the solar system.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "aj3iyWvQqHmshfmS",
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743224407758,
+    "modifiedTime": 1744955999319,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "Aj99BMUU7JHfFLlh",
+  "sort": 400000,
+  "_key": "!tables!Aj99BMUU7JHfFLlh"
+}

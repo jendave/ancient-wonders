@@ -1,0 +1,22 @@
+{
+  "name": "Failing Forward",
+  "sorting": "m",
+  "folder": null,
+  "type": "Item",
+  "_id": "swYFk3DTd5QHrK7G",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746487439950,
+    "modifiedTime": 1746487439950,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!swYFk3DTd5QHrK7G"
+}

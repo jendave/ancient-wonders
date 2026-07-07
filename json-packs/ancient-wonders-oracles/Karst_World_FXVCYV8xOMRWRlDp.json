@@ -1,0 +1,22 @@
+{
+  "name": "Karst World",
+  "sorting": "m",
+  "folder": "GvsmSMYbvgjEYSQc",
+  "type": "RollTable",
+  "_id": "FXVCYV8xOMRWRlDp",
+  "description": "",
+  "sort": 1200000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": null,
+    "modifiedTime": 1745268556805,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!FXVCYV8xOMRWRlDp"
+}

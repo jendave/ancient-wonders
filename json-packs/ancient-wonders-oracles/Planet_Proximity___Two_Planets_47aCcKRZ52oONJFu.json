@@ -1,0 +1,82 @@
+{
+  "name": "Planet Proximity - Two Planets",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        25
+      ],
+      "_id": "FsWWUbDTWM38AFcF",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1st",
+      "name": "",
+      "_key": "!tables.results!47aCcKRZ52oONJFu.FsWWUbDTWM38AFcF"
+    },
+    {
+      "range": [
+        26,
+        100
+      ],
+      "_id": "ARDVHE9p2UWwicOx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "2nd",
+      "name": "",
+      "_key": "!tables.results!47aCcKRZ52oONJFu.ARDVHE9p2UWwicOx"
+    }
+  ],
+  "folder": "41sU9W41ZYPNEZO9",
+  "sort": 100000,
+  "_id": "47aCcKRZ52oONJFu",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>Each column of the table below corresponds to the number of planets in the solar system. On the other side, the result is the proximity of the planet to the stellar object, not the orbit in which they reside. A planet in the 1st proximity is the one in the nearest orbit to the stellar object, whereas the planet in the 2nd or higher proximity is the one in a farther orbit.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.47aCcKRZ52oONJFu",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743226623051,
+    "modifiedTime": 1743226679768,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!47aCcKRZ52oONJFu"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Quantity Of Megastructures",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "7szeNgIZ8ptuarAX",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": null,
+    "modifiedTime": 1745559245954,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!7szeNgIZ8ptuarAX"
+}

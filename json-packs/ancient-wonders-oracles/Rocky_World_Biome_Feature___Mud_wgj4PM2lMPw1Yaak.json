@@ -1,0 +1,342 @@
+{
+  "name": "Rocky World Biome Feature - Mud",
+  "formula": "1d100",
+  "description": "<p>Heavily water-logged silt and soil engulf the landscape.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        8
+      ],
+      "_id": "hjfBiX5YfaSn6DHz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bubbling and grimy geothermal springs",
+      "name": "",
+      "_key": "!tables.results!wgj4PM2lMPw1Yaak.hjfBiX5YfaSn6DHz"
+    },
+    {
+      "range": [
+        9,
+        16
+      ],
+      "_id": "igM0cAfyoRxgAuWG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flooded or submerged caves",
+      "name": "",
+      "_key": "!tables.results!wgj4PM2lMPw1Yaak.igM0cAfyoRxgAuWG"
+    },
+    {
+      "range": [
+        17,
+        24
+      ],
+      "_id": "VGIl699v8cOfJ6Hc",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geysers erupting mud or water",
+      "name": "",
+      "_key": "!tables.results!wgj4PM2lMPw1Yaak.VGIl699v8cOfJ6Hc"
+    },
+    {
+      "range": [
+        25,
+        32
+      ],
+      "_id": "alZRiFZGMerIvtEW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Massive extinct calderas",
+      "name": "",
+      "_key": "!tables.results!wgj4PM2lMPw1Yaak.alZRiFZGMerIvtEW"
+    },
+    {
+      "range": [
+        33,
+        40
+      ],
+      "_id": "6JInHXlwCNVlZFNw",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Meandering mudflows",
+      "name": "",
+      "_key": "!tables.results!wgj4PM2lMPw1Yaak.6JInHXlwCNVlZFNw"
+    },
+    {
+      "range": [
+        41,
+        48
+      ],
+      "_id": "dT7gjdb121XXvz0V",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Murky seas or lakes",
+      "name": "",
+      "_key": "!tables.results!wgj4PM2lMPw1Yaak.dT7gjdb121XXvz0V"
+    },
+    {
+      "range": [
+        49,
+        56
+      ],
+      "_id": "fPtCGZcfuLY9ktyp",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Partially submerged skeletal remains",
+      "name": "",
+      "_key": "!tables.results!wgj4PM2lMPw1Yaak.fPtCGZcfuLY9ktyp"
+    },
+    {
+      "range": [
+        57,
+        64
+      ],
+      "_id": "nEcrsVsPImTn3oFA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Plains of dry and cracked mud",
+      "name": "",
+      "_key": "!tables.results!wgj4PM2lMPw1Yaak.nEcrsVsPImTn3oFA"
+    },
+    {
+      "range": [
+        65,
+        72
+      ],
+      "_id": "EkbhCCjw3GSYRQz3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rocky outcrops bordered by mudflats",
+      "name": "",
+      "_key": "!tables.results!wgj4PM2lMPw1Yaak.EkbhCCjw3GSYRQz3"
+    },
+    {
+      "range": [
+        73,
+        80
+      ],
+      "_id": "ag1K300HaMDqTMQx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Steam clouds rising from sodden terrain",
+      "name": "",
+      "_key": "!tables.results!wgj4PM2lMPw1Yaak.ag1K300HaMDqTMQx"
+    },
+    {
+      "range": [
+        81,
+        88
+      ],
+      "_id": "Hebw3im4oGZHGPqv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Violent flashfloods or rainfall",
+      "name": "",
+      "_key": "!tables.results!wgj4PM2lMPw1Yaak.Hebw3im4oGZHGPqv"
+    },
+    {
+      "range": [
+        89,
+        100
+      ],
+      "_id": "1h9j8BYuYTwZlHNo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transition into a new &gt;Biome",
+      "name": "",
+      "_key": "!tables.results!wgj4PM2lMPw1Yaak.1h9j8BYuYTwZlHNo"
+    }
+  ],
+  "folder": "jgZy24x8EAmoCjSL",
+  "sort": 15,
+  "_id": "wgj4PM2lMPw1Yaak",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745348324737,
+    "modifiedTime": 1745348324737,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!wgj4PM2lMPw1Yaak"
+}

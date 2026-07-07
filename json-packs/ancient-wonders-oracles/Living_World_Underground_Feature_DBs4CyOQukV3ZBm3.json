@@ -1,0 +1,1278 @@
+{
+  "name": "Living World Underground Feature",
+  "formula": "1d100",
+  "description": "<p>Use these oracles to detail the environment when exploring the underground of a living world.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "r06tksEnKppCYYEv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bridge-like tendons",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.r06tksEnKppCYYEv"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "jjLLQcsIxdnDJhlH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Conglomerates of tendons and ligaments",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.jjLLQcsIxdnDJhlH"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "dweZmlL9jqQpYpJK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Formation of mineralized tissue",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.dweZmlL9jqQpYpJK"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "Iinr9Jzw6ojz1N1n",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corroded entry",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.Iinr9Jzw6ojz1N1n"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "6yBVhqJ7aFvh8GhQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intersecting passages of osseous tissue",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.6yBVhqJ7aFvh8GhQ"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "vwYU0r88MJlR0xj3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bridge-like osseous tissue",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.vwYU0r88MJlR0xj3"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "xFXs1R3ElpCALxwL",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Osseous tissue resembling columns or beams",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.xFXs1R3ElpCALxwL"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "COhONUDR72oeBVJF",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Calcified surfaces",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.COhONUDR72oeBVJF"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "3wOxG93cTFr5arD8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Curtains of dangling nervous fiber",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.3wOxG93cTFr5arD8"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "8fBGco6hr1j8q1rI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blood river",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.8fBGco6hr1j8q1rI"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "VH6DLqIwDcLh3ZRC",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blood lake",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.VH6DLqIwDcLh3ZRC"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "zs1TqwPQZexYuR8m",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Labyrinth made of osseous tissue",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.zs1TqwPQZexYuR8m"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "50BIuE17uLt07L7a",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "River of excretion",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.50BIuE17uLt07L7a"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "8Z6LbYfrkF2LQ6rb",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stairway-like cavity",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.8Z6LbYfrkF2LQ6rb"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "AYJEizKn72Z10DXX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dangling climbing tissue",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.AYJEizKn72Z10DXX"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "WorhydxbwQj5dQ0O",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bundle of fluid sacs",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.WorhydxbwQj5dQ0O"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "LX6zPYK9LjPwBsS9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rush of hot air",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.LX6zPYK9LjPwBsS9"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "ofXPMSEBs0KsbA6H",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surfaces honeycombed with holes",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.ofXPMSEBs0KsbA6H"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "qLi9jXIEQ63zxRul",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Secretion lake",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.qLi9jXIEQ63zxRul"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "zDeBPx1pcOGyzyu7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Secretion river",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.zDeBPx1pcOGyzyu7"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "LJkGeK9WfqxjW0BI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "High concentration of mucus or secretion",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.LJkGeK9WfqxjW0BI"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "sr8F9PBPAS9yzaki",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Viscous, coagulating pools",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.sr8F9PBPAS9yzaki"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "UxMCMzMvlQs5xs2u",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vertical chimney-like cavity",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.UxMCMzMvlQs5xs2u"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "SRAUeyYcEBvLJ1HW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surfaces covered in lymphatic or synovial liquid",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.SRAUeyYcEBvLJ1HW"
+    },
+    {
+      "range": [
+        25,
+        26
+      ],
+      "_id": "9j2nxMh2zlclwY0i",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blood vessels or tubes",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.9j2nxMh2zlclwY0i"
+    },
+    {
+      "range": [
+        27,
+        28
+      ],
+      "_id": "9dcQ8nqMQbYYrK2k",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clouds of fetid gases",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.9dcQ8nqMQbYYrK2k"
+    },
+    {
+      "range": [
+        29,
+        30
+      ],
+      "_id": "mEMbVDpQ0wFB0BMm",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Colony of parasitic lifeforms",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.mEMbVDpQ0wFB0BMm"
+    },
+    {
+      "range": [
+        31,
+        32
+      ],
+      "_id": "iWtrLeRhvMPXhJ0g",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dilated openings",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.iWtrLeRhvMPXhJ0g"
+    },
+    {
+      "range": [
+        33,
+        34
+      ],
+      "_id": "C15KnsOBmM1MCLXQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "High fat concentration",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.C15KnsOBmM1MCLXQ"
+    },
+    {
+      "range": [
+        35,
+        36
+      ],
+      "_id": "OmyzKA4QmnonulUo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Humid, dripping environment",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.OmyzKA4QmnonulUo"
+    },
+    {
+      "range": [
+        37,
+        38
+      ],
+      "_id": "HOGfL0Zco1yu3YcW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Partially digested artificial object",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.HOGfL0Zco1yu3YcW"
+    },
+    {
+      "range": [
+        39,
+        40
+      ],
+      "_id": "3yp2BpFkoWbVXhPw",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Popping and cracking noises",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.3yp2BpFkoWbVXhPw"
+    },
+    {
+      "range": [
+        41,
+        42
+      ],
+      "_id": "u4OB8Fy1jXItOiFe",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Steep, muggy escarpment",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.u4OB8Fy1jXItOiFe"
+    },
+    {
+      "range": [
+        43,
+        44
+      ],
+      "_id": "UeoHtmStiAKwFPg9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surfaces covered in secretion",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.UeoHtmStiAKwFPg9"
+    },
+    {
+      "range": [
+        45,
+        46
+      ],
+      "_id": "AIpebrbSSvaq2mW4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tight squeeze",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.AIpebrbSSvaq2mW4"
+    },
+    {
+      "range": [
+        47,
+        48
+      ],
+      "_id": "WOcz2WyaP2sRkbYU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trail or splashes of blood",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.WOcz2WyaP2sRkbYU"
+    },
+    {
+      "range": [
+        49,
+        50
+      ],
+      "_id": "gaY5GUn2aTKnnc1r",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Twitching and squeezing noises",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.gaY5GUn2aTKnnc1r"
+    },
+    {
+      "range": [
+        51,
+        53
+      ],
+      "_id": "G125KXwAlu2juXw8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gonad-like organ",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.G125KXwAlu2juXw8"
+    },
+    {
+      "range": [
+        54,
+        56
+      ],
+      "_id": "c2fM8kfTOT99rNJJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thymus-like organ",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.c2fM8kfTOT99rNJJ"
+    },
+    {
+      "range": [
+        57,
+        59
+      ],
+      "_id": "VDug6tdz3I660Kdx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gallbladder-like organ",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.VDug6tdz3I660Kdx"
+    },
+    {
+      "range": [
+        60,
+        62
+      ],
+      "_id": "xDqbldYl4LrJUG4R",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spleen-like organ",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.xDqbldYl4LrJUG4R"
+    },
+    {
+      "range": [
+        63,
+        65
+      ],
+      "_id": "fOiqR8tOUlzHVZbs",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tonsil-like organ",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.fOiqR8tOUlzHVZbs"
+    },
+    {
+      "range": [
+        66,
+        68
+      ],
+      "_id": "HZYisUobhPSPry0V",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pancreas-like organ",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.HZYisUobhPSPry0V"
+    },
+    {
+      "range": [
+        69,
+        73
+      ],
+      "_id": "Z2KCmTpKhk4PbAWZ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bladder-like organ",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.Z2KCmTpKhk4PbAWZ"
+    },
+    {
+      "range": [
+        74,
+        79
+      ],
+      "_id": "NP55AYGNuZAZHtsG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ureter or urethra",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.NP55AYGNuZAZHtsG"
+    },
+    {
+      "range": [
+        80,
+        85
+      ],
+      "_id": "X2LTDA5xyzTY9La1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intestine or bowel",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.X2LTDA5xyzTY9La1"
+    },
+    {
+      "range": [
+        86,
+        95
+      ],
+      "_id": "HddSEbqO2RbvahkG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gland-like organ",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.HddSEbqO2RbvahkG"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "cf6O75kYy2gVJSpj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Descriptor + Focus; pg 13",
+      "name": "",
+      "_key": "!tables.results!DBs4CyOQukV3ZBm3.cf6O75kYy2gVJSpj"
+    }
+  ],
+  "folder": "7yP7GU5RkbnYXOd3",
+  "sort": 10,
+  "_id": "DBs4CyOQukV3ZBm3",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745289001127,
+    "modifiedTime": 1745289001127,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!DBs4CyOQukV3ZBm3"
+}

@@ -1,0 +1,894 @@
+{
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Oracles/Factions/Projects",
+      "category": "Starforged/Oracles/Factions",
+      "dsid": "oracle_rollable:starforged/faction/projects"
+    }
+  },
+  "name": "Faction Projects",
+  "description": "",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "range": [
+        1,
+        3
+      ],
+      "_id": "665d51fcf19cbfac",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Broaden scope of the faction to include a new focus",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.665d51fcf19cbfac"
+    },
+    {
+      "range": [
+        4,
+        6
+      ],
+      "_id": "17d36d53eee3b93f",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Build or secure a powerful device",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.17d36d53eee3b93f"
+    },
+    {
+      "range": [
+        7,
+        9
+      ],
+      "_id": "20f0bb5a35dab5b8",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Consolidate control of a valuable commodity",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.20f0bb5a35dab5b8"
+    },
+    {
+      "range": [
+        10,
+        12
+      ],
+      "_id": "302756593cbe251c",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destroy or defeat a rival",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.302756593cbe251c"
+    },
+    {
+      "range": [
+        13,
+        15
+      ],
+      "_id": "9e9d83907b8b192f",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disrupt the operations of a rival",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.9e9d83907b8b192f"
+    },
+    {
+      "range": [
+        16,
+        18
+      ],
+      "_id": "8187c61552263cdf",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Escape the control of another faction or power",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.8187c61552263cdf"
+    },
+    {
+      "range": [
+        19,
+        21
+      ],
+      "_id": "33b92eab6621da82",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Establish a monument or memorial",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.33b92eab6621da82"
+    },
+    {
+      "range": [
+        22,
+        24
+      ],
+      "_id": "b1ca3dab269d636c",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Establish a safe refuge or headquarters",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.b1ca3dab269d636c"
+    },
+    {
+      "range": [
+        25,
+        27
+      ],
+      "_id": "95d3f4b8e378c063",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expand operations to a new location or sector",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.95d3f4b8e378c063"
+    },
+    {
+      "range": [
+        28,
+        30
+      ],
+      "_id": "db4bf5083d96266a",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Form an alliance",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.db4bf5083d96266a"
+    },
+    {
+      "range": [
+        31,
+        33
+      ],
+      "_id": "ed644108e87ca308",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fulfill a prophecy",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.ed644108e87ca308"
+    },
+    {
+      "range": [
+        34,
+        36
+      ],
+      "_id": "de8ff71fa09c3eeb",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Give aid to a faction",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.de8ff71fa09c3eeb"
+    },
+    {
+      "range": [
+        37,
+        39
+      ],
+      "_id": "edbeb286888d89f4",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Harness unnatural or forbidden power",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.edbeb286888d89f4"
+    },
+    {
+      "range": [
+        40,
+        42
+      ],
+      "_id": "3736e77d9e82bf6e",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hunt down a rogue asset",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.3736e77d9e82bf6e"
+    },
+    {
+      "range": [
+        43,
+        45
+      ],
+      "_id": "c3c96ce4f50cd9a2",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Incite conflict among rivals",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.c3c96ce4f50cd9a2"
+    },
+    {
+      "range": [
+        46,
+        48
+      ],
+      "_id": "4c3b6b8cd2f0322b",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Negotiate an agreement",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.4c3b6b8cd2f0322b"
+    },
+    {
+      "range": [
+        49,
+        51
+      ],
+      "_id": "7ada4cc8adc7e57b",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Obtain a needed commodity",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.7ada4cc8adc7e57b"
+    },
+    {
+      "range": [
+        52,
+        54
+      ],
+      "_id": "7145803c6dc9a089",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Obtain an important cultural artifact",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.7145803c6dc9a089"
+    },
+    {
+      "range": [
+        55,
+        57
+      ],
+      "_id": "5542654c515a6d18",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Obtain crucial data or information",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.5542654c515a6d18"
+    },
+    {
+      "range": [
+        58,
+        60
+      ],
+      "_id": "e94e40ffe2d8b585",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Obtain incriminating information about a rival",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.e94e40ffe2d8b585"
+    },
+    {
+      "range": [
+        61,
+        63
+      ],
+      "_id": "98973e86a535a42d",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prevent a prophecy",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.98973e86a535a42d"
+    },
+    {
+      "range": [
+        64,
+        66
+      ],
+      "_id": "60901592cae71dd2",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Put down an internal revolt or rebellion",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.60901592cae71dd2"
+    },
+    {
+      "range": [
+        67,
+        69
+      ],
+      "_id": "0a78807c39e53c79",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Repay a debt",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.0a78807c39e53c79"
+    },
+    {
+      "range": [
+        70,
+        72
+      ],
+      "_id": "eec8ded133388fcf",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rescue or recover a group or asset",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.eec8ded133388fcf"
+    },
+    {
+      "range": [
+        73,
+        75
+      ],
+      "_id": "7672fac8ad4f0a47",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Research an innovation",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.7672fac8ad4f0a47"
+    },
+    {
+      "range": [
+        76,
+        78
+      ],
+      "_id": "eb5b9e03a5a65ce0",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Resolve a conflict with another faction",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.eb5b9e03a5a65ce0"
+    },
+    {
+      "range": [
+        79,
+        81
+      ],
+      "_id": "96b7d3a7eeb926ac",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reunite splintered elements of the faction",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.96b7d3a7eeb926ac"
+    },
+    {
+      "range": [
+        82,
+        84
+      ],
+      "_id": "a63d9b0a82438e31",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Seize a powerful artifact or valuable treasure",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.a63d9b0a82438e31"
+    },
+    {
+      "range": [
+        85,
+        87
+      ],
+      "_id": "353575e8784cb3f8",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Seize rival territory or operations",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.353575e8784cb3f8"
+    },
+    {
+      "range": [
+        88,
+        90
+      ],
+      "_id": "11fbd5b848f86c1f",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Subsume another faction",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.11fbd5b848f86c1f"
+    },
+    {
+      "range": [
+        91,
+        93
+      ],
+      "_id": "cbecbb1451f5ca6a",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transport a valued asset",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.cbecbb1451f5ca6a"
+    },
+    {
+      "range": [
+        94,
+        96
+      ],
+      "_id": "3014430b51fd6ea9",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Usurp leadership within a rival faction",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.3014430b51fd6ea9"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "dcc3f42b12bf404a",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@Compendium[foundry-ironsworn.starforgedoracles.b347a87fb81a3abb]{Action} + @Compendium[foundry-ironsworn.starforgedoracles.0c5ce82c7adbb4e2]{Theme}",
+      "name": "",
+      "_key": "!tables.results!HZoMadnh4SLozBOv.dcc3f42b12bf404a"
+    }
+  ],
+  "folder": "Vxxnc89YzwMyYvbP",
+  "img": "icons/dice/d10black.svg",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747787324707,
+    "modifiedTime": 1747787324707,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "HZoMadnh4SLozBOv",
+  "sort": 0,
+  "_key": "!tables!HZoMadnh4SLozBOv"
+}

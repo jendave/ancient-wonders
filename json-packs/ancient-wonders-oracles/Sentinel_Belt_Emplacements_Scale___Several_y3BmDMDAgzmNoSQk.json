@@ -1,0 +1,160 @@
+{
+  "name": "Sentinel Belt Emplacements Scale - Several",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        13
+      ],
+      "_id": "MwNzdmKVyXogP2ay",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large",
+      "name": "",
+      "_key": "!tables.results!y3BmDMDAgzmNoSQk.MwNzdmKVyXogP2ay"
+    },
+    {
+      "range": [
+        14,
+        31
+      ],
+      "_id": "VvXjXxaRX50X3vh0",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Huge",
+      "name": "",
+      "_key": "!tables.results!y3BmDMDAgzmNoSQk.VvXjXxaRX50X3vh0"
+    },
+    {
+      "range": [
+        32,
+        54
+      ],
+      "_id": "s5hAOwg3ard1p03w",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expansive",
+      "name": "",
+      "_key": "!tables.results!y3BmDMDAgzmNoSQk.s5hAOwg3ard1p03w"
+    },
+    {
+      "range": [
+        55,
+        82
+      ],
+      "_id": "1TFcisdt08EY48cE",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Colossal",
+      "name": "",
+      "_key": "!tables.results!y3BmDMDAgzmNoSQk.1TFcisdt08EY48cE"
+    },
+    {
+      "range": [
+        83,
+        100
+      ],
+      "_id": "4XA5faAnlNlRqbxj",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overrun",
+      "name": "",
+      "_key": "!tables.results!y3BmDMDAgzmNoSQk.4XA5faAnlNlRqbxj"
+    }
+  ],
+  "folder": "fd5l5Oi1WXzqF2JY",
+  "sort": 1,
+  "_id": "y3BmDMDAgzmNoSQk",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1746059850465,
+    "modifiedTime": 1746059850465,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!y3BmDMDAgzmNoSQk"
+}

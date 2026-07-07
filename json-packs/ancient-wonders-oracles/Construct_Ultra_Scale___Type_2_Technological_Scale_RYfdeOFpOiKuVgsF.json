@@ -1,0 +1,110 @@
+{
+  "name": "Construct Ultra-Scale - Type 2 Technological Scale",
+  "formula": "1d100",
+  "description": "<p>Reference the No Megastructures column if you are not using the content from Chapter 4.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "g184Tjqvj0LbYLPs",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1763695364318,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Vast</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!RYfdeOFpOiKuVgsF.g184Tjqvj0LbYLPs"
+    },
+    {
+      "range": [
+        2,
+        11
+      ],
+      "_id": "uJ3mhWzEPZjiXejd",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Colossal",
+      "name": "",
+      "_key": "!tables.results!RYfdeOFpOiKuVgsF.uJ3mhWzEPZjiXejd"
+    },
+    {
+      "range": [
+        12,
+        100
+      ],
+      "_id": "vz7zjaRnlg6cSXxD",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1763695371138,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Titanic</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!RYfdeOFpOiKuVgsF.vz7zjaRnlg6cSXxD"
+    }
+  ],
+  "folder": "J715TeOdqxPDq33D",
+  "sort": 500000,
+  "_id": "RYfdeOFpOiKuVgsF",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.RYfdeOFpOiKuVgsF",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746413854523,
+    "modifiedTime": 1763695391386,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!RYfdeOFpOiKuVgsF"
+}

@@ -1,0 +1,112 @@
+{
+  "type": "asset",
+  "folder": "bOcZzkQSUb3oUpS2",
+  "name": "Splinter",
+  "system": {
+    "requirement": "",
+    "category": "Item - Anomaly",
+    "color": "#3d8b8a",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      },
+      {
+        "name": "Material",
+        "value": ""
+      },
+      {
+        "name": "Shape",
+        "value": ""
+      },
+      {
+        "name": "Focus(es)",
+        "value": ""
+      },
+      {
+        "name": "Bonus 1",
+        "value": ""
+      },
+      {
+        "name": "Bonus 2",
+        "value": ""
+      },
+      {
+        "name": "Bonus 3",
+        "value": ""
+      },
+      {
+        "name": "Bonus 4",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you make a move using the focus, decide before rolling if you are leveraging the splinter's power. If you do, envision how the splinter influences your action. Then, use its bonus. If you roll a 6 on your action die, the splinter vanishes; after resolving the move, discard it.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Bonus(es):</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<ul><li>Major</li></ul>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "description": "<ul><li>Minor</li></ul>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Integrity",
+      "current": 0,
+      "max": 5,
+      "value": 3,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "<p>The core of an entity or aberration.</p>"
+  },
+  "img": "modules/ancient-wonders/assets/glowing-artifact.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747110706915,
+    "modifiedTime": 1764468637370,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "F3bzX84wmSBnTjmh",
+  "sort": 0,
+  "_key": "!items!F3bzX84wmSBnTjmh"
+}

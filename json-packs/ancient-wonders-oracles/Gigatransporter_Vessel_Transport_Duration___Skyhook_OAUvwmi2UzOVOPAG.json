@@ -1,0 +1,160 @@
+{
+  "name": "Gigatransporter Vessel Transport Duration - Skyhook",
+  "formula": "1d100",
+  "description": "<p>Transportation speed depends on the distance traveled and the efficiency of the gigatransporter. This table determines the end result.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "evQNP49gjGLrilEj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Few minutes",
+      "name": "",
+      "_key": "!tables.results!OAUvwmi2UzOVOPAG.evQNP49gjGLrilEj"
+    },
+    {
+      "range": [
+        11,
+        30
+      ],
+      "_id": "vHLIpxgfR5WPMId0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Several minutes",
+      "name": "",
+      "_key": "!tables.results!OAUvwmi2UzOVOPAG.vHLIpxgfR5WPMId0"
+    },
+    {
+      "range": [
+        31,
+        60
+      ],
+      "_id": "F70CwxAeP1RAQ7Y5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Half an hour",
+      "name": "",
+      "_key": "!tables.results!OAUvwmi2UzOVOPAG.F70CwxAeP1RAQ7Y5"
+    },
+    {
+      "range": [
+        61,
+        85
+      ],
+      "_id": "ztDtONhVHdhLal7u",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An hour",
+      "name": "",
+      "_key": "!tables.results!OAUvwmi2UzOVOPAG.ztDtONhVHdhLal7u"
+    },
+    {
+      "range": [
+        86,
+        100
+      ],
+      "_id": "nhDahsRIzQlAHtZK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Couple hours",
+      "name": "",
+      "_key": "!tables.results!OAUvwmi2UzOVOPAG.nhDahsRIzQlAHtZK"
+    }
+  ],
+  "folder": "EOvZAxWNG3TxMOFL",
+  "sort": 6,
+  "_id": "OAUvwmi2UzOVOPAG",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745558350975,
+    "modifiedTime": 1745558350975,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!OAUvwmi2UzOVOPAG"
+}

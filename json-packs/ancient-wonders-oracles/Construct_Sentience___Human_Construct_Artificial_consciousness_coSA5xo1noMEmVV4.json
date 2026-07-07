@@ -1,0 +1,108 @@
+{
+  "name": "Construct Sentience - Human Construct/Artificial consciousness",
+  "formula": "1d100",
+  "description": "<p>The Human Construct columns in this table correspond to the Artificial Intelligence truth you establish for your setting in the Starforged rulebook on page 94. If your truth is that \"mankind no longer has access to advanced computer systems\", any construct built by humans is by default non-sentient.</p><p>Human Construct - Artificial consciousness emerged in the time before mankind came to this galaxy, and sentient machines live with us here)</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        30
+      ],
+      "_id": "n1sLONBKmerkevZc",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Non-sentient",
+      "name": "",
+      "_key": "!tables.results!coSA5xo1noMEmVV4.n1sLONBKmerkevZc"
+    },
+    {
+      "range": [
+        31,
+        80
+      ],
+      "_id": "w56hrB3z6BrV2rDH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Self-aware",
+      "name": "",
+      "_key": "!tables.results!coSA5xo1noMEmVV4.w56hrB3z6BrV2rDH"
+    },
+    {
+      "range": [
+        81,
+        100
+      ],
+      "_id": "k5QmuVsqhHaIoTLq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Truly conscious",
+      "name": "",
+      "_key": "!tables.results!coSA5xo1noMEmVV4.k5QmuVsqhHaIoTLq"
+    }
+  ],
+  "folder": "J715TeOdqxPDq33D",
+  "sort": 2200000,
+  "_id": "coSA5xo1noMEmVV4",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.coSA5xo1noMEmVV4",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746413854523,
+    "modifiedTime": 1746413854523,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!coSA5xo1noMEmVV4"
+}

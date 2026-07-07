@@ -1,0 +1,186 @@
+{
+  "name": "Trouble In The Megastructure",
+  "formula": "1d6",
+  "description": "<p>Use this set of oracles to detail your exploration into the depths of a megastructure.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "pJlZZzK9XfH16wZx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Pay the Price table; RG, pg 25",
+      "name": "",
+      "_key": "!tables.results!KibnXgNnPi21bQyP.pJlZZzK9XfH16wZx"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "jp1fNsRijLQLFewL",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Theme Peril; RG, pg 100",
+      "name": "",
+      "_key": "!tables.results!KibnXgNnPi21bQyP.jp1fNsRijLQLFewL"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "8W6DkV7Q5sZUgf9H",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Derelict Peril; RG, pg 82",
+      "name": "",
+      "_key": "!tables.results!KibnXgNnPi21bQyP.8W6DkV7Q5sZUgf9H"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "0dWyMYneH592UfzG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Vault Peril; RG, pg 92",
+      "name": "",
+      "_key": "!tables.results!KibnXgNnPi21bQyP.0dWyMYneH592UfzG"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "GPTOugfZSFij6fD3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Lurking Threat",
+      "name": "",
+      "_key": "!tables.results!KibnXgNnPi21bQyP.GPTOugfZSFij6fD3"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "3PSkY1noVvtnRmYV",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Story Complication; RG, pg 110",
+      "name": "",
+      "_key": "!tables.results!KibnXgNnPi21bQyP.3PSkY1noVvtnRmYV"
+    }
+  ],
+  "folder": "6tMLIfkOUdVxj23v",
+  "sort": 1,
+  "_id": "KibnXgNnPi21bQyP",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745634120484,
+    "modifiedTime": 1745634120484,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!KibnXgNnPi21bQyP"
+}

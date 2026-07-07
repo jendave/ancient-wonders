@@ -1,0 +1,238 @@
+{
+  "name": "Planetcraft Type",
+  "formula": "1d100",
+  "description": "<p>When approaching a planetcraft, use the following oracles to determine its outward appearance and capabilities.</p><p>Use this oracle to reveal the function of the planetcraft. For example, a military planetcraft may bristle with incredible weaponry, while an agricultural one may harbor the remains of horizon-spanning farms.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        11
+      ],
+      "_id": "1Wc6e201w79WwzGd",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Agricultural",
+      "name": "",
+      "_key": "!tables.results!h1PHVvTe1CuHREGj.1Wc6e201w79WwzGd"
+    },
+    {
+      "range": [
+        12,
+        16
+      ],
+      "_id": "whLf9PrtqPTwOkTt",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cultural",
+      "name": "",
+      "_key": "!tables.results!h1PHVvTe1CuHREGj.whLf9PrtqPTwOkTt"
+    },
+    {
+      "range": [
+        17,
+        33
+      ],
+      "_id": "afom0qg5t3S2hOmZ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Industrial",
+      "name": "",
+      "_key": "!tables.results!h1PHVvTe1CuHREGj.afom0qg5t3S2hOmZ"
+    },
+    {
+      "range": [
+        34,
+        50
+      ],
+      "_id": "amab2srvktfClpsS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Military",
+      "name": "",
+      "_key": "!tables.results!h1PHVvTe1CuHREGj.amab2srvktfClpsS"
+    },
+    {
+      "range": [
+        51,
+        67
+      ],
+      "_id": "AAgpc7W0BqnBgbp8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mining",
+      "name": "",
+      "_key": "!tables.results!h1PHVvTe1CuHREGj.AAgpc7W0BqnBgbp8"
+    },
+    {
+      "range": [
+        68,
+        78
+      ],
+      "_id": "4EZIIRLCLcJxKUYo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Residential",
+      "name": "",
+      "_key": "!tables.results!h1PHVvTe1CuHREGj.4EZIIRLCLcJxKUYo"
+    },
+    {
+      "range": [
+        79,
+        83
+      ],
+      "_id": "t02nhZMHN8kJ0BWX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Terraforming",
+      "name": "",
+      "_key": "!tables.results!h1PHVvTe1CuHREGj.t02nhZMHN8kJ0BWX"
+    },
+    {
+      "range": [
+        84,
+        100
+      ],
+      "_id": "gNZ7etIQ8y8n5Djr",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transportation",
+      "name": "",
+      "_key": "!tables.results!h1PHVvTe1CuHREGj.gNZ7etIQ8y8n5Djr"
+    }
+  ],
+  "folder": "Dgqbari3vzqjyT9g",
+  "sort": 1,
+  "_id": "h1PHVvTe1CuHREGj",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745985762139,
+    "modifiedTime": 1745985762139,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!h1PHVvTe1CuHREGj"
+}

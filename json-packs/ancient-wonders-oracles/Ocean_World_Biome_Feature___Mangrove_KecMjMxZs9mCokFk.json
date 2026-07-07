@@ -1,0 +1,316 @@
+{
+  "name": "Ocean World Biome Feature - Mangrove",
+  "formula": "1d100",
+  "description": "<p>Humid surface with few jungle islands.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        9
+      ],
+      "_id": "mN7yhjIgRlxOsPq4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cascading waterfalls",
+      "name": "",
+      "_key": "!tables.results!KecMjMxZs9mCokFk.mN7yhjIgRlxOsPq4"
+    },
+    {
+      "range": [
+        10,
+        18
+      ],
+      "_id": "o6vcCgacFZXhbCka",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Continual tidal flooding",
+      "name": "",
+      "_key": "!tables.results!KecMjMxZs9mCokFk.o6vcCgacFZXhbCka"
+    },
+    {
+      "range": [
+        19,
+        27
+      ],
+      "_id": "JelDmj76uB3efKVH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dense swampy underbrush",
+      "name": "",
+      "_key": "!tables.results!KecMjMxZs9mCokFk.JelDmj76uB3efKVH"
+    },
+    {
+      "range": [
+        28,
+        36
+      ],
+      "_id": "trlqlVq0FHoTfPr7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Labyrinthine mangrove thickets",
+      "name": "",
+      "_key": "!tables.results!KecMjMxZs9mCokFk.trlqlVq0FHoTfPr7"
+    },
+    {
+      "range": [
+        37,
+        45
+      ],
+      "_id": "fMdpMlykghHvoNY2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Monolithic plateau-capped mountains",
+      "name": "",
+      "_key": "!tables.results!KecMjMxZs9mCokFk.fMdpMlykghHvoNY2"
+    },
+    {
+      "range": [
+        46,
+        54
+      ],
+      "_id": "VnEyTCCf0DBdLlj3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roiling and pervasive mists",
+      "name": "",
+      "_key": "!tables.results!KecMjMxZs9mCokFk.VnEyTCCf0DBdLlj3"
+    },
+    {
+      "range": [
+        55,
+        63
+      ],
+      "_id": "hIRpUJ87ch4Xojnt",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Saltmarsh sloughs",
+      "name": "",
+      "_key": "!tables.results!KecMjMxZs9mCokFk.hIRpUJ87ch4Xojnt"
+    },
+    {
+      "range": [
+        64,
+        72
+      ],
+      "_id": "fPhSeRfyD48vPJCn",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tiny islets surrounded by immense mangroves",
+      "name": "",
+      "_key": "!tables.results!KecMjMxZs9mCokFk.fPhSeRfyD48vPJCn"
+    },
+    {
+      "range": [
+        73,
+        81
+      ],
+      "_id": "CdSaIbQsG9E73VPk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unrelenting heatwaves",
+      "name": "",
+      "_key": "!tables.results!KecMjMxZs9mCokFk.CdSaIbQsG9E73VPk"
+    },
+    {
+      "range": [
+        82,
+        90
+      ],
+      "_id": "Yyy1HTQGU2fX9mIo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vast deposits of congealing mud",
+      "name": "",
+      "_key": "!tables.results!KecMjMxZs9mCokFk.Yyy1HTQGU2fX9mIo"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "p44SgF1gPWTVHEDF",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transition into a new &gt;Biome",
+      "name": "",
+      "_key": "!tables.results!KecMjMxZs9mCokFk.p44SgF1gPWTVHEDF"
+    }
+  ],
+  "folder": "0JRiZnm539EkbEnA",
+  "sort": 15,
+  "_id": "KecMjMxZs9mCokFk",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745301207420,
+    "modifiedTime": 1745301207420,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!KecMjMxZs9mCokFk"
+}

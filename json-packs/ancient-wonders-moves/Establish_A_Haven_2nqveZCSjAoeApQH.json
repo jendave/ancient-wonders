@@ -1,0 +1,86 @@
+{
+  "name": "Establish A Haven",
+  "type": "sfmove",
+  "img": "icons/dice/d10black.svg",
+  "system": {
+    "dfid": "",
+    "Category": "",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "__When you secure an area while on an expedition__, after doing any of the following...\n* overcoming a critical obstacle\n* gaining meaningful insight\n* defeating a notable foe\n\n...envision how can you make this a perpetual safe place to rest. Then, roll +wits.\n\nOn a __strong hit__, you make a reliable haven. Name it and mark the progress box in which this haven is being established.\n\nThen, when you...\n* @Compendium[ancient-wonders.ancientwondersmoves.Item.fvxIsI6u73hkrK6J]{Hunker Down} in this haven: Add +2 and choose an additional option on a hit.\n* @Compendium[foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition} from this haven: Add +1 and take +1 momentum on a hit.\n*  Go to the haven by...\n  -  Returning to it in the middle of an expedition: Clear all progress after the haven\n  -  Starting a new expedition route: @Compendium[foundry-ironsworn.starforgedmoves.Item.ed490d43a2533506]{Set a Course} and add +2\n\nOn a __weak hit__, as above, but making this haven causes a delay or setback. Choose one. \n* @Compendium[foundry-ironsworn.starforgedmoves.Item.93d2d69b7e2b85e1]{Lose Momentum} (-3).\n*  Clear one progress box and mark the haven appropriately.\n\nOn a __miss__, this place is cursed. You find no comfort in it. @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+    "Trigger": {
+      "Text": "__When you secure an area while on an expedition__, after doing any of the following...",
+      "Options": [
+        {
+          "Text": "",
+          "Method": "Any",
+          "Roll type": "Action roll",
+          "Using": [
+            "Wits"
+          ]
+        }
+      ]
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "On a __strong hit__, you make a reliable haven. Name it and mark the progress box in which this haven is being established.\n\nThen, when you...\n* @Compendium[ancient-wonders.ancientwondersmoves.Item.fvxIsI6u73hkrK6J]{Hunker Down} in this haven: Add +2 and choose an additional option on a hit.\n* @Compendium[foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition} from this haven: Add +1 and take +1 momentum on a hit.\n*  Go to the haven by...\n>> Returning to it in the middle of an expedition: Clear all progress after the haven\n>> Starting a new expedition route: @Compendium[foundry-ironsworn.starforgedmoves.Item.ed490d43a2533506]{Set a Course} and add +2",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      },
+      "Weak Hit": {
+        "Text": "On a __weak hit__, as above, but making this haven causes a delay or setback. Choose one. \n* @Compendium[foundry-ironsworn.starforgedmoves.Item.93d2d69b7e2b85e1]{Lose Momentum} (-3).\n*  Clear one progress box and mark the haven appropriately.",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "On a __miss__, this place is cursed. You find no comfort in it. @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "",
+      "Authors": [],
+      "Page": null
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "effects": [],
+  "folder": "X7RxSy2B4ga5AKKj",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746476616281,
+    "modifiedTime": 1746485922019,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "2nqveZCSjAoeApQH",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_key": "!items!2nqveZCSjAoeApQH"
+}

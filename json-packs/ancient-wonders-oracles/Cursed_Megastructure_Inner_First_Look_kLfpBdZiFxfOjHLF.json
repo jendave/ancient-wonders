@@ -1,0 +1,420 @@
+{
+  "name": "Cursed Megastructure Inner First Look",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "ICXmod2YELbmpt7a",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unsettling sense of being watched",
+      "name": "",
+      "_key": "!tables.results!kLfpBdZiFxfOjHLF.ICXmod2YELbmpt7a"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "24SDFls3uAaszN3k",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glimpses of shadows on the move",
+      "name": "",
+      "_key": "!tables.results!kLfpBdZiFxfOjHLF.24SDFls3uAaszN3k"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "8hpRKloi33WRYu93",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overwhelming stillness or quiet",
+      "name": "",
+      "_key": "!tables.results!kLfpBdZiFxfOjHLF.8hpRKloi33WRYu93"
+    },
+    {
+      "range": [
+        22,
+        26
+      ],
+      "_id": "BW57sJujLPg2jYE2",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mutated or warped structures",
+      "name": "",
+      "_key": "!tables.results!kLfpBdZiFxfOjHLF.BW57sJujLPg2jYE2"
+    },
+    {
+      "range": [
+        27,
+        34
+      ],
+      "_id": "kSxmwDc29SiJCbE2",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ominous, untraceable sounds",
+      "name": "",
+      "_key": "!tables.results!kLfpBdZiFxfOjHLF.kSxmwDc29SiJCbE2"
+    },
+    {
+      "range": [
+        35,
+        40
+      ],
+      "_id": "wz7WjFpleHyeCKKb",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sticky and viscous surfaces",
+      "name": "",
+      "_key": "!tables.results!kLfpBdZiFxfOjHLF.wz7WjFpleHyeCKKb"
+    },
+    {
+      "range": [
+        41,
+        46
+      ],
+      "_id": "qGtvMRZGK0LicPVC",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Time or reality distortions",
+      "name": "",
+      "_key": "!tables.results!kLfpBdZiFxfOjHLF.qGtvMRZGK0LicPVC"
+    },
+    {
+      "range": [
+        47,
+        53
+      ],
+      "_id": "8kXJAqwaUdLXK9ur",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Foul masses of secretions",
+      "name": "",
+      "_key": "!tables.results!kLfpBdZiFxfOjHLF.8kXJAqwaUdLXK9ur"
+    },
+    {
+      "range": [
+        54,
+        60
+      ],
+      "_id": "pocrKvCQgRgT2Rpy",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shrouded in mist or haze",
+      "name": "",
+      "_key": "!tables.results!kLfpBdZiFxfOjHLF.pocrKvCQgRgT2Rpy"
+    },
+    {
+      "range": [
+        61,
+        67
+      ],
+      "_id": "XNiOp0leaWNq6QYR",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impenetrable darkness",
+      "name": "",
+      "_key": "!tables.results!kLfpBdZiFxfOjHLF.XNiOp0leaWNq6QYR"
+    },
+    {
+      "range": [
+        68,
+        74
+      ],
+      "_id": "EaEnmNid84UskIEq",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Uncanny illumination",
+      "name": "",
+      "_key": "!tables.results!kLfpBdZiFxfOjHLF.EaEnmNid84UskIEq"
+    },
+    {
+      "range": [
+        75,
+        80
+      ],
+      "_id": "OcyhmqONTLlwdtAA",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hazardous readings",
+      "name": "",
+      "_key": "!tables.results!kLfpBdZiFxfOjHLF.OcyhmqONTLlwdtAA"
+    },
+    {
+      "range": [
+        81,
+        87
+      ],
+      "_id": "wHbS9u4f32jx82Jf",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abnormal gravity",
+      "name": "",
+      "_key": "!tables.results!kLfpBdZiFxfOjHLF.wHbS9u4f32jx82Jf"
+    },
+    {
+      "range": [
+        88,
+        94
+      ],
+      "_id": "wTxVGOFXeHrlQ2MS",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Noxious fog",
+      "name": "",
+      "_key": "!tables.results!kLfpBdZiFxfOjHLF.wTxVGOFXeHrlQ2MS"
+    },
+    {
+      "range": [
+        95,
+        100
+      ],
+      "_id": "zzbpBbCg3msTURKZ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Watchful AI",
+      "name": "",
+      "_key": "!tables.results!kLfpBdZiFxfOjHLF.zzbpBbCg3msTURKZ"
+    }
+  ],
+  "folder": "4ZwBRz70exteZSrB",
+  "sort": 3,
+  "_id": "kLfpBdZiFxfOjHLF",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745623954511,
+    "modifiedTime": 1745623954511,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!kLfpBdZiFxfOjHLF"
+}

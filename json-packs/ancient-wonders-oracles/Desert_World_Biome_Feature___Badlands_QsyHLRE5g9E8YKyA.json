@@ -1,0 +1,264 @@
+{
+  "name": "Desert World Biome Feature - Badlands",
+  "formula": "1d100",
+  "description": "<p>Rugged mountains impose themselves on wind-eroded valleys.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        11
+      ],
+      "_id": "1OyQfq2zZQET2qti",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chaotic whirlwinds",
+      "name": "",
+      "_key": "!tables.results!QsyHLRE5g9E8YKyA.1OyQfq2zZQET2qti"
+    },
+    {
+      "range": [
+        12,
+        22
+      ],
+      "_id": "d3V7gQu2hs1uZcRB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Distinct rock stratification",
+      "name": "",
+      "_key": "!tables.results!QsyHLRE5g9E8YKyA.d3V7gQu2hs1uZcRB"
+    },
+    {
+      "range": [
+        23,
+        33
+      ],
+      "_id": "DN2jxVEyy2Mbyi1D",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dry riverbeds",
+      "name": "",
+      "_key": "!tables.results!QsyHLRE5g9E8YKyA.DN2jxVEyy2Mbyi1D"
+    },
+    {
+      "range": [
+        34,
+        44
+      ],
+      "_id": "wGqSqdF0VWHhX2xL",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Eroded mountain ranges",
+      "name": "",
+      "_key": "!tables.results!QsyHLRE5g9E8YKyA.wGqSqdF0VWHhX2xL"
+    },
+    {
+      "range": [
+        45,
+        55
+      ],
+      "_id": "rYZH1yDFY7KETTY0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fields of brittle shrubs",
+      "name": "",
+      "_key": "!tables.results!QsyHLRE5g9E8YKyA.rYZH1yDFY7KETTY0"
+    },
+    {
+      "range": [
+        56,
+        66
+      ],
+      "_id": "6gt3wUvMMQwSSOKZ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Slowly flowing streams",
+      "name": "",
+      "_key": "!tables.results!QsyHLRE5g9E8YKyA.6gt3wUvMMQwSSOKZ"
+    },
+    {
+      "range": [
+        67,
+        77
+      ],
+      "_id": "PHK5UjUdA5xPefii",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Timeworn cliffside caves",
+      "name": "",
+      "_key": "!tables.results!QsyHLRE5g9E8YKyA.PHK5UjUdA5xPefii"
+    },
+    {
+      "range": [
+        78,
+        88
+      ],
+      "_id": "URLs07Yjx8fM2Vw5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vast concave valleys",
+      "name": "",
+      "_key": "!tables.results!QsyHLRE5g9E8YKyA.URLs07Yjx8fM2Vw5"
+    },
+    {
+      "range": [
+        89,
+        100
+      ],
+      "_id": "DdrgUVy088eVLsVO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transition into a new &gt;Biome",
+      "name": "",
+      "_key": "!tables.results!QsyHLRE5g9E8YKyA.DdrgUVy088eVLsVO"
+    }
+  ],
+  "folder": "K9VKevIhxV7Xf7xu",
+  "sort": 11,
+  "_id": "QsyHLRE5g9E8YKyA",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745184114774,
+    "modifiedTime": 1745184114774,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!QsyHLRE5g9E8YKyA"
+}

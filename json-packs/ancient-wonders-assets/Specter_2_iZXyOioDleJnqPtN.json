@@ -1,0 +1,88 @@
+{
+  "type": "asset",
+  "folder": "VGDM9gKIusGTm2DW",
+  "name": "Specter 2",
+  "system": {
+    "requirement": "",
+    "category": "Special Companion",
+    "color": "#3d8b8a",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": false,
+        "description": "<p>Once per situation, when the specter makes a move to ambush or perform a feint, reroll any dice. If in a fight, mark progress on a hit. When they hold a foe at the point of their weapon and make a move aided by the prospect of violence, add +2.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When the specter makes a move with stealth, add +1. If they @Compendium[foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} by approaching the foe with cunning, roll +their shadow and choose one after rolling.</p>\n<ul>\n<li>Ensure injury: Add +1 and take +1 momentum on a hit.</li>\n<li>Ensure pain: Mark progress on a hit.</li>\n<ul>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When the specter @Compendium[foundry-ironsworn.starforgedmoves.Item.3129f4caa4754caf]{Takes Decisive Action} by striking a weak spot, you may reroll one challenge die. If you do, the foe's anguish strikes the specter back; the specter must @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} (-1). If they then choose to resist it, roll +their shadow instead of +their spirit or +their heart.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Spirit",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [
+      {
+        "name": "Shaken",
+        "ticked": false
+      }
+    ],
+    "description": ""
+  },
+  "img": "modules/ancient-wonders/assets/hood.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1746826976781,
+    "modifiedTime": 1764466921949,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.331",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.2"
+    }
+  },
+  "_id": "iZXyOioDleJnqPtN",
+  "sort": 0,
+  "_key": "!items!iZXyOioDleJnqPtN"
+}

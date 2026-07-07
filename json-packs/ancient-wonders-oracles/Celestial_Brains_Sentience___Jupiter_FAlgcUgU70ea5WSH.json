@@ -1,0 +1,108 @@
+{
+  "name": "Celestial Brains Sentience - Jupiter",
+  "formula": "1d100",
+  "description": "<p>Some brains may have gained a high level of sentience by design, error, or synthetic evolution. When interacting with one of these constructs, roll on the table below to determine its overall intelligence.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        20
+      ],
+      "_id": "oZfkBoFEeEeuFMHT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Non-sentient",
+      "name": "",
+      "_key": "!tables.results!FAlgcUgU70ea5WSH.oZfkBoFEeEeuFMHT"
+    },
+    {
+      "range": [
+        21,
+        70
+      ],
+      "_id": "eXySBJ35kzC1A5gN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Self-aware",
+      "name": "",
+      "_key": "!tables.results!FAlgcUgU70ea5WSH.eXySBJ35kzC1A5gN"
+    },
+    {
+      "range": [
+        71,
+        100
+      ],
+      "_id": "tFujA4CyXFZqwleK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Truly conscious",
+      "name": "",
+      "_key": "!tables.results!FAlgcUgU70ea5WSH.tFujA4CyXFZqwleK"
+    }
+  ],
+  "folder": "qYpEuWCIIpVKfhxw",
+  "sort": 1,
+  "_id": "FAlgcUgU70ea5WSH",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745727898070,
+    "modifiedTime": 1745727898070,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!FAlgcUgU70ea5WSH"
+}

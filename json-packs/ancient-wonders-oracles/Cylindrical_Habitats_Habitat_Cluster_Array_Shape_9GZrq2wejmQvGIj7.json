@@ -1,0 +1,186 @@
+{
+  "name": "Cylindrical Habitats Habitat Cluster Array Shape",
+  "formula": "1d100",
+  "description": "<p>Use this oracle to identify the shape of the array of cylinders that compose a habitat cluster. Knucklebones, pyramids, and cubes might be grouped with others. If the shape is determined to be any of these, roll &gt;Array Quantity to determine the amount of arrays in the habitat cluster. Then, for each additional array, roll on this table again and reroll the \"Rungworld, \"Sphere\", and \"Topopolis\" results.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        30
+      ],
+      "_id": "UEliEVN9S3wzMCzJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Knucklebone / Six-pointed star composed of six cylinders",
+      "name": "",
+      "_key": "!tables.results!9GZrq2wejmQvGIj7.UEliEVN9S3wzMCzJ"
+    },
+    {
+      "range": [
+        31,
+        60
+      ],
+      "_id": "66XVXPteKBU9exxx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pyramid / Tetrahedron composed of six cylinders",
+      "name": "",
+      "_key": "!tables.results!9GZrq2wejmQvGIj7.66XVXPteKBU9exxx"
+    },
+    {
+      "range": [
+        61,
+        85
+      ],
+      "_id": "UxSa3wsyTtFKcRAu",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cube / Hexahedron composed of twelve cylinders",
+      "name": "",
+      "_key": "!tables.results!9GZrq2wejmQvGIj7.UxSa3wsyTtFKcRAu"
+    },
+    {
+      "range": [
+        86,
+        95
+      ],
+      "_id": "St63alw2T5OOlSqw",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rungworld / Ladder-like ring composed of hundreds of cylinders",
+      "name": "",
+      "_key": "!tables.results!9GZrq2wejmQvGIj7.St63alw2T5OOlSqw"
+    },
+    {
+      "range": [
+        96,
+        98
+      ],
+      "_id": "9REr0dz3s1tA3iuq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sphere / Geodesic polyhedron composed of thousands of cylinders",
+      "name": "",
+      "_key": "!tables.results!9GZrq2wejmQvGIj7.9REr0dz3s1tA3iuq"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "nt25VDdTpNzfURcn",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Topopolis / Looping ring or torus knot composed of countless cylinders",
+      "name": "",
+      "_key": "!tables.results!9GZrq2wejmQvGIj7.nt25VDdTpNzfURcn"
+    }
+  ],
+  "folder": "SgCn0IXRNrcbvnvo",
+  "sort": 1,
+  "_id": "9GZrq2wejmQvGIj7",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745812193146,
+    "modifiedTime": 1745812193146,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!9GZrq2wejmQvGIj7"
+}

@@ -1,0 +1,134 @@
+{
+  "name": "Barren Planetary Class",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "zFrv3Xu2BDYTcSdx",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Crystalline World",
+      "name": "",
+      "_key": "!tables.results!Jwgc81SGEatW3b3L.zFrv3Xu2BDYTcSdx"
+    },
+    {
+      "range": [
+        11,
+        25
+      ],
+      "_id": "qDiBcWTOFPOwmSVO",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Metallic World",
+      "name": "",
+      "_key": "!tables.results!Jwgc81SGEatW3b3L.qDiBcWTOFPOwmSVO"
+    },
+    {
+      "range": [
+        26,
+        95
+      ],
+      "_id": "mixP4kCEbjOtTUMz",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Rocky World",
+      "name": "",
+      "_key": "!tables.results!Jwgc81SGEatW3b3L.mixP4kCEbjOtTUMz"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "GpgkKaLTM4pKYbIs",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Shattered World",
+      "name": "",
+      "_key": "!tables.results!Jwgc81SGEatW3b3L.GpgkKaLTM4pKYbIs"
+    }
+  ],
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "GvsmSMYbvgjEYSQc",
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745103549001,
+    "modifiedTime": 1745103549001,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "Jwgc81SGEatW3b3L",
+  "sort": 0,
+  "_key": "!tables!Jwgc81SGEatW3b3L"
+}

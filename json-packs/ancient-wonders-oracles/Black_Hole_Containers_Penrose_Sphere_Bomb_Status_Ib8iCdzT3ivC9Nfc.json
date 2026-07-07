@@ -1,0 +1,160 @@
+{
+  "name": "Black Hole Containers Penrose Sphere Bomb Status",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        15
+      ],
+      "_id": "c5Nlsz4mZXDSRiJm",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Inactive / The bomb's mechanism is offline.",
+      "name": "",
+      "_key": "!tables.results!Ib8iCdzT3ivC9Nfc.c5Nlsz4mZXDSRiJm"
+    },
+    {
+      "range": [
+        16,
+        50
+      ],
+      "_id": "bThoTveUQqi2ARBa",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Operational (stable) / The bomb can be triggered or operated by anyone who understands its mechanism.",
+      "name": "",
+      "_key": "!tables.results!Ib8iCdzT3ivC9Nfc.bThoTveUQqi2ARBa"
+    },
+    {
+      "range": [
+        51,
+        85
+      ],
+      "_id": "V8g72MsX3MzQukkc",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Operational (unstable) / The bomb is functional but can't operate correctly and may detonate unexpectedly.",
+      "name": "",
+      "_key": "!tables.results!Ib8iCdzT3ivC9Nfc.V8g72MsX3MzQukkc"
+    },
+    {
+      "range": [
+        86,
+        95
+      ],
+      "_id": "lrjnASGTE4xlW18t",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Damaged / The bomb has a structural failure.",
+      "name": "",
+      "_key": "!tables.results!Ib8iCdzT3ivC9Nfc.lrjnASGTE4xlW18t"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "oRqbPmmr2m6FwJyd",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Imminent explosion / The bomb's explosion is inevitable. Set a ten-segment tension clock to represent the impending explosion. To learn about tension clocks, see page 238 of the Starforged rulebook.",
+      "name": "",
+      "_key": "!tables.results!Ib8iCdzT3ivC9Nfc.oRqbPmmr2m6FwJyd"
+    }
+  ],
+  "folder": "oKWDL3txuvU9cRSE",
+  "sort": 1,
+  "_id": "Ib8iCdzT3ivC9Nfc",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745721770620,
+    "modifiedTime": 1745721770620,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!Ib8iCdzT3ivC9Nfc"
+}

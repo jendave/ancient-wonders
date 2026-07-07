@@ -1,0 +1,27 @@
+{
+  "name": "Core Oracles",
+  "description": "",
+  "type": "RollTable",
+  "_id": "312c7e84afc43125",
+  "sort": 100000,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Oracles/Core",
+      "dsid": "oracle_collection:starforged/core"
+    }
+  },
+  "folder": "tagBOD5cU4soiD0Y",
+  "sorting": "m",
+  "color": null,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743222361491,
+    "modifiedTime": 1744955816406,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!312c7e84afc43125"
+}

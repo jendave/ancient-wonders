@@ -1,0 +1,22 @@
+{
+  "name": "Lunar Speculorefractor",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "ksVn2RXQFMsV2dNq",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 1900000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745953863389,
+    "modifiedTime": 1745953863535,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!ksVn2RXQFMsV2dNq"
+}

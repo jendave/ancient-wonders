@@ -1,0 +1,160 @@
+{
+  "name": "Construct Environment",
+  "formula": "1d100",
+  "description": "<p>Choose the closest match for your location or roll to identify the construct's primary habitat.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        15
+      ],
+      "_id": "j0WWWSY5BgXJTXkz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Space",
+      "name": "",
+      "_key": "!tables.results!28nmmeKuBouhoqCC.j0WWWSY5BgXJTXkz"
+    },
+    {
+      "range": [
+        16,
+        35
+      ],
+      "_id": "PbXewtFQYTG9PJQH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Air",
+      "name": "",
+      "_key": "!tables.results!28nmmeKuBouhoqCC.PbXewtFQYTG9PJQH"
+    },
+    {
+      "range": [
+        36,
+        45
+      ],
+      "_id": "xJ1mzE1eD04Ewp4u",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Liquid",
+      "name": "",
+      "_key": "!tables.results!28nmmeKuBouhoqCC.xJ1mzE1eD04Ewp4u"
+    },
+    {
+      "range": [
+        46,
+        70
+      ],
+      "_id": "PrLLmi9JbvCz5FAV",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Land",
+      "name": "",
+      "_key": "!tables.results!28nmmeKuBouhoqCC.PrLLmi9JbvCz5FAV"
+    },
+    {
+      "range": [
+        71,
+        100
+      ],
+      "_id": "EVrigxovX6TfNA49",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Interior",
+      "name": "",
+      "_key": "!tables.results!28nmmeKuBouhoqCC.EVrigxovX6TfNA49"
+    }
+  ],
+  "folder": "J715TeOdqxPDq33D",
+  "sort": 125000,
+  "_id": "28nmmeKuBouhoqCC",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.28nmmeKuBouhoqCC",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746413854523,
+    "modifiedTime": 1746413854523,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!28nmmeKuBouhoqCC"
+}

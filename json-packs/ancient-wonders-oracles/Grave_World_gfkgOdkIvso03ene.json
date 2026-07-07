@@ -1,0 +1,22 @@
+{
+  "name": "Grave World",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "gfkgOdkIvso03ene",
+  "description": "",
+  "folder": "GvsmSMYbvgjEYSQc",
+  "sort": 800000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": null,
+    "modifiedTime": 1745195716599,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!gfkgOdkIvso03ene"
+}

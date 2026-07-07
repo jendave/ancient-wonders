@@ -1,0 +1,186 @@
+{
+  "name": "Planet Phase",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        16
+      ],
+      "_id": "aqhkDiI9SKG7gThw",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1st phase",
+      "name": "",
+      "_key": "!tables.results!1kcKLTXLORu0YsOp.aqhkDiI9SKG7gThw"
+    },
+    {
+      "range": [
+        17,
+        32
+      ],
+      "_id": "OWiO9RaLdMd2KLoc",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "2nd phase",
+      "name": "",
+      "_key": "!tables.results!1kcKLTXLORu0YsOp.OWiO9RaLdMd2KLoc"
+    },
+    {
+      "range": [
+        33,
+        49
+      ],
+      "_id": "b23TeHS117OFatsl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "3rd phase",
+      "name": "",
+      "_key": "!tables.results!1kcKLTXLORu0YsOp.b23TeHS117OFatsl"
+    },
+    {
+      "range": [
+        50,
+        66
+      ],
+      "_id": "x3tTxkVgM32qTNrP",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "4th phase",
+      "name": "",
+      "_key": "!tables.results!1kcKLTXLORu0YsOp.x3tTxkVgM32qTNrP"
+    },
+    {
+      "range": [
+        67,
+        83
+      ],
+      "_id": "Q6EmKfUc1WA1OavP",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "5th phase",
+      "name": "",
+      "_key": "!tables.results!1kcKLTXLORu0YsOp.Q6EmKfUc1WA1OavP"
+    },
+    {
+      "range": [
+        84,
+        100
+      ],
+      "_id": "lw1ry34XkTk5zgbN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "6th phase",
+      "name": "",
+      "_key": "!tables.results!1kcKLTXLORu0YsOp.lw1ry34XkTk5zgbN"
+    }
+  ],
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>If you are using a detailed sector sheet, roll on the following table to identify the position of a world around the stellar object.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "aj3iyWvQqHmshfmS",
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743222930503,
+    "modifiedTime": 1744955999319,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "1kcKLTXLORu0YsOp",
+  "sort": 200000,
+  "_key": "!tables!1kcKLTXLORu0YsOp"
+}

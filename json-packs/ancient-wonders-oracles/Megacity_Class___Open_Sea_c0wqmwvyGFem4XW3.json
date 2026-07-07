@@ -1,0 +1,108 @@
+{
+  "name": "Megacity Class - Open Sea",
+  "formula": "1d100",
+  "description": "<p>Use this oracle to identify a megacity based on the surrounding environment.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        15
+      ],
+      "_id": "keWTdnVTFApbe5ib",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cloud City",
+      "name": "",
+      "_key": "!tables.results!c0wqmwvyGFem4XW3.keWTdnVTFApbe5ib"
+    },
+    {
+      "range": [
+        16,
+        35
+      ],
+      "_id": "oTdyXEDT4PDLgPyl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Megatall City",
+      "name": "",
+      "_key": "!tables.results!c0wqmwvyGFem4XW3.oTdyXEDT4PDLgPyl"
+    },
+    {
+      "range": [
+        36,
+        100
+      ],
+      "_id": "wqkO2OqPFis93Lui",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Movable City",
+      "name": "",
+      "_key": "!tables.results!c0wqmwvyGFem4XW3.wqkO2OqPFis93Lui"
+    }
+  ],
+  "folder": "mrregFSVf6r5mYLu",
+  "sort": 2,
+  "_id": "c0wqmwvyGFem4XW3",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746313802515,
+    "modifiedTime": 1746313802515,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!c0wqmwvyGFem4XW3"
+}

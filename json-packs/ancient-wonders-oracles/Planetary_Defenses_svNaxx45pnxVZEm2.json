@@ -1,0 +1,22 @@
+{
+  "name": "Planetary Defenses",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "svNaxx45pnxVZEm2",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 2100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745955150833,
+    "modifiedTime": 1745955150917,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!svNaxx45pnxVZEm2"
+}

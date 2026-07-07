@@ -1,0 +1,186 @@
+{
+  "name": "Planet Proximity - Six Planets",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "agGYFY34t4V0qWF0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1st",
+      "name": "",
+      "_key": "!tables.results!bVXF06PjHiCcFmVy.agGYFY34t4V0qWF0"
+    },
+    {
+      "range": [
+        6,
+        15
+      ],
+      "_id": "gvih8ApNvCXMYSV0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "2nd",
+      "name": "",
+      "_key": "!tables.results!bVXF06PjHiCcFmVy.gvih8ApNvCXMYSV0"
+    },
+    {
+      "range": [
+        16,
+        40
+      ],
+      "_id": "SSthY9LM6KatilVI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "3rd",
+      "name": "",
+      "_key": "!tables.results!bVXF06PjHiCcFmVy.SSthY9LM6KatilVI"
+    },
+    {
+      "range": [
+        41,
+        75
+      ],
+      "_id": "TJCVXlMwR3YC3Mh7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "4th",
+      "name": "",
+      "_key": "!tables.results!bVXF06PjHiCcFmVy.TJCVXlMwR3YC3Mh7"
+    },
+    {
+      "range": [
+        76,
+        90
+      ],
+      "_id": "DRplmU3uXfVZfOsH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "5th",
+      "name": "",
+      "_key": "!tables.results!bVXF06PjHiCcFmVy.DRplmU3uXfVZfOsH"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "fJTA4PtkHoElfh7b",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "6th",
+      "name": "",
+      "_key": "!tables.results!bVXF06PjHiCcFmVy.fJTA4PtkHoElfh7b"
+    }
+  ],
+  "folder": "41sU9W41ZYPNEZO9",
+  "sort": 500000,
+  "_id": "bVXF06PjHiCcFmVy",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>Each column of the table below corresponds to the number of planets in the solar system. On the other side, the result is the proximity of the planet to the stellar object, not the orbit in which they reside. A planet in the 1st proximity is the one in the nearest orbit to the stellar object, whereas the planet in the 2nd or higher proximity is the one in a farther orbit.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.bVXF06PjHiCcFmVy",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743226623051,
+    "modifiedTime": 1743226697888,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!bVXF06PjHiCcFmVy"
+}

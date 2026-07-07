@@ -1,0 +1,108 @@
+{
+  "name": "Harvesting Platforms Scale - Abundant",
+  "formula": "1d100",
+  "description": "<p>Use this table to determine the quantity and size of platforms that the asteroid processor undocks and is composed of. Maintain this result for any other harvester platform encountered in the same solar system or sector. You may use the Planetary Size Specifications table from Chapter 3 to help you envision the Platform Scale result.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        70
+      ],
+      "_id": "UckGeJBYPxcdtqHP",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Huge",
+      "name": "",
+      "_key": "!tables.results!zq1ARydSTMFVRTl3.UckGeJBYPxcdtqHP"
+    },
+    {
+      "range": [
+        71,
+        90
+      ],
+      "_id": "71gXUgt9OdBbC9gC",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Titanic",
+      "name": "",
+      "_key": "!tables.results!zq1ARydSTMFVRTl3.71gXUgt9OdBbC9gC"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "mJyGiuy34phbWD5k",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Colossal",
+      "name": "",
+      "_key": "!tables.results!zq1ARydSTMFVRTl3.mJyGiuy34phbWD5k"
+    }
+  ],
+  "folder": "LvSgio0thAzfV7nR",
+  "sort": 6,
+  "_id": "zq1ARydSTMFVRTl3",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745691217318,
+    "modifiedTime": 1745691217318,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!zq1ARydSTMFVRTl3"
+}

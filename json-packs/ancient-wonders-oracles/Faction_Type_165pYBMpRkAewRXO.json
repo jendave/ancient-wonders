@@ -1,0 +1,114 @@
+{
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Oracles/Factions/Type",
+      "category": "Starforged/Oracles/Factions",
+      "dsid": "oracle_rollable:starforged/faction/type"
+    }
+  },
+  "name": "Faction Type",
+  "description": "",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "range": [
+        1,
+        40
+      ],
+      "_id": "63bfe95914abc1ae",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@Compendium[foundry-ironsworn.starforgedoracles.e6552ca1c08225e6]{Dominion}",
+      "name": "",
+      "_key": "!tables.results!165pYBMpRkAewRXO.63bfe95914abc1ae"
+    },
+    {
+      "range": [
+        41,
+        70
+      ],
+      "_id": "87384b8b90a7c44c",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@Compendium[foundry-ironsworn.starforgedoracles.da3a6351fff54ef4]{Guild}",
+      "name": "",
+      "_key": "!tables.results!165pYBMpRkAewRXO.87384b8b90a7c44c"
+    },
+    {
+      "range": [
+        71,
+        100
+      ],
+      "_id": "ff40a33f485ffff6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@Compendium[foundry-ironsworn.starforgedoracles.f3403e14e9e6bd71]{Fringe Group}",
+      "name": "",
+      "_key": "!tables.results!165pYBMpRkAewRXO.ff40a33f485ffff6"
+    }
+  ],
+  "folder": "Vxxnc89YzwMyYvbP",
+  "img": "icons/dice/d10black.svg",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747263310022,
+    "modifiedTime": 1747328364894,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "165pYBMpRkAewRXO",
+  "sort": 100000,
+  "_key": "!tables!165pYBMpRkAewRXO"
+}

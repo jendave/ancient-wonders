@@ -1,0 +1,654 @@
+{
+  "name": "Metallic World Surface Feature",
+  "formula": "1d100",
+  "description": "<p>In addition to the table below, you may use the Metal Type oracle up to thrice to reveal the nature of the metals that populate or make up a feature.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        4
+      ],
+      "_id": "hBl7uThhm4Z3PdZ5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cracked or molten craters",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.hBl7uThhm4Z3PdZ5"
+    },
+    {
+      "range": [
+        5,
+        8
+      ],
+      "_id": "Sno32HQqfK7P3WpF",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enormous angular columns",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.Sno32HQqfK7P3WpF"
+    },
+    {
+      "range": [
+        9,
+        12
+      ],
+      "_id": "nC1VzUiSfFkdFrZ1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Eroded etchplains",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.nC1VzUiSfFkdFrZ1"
+    },
+    {
+      "range": [
+        13,
+        16
+      ],
+      "_id": "hEtGyDvrEVjDaERx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Erratic magnetic abnormalities",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.hEtGyDvrEVjDaERx"
+    },
+    {
+      "range": [
+        17,
+        20
+      ],
+      "_id": "GpoUXHZFHaEhtsCK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expansive veins of alloys",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.GpoUXHZFHaEhtsCK"
+    },
+    {
+      "range": [
+        21,
+        24
+      ],
+      "_id": "B6VM2NU47ht358fS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fractured, crumbling cliffs",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.B6VM2NU47ht358fS"
+    },
+    {
+      "range": [
+        25,
+        28
+      ],
+      "_id": "bl9zKayRE5WBrNBR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hill-like ore deposits",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.bl9zKayRE5WBrNBR"
+    },
+    {
+      "range": [
+        29,
+        32
+      ],
+      "_id": "uO020InfgC9L7phC",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mirror-like terrain",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.uO020InfgC9L7phC"
+    },
+    {
+      "range": [
+        33,
+        36
+      ],
+      "_id": "hE0ahVBgV8BmqwVP",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ore-strewn wastes",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.hE0ahVBgV8BmqwVP"
+    },
+    {
+      "range": [
+        37,
+        40
+      ],
+      "_id": "M5XybUnmlu45MRiu",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Polished valleys",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.M5XybUnmlu45MRiu"
+    },
+    {
+      "range": [
+        41,
+        44
+      ],
+      "_id": "6NUhQRJVyCQ3MduW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Polychromatic mesas",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.6NUhQRJVyCQ3MduW"
+    },
+    {
+      "range": [
+        45,
+        48
+      ],
+      "_id": "50liMuCKFvs7AkGn",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pools of molten metal",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.50liMuCKFvs7AkGn"
+    },
+    {
+      "range": [
+        49,
+        52
+      ],
+      "_id": "NE6vve3hbpZGRB6X",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Razor-edged spires",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.NE6vve3hbpZGRB6X"
+    },
+    {
+      "range": [
+        53,
+        56
+      ],
+      "_id": "pt28kFnkJZmuK3gi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rigid, arch-like formations",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.pt28kFnkJZmuK3gi"
+    },
+    {
+      "range": [
+        57,
+        61
+      ],
+      "_id": "SIjybprxhCq4edgR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ruinous lightning storms",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.SIjybprxhCq4edgR"
+    },
+    {
+      "range": [
+        62,
+        65
+      ],
+      "_id": "0X5AtjgHrOlQtitI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rusted or patinated mountains",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.0X5AtjgHrOlQtitI"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "mWVVMSsmyYx5QhTf",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sky-breaching metallic crystals",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.mWVVMSsmyYx5QhTf"
+    },
+    {
+      "range": [
+        71,
+        74
+      ],
+      "_id": "EaeJ0xi6gzwtiqxZ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Smooth, echoing chasms",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.EaeJ0xi6gzwtiqxZ"
+    },
+    {
+      "range": [
+        75,
+        79
+      ],
+      "_id": "HDgGN7Olk9Ywh91D",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Smoothed plains",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.HDgGN7Olk9Ywh91D"
+    },
+    {
+      "range": [
+        80,
+        83
+      ],
+      "_id": "APmiIhqm6mloAq7t",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Solidified rivers of metal",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.APmiIhqm6mloAq7t"
+    },
+    {
+      "range": [
+        84,
+        87
+      ],
+      "_id": "agtSlUbMD01Pl4SB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Storms of metallic shards",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.agtSlUbMD01Pl4SB"
+    },
+    {
+      "range": [
+        88,
+        91
+      ],
+      "_id": "KU8GLcPhHQgJLZe8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tarnished mountain ranges",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.KU8GLcPhHQgJLZe8"
+    },
+    {
+      "range": [
+        92,
+        96
+      ],
+      "_id": "6GRnf0shS8aZNkQB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tunnels blanketed by ore",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.6GRnf0shS8aZNkQB"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "m6eO3C3zPrsi8etw",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vast stratified canyons",
+      "name": "",
+      "_key": "!tables.results!s8NLKKiG6beCBbS0.m6eO3C3zPrsi8etw"
+    }
+  ],
+  "folder": "oK4ZOVshS1n7Yu4O",
+  "sort": 6,
+  "_id": "s8NLKKiG6beCBbS0",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745300225282,
+    "modifiedTime": 1745300225282,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!s8NLKKiG6beCBbS0"
+}

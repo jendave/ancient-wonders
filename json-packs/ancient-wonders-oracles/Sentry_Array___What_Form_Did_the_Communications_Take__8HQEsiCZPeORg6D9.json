@@ -1,0 +1,134 @@
+{
+  "name": "Sentry Array - What Form Did the Communications Take?",
+  "formula": "1d100",
+  "description": "<p>You may wish to determine what type of communication was intercepted and recorded by using the table below. After getting the result, Ask the Oracle (50/50) if the form of communication was made by one individual or shows more than one participant. These oracle results may be interpreted as one or multiple of the same type.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        25
+      ],
+      "_id": "xgi4qS56sVw7EftS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Text-based message or doc",
+      "name": "",
+      "_key": "!tables.results!8HQEsiCZPeORg6D9.xgi4qS56sVw7EftS"
+    },
+    {
+      "range": [
+        26,
+        50
+      ],
+      "_id": "d2C2ZrBX4K28W54Q",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Audio message or log",
+      "name": "",
+      "_key": "!tables.results!8HQEsiCZPeORg6D9.d2C2ZrBX4K28W54Q"
+    },
+    {
+      "range": [
+        51,
+        75
+      ],
+      "_id": "qLrYnPhtDl1j4b8V",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Video message or log",
+      "name": "",
+      "_key": "!tables.results!8HQEsiCZPeORg6D9.qLrYnPhtDl1j4b8V"
+    },
+    {
+      "range": [
+        76,
+        100
+      ],
+      "_id": "DjSQHdNmFdqRIZ12",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Image or recording",
+      "name": "",
+      "_key": "!tables.results!8HQEsiCZPeORg6D9.DjSQHdNmFdqRIZ12"
+    }
+  ],
+  "folder": "DE7yHGzN4LKJqDV8",
+  "sort": 1,
+  "_id": "8HQEsiCZPeORg6D9",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1746060648341,
+    "modifiedTime": 1746060648341,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!8HQEsiCZPeORg6D9"
+}

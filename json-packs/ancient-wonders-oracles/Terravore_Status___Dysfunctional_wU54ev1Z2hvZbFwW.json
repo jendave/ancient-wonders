@@ -1,0 +1,108 @@
+{
+  "name": "Terravore Status - Dysfunctional",
+  "formula": "1d100",
+  "description": "<p>The terravore affects its world in one of the following ways.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        33
+      ],
+      "_id": "XkhkR7mLIYlOOyd7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The terravore's beam is significantly undercharged and is only affecting an isolated area of the planet. When you roll &gt;Planet (page 40) to generate the features of the world that hosts the terravore, reroll the \"Furnace World\", \"Shattered World\", and \"Jovian World\" Planetary Class results. Then, treat the area affected by the beam as a furnace world (mono biome: volcanic; page 52).",
+      "name": "",
+      "_key": "!tables.results!wU54ev1Z2hvZbFwW.XkhkR7mLIYlOOyd7"
+    },
+    {
+      "range": [
+        34,
+        67
+      ],
+      "_id": "CoskxgSaJNTlq5FR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "As above, but the terravore is no longer geostationary and is instead orbiting the planet, devastating numerous areas of the world with its beam.",
+      "name": "",
+      "_key": "!tables.results!wU54ev1Z2hvZbFwW.CoskxgSaJNTlq5FR"
+    },
+    {
+      "range": [
+        68,
+        100
+      ],
+      "_id": "7ZlmEgHymcwf8hPb",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The terravore's beam is overcharged, has destroyed the planet below, and is now firing into deep space. The planet is a shattered world (page 74).",
+      "name": "",
+      "_key": "!tables.results!wU54ev1Z2hvZbFwW.7ZlmEgHymcwf8hPb"
+    }
+  ],
+  "folder": "iYmTLltqFQu7yPaA",
+  "sort": 1,
+  "_id": "wU54ev1Z2hvZbFwW",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746260069740,
+    "modifiedTime": 1746260069740,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!wU54ev1Z2hvZbFwW"
+}

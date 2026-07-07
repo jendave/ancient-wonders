@@ -1,0 +1,264 @@
+{
+  "name": "Ice World Biome Feature - Geothermal",
+  "formula": "1d100",
+  "description": "<p>Plant life rifts supported by vents dot the icy landscape.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        11
+      ],
+      "_id": "S1zaz8ZaSzI3CLO4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bubbling lakes expelling steam",
+      "name": "",
+      "_key": "!tables.results!uuJHjI0uJj3U2xFD.S1zaz8ZaSzI3CLO4"
+    },
+    {
+      "range": [
+        12,
+        22
+      ],
+      "_id": "es5nvFVyBOlAE8AS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Distorting heat haze",
+      "name": "",
+      "_key": "!tables.results!uuJHjI0uJj3U2xFD.es5nvFVyBOlAE8AS"
+    },
+    {
+      "range": [
+        23,
+        33
+      ],
+      "_id": "eE1Iwos7vJThBenC",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fissures erupting with smoke or gas",
+      "name": "",
+      "_key": "!tables.results!uuJHjI0uJj3U2xFD.eE1Iwos7vJThBenC"
+    },
+    {
+      "range": [
+        34,
+        44
+      ],
+      "_id": "xOFSAH8wdhlSofjS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Isolated geysers billowing steam",
+      "name": "",
+      "_key": "!tables.results!uuJHjI0uJj3U2xFD.xOFSAH8wdhlSofjS"
+    },
+    {
+      "range": [
+        45,
+        55
+      ],
+      "_id": "tYxztfe1pjJQVVt8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pools surrounded by hardy grasses and ferns",
+      "name": "",
+      "_key": "!tables.results!uuJHjI0uJj3U2xFD.tYxztfe1pjJQVVt8"
+    },
+    {
+      "range": [
+        56,
+        66
+      ],
+      "_id": "WmKZXi7pjT1bYkTs",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rocky moss-covered islands amid icy wastes",
+      "name": "",
+      "_key": "!tables.results!uuJHjI0uJj3U2xFD.WmKZXi7pjT1bYkTs"
+    },
+    {
+      "range": [
+        67,
+        77
+      ],
+      "_id": "PZMCWLIXTOZe0lJ9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Showers of hailstones or sleet",
+      "name": "",
+      "_key": "!tables.results!uuJHjI0uJj3U2xFD.PZMCWLIXTOZe0lJ9"
+    },
+    {
+      "range": [
+        78,
+        88
+      ],
+      "_id": "yf5xIKjPU7zxixy7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Steaming hot springs",
+      "name": "",
+      "_key": "!tables.results!uuJHjI0uJj3U2xFD.yf5xIKjPU7zxixy7"
+    },
+    {
+      "range": [
+        89,
+        100
+      ],
+      "_id": "I1H9E9Mfvzy9NDy7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transition into a new &gt;Biome",
+      "name": "",
+      "_key": "!tables.results!uuJHjI0uJj3U2xFD.I1H9E9Mfvzy9NDy7"
+    }
+  ],
+  "folder": "FihhzdgG6Tlxel9Q",
+  "sort": 13,
+  "_id": "uuJHjI0uJj3U2xFD",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745214414983,
+    "modifiedTime": 1745214414983,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!uuJHjI0uJj3U2xFD"
+}

@@ -1,0 +1,472 @@
+{
+  "name": "Ecosphere Research",
+  "formula": "1d100",
+  "description": "<p>As you spend time delving into an ecosphere to observe its lifeforms or systems, you may draw conclusions regarding what the precursors were researching.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        6
+      ],
+      "_id": "w27wS47rDo9OjWHm",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Accelerated or regressive evolution",
+      "name": "",
+      "_key": "!tables.results!ZNzgt2z4xAT8A7sP.w27wS47rDo9OjWHm"
+    },
+    {
+      "range": [
+        7,
+        12
+      ],
+      "_id": "TF8neDFD63wKNMu2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Agricultural optimization or diversity",
+      "name": "",
+      "_key": "!tables.results!ZNzgt2z4xAT8A7sP.TF8neDFD63wKNMu2"
+    },
+    {
+      "range": [
+        13,
+        18
+      ],
+      "_id": "ZXj6MXVMMS8yX9YE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Applied medicine or genetic engineering",
+      "name": "",
+      "_key": "!tables.results!ZNzgt2z4xAT8A7sP.ZXj6MXVMMS8yX9YE"
+    },
+    {
+      "range": [
+        19,
+        24
+      ],
+      "_id": "YHN1CZgPaBsiCc8B",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Biomechanics or biotechnology",
+      "name": "",
+      "_key": "!tables.results!ZNzgt2z4xAT8A7sP.YHN1CZgPaBsiCc8B"
+    },
+    {
+      "range": [
+        25,
+        30
+      ],
+      "_id": "emLreAep1fUEOHmB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Communication with or between lifeforms",
+      "name": "",
+      "_key": "!tables.results!ZNzgt2z4xAT8A7sP.emLreAep1fUEOHmB"
+    },
+    {
+      "range": [
+        31,
+        36
+      ],
+      "_id": "oC1UZ9TxSCamX1Fr",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Consciousness or sentience",
+      "name": "",
+      "_key": "!tables.results!ZNzgt2z4xAT8A7sP.oC1UZ9TxSCamX1Fr"
+    },
+    {
+      "range": [
+        37,
+        42
+      ],
+      "_id": "zZQkjirvZz4vAKl1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Conservation or preservation of lifeforms",
+      "name": "",
+      "_key": "!tables.results!ZNzgt2z4xAT8A7sP.zZQkjirvZz4vAKl1"
+    },
+    {
+      "range": [
+        43,
+        48
+      ],
+      "_id": "OeARYRISGtj9A7h1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Domestication of creatures as pets or livestock",
+      "name": "",
+      "_key": "!tables.results!ZNzgt2z4xAT8A7sP.OeARYRISGtj9A7h1"
+    },
+    {
+      "range": [
+        49,
+        54
+      ],
+      "_id": "f3MnmWxlgYzwYGoR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Epidemiology or virology",
+      "name": "",
+      "_key": "!tables.results!ZNzgt2z4xAT8A7sP.f3MnmWxlgYzwYGoR"
+    },
+    {
+      "range": [
+        55,
+        60
+      ],
+      "_id": "bibChHIwJTHgyC7Z",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evolutionary adaptation or stagnation",
+      "name": "",
+      "_key": "!tables.results!ZNzgt2z4xAT8A7sP.bibChHIwJTHgyC7Z"
+    },
+    {
+      "range": [
+        61,
+        66
+      ],
+      "_id": "9Xn55YPp7g8EAiax",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lifeforms' environmental interactions",
+      "name": "",
+      "_key": "!tables.results!ZNzgt2z4xAT8A7sP.9Xn55YPp7g8EAiax"
+    },
+    {
+      "range": [
+        67,
+        72
+      ],
+      "_id": "fvW95QMMXfKobEGj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Offensive or defensive bioweapons",
+      "name": "",
+      "_key": "!tables.results!ZNzgt2z4xAT8A7sP.fvW95QMMXfKobEGj"
+    },
+    {
+      "range": [
+        73,
+        78
+      ],
+      "_id": "OSgPeFJkZk5h0mHa",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetary colonization or terraforming",
+      "name": "",
+      "_key": "!tables.results!ZNzgt2z4xAT8A7sP.OSgPeFJkZk5h0mHa"
+    },
+    {
+      "range": [
+        79,
+        84
+      ],
+      "_id": "oaTarNt6wjI3GJCw",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Social dynamics or herd behavior",
+      "name": "",
+      "_key": "!tables.results!ZNzgt2z4xAT8A7sP.oaTarNt6wjI3GJCw"
+    },
+    {
+      "range": [
+        85,
+        90
+      ],
+      "_id": "8kqYdQwBV8Idvout",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Uplift or intelligence increase of lifeforms",
+      "name": "",
+      "_key": "!tables.results!ZNzgt2z4xAT8A7sP.8kqYdQwBV8Idvout"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "HFsaed5YjY7Ki8rx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Action + Theme; pg 12",
+      "name": "",
+      "_key": "!tables.results!ZNzgt2z4xAT8A7sP.HFsaed5YjY7Ki8rx"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "3iFE8G8Rc8yl6li3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice",
+      "name": "",
+      "_key": "!tables.results!ZNzgt2z4xAT8A7sP.3iFE8G8Rc8yl6li3"
+    }
+  ],
+  "folder": "wXMzUvQoCfDoUqQ5",
+  "sort": 3,
+  "_id": "ZNzgt2z4xAT8A7sP",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745821297335,
+    "modifiedTime": 1745821297335,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!ZNzgt2z4xAT8A7sP"
+}

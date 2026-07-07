@@ -1,0 +1,22 @@
+{
+  "name": "Planetary Attributes",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "3nzgBOS5Cvas6a2O",
+  "description": "",
+  "folder": "GvsmSMYbvgjEYSQc",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": null,
+    "modifiedTime": 1745010148573,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!3nzgBOS5Cvas6a2O"
+}

@@ -1,0 +1,550 @@
+{
+  "name": "Kintsugi World Subject",
+  "formula": "1d100",
+  "description": "<p>While the original motivations for the creation of a kintsugi world and its part have been lost, through exploration, study, and contemplation it is possible to devise a potential meaning. As you begin your observation, use the Purpose and Subject oracles on the next column to gain an initial insight into a particular artwork.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "mSURoHORTYG3VNME",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ability",
+      "name": "",
+      "_key": "!tables.results!R2QgJJCW04YslGMH.mSURoHORTYG3VNME"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "tEEykWx2WXgSXCtQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Concept",
+      "name": "",
+      "_key": "!tables.results!R2QgJJCW04YslGMH.tEEykWx2WXgSXCtQ"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "IGP4W0N9aUoPH3BX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Conflict",
+      "name": "",
+      "_key": "!tables.results!R2QgJJCW04YslGMH.IGP4W0N9aUoPH3BX"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "jKMG8ByRtFhCDvoK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Craft",
+      "name": "",
+      "_key": "!tables.results!R2QgJJCW04YslGMH.jKMG8ByRtFhCDvoK"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "Et9uBttR3pjbUC75",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Desire",
+      "name": "",
+      "_key": "!tables.results!R2QgJJCW04YslGMH.Et9uBttR3pjbUC75"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "urmfZ5DK4lVme1I6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deity",
+      "name": "",
+      "_key": "!tables.results!R2QgJJCW04YslGMH.urmfZ5DK4lVme1I6"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "Vdh3Q6q1Bd2mLlyi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Emotion",
+      "name": "",
+      "_key": "!tables.results!R2QgJJCW04YslGMH.Vdh3Q6q1Bd2mLlyi"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "QwXk4NwOKFVQEvnv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Environment",
+      "name": "",
+      "_key": "!tables.results!R2QgJJCW04YslGMH.QwXk4NwOKFVQEvnv"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "jKuywKlmmNuVYwdx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Event",
+      "name": "",
+      "_key": "!tables.results!R2QgJJCW04YslGMH.jKuywKlmmNuVYwdx"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "2Z7mlDAupyffRdRo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Experience",
+      "name": "",
+      "_key": "!tables.results!R2QgJJCW04YslGMH.2Z7mlDAupyffRdRo"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "KntRKCm2jc5ozFyE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Faction",
+      "name": "",
+      "_key": "!tables.results!R2QgJJCW04YslGMH.KntRKCm2jc5ozFyE"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "MyNVqdb9yekf5yiY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Faith",
+      "name": "",
+      "_key": "!tables.results!R2QgJJCW04YslGMH.MyNVqdb9yekf5yiY"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "oSLMOUuTXrC4d35x",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Feeling",
+      "name": "",
+      "_key": "!tables.results!R2QgJJCW04YslGMH.oSLMOUuTXrC4d35x"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "switKEzn2WHUWAXq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Idea",
+      "name": "",
+      "_key": "!tables.results!R2QgJJCW04YslGMH.switKEzn2WHUWAXq"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "UMALcVV3oqrs59t3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Individual",
+      "name": "",
+      "_key": "!tables.results!R2QgJJCW04YslGMH.UMALcVV3oqrs59t3"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "nFHXzRWdMPuwRssV",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Location",
+      "name": "",
+      "_key": "!tables.results!R2QgJJCW04YslGMH.nFHXzRWdMPuwRssV"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "G4Uf5VZSRZPqMtty",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mystery",
+      "name": "",
+      "_key": "!tables.results!R2QgJJCW04YslGMH.G4Uf5VZSRZPqMtty"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "5XbKW4MukyS3lKbu",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Object",
+      "name": "",
+      "_key": "!tables.results!R2QgJJCW04YslGMH.5XbKW4MukyS3lKbu"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "k1dxOtktNmK7BnqT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Skill",
+      "name": "",
+      "_key": "!tables.results!R2QgJJCW04YslGMH.k1dxOtktNmK7BnqT"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "8gfTKTlauLMgDz6i",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Species",
+      "name": "",
+      "_key": "!tables.results!R2QgJJCW04YslGMH.8gfTKTlauLMgDz6i"
+    }
+  ],
+  "folder": "QYJDtxrcH8LiBWBc",
+  "sort": 2,
+  "_id": "R2QgJJCW04YslGMH",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745897702899,
+    "modifiedTime": 1745897702899,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!R2QgJJCW04YslGMH"
+}

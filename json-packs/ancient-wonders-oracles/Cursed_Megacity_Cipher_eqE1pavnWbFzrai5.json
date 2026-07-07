@@ -1,0 +1,290 @@
+{
+  "name": "Cursed Megacity Cipher",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "f5RO1S602uk4RGe5",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Anomalous apparatus",
+      "name": "",
+      "_key": "!tables.results!eqE1pavnWbFzrai5.f5RO1S602uk4RGe5"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "dlbSmUizQNLXwTc9",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cautionary message from dying explorer",
+      "name": "",
+      "_key": "!tables.results!eqE1pavnWbFzrai5.dlbSmUizQNLXwTc9"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "bkj4b1dw2w0WplR4",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Distinctive visit or warning",
+      "name": "",
+      "_key": "!tables.results!eqE1pavnWbFzrai5.bkj4b1dw2w0WplR4"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "KrOEVNcOoHOLCvht",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dreadful dreams or visions",
+      "name": "",
+      "_key": "!tables.results!eqE1pavnWbFzrai5.KrOEVNcOoHOLCvht"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "QPVBhGf5WMjlPaS3",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evidence of horrendous death or violence",
+      "name": "",
+      "_key": "!tables.results!eqE1pavnWbFzrai5.QPVBhGf5WMjlPaS3"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "FGk6FFGveLxoDjLD",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Harrowing documentation",
+      "name": "",
+      "_key": "!tables.results!eqE1pavnWbFzrai5.FGk6FFGveLxoDjLD"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "Y65L2RfYOQmfDEBy",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Holographic reenactment",
+      "name": "",
+      "_key": "!tables.results!eqE1pavnWbFzrai5.Y65L2RfYOQmfDEBy"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "9Y9LrdDekTajHYLL",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lethal mechanism or trap",
+      "name": "",
+      "_key": "!tables.results!eqE1pavnWbFzrai5.9Y9LrdDekTajHYLL"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "HZSQwLDHxcKiANs5",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oversized or menacing keepers",
+      "name": "",
+      "_key": "!tables.results!eqE1pavnWbFzrai5.HZSQwLDHxcKiANs5"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "f8pbsmqg2XjFk4VE",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Violently improvised message",
+      "name": "",
+      "_key": "!tables.results!eqE1pavnWbFzrai5.f8pbsmqg2XjFk4VE"
+    }
+  ],
+  "folder": "nR1iJqDkm8MluDvh",
+  "sort": 5,
+  "_id": "eqE1pavnWbFzrai5",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746337614622,
+    "modifiedTime": 1746337614622,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!eqE1pavnWbFzrai5"
+}

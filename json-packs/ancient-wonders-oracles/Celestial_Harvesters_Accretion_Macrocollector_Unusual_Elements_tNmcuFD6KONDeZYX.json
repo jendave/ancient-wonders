@@ -1,0 +1,550 @@
+{
+  "name": "Celestial Harvesters Accretion Macrocollector Unusual Elements",
+  "formula": "1d100",
+  "description": "<p>Use the table below to uncover the exotic properties of materials found in an accretion disk.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "TrthJOZwpiFc4YBu",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Biological",
+      "name": "",
+      "_key": "!tables.results!tNmcuFD6KONDeZYX.TrthJOZwpiFc4YBu"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "T0cqCzxdt6lJbGVM",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bleeding",
+      "name": "",
+      "_key": "!tables.results!tNmcuFD6KONDeZYX.T0cqCzxdt6lJbGVM"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "1PLmo4zr26fu4cn5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blighted",
+      "name": "",
+      "_key": "!tables.results!tNmcuFD6KONDeZYX.1PLmo4zr26fu4cn5"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "K9gcpoC0U73LmxRL",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blinking",
+      "name": "",
+      "_key": "!tables.results!tNmcuFD6KONDeZYX.K9gcpoC0U73LmxRL"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "x5Xdu5po2QP8oPD7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Charging",
+      "name": "",
+      "_key": "!tables.results!tNmcuFD6KONDeZYX.x5Xdu5po2QP8oPD7"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "bHG90DQp94tL1bcZ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Emissive",
+      "name": "",
+      "_key": "!tables.results!tNmcuFD6KONDeZYX.bHG90DQp94tL1bcZ"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "PpZr0dXge4Sckx9f",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Featherweight",
+      "name": "",
+      "_key": "!tables.results!tNmcuFD6KONDeZYX.PpZr0dXge4Sckx9f"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "zEMwatZVr4Vg23YP",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fiery",
+      "name": "",
+      "_key": "!tables.results!tNmcuFD6KONDeZYX.zEMwatZVr4Vg23YP"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "HyT1jd61MwUJbXeH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fortified",
+      "name": "",
+      "_key": "!tables.results!tNmcuFD6KONDeZYX.HyT1jd61MwUJbXeH"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "VV9PHpyjVUYXXW5G",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fragile",
+      "name": "",
+      "_key": "!tables.results!tNmcuFD6KONDeZYX.VV9PHpyjVUYXXW5G"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "hA4HRem3mejI9qsh",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Frigid",
+      "name": "",
+      "_key": "!tables.results!tNmcuFD6KONDeZYX.hA4HRem3mejI9qsh"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "zajfTKkyWSujRsA8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Living",
+      "name": "",
+      "_key": "!tables.results!tNmcuFD6KONDeZYX.zajfTKkyWSujRsA8"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "OOiT16OlW5Kn1RGE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lush",
+      "name": "",
+      "_key": "!tables.results!tNmcuFD6KONDeZYX.OOiT16OlW5Kn1RGE"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "a21WqTbCrIqOkniE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Moving",
+      "name": "",
+      "_key": "!tables.results!tNmcuFD6KONDeZYX.a21WqTbCrIqOkniE"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "QAMNJNB1ILVJPvlJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shifting",
+      "name": "",
+      "_key": "!tables.results!tNmcuFD6KONDeZYX.QAMNJNB1ILVJPvlJ"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "Qiu4OoOmxCFh5CFb",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shrouded",
+      "name": "",
+      "_key": "!tables.results!tNmcuFD6KONDeZYX.Qiu4OoOmxCFh5CFb"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "xPVjScx7NPTfnAHW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stormy",
+      "name": "",
+      "_key": "!tables.results!tNmcuFD6KONDeZYX.xPVjScx7NPTfnAHW"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "7h0N7vuU68VHJh47",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stratified",
+      "name": "",
+      "_key": "!tables.results!tNmcuFD6KONDeZYX.7h0N7vuU68VHJh47"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "imUPaLbSFc7Mv2Ab",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Translucent",
+      "name": "",
+      "_key": "!tables.results!tNmcuFD6KONDeZYX.imUPaLbSFc7Mv2Ab"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "WPfSQlANtvvbzS6K",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unstable",
+      "name": "",
+      "_key": "!tables.results!tNmcuFD6KONDeZYX.WPfSQlANtvvbzS6K"
+    }
+  ],
+  "folder": "FBOWDEOqGKqxiWo8",
+  "sort": 1,
+  "_id": "tNmcuFD6KONDeZYX",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745774400318,
+    "modifiedTime": 1745774400318,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!tNmcuFD6KONDeZYX"
+}

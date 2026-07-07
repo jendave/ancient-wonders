@@ -1,0 +1,160 @@
+{
+  "name": "Core Manipulators Geothermal Stabilizer Status",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        15
+      ],
+      "_id": "jQKSyyCsUKCVUsr7",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Partially constructed / The planet is a furnace world (mono biome: volcanic; page 52).",
+      "name": "",
+      "_key": "!tables.results!K9ZgXIji3R4NnOcP.jQKSyyCsUKCVUsr7"
+    },
+    {
+      "range": [
+        16,
+        50
+      ],
+      "_id": "cmynzhK6LxOK49Sg",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Operational / When you roll &gt;Planet (page 40) to generate the features of the world that hosts the megastructure, reroll the \"Anomalous World\", \"Furnace World\", \"Jovian \"World\", and \"Shattered World\" Planetary Class results. There are no volcanoes, earthquakes, or magnetic disturbances.",
+      "name": "",
+      "_key": "!tables.results!K9ZgXIji3R4NnOcP.cmynzhK6LxOK49Sg"
+    },
+    {
+      "range": [
+        51,
+        85
+      ],
+      "_id": "SV4v5RnihmPy01PT",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Non-functional or offline / The planet is a furnace world (mono biome: volcanic; page 52). Making the geothermal stabilizer functional will have a quickly appearing effect on the world; all volcanic activity and earthquakes cease and any magnetic disturbances disappear. The planetary class (or biome) begins to change. For example, a furnace world will change into a rocky world as eruptions cease and previously exposed lava solidifies",
+      "name": "",
+      "_key": "!tables.results!K9ZgXIji3R4NnOcP.SV4v5RnihmPy01PT"
+    },
+    {
+      "range": [
+        86,
+        95
+      ],
+      "_id": "9EiPGNgO6tQjOOOi",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dysfunctional / As non-functional or offline, but the world also has these additional, perpetual features: * Erratic magnetic field * Powerful volcanic eruptions * Catastrophic earthquakes",
+      "name": "",
+      "_key": "!tables.results!K9ZgXIji3R4NnOcP.9EiPGNgO6tQjOOOi"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "x2w0OUBlwWXoPWJ8",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destroyed / The core is violently destabilized. The planet is a shattered world (page 74).",
+      "name": "",
+      "_key": "!tables.results!K9ZgXIji3R4NnOcP.x2w0OUBlwWXoPWJ8"
+    }
+  ],
+  "folder": "ifPVYKTtpv57IrDT",
+  "sort": 1,
+  "_id": "K9ZgXIji3R4NnOcP",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745809702181,
+    "modifiedTime": 1745809702181,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!K9ZgXIji3R4NnOcP"
+}

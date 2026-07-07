@@ -1,0 +1,22 @@
+{
+  "name": "Ecopoiesis Array",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "9GkzzoCtwny2axMc",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 1400000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745817411503,
+    "modifiedTime": 1745817411622,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!9GkzzoCtwny2axMc"
+}

@@ -1,0 +1,238 @@
+{
+  "name": "Orbital Feature",
+  "formula": "1d100",
+  "description": "<p>Use this oracle to determine any orbiting features around a planet. For orbital settlements, use the Settlement table in the corresponding world oracle.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "NivpqEuUTfnvLs4k",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!0JCPbltRMFdooqOh.NivpqEuUTfnvLs4k"
+    },
+    {
+      "range": [
+        11,
+        25
+      ],
+      "_id": "Bi4noDb6YMmsx3wb",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Ring System",
+      "name": "",
+      "_key": "!tables.results!0JCPbltRMFdooqOh.Bi4noDb6YMmsx3wb"
+    },
+    {
+      "range": [
+        26,
+        75
+      ],
+      "_id": "mktSqlF2ftjUCzQ2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Moon; pg 42",
+      "name": "",
+      "_key": "!tables.results!0JCPbltRMFdooqOh.mktSqlF2ftjUCzQ2"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "9IZ90VeAsuAa0TK2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Dense Nebula Cloud; SSE, pg 24",
+      "name": "",
+      "_key": "!tables.results!0JCPbltRMFdooqOh.9IZ90VeAsuAa0TK2"
+    },
+    {
+      "range": [
+        81,
+        83
+      ],
+      "_id": "Q7HQ2sO6QmffjBS3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Fiery Energy Storm; SSE, pg 18",
+      "name": "",
+      "_key": "!tables.results!0JCPbltRMFdooqOh.Q7HQ2sO6QmffjBS3"
+    },
+    {
+      "range": [
+        84,
+        85
+      ],
+      "_id": "LRw7Mphv4yfE7Eoa",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Precursor Vault (orbital); RG, pg 92",
+      "name": "",
+      "_key": "!tables.results!0JCPbltRMFdooqOh.LRw7Mphv4yfE7Eoa"
+    },
+    {
+      "range": [
+        86,
+        92
+      ],
+      "_id": "0mRy7uttyXQ2PGw0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Descriptor + Focus; pg 13",
+      "name": "",
+      "_key": "!tables.results!0JCPbltRMFdooqOh.0mRy7uttyXQ2PGw0"
+    },
+    {
+      "range": [
+        93,
+        100
+      ],
+      "_id": "YTJZF50G2JmCtc0c",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice",
+      "name": "",
+      "_key": "!tables.results!0JCPbltRMFdooqOh.YTJZF50G2JmCtc0c"
+    }
+  ],
+  "folder": "GvsmSMYbvgjEYSQc",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745010487555,
+    "modifiedTime": 1745011308406,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "0JCPbltRMFdooqOh",
+  "sort": 100000,
+  "_key": "!tables!0JCPbltRMFdooqOh"
+}

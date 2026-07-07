@@ -1,0 +1,160 @@
+{
+  "name": "Living World Cursed Lurking Threat",
+  "formula": "1d100",
+  "description": "<p>Threat / When the clock advances... / When the clock is filled...</p><p>The interior of a living world is horribly inhospitable; you are the foreign organism that must be exterminated. To represent this growing danger, add a tension clock. When you suffer a cost through failure, delay, or inaction, you may advance the clock to show the threat drawing closer. This table offers inspiration for these scenarios, including what signs you encounter as the tension clock advances, and what occurs when the clock fills.</p><p>To learn more about tension clocks, see page 238 of the Starforged rulebook.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        15
+      ],
+      "_id": "3LwpH3fhzHSZicDV",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Great bacteria / Territorial markings; signs or sounds of the creature / The bacteria strikes!",
+      "name": "",
+      "_key": "!tables.results!oz5XhXaI94pjhWUr.3LwpH3fhzHSZicDV"
+    },
+    {
+      "range": [
+        16,
+        40
+      ],
+      "_id": "Mc4s3n2aFSg75GqX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Infesting lifeforms / Skitterings and chitterings; grotesque nests / Swarms of vile lifeforms attack!",
+      "name": "",
+      "_key": "!tables.results!oz5XhXaI94pjhWUr.Mc4s3n2aFSg75GqX"
+    },
+    {
+      "range": [
+        41,
+        75
+      ],
+      "_id": "JzcZWvbqELwmuyJD",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Major antibody agent / Surfaces contract for protection; hardening walls / A great antibody appears!",
+      "name": "",
+      "_key": "!tables.results!oz5XhXaI94pjhWUr.JzcZWvbqELwmuyJD"
+    },
+    {
+      "range": [
+        76,
+        95
+      ],
+      "_id": "PXVQEmrLqN60ZgBm",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roaming virus / Rolling, foul fog; surfaces react abruptly / Your body gets ill!",
+      "name": "",
+      "_key": "!tables.results!oz5XhXaI94pjhWUr.PXVQEmrLqN60ZgBm"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "dXyvdEI0EWGYXDc0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Strong immune response / Toxic ambience; dizzying passages / Your body breaks down!",
+      "name": "",
+      "_key": "!tables.results!oz5XhXaI94pjhWUr.dXyvdEI0EWGYXDc0"
+    }
+  ],
+  "folder": "7yP7GU5RkbnYXOd3",
+  "sort": 13,
+  "_id": "oz5XhXaI94pjhWUr",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745289001127,
+    "modifiedTime": 1745289001127,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!oz5XhXaI94pjhWUr"
+}

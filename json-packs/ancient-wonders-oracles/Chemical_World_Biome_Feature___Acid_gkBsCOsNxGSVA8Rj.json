@@ -1,0 +1,290 @@
+{
+  "name": "Chemical World Biome Feature - Acid",
+  "formula": "1d100",
+  "description": "<p>Terrain marred by corrosive liquids and caustic gases.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "1B1rT26VWrmda0ye",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abraded and crumbling stone spires",
+      "name": "",
+      "_key": "!tables.results!gkBsCOsNxGSVA8Rj.1B1rT26VWrmda0ye"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "7Bg5bdNf2tETOyJm",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Densely pockmarked rocky plains",
+      "name": "",
+      "_key": "!tables.results!gkBsCOsNxGSVA8Rj.7Bg5bdNf2tETOyJm"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "G27yPNC8MaZ4hV61",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fizzing caustic rivers",
+      "name": "",
+      "_key": "!tables.results!gkBsCOsNxGSVA8Rj.G27yPNC8MaZ4hV61"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "20UNWSqdQCTPHKZi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Heavily dissolved and eroded mountains",
+      "name": "",
+      "_key": "!tables.results!gkBsCOsNxGSVA8Rj.20UNWSqdQCTPHKZi"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "LwHeRLhwCdmk0uBl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intensely corrosive rainfall",
+      "name": "",
+      "_key": "!tables.results!gkBsCOsNxGSVA8Rj.LwHeRLhwCdmk0uBl"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "fvudvKqTZY1DYbpK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mordant or blistering winds",
+      "name": "",
+      "_key": "!tables.results!gkBsCOsNxGSVA8Rj.fvudvKqTZY1DYbpK"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "59crC2Ba5Tn3al4S",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mountains eroded by acidic snow",
+      "name": "",
+      "_key": "!tables.results!gkBsCOsNxGSVA8Rj.59crC2Ba5Tn3al4S"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "zzEnzajozuBiN5fK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pools of dissolved metal",
+      "name": "",
+      "_key": "!tables.results!gkBsCOsNxGSVA8Rj.zzEnzajozuBiN5fK"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "a2tbqasynJ509fsx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vapor effusing seas or lakes",
+      "name": "",
+      "_key": "!tables.results!gkBsCOsNxGSVA8Rj.a2tbqasynJ509fsx"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "ZuQCQ2V89t3jJ1fi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Volatile bubbling pools",
+      "name": "",
+      "_key": "!tables.results!gkBsCOsNxGSVA8Rj.ZuQCQ2V89t3jJ1fi"
+    }
+  ],
+  "folder": "bfU9msCL4HxpF6vZ",
+  "sort": 800000,
+  "_id": "gkBsCOsNxGSVA8Rj",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745171240939,
+    "modifiedTime": 1745171240939,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!gkBsCOsNxGSVA8Rj"
+}

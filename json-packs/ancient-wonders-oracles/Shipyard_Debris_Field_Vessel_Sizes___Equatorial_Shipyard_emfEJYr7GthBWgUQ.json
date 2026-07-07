@@ -1,0 +1,82 @@
+{
+  "name": "Shipyard Debris Field Vessel Sizes - Equatorial Shipyard",
+  "formula": "1d100",
+  "description": "<p>Use this table to determine the scale of any or all of the vessels that constitute the shipyard's debris field. This may inform you as to how to treat the exploration of these derelicts.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        60
+      ],
+      "_id": "JgrnBOrRceCJRUJz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Typical site of limited scope",
+      "name": "",
+      "_key": "!tables.results!emfEJYr7GthBWgUQ.JgrnBOrRceCJRUJz"
+    },
+    {
+      "range": [
+        61,
+        100
+      ],
+      "_id": "tMZDSkcOMyOAHM3N",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large, elaborate site",
+      "name": "",
+      "_key": "!tables.results!emfEJYr7GthBWgUQ.tMZDSkcOMyOAHM3N"
+    }
+  ],
+  "folder": "vwLllcMF8jEpu72a",
+  "sort": 3,
+  "_id": "emfEJYr7GthBWgUQ",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746145410496,
+    "modifiedTime": 1746145410496,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!emfEJYr7GthBWgUQ"
+}

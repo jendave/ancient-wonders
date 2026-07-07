@@ -1,0 +1,134 @@
+{
+  "name": "Planet Proximity - Four Planets",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "1YZF5OH2Of5gZ9oO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1st",
+      "name": "",
+      "_key": "!tables.results!JhZN3w3G46sIv2rI.1YZF5OH2Of5gZ9oO"
+    },
+    {
+      "range": [
+        6,
+        20
+      ],
+      "_id": "PG2ibGrzFJvsdaU0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "2nd",
+      "name": "",
+      "_key": "!tables.results!JhZN3w3G46sIv2rI.PG2ibGrzFJvsdaU0"
+    },
+    {
+      "range": [
+        21,
+        75
+      ],
+      "_id": "fvcuio5a3lT5Z6F4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "3rd",
+      "name": "",
+      "_key": "!tables.results!JhZN3w3G46sIv2rI.fvcuio5a3lT5Z6F4"
+    },
+    {
+      "range": [
+        76,
+        100
+      ],
+      "_id": "EdaeUq73gMuJGjQ5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "4th",
+      "name": "",
+      "_key": "!tables.results!JhZN3w3G46sIv2rI.EdaeUq73gMuJGjQ5"
+    }
+  ],
+  "folder": "41sU9W41ZYPNEZO9",
+  "sort": 300000,
+  "_id": "JhZN3w3G46sIv2rI",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>Each column of the table below corresponds to the number of planets in the solar system. On the other side, the result is the proximity of the planet to the stellar object, not the orbit in which they reside. A planet in the 1st proximity is the one in the nearest orbit to the stellar object, whereas the planet in the 2nd or higher proximity is the one in a farther orbit.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.JhZN3w3G46sIv2rI",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743226623051,
+    "modifiedTime": 1743226689255,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!JhZN3w3G46sIv2rI"
+}

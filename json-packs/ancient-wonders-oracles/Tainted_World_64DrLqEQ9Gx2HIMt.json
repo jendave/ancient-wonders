@@ -1,0 +1,22 @@
+{
+  "name": "Tainted World",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "64DrLqEQ9Gx2HIMt",
+  "description": "",
+  "folder": "GvsmSMYbvgjEYSQc",
+  "sort": 1800000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": null,
+    "modifiedTime": 1745372518054,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!64DrLqEQ9Gx2HIMt"
+}

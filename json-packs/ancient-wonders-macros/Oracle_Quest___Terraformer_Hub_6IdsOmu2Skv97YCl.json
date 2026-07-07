@@ -1,0 +1,31 @@
+{
+  "name": "Oracle Quest - Terraformer Hub",
+  "type": "script",
+  "scope": "global",
+  "author": "MmM06BuCrG9h1GLg",
+  "img": "icons/svg/dice-target.svg",
+  "command": "// Module macro code by David Hudson and licensed for use under the CC BY-NC-SA 4.0.\n\nasync function printMessage(message) {\n    let chatData = { content: message };\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\", \"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\nasync function rollOracle(tableID, lowerCase = true) {\n    let table = await fromUuid(tableID);\n    let roll = await table.roll();\n    let result = roll.results[0].text;\n\n    if (result.startsWith(\"@Compendium\")) {\n        table = await fromUuid(result.slice(1).replace(\"[\", \".\").split(\"]\")[0]);\n        roll = await table.roll();\n        result = roll.results[0].text;\n    }\n\n    if (result == \"Roll twice\") {\n        let results = [\"Roll twice\", \"Roll twice\"];\n        for (let index = 0; index < results.length; index++) {\n            let element = results[index];\n            do {\n                const table = await fromUuid(tableID);\n                let roll = await table.roll();\n                element = roll.results[0].text.toLowerCase();\n            } while (element == \"roll twice\");\n            results[index] = element;\n        };\n        result = results[0] + \" and \" + results[1];\n    }\n    return lowerCase ? result.toLowerCase() : result;\n};\n\nlet title = \"<h3><strong>Oracle Quest - Terraformer Hub</strong></h3>\";\nlet message = \"A \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.mEWovsWhwKc4EYn4\") + \" settlement on a world harboring an operational terraformer hub has been experiencing \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.g0ddwkBCCkseHNMz\") + \" after the people of the community undertook to \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.b347a87fb81a3abb\") + \" \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.0c5ce82c7adbb4e2\") + \", unintentionally upsetting the fragile balance of their environment. Crops and water supplies have begun to falter, and strange atmospheric shifts now threaten daily life. The leaders of the settlement are urgently seeking an experienced delver to access the megastructure and use its ancient systems to reshape the local landscape, hoping to stablilize their world before the damage grows worse. What truly caused this recent trouble? What further measures might be required to resolve this crisis once and for all?\"\n\n// Print the message\nprintMessage(title + message);",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747515883658,
+    "modifiedTime": 1763747214097,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "6IdsOmu2Skv97YCl",
+  "sort": 1200000,
+  "_key": "!macros!6IdsOmu2Skv97YCl"
+}

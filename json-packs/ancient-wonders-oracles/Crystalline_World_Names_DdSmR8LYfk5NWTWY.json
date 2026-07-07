@@ -1,0 +1,550 @@
+{
+  "name": "Crystalline World Names",
+  "formula": "1d100",
+  "description": "<p>A jewel in the black canvas of space covered by beauteous gemstones.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "aUazUGOkUZvJ12ak",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Amitrea",
+      "name": "",
+      "_key": "!tables.results!DdSmR8LYfk5NWTWY.aUazUGOkUZvJ12ak"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "HPHnK685gKYtxRMS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Apation",
+      "name": "",
+      "_key": "!tables.results!DdSmR8LYfk5NWTWY.HPHnK685gKYtxRMS"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "BvYMpUZYCeiDJ0nj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Berylion",
+      "name": "",
+      "_key": "!tables.results!DdSmR8LYfk5NWTWY.BvYMpUZYCeiDJ0nj"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "3xEINcYUgLdbosWp",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Candentis",
+      "name": "",
+      "_key": "!tables.results!DdSmR8LYfk5NWTWY.3xEINcYUgLdbosWp"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "KrPKV0EDjnGImFLq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chrysos",
+      "name": "",
+      "_key": "!tables.results!DdSmR8LYfk5NWTWY.KrPKV0EDjnGImFLq"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "5Aq1eyzYjtQON27y",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cystalis",
+      "name": "",
+      "_key": "!tables.results!DdSmR8LYfk5NWTWY.5Aq1eyzYjtQON27y"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "1v279MZkZXCYMXNi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Diopsidae",
+      "name": "",
+      "_key": "!tables.results!DdSmR8LYfk5NWTWY.1v279MZkZXCYMXNi"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "FbJLrdZGaEgZDtLo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Heliodor",
+      "name": "",
+      "_key": "!tables.results!DdSmR8LYfk5NWTWY.FbJLrdZGaEgZDtLo"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "FcNXepDT1xvqihZR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Humesca",
+      "name": "",
+      "_key": "!tables.results!DdSmR8LYfk5NWTWY.FcNXepDT1xvqihZR"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "rEuRpd9Dxo9qiJzg",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Kyanite",
+      "name": "",
+      "_key": "!tables.results!DdSmR8LYfk5NWTWY.rEuRpd9Dxo9qiJzg"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "NDTxVrmQvO7gC8Bi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Luminesca",
+      "name": "",
+      "_key": "!tables.results!DdSmR8LYfk5NWTWY.NDTxVrmQvO7gC8Bi"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "05IVUoPq3U3QGYxf",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Monazite",
+      "name": "",
+      "_key": "!tables.results!DdSmR8LYfk5NWTWY.05IVUoPq3U3QGYxf"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "bRKUxo2ca5a74ull",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Moti",
+      "name": "",
+      "_key": "!tables.results!DdSmR8LYfk5NWTWY.bRKUxo2ca5a74ull"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "A94NTpFMhS1XeO1Q",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Navratna",
+      "name": "",
+      "_key": "!tables.results!DdSmR8LYfk5NWTWY.A94NTpFMhS1XeO1Q"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "QL08zpCOrgXu1BJs",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Onix",
+      "name": "",
+      "_key": "!tables.results!DdSmR8LYfk5NWTWY.QL08zpCOrgXu1BJs"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "Hh4DHk535GrfDJcU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opacea",
+      "name": "",
+      "_key": "!tables.results!DdSmR8LYfk5NWTWY.Hh4DHk535GrfDJcU"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "RTUlMhxScFA7xGSb",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Polygeus",
+      "name": "",
+      "_key": "!tables.results!DdSmR8LYfk5NWTWY.RTUlMhxScFA7xGSb"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "dpc70Vs9GtxRLXR2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prismara",
+      "name": "",
+      "_key": "!tables.results!DdSmR8LYfk5NWTWY.dpc70Vs9GtxRLXR2"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "ELGcCz22Dv86isdE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Zirca",
+      "name": "",
+      "_key": "!tables.results!DdSmR8LYfk5NWTWY.ELGcCz22Dv86isdE"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "QHqDqP63yJeGVgdc",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Zultesca",
+      "name": "",
+      "_key": "!tables.results!DdSmR8LYfk5NWTWY.QHqDqP63yJeGVgdc"
+    }
+  ],
+  "folder": "0JSMPE3mLyqMtbq8",
+  "sort": 0,
+  "_id": "DdSmR8LYfk5NWTWY",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745179560568,
+    "modifiedTime": 1745179560568,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!DdSmR8LYfk5NWTWY"
+}

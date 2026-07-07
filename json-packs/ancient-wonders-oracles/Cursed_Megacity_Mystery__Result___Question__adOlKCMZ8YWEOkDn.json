@@ -1,0 +1,290 @@
+{
+  "name": "Cursed Megacity Mystery (Result / Question)",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "nHTxM1Hie5x51EI5",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Commanding keeper / What is the nature of the overseeing construct that guards this  site?",
+      "name": "",
+      "_key": "!tables.results!adOlKCMZ8YWEOkDn.nHTxM1Hie5x51EI5"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "HPHRpDHhAdEdRG8G",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Confined being / What entity or creature is imprisoned in this place?",
+      "name": "",
+      "_key": "!tables.results!adOlKCMZ8YWEOkDn.HPHRpDHhAdEdRG8G"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "3cDusaN8sW6wopmV",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cursed relic / What treasure or splinter of the past is held here?",
+      "name": "",
+      "_key": "!tables.results!adOlKCMZ8YWEOkDn.3cDusaN8sW6wopmV"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "LQu74ROQWO0a36Tc",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Eldritch sect / What corrupted faction made this site their place of operation?",
+      "name": "",
+      "_key": "!tables.results!adOlKCMZ8YWEOkDn.LQu74ROQWO0a36Tc"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "B4cdX8ZXU8YHt0Ci",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enigmatic gateway / What strange domain does this site connect to?",
+      "name": "",
+      "_key": "!tables.results!adOlKCMZ8YWEOkDn.B4cdX8ZXU8YHt0Ci"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "BYu8ssMr6GbKptXd",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Haunting anomaly / What aberration makes its presence felt in this place?",
+      "name": "",
+      "_key": "!tables.results!adOlKCMZ8YWEOkDn.BYu8ssMr6GbKptXd"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "CGZHRGkyPQ4cC63w",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Menacing portent / What foreboding catastrophe does this site hold?",
+      "name": "",
+      "_key": "!tables.results!adOlKCMZ8YWEOkDn.CGZHRGkyPQ4cC63w"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "a2XMzzbVnv4lVT8u",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ruinous fallout / What calamity left this place bound to everlasting decay?",
+      "name": "",
+      "_key": "!tables.results!adOlKCMZ8YWEOkDn.a2XMzzbVnv4lVT8u"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "BeazaS4SfzufeuKz",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weird mutation / What physical or mental alteration can this site cause?",
+      "name": "",
+      "_key": "!tables.results!adOlKCMZ8YWEOkDn.BeazaS4SfzufeuKz"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "2BX5RVaEHU7jwglQ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wretched technology / What abnormal machinery or apparatus affects this site?",
+      "name": "",
+      "_key": "!tables.results!adOlKCMZ8YWEOkDn.2BX5RVaEHU7jwglQ"
+    }
+  ],
+  "folder": "nR1iJqDkm8MluDvh",
+  "sort": 3,
+  "_id": "adOlKCMZ8YWEOkDn",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746337614622,
+    "modifiedTime": 1746337614622,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!adOlKCMZ8YWEOkDn"
+}

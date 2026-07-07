@@ -1,0 +1,654 @@
+{
+  "name": "Kintsugi World Surface Feature",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        4
+      ],
+      "_id": "05X92T5wkxRk7XC0",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Carved formations",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.05X92T5wkxRk7XC0"
+    },
+    {
+      "range": [
+        5,
+        8
+      ],
+      "_id": "9ch32fN5824CQzTm",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Colossal geometric forms",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.9ch32fN5824CQzTm"
+    },
+    {
+      "range": [
+        9,
+        13
+      ],
+      "_id": "RugooLh6NoIlnVJq",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Engraved mesas and plateaus",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.RugooLh6NoIlnVJq"
+    },
+    {
+      "range": [
+        14,
+        18
+      ],
+      "_id": "YXeRjwfgzngaIytS",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Etched sculptures",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.YXeRjwfgzngaIytS"
+    },
+    {
+      "range": [
+        19,
+        22
+      ],
+      "_id": "hWDoY7QfCsfdaVrl",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exotic rainfall",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.hWDoY7QfCsfdaVrl"
+    },
+    {
+      "range": [
+        23,
+        26
+      ],
+      "_id": "WwJEbap3sDgqRnph",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Floating gardens or groves",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.WwJEbap3sDgqRnph"
+    },
+    {
+      "range": [
+        27,
+        30
+      ],
+      "_id": "HN8MN4bvFvuKLmWP",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gravitational anomalies",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.HN8MN4bvFvuKLmWP"
+    },
+    {
+      "range": [
+        31,
+        34
+      ],
+      "_id": "6ER8sFicKBJj4AqH",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hallucinogenic fog or mist",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.6ER8sFicKBJj4AqH"
+    },
+    {
+      "range": [
+        35,
+        38
+      ],
+      "_id": "G3taEP52Hd00OhjG",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hewn valleys or cliffs",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.G3taEP52Hd00OhjG"
+    },
+    {
+      "range": [
+        39,
+        43
+      ],
+      "_id": "GPn17tMOAgvh9KwQ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Inscribed monoliths",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.GPn17tMOAgvh9KwQ"
+    },
+    {
+      "range": [
+        44,
+        47
+      ],
+      "_id": "1je7DIhknXIiZjgv",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Kaleidoscopic auroras",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.1je7DIhknXIiZjgv"
+    },
+    {
+      "range": [
+        48,
+        51
+      ],
+      "_id": "ZCQlVxJQmhKASjY9",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Non-newtonian rivers or lakes",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.ZCQlVxJQmhKASjY9"
+    },
+    {
+      "range": [
+        52,
+        55
+      ],
+      "_id": "kzp2VhcXoaWEewZ1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pareidolic clouds",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.kzp2VhcXoaWEewZ1"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "DrVWi3Xq8jRYnmZb",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Patterned plains",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.DrVWi3Xq8jRYnmZb"
+    },
+    {
+      "range": [
+        61,
+        64
+      ],
+      "_id": "ArpfQLTZR4XMoNZ5",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Preserved or encased lifeforms",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.ArpfQLTZR4XMoNZ5"
+    },
+    {
+      "range": [
+        65,
+        68
+      ],
+      "_id": "YL3QrguEPzuJq1m4",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reflective skies",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.YL3QrguEPzuJq1m4"
+    },
+    {
+      "range": [
+        69,
+        72
+      ],
+      "_id": "B63oJxBB5D0IGAQD",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rhythmic earthquakes",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.B63oJxBB5D0IGAQD"
+    },
+    {
+      "range": [
+        73,
+        76
+      ],
+      "_id": "Qo9UsSewjv15qGzp",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sculpted mountains",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.Qo9UsSewjv15qGzp"
+    },
+    {
+      "range": [
+        77,
+        80
+      ],
+      "_id": "3rKD8dMN3HLHWogw",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Singing winds",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.3rKD8dMN3HLHWogw"
+    },
+    {
+      "range": [
+        81,
+        84
+      ],
+      "_id": "BNGfuZcBwDppVc4t",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Suspended sea or ocean",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.BNGfuZcBwDppVc4t"
+    },
+    {
+      "range": [
+        85,
+        88
+      ],
+      "_id": "PQNSUqEPL2KAd7x3",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Temporally-shifting regions",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.PQNSUqEPL2KAd7x3"
+    },
+    {
+      "range": [
+        89,
+        92
+      ],
+      "_id": "jinl6QLgYuxtzLUl",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tessellated forests",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.jinl6QLgYuxtzLUl"
+    },
+    {
+      "range": [
+        93,
+        96
+      ],
+      "_id": "UCyarH7wcWtQCNXM",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transparent seas or oceans",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.UCyarH7wcWtQCNXM"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "msBg65E7cD3xJg0m",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Visages of the past",
+      "name": "",
+      "_key": "!tables.results!fOjigK82zgQVRuAx.msBg65E7cD3xJg0m"
+    }
+  ],
+  "folder": "QYJDtxrcH8LiBWBc",
+  "sort": 8,
+  "_id": "fOjigK82zgQVRuAx",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745897702899,
+    "modifiedTime": 1745897702899,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!fOjigK82zgQVRuAx"
+}

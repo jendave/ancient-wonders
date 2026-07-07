@@ -1,0 +1,22 @@
+{
+  "name": "Making Camp Moves",
+  "sorting": "m",
+  "folder": null,
+  "type": "Item",
+  "_id": "X7RxSy2B4ga5AKKj",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746476662400,
+    "modifiedTime": 1746477673938,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!X7RxSy2B4ga5AKKj"
+}

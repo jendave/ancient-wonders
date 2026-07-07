@@ -1,0 +1,97 @@
+{
+  "type": "asset",
+  "folder": "bOcZzkQSUb3oUpS2",
+  "name": "Maneuvering Unit",
+  "system": {
+    "requirement": "",
+    "category": "Item - Apparel",
+    "color": "#3d8b8a",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>The maneuvering unit consists of a hardsuit, grapples, magnetic boots, and a thruster backpack. This equipment allows you to reduce or increase your experienced gravity by one, as referenced on the table at right. When you make a move in which your weight is a major factor and leverage your maneuvering unit, add +1.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>You may increase or decrease your experienced gravity by two (instead of one).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>The maneuvering unit is a belt that may increases or decrease up to three your experienced gravity. When you make a move in which weight is a major factor, and leverage the belt, take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Cloak",
+      "current": 0,
+      "max": 3,
+      "value": 3,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "Little",
+        "selected": true
+      },
+      {
+        "name": "",
+        "selected": false
+      },
+      {
+        "name": "Low",
+        "selected": false
+      },
+      {
+        "name": "Ideal",
+        "selected": false
+      },
+      {
+        "name": "High",
+        "selected": false
+      },
+      {
+        "name": "Severe",
+        "selected": false
+      }
+    ],
+    "conditions": [],
+    "description": "<p>A gear set to circumvent the user's experienced gravity.</p>"
+  },
+  "img": "modules/ancient-wonders/assets/jetpack.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747108435332,
+    "modifiedTime": 1764468479370,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "Y97mwsiNjvPTNyt4",
+  "sort": 0,
+  "_key": "!items!Y97mwsiNjvPTNyt4"
+}

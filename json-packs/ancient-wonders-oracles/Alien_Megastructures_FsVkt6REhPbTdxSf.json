@@ -1,0 +1,22 @@
+{
+  "name": "Alien Megastructures",
+  "sorting": "m",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "FsVkt6REhPbTdxSf",
+  "description": "",
+  "sort": 231250,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745554018481,
+    "modifiedTime": 1746298810594,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!FsVkt6REhPbTdxSf"
+}

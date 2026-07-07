@@ -1,0 +1,22 @@
+{
+  "name": "Ice World",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "FihhzdgG6Tlxel9Q",
+  "description": "",
+  "folder": "GvsmSMYbvgjEYSQc",
+  "sort": 900000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": null,
+    "modifiedTime": 1745214415036,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!FihhzdgG6Tlxel9Q"
+}

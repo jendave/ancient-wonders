@@ -1,0 +1,264 @@
+{
+  "name": "Ice World Biome Feature - Snow",
+  "formula": "1d100",
+  "description": "<p>Glistening plains and mountains unmarred by lush vegetation.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        11
+      ],
+      "_id": "EO69eb0vbiLJO7ZU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Drifting thick fog",
+      "name": "",
+      "_key": "!tables.results!MOCBDOTminoEpn1y.EO69eb0vbiLJO7ZU"
+    },
+    {
+      "range": [
+        12,
+        22
+      ],
+      "_id": "5UtKQLC6bkxuLSDI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enormous snowcapped mountain",
+      "name": "",
+      "_key": "!tables.results!MOCBDOTminoEpn1y.5UtKQLC6bkxuLSDI"
+    },
+    {
+      "range": [
+        23,
+        33
+      ],
+      "_id": "xy5LoCBwPMMxA3ii",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lowlands filled with small pools of  water",
+      "name": "",
+      "_key": "!tables.results!MOCBDOTminoEpn1y.xy5LoCBwPMMxA3ii"
+    },
+    {
+      "range": [
+        34,
+        44
+      ],
+      "_id": "T8zKflMxwz8dkUaa",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Massive snow drifts",
+      "name": "",
+      "_key": "!tables.results!MOCBDOTminoEpn1y.T8zKflMxwz8dkUaa"
+    },
+    {
+      "range": [
+        45,
+        55
+      ],
+      "_id": "PevdlLPcVlfwNgxX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shifting snow dunes",
+      "name": "",
+      "_key": "!tables.results!MOCBDOTminoEpn1y.PevdlLPcVlfwNgxX"
+    },
+    {
+      "range": [
+        56,
+        66
+      ],
+      "_id": "9YfsbxOM46ZVI9Rm",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Snow-covered mountain range",
+      "name": "",
+      "_key": "!tables.results!MOCBDOTminoEpn1y.9YfsbxOM46ZVI9Rm"
+    },
+    {
+      "range": [
+        67,
+        77
+      ],
+      "_id": "6ofbtmbbVDieDDti",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Snow-topped boreal woods",
+      "name": "",
+      "_key": "!tables.results!MOCBDOTminoEpn1y.6ofbtmbbVDieDDti"
+    },
+    {
+      "range": [
+        78,
+        88
+      ],
+      "_id": "KEvHIWPvthj9FXk1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Windswept smooth glaciers",
+      "name": "",
+      "_key": "!tables.results!MOCBDOTminoEpn1y.KEvHIWPvthj9FXk1"
+    },
+    {
+      "range": [
+        89,
+        100
+      ],
+      "_id": "9S0bt8vZM2k9ZrEz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transition into a new &gt;Biome",
+      "name": "",
+      "_key": "!tables.results!MOCBDOTminoEpn1y.9S0bt8vZM2k9ZrEz"
+    }
+  ],
+  "folder": "FihhzdgG6Tlxel9Q",
+  "sort": 17,
+  "_id": "MOCBDOTminoEpn1y",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745214414983,
+    "modifiedTime": 1745214414983,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!MOCBDOTminoEpn1y"
+}

@@ -1,0 +1,420 @@
+{
+  "name": "Living World Periosteum",
+  "formula": "1d100",
+  "description": "<p>Living worlds consist of two biomes: the epidermis and the periosteum. When you start your expedition into this world, Ask the Oracle (likely) if your exploration begins in the epidermis.</p><p>Thin layer immediately juxtaposed with osseous tissues.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "5JR9VEYbRjYdWJBw",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abysmal, glistening orifices",
+      "name": "",
+      "_key": "!tables.results!2wWrbrX5BY8MJXXQ.5JR9VEYbRjYdWJBw"
+    },
+    {
+      "range": [
+        8,
+        15
+      ],
+      "_id": "1TlAw6h9AlFYDmSA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bone-like thickets",
+      "name": "",
+      "_key": "!tables.results!2wWrbrX5BY8MJXXQ.1TlAw6h9AlFYDmSA"
+    },
+    {
+      "range": [
+        16,
+        23
+      ],
+      "_id": "WA6zlAiJzaZrVdAf",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Broad, weeping wounds",
+      "name": "",
+      "_key": "!tables.results!2wWrbrX5BY8MJXXQ.WA6zlAiJzaZrVdAf"
+    },
+    {
+      "range": [
+        24,
+        29
+      ],
+      "_id": "SZWCecWemRas4qiB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Caustic geysers",
+      "name": "",
+      "_key": "!tables.results!2wWrbrX5BY8MJXXQ.SZWCecWemRas4qiB"
+    },
+    {
+      "range": [
+        30,
+        38
+      ],
+      "_id": "EXRGa6XGk1s9MBuB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Curtains or blankets of connective tissue",
+      "name": "",
+      "_key": "!tables.results!2wWrbrX5BY8MJXXQ.EXRGa6XGk1s9MBuB"
+    },
+    {
+      "range": [
+        39,
+        42
+      ],
+      "_id": "N5Vt9FwX9LLsbVoG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enormous strands of sinew",
+      "name": "",
+      "_key": "!tables.results!2wWrbrX5BY8MJXXQ.N5Vt9FwX9LLsbVoG"
+    },
+    {
+      "range": [
+        43,
+        45
+      ],
+      "_id": "XmZXjOcvKWC4g0dW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Groves of exposed nerve fibers",
+      "name": "",
+      "_key": "!tables.results!2wWrbrX5BY8MJXXQ.XmZXjOcvKWC4g0dW"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "fiOgc8rM0JCEW7L4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mineralized tissue",
+      "name": "",
+      "_key": "!tables.results!2wWrbrX5BY8MJXXQ.fiOgc8rM0JCEW7L4"
+    },
+    {
+      "range": [
+        51,
+        59
+      ],
+      "_id": "kxpn4iXVMo6WFGJv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mountainous protruding bones",
+      "name": "",
+      "_key": "!tables.results!2wWrbrX5BY8MJXXQ.kxpn4iXVMo6WFGJv"
+    },
+    {
+      "range": [
+        60,
+        61
+      ],
+      "_id": "pxUEIkemjY4nss4J",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Neuron-like trees",
+      "name": "",
+      "_key": "!tables.results!2wWrbrX5BY8MJXXQ.pxUEIkemjY4nss4J"
+    },
+    {
+      "range": [
+        62,
+        67
+      ],
+      "_id": "oui3VSqtP03Xd7PJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pulsating veins or arteries",
+      "name": "",
+      "_key": "!tables.results!2wWrbrX5BY8MJXXQ.oui3VSqtP03Xd7PJ"
+    },
+    {
+      "range": [
+        68,
+        76
+      ],
+      "_id": "yZpoI9GctmWUdsfl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Undulating, distended mounds",
+      "name": "",
+      "_key": "!tables.results!2wWrbrX5BY8MJXXQ.yZpoI9GctmWUdsfl"
+    },
+    {
+      "range": [
+        77,
+        84
+      ],
+      "_id": "XBCR8wSHDNcaCYqy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vividly colored, exposed flesh",
+      "name": "",
+      "_key": "!tables.results!2wWrbrX5BY8MJXXQ.XBCR8wSHDNcaCYqy"
+    },
+    {
+      "range": [
+        85,
+        90
+      ],
+      "_id": "wCVq2W1RGc0tOzdy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Yawning caves or fissures",
+      "name": "",
+      "_key": "!tables.results!2wWrbrX5BY8MJXXQ.wCVq2W1RGc0tOzdy"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "ejFgyhcE7m6Lcgji",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transition into the epidermis biome",
+      "name": "",
+      "_key": "!tables.results!2wWrbrX5BY8MJXXQ.ejFgyhcE7m6Lcgji"
+    }
+  ],
+  "folder": "7yP7GU5RkbnYXOd3",
+  "sort": 9,
+  "_id": "2wWrbrX5BY8MJXXQ",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745289001127,
+    "modifiedTime": 1745289001127,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!2wWrbrX5BY8MJXXQ"
+}

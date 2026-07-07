@@ -1,0 +1,316 @@
+{
+  "name": "Ocean World Biome Feature - Hycean",
+  "formula": "1d100",
+  "description": "<p>Vast open  seas stretch across the horizon.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        9
+      ],
+      "_id": "Un33sXHlCxdKPGs6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Current-bound maelstroms",
+      "name": "",
+      "_key": "!tables.results!4BVYrfdjH6elED8E.Un33sXHlCxdKPGs6"
+    },
+    {
+      "range": [
+        10,
+        18
+      ],
+      "_id": "hHzaCLJhiWx32iu3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enormous fog banks",
+      "name": "",
+      "_key": "!tables.results!4BVYrfdjH6elED8E.hHzaCLJhiWx32iu3"
+    },
+    {
+      "range": [
+        19,
+        27
+      ],
+      "_id": "7UZqqLRJPO4GWB7U",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expanses of floating oceanic plants and debris",
+      "name": "",
+      "_key": "!tables.results!4BVYrfdjH6elED8E.7UZqqLRJPO4GWB7U"
+    },
+    {
+      "range": [
+        28,
+        36
+      ],
+      "_id": "Ce0hiyJtBs2kXB9j",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Floating forests",
+      "name": "",
+      "_key": "!tables.results!4BVYrfdjH6elED8E.Ce0hiyJtBs2kXB9j"
+    },
+    {
+      "range": [
+        37,
+        45
+      ],
+      "_id": "OXDn5Ebwf1N7ri09",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Regions of opaque waters",
+      "name": "",
+      "_key": "!tables.results!4BVYrfdjH6elED8E.OXDn5Ebwf1N7ri09"
+    },
+    {
+      "range": [
+        46,
+        54
+      ],
+      "_id": "3QAm92En9ku2Cnyj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roaming icebergs or islets",
+      "name": "",
+      "_key": "!tables.results!4BVYrfdjH6elED8E.3QAm92En9ku2Cnyj"
+    },
+    {
+      "range": [
+        55,
+        63
+      ],
+      "_id": "TPF2LNQrsb7QWDqm",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shallow-water plains",
+      "name": "",
+      "_key": "!tables.results!4BVYrfdjH6elED8E.TPF2LNQrsb7QWDqm"
+    },
+    {
+      "range": [
+        64,
+        72
+      ],
+      "_id": "pjLovJflLALm9Ny0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Titanic waves",
+      "name": "",
+      "_key": "!tables.results!4BVYrfdjH6elED8E.pjLovJflLALm9Ny0"
+    },
+    {
+      "range": [
+        73,
+        81
+      ],
+      "_id": "2YYAh57FhKZ6vv7E",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Turbulent winds and choppy seas",
+      "name": "",
+      "_key": "!tables.results!4BVYrfdjH6elED8E.2YYAh57FhKZ6vv7E"
+    },
+    {
+      "range": [
+        82,
+        90
+      ],
+      "_id": "ITfXUJIvTJocq010",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Windborne waterspouts",
+      "name": "",
+      "_key": "!tables.results!4BVYrfdjH6elED8E.ITfXUJIvTJocq010"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "QlFfG1CRqloa0Qld",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transition into a new &gt;Biome",
+      "name": "",
+      "_key": "!tables.results!4BVYrfdjH6elED8E.QlFfG1CRqloa0Qld"
+    }
+  ],
+  "folder": "0JRiZnm539EkbEnA",
+  "sort": 14,
+  "_id": "4BVYrfdjH6elED8E",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745301207420,
+    "modifiedTime": 1745301207420,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!4BVYrfdjH6elED8E"
+}

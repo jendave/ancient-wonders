@@ -1,0 +1,72 @@
+{
+  "type": "asset",
+  "folder": "bOcZzkQSUb3oUpS2",
+  "name": "Ergonomic Pack",
+  "system": {
+    "requirement": "",
+    "category": "Item - Apparel",
+    "color": "#3d8b8a",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>The ergonomic pack carries up to 2 refill. When you gain +supply, you may convert it to +refill. If you do, determine the type of provision (such as survival, combat, medical, or mechanical). When you make a move +supply by leveraging the provision type, you may add +refill. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.0fcfea7696d1de15]{Sacrifice Resources}, you may instead suffer -refill for any portion of the cost.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Improved design ensures all contained items are easily retrievable. When you make a move by using its provisions, take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>The pack carries up to 3 refill. When you make a move to barter or negotiate and you have at least 1 refill, you may sweeten the deal. If you do, reroll any dice and add +refill. Then, suffer -1 refill.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Energy",
+      "current": 0,
+      "max": 3,
+      "value": 2,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "<p>A pack made with a special design.</p>"
+  },
+  "img": "modules/ancient-wonders/assets/backpack.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747105458849,
+    "modifiedTime": 1764468445509,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "hjsmqeYC1pRGXKbG",
+  "sort": 0,
+  "_key": "!items!hjsmqeYC1pRGXKbG"
+}

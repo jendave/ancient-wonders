@@ -1,0 +1,79 @@
+{
+  "type": "asset",
+  "folder": "bOcZzkQSUb3oUpS2",
+  "name": "Sedative",
+  "system": {
+    "requirement": "",
+    "category": "Item - Consumable",
+    "color": "#3d8b8a",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.c2c2f31f564caa06]{Hearten} using the sedative, add +2 and suffer -1 use.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.c2c2f31f564caa06]{Hearten} using the sedative, its chemicals specifically target and bind to the relevant receptors; you may reroll one challenge die.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>If you are shaken and @Compendium[foundry-ironsworn.starforgedmoves.Item.c2c2f31f564caa06]{Hearten} using the sedative, advanced chemicals detect the neurological impact and act immediately to clear it; take an automatic strong hit, but @Compendium[foundry-ironsworn.starforgedmoves.Item.93d2d69b7e2b85e1]{Lose Momentum} (-1).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "description": "<p>The sedative remains effective for 24 hours after being consumed. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} during that time, add +1 and choose one after resolving the move.</p>\n   <ul>\n   <li>Take +2 momentum</li>\n   <li>Add +1 on your next move (not a progress move)</li>\n   </ul>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Use",
+      "current": 0,
+      "max": 3,
+      "value": 3,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "<p>A drug that alleviates neurological concerns.</p>"
+  },
+  "img": "modules/ancient-wonders/assets/syringe.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747108600365,
+    "modifiedTime": 1764468502815,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "SRMSN3nc0WSDTvIe",
+  "sort": 0,
+  "_key": "!items!SRMSN3nc0WSDTvIe"
+}

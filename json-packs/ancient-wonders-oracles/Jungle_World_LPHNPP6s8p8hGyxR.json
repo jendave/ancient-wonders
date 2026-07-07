@@ -1,0 +1,22 @@
+{
+  "name": "Jungle World",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "LPHNPP6s8p8hGyxR",
+  "description": "",
+  "folder": "GvsmSMYbvgjEYSQc",
+  "sort": 1100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": null,
+    "modifiedTime": 1745260316679,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!LPHNPP6s8p8hGyxR"
+}

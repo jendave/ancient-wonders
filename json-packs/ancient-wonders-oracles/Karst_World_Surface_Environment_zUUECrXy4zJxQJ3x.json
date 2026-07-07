@@ -1,0 +1,290 @@
+{
+  "name": "Karst World Surface Environment",
+  "formula": "1d100",
+  "description": "<p>Use this table to reveal the planetary classes of each layer environment of a karst world. First, roll to determine the planetary class of the surface layer environment. Then, roll on that column to define the planetary class of the subterranean environment.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        12
+      ],
+      "_id": "TPdh1VonVxJSNgDU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Furnace World",
+      "name": "",
+      "_key": "!tables.results!zUUECrXy4zJxQJ3x.TPdh1VonVxJSNgDU"
+    },
+    {
+      "range": [
+        13,
+        17
+      ],
+      "_id": "BAInIHpPw3uPoikj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Metallic World",
+      "name": "",
+      "_key": "!tables.results!zUUECrXy4zJxQJ3x.BAInIHpPw3uPoikj"
+    },
+    {
+      "range": [
+        18,
+        32
+      ],
+      "_id": "yZC4ZCbVXoL8xpXq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Rocky World",
+      "name": "",
+      "_key": "!tables.results!zUUECrXy4zJxQJ3x.yZC4ZCbVXoL8xpXq"
+    },
+    {
+      "range": [
+        33,
+        37
+      ],
+      "_id": "ntCGkwecBFr1pbau",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Crystalline World",
+      "name": "",
+      "_key": "!tables.results!zUUECrXy4zJxQJ3x.ntCGkwecBFr1pbau"
+    },
+    {
+      "range": [
+        38,
+        49
+      ],
+      "_id": "emepEduGLrsIw0BW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Desert World",
+      "name": "",
+      "_key": "!tables.results!zUUECrXy4zJxQJ3x.emepEduGLrsIw0BW"
+    },
+    {
+      "range": [
+        50,
+        60
+      ],
+      "_id": "5IKTG5QRuv2G14h6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Tainted World",
+      "name": "",
+      "_key": "!tables.results!zUUECrXy4zJxQJ3x.5IKTG5QRuv2G14h6"
+    },
+    {
+      "range": [
+        61,
+        71
+      ],
+      "_id": "niW7yuiryImpousZ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Jungle World",
+      "name": "",
+      "_key": "!tables.results!zUUECrXy4zJxQJ3x.niW7yuiryImpousZ"
+    },
+    {
+      "range": [
+        72,
+        77
+      ],
+      "_id": "mBJpMvufeLabbncb",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Vital World",
+      "name": "",
+      "_key": "!tables.results!zUUECrXy4zJxQJ3x.mBJpMvufeLabbncb"
+    },
+    {
+      "range": [
+        78,
+        87
+      ],
+      "_id": "6olSBaLotY8bwyUd",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Grave World",
+      "name": "",
+      "_key": "!tables.results!zUUECrXy4zJxQJ3x.6olSBaLotY8bwyUd"
+    },
+    {
+      "range": [
+        88,
+        100
+      ],
+      "_id": "V6ErrgOO6FDEzUQ8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Ice World",
+      "name": "",
+      "_key": "!tables.results!zUUECrXy4zJxQJ3x.V6ErrgOO6FDEzUQ8"
+    }
+  ],
+  "_id": "zUUECrXy4zJxQJ3x",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "FXVCYV8xOMRWRlDp",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.zUUECrXy4zJxQJ3x",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745268556752,
+    "modifiedTime": 1745268556752,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!zUUECrXy4zJxQJ3x"
+}

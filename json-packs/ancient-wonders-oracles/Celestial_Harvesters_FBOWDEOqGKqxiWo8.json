@@ -1,0 +1,22 @@
+{
+  "name": "Celestial Harvesters",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "FBOWDEOqGKqxiWo8",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 1000000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745774400249,
+    "modifiedTime": 1745774400376,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!FBOWDEOqGKqxiWo8"
+}

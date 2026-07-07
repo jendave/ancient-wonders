@@ -1,0 +1,82 @@
+{
+  "name": "Gigatransporter Vessel Platform Core",
+  "formula": "1d100",
+  "description": "<p>Use the following tables to determine the composition of the vessel of the gigatransporter. In addition to these, you may use the Shape oracle on page 102 to further detail it.</p><p>If the gigatransporter is a space elevator, Ask the Oracle (small chance) if it has an energy-based beam as a way of transfer instead of the traditional vessel. An energy-based beam does not feature Vessel Levels or Travel Duration, as the beam extends between the surface and orbital stations and provides near-instantaneous travel.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        50
+      ],
+      "_id": "Ctc6X20cKGv3W3fy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hollow",
+      "name": "",
+      "_key": "!tables.results!UucaCTWcUTCnubjE.Ctc6X20cKGv3W3fy"
+    },
+    {
+      "range": [
+        51,
+        100
+      ],
+      "_id": "kp0K7uR4WQs6zKaO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Solid",
+      "name": "",
+      "_key": "!tables.results!UucaCTWcUTCnubjE.kp0K7uR4WQs6zKaO"
+    }
+  ],
+  "folder": "EOvZAxWNG3TxMOFL",
+  "sort": 3,
+  "_id": "UucaCTWcUTCnubjE",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745558350975,
+    "modifiedTime": 1745558350975,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!UucaCTWcUTCnubjE"
+}

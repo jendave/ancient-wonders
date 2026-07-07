@@ -1,0 +1,95 @@
+{
+  "type": "asset",
+  "folder": "VGDM9gKIusGTm2DW",
+  "name": "Ace Pilot 1",
+  "system": {
+    "requirement": "",
+    "category": "Special Companion",
+    "color": "#3d8b8a",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "description": "<p>When the ace pilot @Compendium[foundry-ironsworn.starforgedmoves.Item.2f2ba4090b22a122]{Enter the Fray} while piloting, choose (before rolling) if they do so aggressively (count a weak hit as a strong hit) or defensively (count a miss as a weak hit). Then, when they @Compendium[foundry-ironsworn.starforgedmoves.Item.3f5a834fa3fea5d1]{Gain Ground} by maneuvering against a foe and score a strong hit, they may put themselves in a firing position by noting the action die value. If any party member @Compendium[foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} using the vehicle's weapons, preset the action die with that value. This persists until someone scores a miss.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "Edge 2",
+        "selected": false
+      },
+      {
+        "name": "Heart 1",
+        "selected": false
+      },
+      {
+        "name": "Iron 1",
+        "selected": false
+      },
+      {
+        "name": "Shadow 2",
+        "selected": false
+      },
+      {
+        "name": "Wits 3",
+        "selected": true
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Wounded",
+        "ticked": false
+      }
+    ],
+    "description": "<p>An expert in piloting, navigation, and aerospace.</p>\n<p>Master Ability</p>"
+  },
+  "img": "modules/ancient-wonders/assets/astronaut-helmet.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746689680722,
+    "modifiedTime": 1764466553974,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.331",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.2"
+    }
+  },
+  "_id": "EQOg4xq74xZrtynj",
+  "sort": 100000,
+  "_key": "!items!EQOg4xq74xZrtynj"
+}

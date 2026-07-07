@@ -1,0 +1,732 @@
+{
+  "name": "Megastructure Class - Type 2 (Megastructure / Presumed Purpose / Scale / Stellar Object)",
+  "formula": "1d100",
+  "description": "<p>Use this oracle to identify the type of a megastructure. Reference the column that corresponds to the Technological Scale truth previously established on page 87. The Presumed Purpose hints as to what humanity understands to be the function of the wonder, the Scale defines its size, and the Stellar Object indicates whether the megastructure needs a star or black hole to be present.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "1OjFdorgojb9A6sj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unidentified Megastructure / Unknown / Planetary or sub / --",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.1OjFdorgojb9A6sj"
+    },
+    {
+      "range": [
+        11,
+        13
+      ],
+      "_id": "c4ATVDTpySFJUjzB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Asteroid Processor / Mining / Subplanetary / --",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.c4ATVDTpySFJUjzB"
+    },
+    {
+      "range": [
+        14,
+        16
+      ],
+      "_id": "OZftThy3YLlKEQuQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Atmosphere Harvester / Mining / Subplanetary / --",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.OZftThy3YLlKEQuQ"
+    },
+    {
+      "range": [
+        17,
+        19
+      ],
+      "_id": "SjP8QDk5beAN1iPE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Defense Nexus / Military / Subplanetary / --",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.SjP8QDk5beAN1iPE"
+    },
+    {
+      "range": [
+        20,
+        22
+      ],
+      "_id": "k32itzie05HA0MDl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ecopoiesis Array / Terraforming / Subplanetary / --",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.k32itzie05HA0MDl"
+    },
+    {
+      "range": [
+        23,
+        27
+      ],
+      "_id": "7uw6O0JjAow2BviS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ecumenopolis / Residence / Planetary / --",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.7uw6O0JjAow2BviS"
+    },
+    {
+      "range": [
+        28,
+        30
+      ],
+      "_id": "8RCsg6zD8DT3kSZo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Equatorial Shipyard / Industry / Planetary / --",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.8RCsg6zD8DT3kSZo"
+    },
+    {
+      "range": [
+        31,
+        33
+      ],
+      "_id": "yNDdwsEQdxW9XQWT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ferrothermal Engine / Terraforming / Subplanetary / --",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.yNDdwsEQdxW9XQWT"
+    },
+    {
+      "range": [
+        34,
+        36
+      ],
+      "_id": "S1j2O9TjaPGuCLdy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geothermal Stabilizer / Terraforming / Subplanetary / --",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.S1j2O9TjaPGuCLdy"
+    },
+    {
+      "range": [
+        37,
+        42
+      ],
+      "_id": "ilIMb3vMEb7gHBJe",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "McKendree Cylinder / Residence / Subplanetary / --",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.ilIMb3vMEb7gHBJe"
+    },
+    {
+      "range": [
+        43,
+        45
+      ],
+      "_id": "g1GVsTU45hyBm63e",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nezzarine Garden / Agriculture / Planetary / Star",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.g1GVsTU45hyBm63e"
+    },
+    {
+      "range": [
+        46,
+        48
+      ],
+      "_id": "iXRBklurp31dxFoT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Quarry World / Mining / Planetary / --",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.iXRBklurp31dxFoT"
+    },
+    {
+      "range": [
+        49,
+        50
+      ],
+      "_id": "WdhM2c8gVa6jkj9c",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sentinel Belt / Military / System / --",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.WdhM2c8gVa6jkj9c"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "2VeOaOxbt4ov7Ddl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Standford Torus / Residence / Subplanetary / Star",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.2VeOaOxbt4ov7Ddl"
+    },
+    {
+      "range": [
+        56,
+        58
+      ],
+      "_id": "aXlZBJB8unULLuVm",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Terravore / Mining / Subplanetary / --",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.aXlZBJB8unULLuVm"
+    },
+    {
+      "range": [
+        59,
+        61
+      ],
+      "_id": "craWpSltpz50mGX7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aegisphere / Military / Planetary / --",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.craWpSltpz50mGX7"
+    },
+    {
+      "range": [
+        62,
+        66
+      ],
+      "_id": "tR5VAfl1O9CfkswD",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bishop Ring / Residence / Planetary / Star",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.tR5VAfl1O9CfkswD"
+    },
+    {
+      "range": [
+        67,
+        69
+      ],
+      "_id": "rQje15xRTnWZ1uVW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Behemoth Assembler / Industry / Planetary / Star",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.rQje15xRTnWZ1uVW"
+    },
+    {
+      "range": [
+        70,
+        73
+      ],
+      "_id": "rnHvJcOMWxC5H6bS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Discworld / Residence / Planetary / Star",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.rnHvJcOMWxC5H6bS"
+    },
+    {
+      "range": [
+        74,
+        76
+      ],
+      "_id": "DTY6mE808iNcEttK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ecosphere / Research / Planetary / --",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.DTY6mE808iNcEttK"
+    },
+    {
+      "range": [
+        77,
+        82
+      ],
+      "_id": "gAr7cY4s68P1wQfC",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Habitat Cluster / Residence / Planetary / --",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.gAr7cY4s68P1wQfC"
+    },
+    {
+      "range": [
+        83,
+        85
+      ],
+      "_id": "HZmEbegyF5IPT7K6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jupiter Brain / Research / Planetary / --",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.HZmEbegyF5IPT7K6"
+    },
+    {
+      "range": [
+        86,
+        88
+      ],
+      "_id": "CkzVQNK14gqhNxdf",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Kintsugi World / Cultural / Planetary / --",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.CkzVQNK14gqhNxdf"
+    },
+    {
+      "range": [
+        89,
+        91
+      ],
+      "_id": "cB3pwTVJcz1uF6wW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lunar Speculorefractor / Terraforming / Planetary / Star",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.cB3pwTVJcz1uF6wW"
+    },
+    {
+      "range": [
+        92,
+        94
+      ],
+      "_id": "CmdLug753tlkuQlA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetcraft /  Mixed / Planetary / --",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.CmdLug753tlkuQlA"
+    },
+    {
+      "range": [
+        95,
+        97
+      ],
+      "_id": "8BVV8LobEdwyAZAQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sentry Array / Military / Planetary / --",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.8BVV8LobEdwyAZAQ"
+    },
+    {
+      "range": [
+        98,
+        100
+      ],
+      "_id": "SC8ONgyQSjmj8AP1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Terraformer Hub / Terraforming / Planetary / --",
+      "name": "",
+      "_key": "!tables.results!lV7u4PbazABJa0iw.SC8ONgyQSjmj8AP1"
+    }
+  ],
+  "folder": "J4qshrz9reA49AI9",
+  "sort": 1,
+  "_id": "lV7u4PbazABJa0iw",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745562930759,
+    "modifiedTime": 1745562930759,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!lV7u4PbazABJa0iw"
+}

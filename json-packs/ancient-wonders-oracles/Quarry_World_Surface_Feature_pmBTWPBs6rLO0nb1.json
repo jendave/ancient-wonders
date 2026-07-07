@@ -1,0 +1,654 @@
+{
+  "name": "Quarry World Surface Feature",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        8
+      ],
+      "_id": "ZKcqIeBC8YLkkZTP",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Colossal equipment",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.ZKcqIeBC8YLkkZTP"
+    },
+    {
+      "range": [
+        9,
+        12
+      ],
+      "_id": "Sog3nQ9WJ0ikfByT",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Continental fracture",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.Sog3nQ9WJ0ikfByT"
+    },
+    {
+      "range": [
+        13,
+        16
+      ],
+      "_id": "Mzey2KJW82o9a9dQ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Distorting haze",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.Mzey2KJW82o9a9dQ"
+    },
+    {
+      "range": [
+        17,
+        20
+      ],
+      "_id": "ZdvCudnHdhqR7SiQ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Drained ocean basins",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.ZdvCudnHdhqR7SiQ"
+    },
+    {
+      "range": [
+        21,
+        24
+      ],
+      "_id": "m0nYJXJP1qdRgvNZ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dust-choked skies",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.m0nYJXJP1qdRgvNZ"
+    },
+    {
+      "range": [
+        25,
+        28
+      ],
+      "_id": "neFQCAvJcDPao6Ix",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enormous refuse sites",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.neFQCAvJcDPao6Ix"
+    },
+    {
+      "range": [
+        29,
+        32
+      ],
+      "_id": "fRHiMjhkCQhIMJiv",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Erratic magnetic fields",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.fRHiMjhkCQhIMJiv"
+    },
+    {
+      "range": [
+        33,
+        36
+      ],
+      "_id": "jvbyM4xPsCRPrLGv",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exposed veins of minerals",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.jvbyM4xPsCRPrLGv"
+    },
+    {
+      "range": [
+        37,
+        40
+      ],
+      "_id": "lH1RXZAmhcraJR6Q",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extensive hewn trenches",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.lH1RXZAmhcraJR6Q"
+    },
+    {
+      "range": [
+        41,
+        44
+      ],
+      "_id": "8rQELPkJua0vkfR3",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Felled mountains",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.8rQELPkJua0vkfR3"
+    },
+    {
+      "range": [
+        45,
+        48
+      ],
+      "_id": "pX6cqDLsdBVnrLc1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flooded excavations",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.pX6cqDLsdBVnrLc1"
+    },
+    {
+      "range": [
+        49,
+        52
+      ],
+      "_id": "YTnY0woUSm4YRJuy",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gigantic bore-holes",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.YTnY0woUSm4YRJuy"
+    },
+    {
+      "range": [
+        53,
+        56
+      ],
+      "_id": "M6he9igJDfknF6CK",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Greatly excavated crust",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.M6he9igJDfknF6CK"
+    },
+    {
+      "range": [
+        57,
+        60
+      ],
+      "_id": "L2DBNYZzOPb9srYp",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Grid-mapped surface",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.L2DBNYZzOPb9srYp"
+    },
+    {
+      "range": [
+        61,
+        64
+      ],
+      "_id": "NDnvzwNFeTbOPnpK",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Immense casting moulds",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.NDnvzwNFeTbOPnpK"
+    },
+    {
+      "range": [
+        65,
+        68
+      ],
+      "_id": "CqUF4k5lCV9MaUXv",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Massive mechanical monoliths",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.CqUF4k5lCV9MaUXv"
+    },
+    {
+      "range": [
+        69,
+        72
+      ],
+      "_id": "667MxA4hnaEDVpck",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Plateaus brimming with resources",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.667MxA4hnaEDVpck"
+    },
+    {
+      "range": [
+        73,
+        76
+      ],
+      "_id": "6BnGTLalSRXaWxph",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pools or lakes of molten metal",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.6BnGTLalSRXaWxph"
+    },
+    {
+      "range": [
+        77,
+        80
+      ],
+      "_id": "l9RFWtPjT8jh9Gav",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Powerful storms",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.l9RFWtPjT8jh9Gav"
+    },
+    {
+      "range": [
+        81,
+        84
+      ],
+      "_id": "R8WjZmEi5XzVg3xb",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rain of slag or ash",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.R8WjZmEi5XzVg3xb"
+    },
+    {
+      "range": [
+        85,
+        88
+      ],
+      "_id": "7chN9QpX2WrCsCVz",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rivers of acidic runoff",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.7chN9QpX2WrCsCVz"
+    },
+    {
+      "range": [
+        89,
+        92
+      ],
+      "_id": "xqXhgHVcy8E2buww",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Subterranean tunnel networks",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.xqXhgHVcy8E2buww"
+    },
+    {
+      "range": [
+        93,
+        96
+      ],
+      "_id": "eEwfOSlFPRFN1ZUM",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vast stepped quarries",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.eEwfOSlFPRFN1ZUM"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "V3QG0rXjMGM911V4",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Violent earthquakes",
+      "name": "",
+      "_key": "!tables.results!pmBTWPBs6rLO0nb1.V3QG0rXjMGM911V4"
+    }
+  ],
+  "folder": "wu8LWR0QyVGIqYXB",
+  "sort": 5,
+  "_id": "pmBTWPBs6rLO0nb1",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745988464632,
+    "modifiedTime": 1745988464632,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!pmBTWPBs6rLO0nb1"
+}

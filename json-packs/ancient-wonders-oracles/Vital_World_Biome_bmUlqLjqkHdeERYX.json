@@ -1,0 +1,1044 @@
+{
+  "name": "Vital World Biome",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        3
+      ],
+      "_id": "t1ASkhgeewm9yFsd",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Badlands (Desert World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.t1ASkhgeewm9yFsd"
+    },
+    {
+      "range": [
+        4,
+        6
+      ],
+      "_id": "NPRecjIGhYG5RG1v",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Dune (Desert World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.NPRecjIGhYG5RG1v"
+    },
+    {
+      "range": [
+        7,
+        8
+      ],
+      "_id": "R4nB29lTMgJxv1Mm",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Mesa (Desert World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.R4nB29lTMgJxv1Mm"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "w7hEHpI52CCIN9ZT",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Oasis (Desert World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.w7hEHpI52CCIN9ZT"
+    },
+    {
+      "range": [
+        10,
+        11
+      ],
+      "_id": "TMIMF40Tfm9o3bNJ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Salt Flat (Desert World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.TMIMF40Tfm9o3bNJ"
+    },
+    {
+      "range": [
+        12,
+        14
+      ],
+      "_id": "e20NC7HK1vuPxc95",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Semi-arid (Desert World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.e20NC7HK1vuPxc95"
+    },
+    {
+      "range": [
+        15,
+        17
+      ],
+      "_id": "ppsn9bB3eEqhSrH3",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Steppe (Desert World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.ppsn9bB3eEqhSrH3"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "5Ii9wvzgnx3BdFTw",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Ash (Furnace World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.5Ii9wvzgnx3BdFTw"
+    },
+    {
+      "range": [
+        19,
+        20
+      ],
+      "_id": "BhYXBnJjgVzSFSas",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Volcanic (Furnace World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.BhYXBnJjgVzSFSas"
+    },
+    {
+      "range": [
+        21,
+        22
+      ],
+      "_id": "jCswrJXMTI5aohpP",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Cryoflora (Ice World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.jCswrJXMTI5aohpP"
+    },
+    {
+      "range": [
+        23,
+        24
+      ],
+      "_id": "UbxTv9VxeoMISPF9",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Frigid (Ice World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.UbxTv9VxeoMISPF9"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "p0qS2O0aY1ArICuL",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Geothermal (Ice World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.p0qS2O0aY1ArICuL"
+    },
+    {
+      "range": [
+        26,
+        27
+      ],
+      "_id": "Y1MM75GC9thhN7tn",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Glacial (Ice World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.Y1MM75GC9thhN7tn"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "PdyEujMGAaqihAvH",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Glaciovolcanic (Ice World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.PdyEujMGAaqihAvH"
+    },
+    {
+      "range": [
+        29,
+        30
+      ],
+      "_id": "2fjHZsNkANreegwH",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Iceberg (Ice World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.2fjHZsNkANreegwH"
+    },
+    {
+      "range": [
+        31,
+        33
+      ],
+      "_id": "aT7psc4qmfTv8P0p",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Snow (Ice World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.aT7psc4qmfTv8P0p"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "Sqo7zIJpn8xrjzpO",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Subglacial (Ice World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.Sqo7zIJpn8xrjzpO"
+    },
+    {
+      "range": [
+        35,
+        38
+      ],
+      "_id": "tJSeHjAMDktTGj1r",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Forest (Jungle World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.tJSeHjAMDktTGj1r"
+    },
+    {
+      "range": [
+        39,
+        40
+      ],
+      "_id": "j1Q260kiwjfES3fi",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Megaflora (Jungle World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.j1Q260kiwjfES3fi"
+    },
+    {
+      "range": [
+        41,
+        41
+      ],
+      "_id": "XSBlrJeDqvB8KcJg",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Petrified (Jungle World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.XSBlrJeDqvB8KcJg"
+    },
+    {
+      "range": [
+        42,
+        44
+      ],
+      "_id": "SXXGSLMsiIoIegSX",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Rainforest (Jungle World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.SXXGSLMsiIoIegSX"
+    },
+    {
+      "range": [
+        45,
+        47
+      ],
+      "_id": "SmPPQfXP2lcrfWbE",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Swamp (Jungle World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.SmPPQfXP2lcrfWbE"
+    },
+    {
+      "range": [
+        48,
+        49
+      ],
+      "_id": "zkRm4cjEzhrU4nrW",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Tepui (Jungle World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.zkRm4cjEzhrU4nrW"
+    },
+    {
+      "range": [
+        50,
+        52
+      ],
+      "_id": "1zXlRi8whz1StSw1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Archipelago (Ocean World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.1zXlRi8whz1StSw1"
+    },
+    {
+      "range": [
+        53,
+        56
+      ],
+      "_id": "MYybW89jqrzdFcEC",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Atoll (Ocean World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.MYybW89jqrzdFcEC"
+    },
+    {
+      "range": [
+        57,
+        58
+      ],
+      "_id": "LKtAf4uPaswjNbwO",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Crag (Ocean World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.LKtAf4uPaswjNbwO"
+    },
+    {
+      "range": [
+        59,
+        61
+      ],
+      "_id": "1nJPPSFztGHe2PZZ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Hycean (Ocean World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.1nJPPSFztGHe2PZZ"
+    },
+    {
+      "range": [
+        62,
+        62
+      ],
+      "_id": "NgUasrL11GnmjPT1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Mangrove (Ocean World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.NgUasrL11GnmjPT1"
+    },
+    {
+      "range": [
+        63,
+        64
+      ],
+      "_id": "WidTcddGEWcBWZNN",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Reef (Ocean World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.WidTcddGEWcBWZNN"
+    },
+    {
+      "range": [
+        65,
+        65
+      ],
+      "_id": "AnUU3S1BUbaLk98D",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Basalt (Rocky World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.AnUU3S1BUbaLk98D"
+    },
+    {
+      "range": [
+        66,
+        67
+      ],
+      "_id": "O9MPAoXJr77eNJoj",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Bog (Rocky World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.O9MPAoXJr77eNJoj"
+    },
+    {
+      "range": [
+        68,
+        68
+      ],
+      "_id": "cGfQ3CkLH0GV8FbZ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Mud (Rocky World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.cGfQ3CkLH0GV8FbZ"
+    },
+    {
+      "range": [
+        69,
+        70
+      ],
+      "_id": "QWu5cSQ7HorDCo5M",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Hive (Tainted World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.QWu5cSQ7HorDCo5M"
+    },
+    {
+      "range": [
+        71,
+        71
+      ],
+      "_id": "CkRO7YTA6RS8IU4i",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Mutagenic (Tainted World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.CkRO7YTA6RS8IU4i"
+    },
+    {
+      "range": [
+        72,
+        73
+      ],
+      "_id": "QEmnUyJs6TGo17wL",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Mycelium (Tainted World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.QEmnUyJs6TGo17wL"
+    },
+    {
+      "range": [
+        74,
+        80
+      ],
+      "_id": "kpA6t1m6SvmnElej",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Grassland (Vital World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.kpA6t1m6SvmnElej"
+    },
+    {
+      "range": [
+        81,
+        87
+      ],
+      "_id": "FlqxvdrYc0LvDdsu",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Jungle (Vital World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.FlqxvdrYc0LvDdsu"
+    },
+    {
+      "range": [
+        88,
+        94
+      ],
+      "_id": "nm2FRzmahjnO9byq",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Savanna (Vital World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.nm2FRzmahjnO9byq"
+    },
+    {
+      "range": [
+        95,
+        100
+      ],
+      "_id": "A5Z43VbsLUFVzGa1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Taiga (Vital World)",
+      "name": "",
+      "_key": "!tables.results!bmUlqLjqkHdeERYX.A5Z43VbsLUFVzGa1"
+    }
+  ],
+  "folder": "uqIYYdcorEC11vj9",
+  "sort": 10,
+  "_id": "bmUlqLjqkHdeERYX",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745469388179,
+    "modifiedTime": 1745469388179,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!bmUlqLjqkHdeERYX"
+}

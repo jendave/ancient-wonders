@@ -1,0 +1,264 @@
+{
+  "name": "Jungle World Biome Feature - Rainforest",
+  "formula": "1d100",
+  "description": "<p>Hot and humid landscapes engulfed by flora.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        11
+      ],
+      "_id": "bU6fkejUcniC752A",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dense and low-lying mist",
+      "name": "",
+      "_key": "!tables.results!hf0VeyUweHe6DYjo.bU6fkejUcniC752A"
+    },
+    {
+      "range": [
+        12,
+        22
+      ],
+      "_id": "qW0jUZlroQrnEUO3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Distinctly segregated tree canopies",
+      "name": "",
+      "_key": "!tables.results!hf0VeyUweHe6DYjo.qW0jUZlroQrnEUO3"
+    },
+    {
+      "range": [
+        23,
+        33
+      ],
+      "_id": "lNK1pcgl66RVVWff",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Grottos obscured by dangling vines",
+      "name": "",
+      "_key": "!tables.results!hf0VeyUweHe6DYjo.lNK1pcgl66RVVWff"
+    },
+    {
+      "range": [
+        34,
+        44
+      ],
+      "_id": "ZGy8RGzN0H0oC07D",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Monstrous monsoons",
+      "name": "",
+      "_key": "!tables.results!hf0VeyUweHe6DYjo.ZGy8RGzN0H0oC07D"
+    },
+    {
+      "range": [
+        45,
+        55
+      ],
+      "_id": "zys9wcSXu9HK3QP8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oppressive heat waves",
+      "name": "",
+      "_key": "!tables.results!hf0VeyUweHe6DYjo.zys9wcSXu9HK3QP8"
+    },
+    {
+      "range": [
+        56,
+        66
+      ],
+      "_id": "3m6V4koInpx5ue49",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Powerful rivers",
+      "name": "",
+      "_key": "!tables.results!hf0VeyUweHe6DYjo.3m6V4koInpx5ue49"
+    },
+    {
+      "range": [
+        67,
+        77
+      ],
+      "_id": "ShdwpcUWMYJtg42L",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thick impasses of hanging vines",
+      "name": "",
+      "_key": "!tables.results!hf0VeyUweHe6DYjo.ShdwpcUWMYJtg42L"
+    },
+    {
+      "range": [
+        78,
+        88
+      ],
+      "_id": "RfDww4bYvx7qRUsr",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Whispering winds",
+      "name": "",
+      "_key": "!tables.results!hf0VeyUweHe6DYjo.RfDww4bYvx7qRUsr"
+    },
+    {
+      "range": [
+        89,
+        100
+      ],
+      "_id": "Xby4IgFIO7TNxVwv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transition into a new &gt;Biome",
+      "name": "",
+      "_key": "!tables.results!hf0VeyUweHe6DYjo.Xby4IgFIO7TNxVwv"
+    }
+  ],
+  "folder": "LPHNPP6s8p8hGyxR",
+  "sort": 16,
+  "_id": "hf0VeyUweHe6DYjo",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745260316584,
+    "modifiedTime": 1745260316584,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!hf0VeyUweHe6DYjo"
+}

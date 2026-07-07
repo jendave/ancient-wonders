@@ -1,0 +1,108 @@
+{
+  "name": "Exploring The Megastructure",
+  "formula": "1d6",
+  "description": "<p>Use this set of oracles to detail your exploration into the depths of a megastructure.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "VA8kJaL2QlpfPbWw",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Theme Feature; RG, pg 100",
+      "name": "",
+      "_key": "!tables.results!qnj0U0xaie8D9W6r.VA8kJaL2QlpfPbWw"
+    },
+    {
+      "range": [
+        2,
+        4
+      ],
+      "_id": "HQIDyJob6zbS4o3X",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Derelict Feature; RG, pg 82",
+      "name": "",
+      "_key": "!tables.results!qnj0U0xaie8D9W6r.HQIDyJob6zbS4o3X"
+    },
+    {
+      "range": [
+        5,
+        6
+      ],
+      "_id": "hyHAIK11ANr9tAsE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Vault Feature; RG, pg 92",
+      "name": "",
+      "_key": "!tables.results!qnj0U0xaie8D9W6r.hyHAIK11ANr9tAsE"
+    }
+  ],
+  "folder": "6tMLIfkOUdVxj23v",
+  "sort": 0,
+  "_id": "qnj0U0xaie8D9W6r",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745634120484,
+    "modifiedTime": 1745634120484,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!qnj0U0xaie8D9W6r"
+}

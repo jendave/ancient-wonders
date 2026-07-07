@@ -1,0 +1,134 @@
+{
+  "name": "Megacity Class - Underground",
+  "formula": "1d100",
+  "description": "<p>Use this oracle to identify a megacity based on the surrounding environment.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        15
+      ],
+      "_id": "dKbMtt94xyauy1ki",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ceiling City",
+      "name": "",
+      "_key": "!tables.results!AEk57zskn2E1Rrhe.dKbMtt94xyauy1ki"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "S6BKXYWwCW6736ZE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dome City",
+      "name": "",
+      "_key": "!tables.results!AEk57zskn2E1Rrhe.S6BKXYWwCW6736ZE"
+    },
+    {
+      "range": [
+        21,
+        90
+      ],
+      "_id": "Rlo9prhXaHTBvu82",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Underground City",
+      "name": "",
+      "_key": "!tables.results!AEk57zskn2E1Rrhe.Rlo9prhXaHTBvu82"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "iTIQWqHPLWAiFTgx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Underwater City",
+      "name": "",
+      "_key": "!tables.results!AEk57zskn2E1Rrhe.iTIQWqHPLWAiFTgx"
+    }
+  ],
+  "folder": "mrregFSVf6r5mYLu",
+  "sort": 3,
+  "_id": "AEk57zskn2E1Rrhe",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746313802515,
+    "modifiedTime": 1746313802515,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!AEk57zskn2E1Rrhe"
+}

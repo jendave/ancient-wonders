@@ -1,0 +1,77 @@
+{
+  "name": "Depart To Quest",
+  "type": "sfmove",
+  "img": "icons/dice/d10black.svg",
+  "system": {
+    "dfid": "",
+    "Category": "",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "__When you prepare to take off to continue your adventures after taking downtime__, fill segments in the campaign clocks per the hiatus duration.\n\n* Half a season: Two segments\n* A full season: Four segments\n\nThen, do the following:\n* Clear your misfortunes and any battered impacts.\n* Set any condition meters to their max values.\n* Set your momentum to its reset value.\n\nThen, envision what each marked segment represents and how the world has changed during your absence. If you have progress in your profit progress track, @Compendium[ancient-wonders.ancientwondersmoves.Item.zHc1GOqY7AeUpSS6]{Measure Profit}.",
+    "Trigger": {
+      "Text": "When you prepare to take off to continue your adventures after taking downtime",
+      "Options": []
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      },
+      "Weak Hit": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "",
+      "Authors": [],
+      "Page": null
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "effects": [],
+  "folder": "Fb5HWtUREfR0yFIZ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746578948622,
+    "modifiedTime": 1746649753400,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "BZ1aRPB41ebQ9Z77",
+  "sort": 0,
+  "_key": "!items!BZ1aRPB41ebQ9Z77"
+}

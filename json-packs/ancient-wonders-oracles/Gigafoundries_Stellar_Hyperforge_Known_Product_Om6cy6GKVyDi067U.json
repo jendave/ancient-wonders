@@ -1,0 +1,784 @@
+{
+  "name": "Gigafoundries Stellar Hyperforge Known Product",
+  "formula": "1d100",
+  "description": "<p>When you explore a stellar hyperforge and find something of value that was produced in or delivered to the foundry, use the oracles below. If you are familiar with the precursor technology, use the Known Product table; otherwise, roll on the Unknown Product table. Alternatively, if you know enough about the precursors, you may use both tables to envision an item more specifically.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        3
+      ],
+      "_id": "Ibr2Yk7NfVwkM4ha",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Artwork",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.Ibr2Yk7NfVwkM4ha"
+    },
+    {
+      "range": [
+        4,
+        7
+      ],
+      "_id": "ASdME6ODGbeRtds0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clothing",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.ASdME6ODGbeRtds0"
+    },
+    {
+      "range": [
+        8,
+        11
+      ],
+      "_id": "wJzoalFgXkLL7uz9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Construction material",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.wJzoalFgXkLL7uz9"
+    },
+    {
+      "range": [
+        12,
+        14
+      ],
+      "_id": "K4p68cryC1NF4q9h",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Drugs",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.K4p68cryC1NF4q9h"
+    },
+    {
+      "range": [
+        15,
+        19
+      ],
+      "_id": "SSmgBnQ0CDSuJfK0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Food",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.SSmgBnQ0CDSuJfK0"
+    },
+    {
+      "range": [
+        20,
+        24
+      ],
+      "_id": "5kJyeq6csOjlyyUy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gemstone, &gt;Non-precious; pg 49",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.5kJyeq6csOjlyyUy"
+    },
+    {
+      "range": [
+        25,
+        28
+      ],
+      "_id": "Krl0pwN4ccplBIHQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gemstone, &gt;Semi-precious; pg 49",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.Krl0pwN4ccplBIHQ"
+    },
+    {
+      "range": [
+        29,
+        31
+      ],
+      "_id": "DyhMWxcrGs93MkZn",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gemstone, &gt;Precious; pg 49",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.DyhMWxcrGs93MkZn"
+    },
+    {
+      "range": [
+        32,
+        33
+      ],
+      "_id": "kJrgGV89PZDZNTva",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gemstone, &gt;Exotic; pg 49",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.kJrgGV89PZDZNTva"
+    },
+    {
+      "range": [
+        34,
+        37
+      ],
+      "_id": "fkV0cB16bTbNQi2g",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Houseware, basic",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.fkV0cB16bTbNQi2g"
+    },
+    {
+      "range": [
+        38,
+        40
+      ],
+      "_id": "cN9CfAQnQXdUPLW2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Houseware, complex",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.cN9CfAQnQXdUPLW2"
+    },
+    {
+      "range": [
+        41,
+        44
+      ],
+      "_id": "g7gq03HLGJEAA0vk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Industrial machine",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.g7gq03HLGJEAA0vk"
+    },
+    {
+      "range": [
+        45,
+        49
+      ],
+      "_id": "CaIOBn1LmQ1Zj0iw",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Industrial part",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.CaIOBn1LmQ1Zj0iw"
+    },
+    {
+      "range": [
+        50,
+        54
+      ],
+      "_id": "k1pooFQXoGXw0RKl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ingot, ferrous",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.k1pooFQXoGXw0RKl"
+    },
+    {
+      "range": [
+        55,
+        58
+      ],
+      "_id": "xpq56YWbmYfca2k6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ingot, &gt;Non-ferrous; pg 69",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.xpq56YWbmYfca2k6"
+    },
+    {
+      "range": [
+        59,
+        61
+      ],
+      "_id": "KCDqHuezOSG46FKn",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ingot, &gt;Precious; pg 69",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.KCDqHuezOSG46FKn"
+    },
+    {
+      "range": [
+        62,
+        63
+      ],
+      "_id": "WkDCo8mWRxqCfEBN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ingot, &gt;Exotic; pg 69",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.WkDCo8mWRxqCfEBN"
+    },
+    {
+      "range": [
+        64,
+        66
+      ],
+      "_id": "u7v8TDWKCR7bugB4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jewelry",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.u7v8TDWKCR7bugB4"
+    },
+    {
+      "range": [
+        67,
+        70
+      ],
+      "_id": "qsMkXJjHG7nfCxV0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Liquor",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.qsMkXJjHG7nfCxV0"
+    },
+    {
+      "range": [
+        71,
+        74
+      ],
+      "_id": "zaLl4yF7ffJ0NVex",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Medical supply",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.zaLl4yF7ffJ0NVex"
+    },
+    {
+      "range": [
+        75,
+        77
+      ],
+      "_id": "1KHE30ignHB2HzHb",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Small arms",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.1KHE30ignHB2HzHb"
+    },
+    {
+      "range": [
+        78,
+        81
+      ],
+      "_id": "OS8trkyrmt6iEIwS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tool, basic",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.OS8trkyrmt6iEIwS"
+    },
+    {
+      "range": [
+        82,
+        84
+      ],
+      "_id": "FYRjIK1aaodD4mcS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tool, industrial",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.FYRjIK1aaodD4mcS"
+    },
+    {
+      "range": [
+        85,
+        86
+      ],
+      "_id": "PQqUtmBbIa34xDpy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tool, medical",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.PQqUtmBbIa34xDpy"
+    },
+    {
+      "range": [
+        87,
+        88
+      ],
+      "_id": "B5ls9PgfoIx7Kpy4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vehicle, air",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.B5ls9PgfoIx7Kpy4"
+    },
+    {
+      "range": [
+        89,
+        90
+      ],
+      "_id": "BgiP6QXZM6JH58cr",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vehicle, aquatic",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.BgiP6QXZM6JH58cr"
+    },
+    {
+      "range": [
+        91,
+        92
+      ],
+      "_id": "hcpvMNqCdmUy7rFw",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vehicle, land",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.hcpvMNqCdmUy7rFw"
+    },
+    {
+      "range": [
+        93,
+        95
+      ],
+      "_id": "gA8BkJCIvLQohKMF",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vehicle, space",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.gA8BkJCIvLQohKMF"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "pyh16151Aqd9pPjU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Descriptor + Focus; pg 13",
+      "name": "",
+      "_key": "!tables.results!Om6cy6GKVyDi067U.pyh16151Aqd9pPjU"
+    }
+  ],
+  "folder": "4N9XKpVKJ6ajDuE3",
+  "sort": 1,
+  "_id": "Om6cy6GKVyDi067U",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745895968170,
+    "modifiedTime": 1745895968170,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!Om6cy6GKVyDi067U"
+}

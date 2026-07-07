@@ -1,0 +1,608 @@
+{
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Oracles/Starships/Type",
+      "category": "Starforged/Oracles/Starships",
+      "dsid": "oracle_rollable:starforged/starship/type"
+    }
+  },
+  "name": "Starship Type",
+  "description": "",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "98cd2f4a86915d83",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Carrier",
+      "name": "",
+      "_key": "!tables.results!k7Dk6GrZu3lIwLTP.98cd2f4a86915d83"
+    },
+    {
+      "range": [
+        3,
+        6
+      ],
+      "_id": "5ba1a9c288568474",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corvette",
+      "name": "",
+      "_key": "!tables.results!k7Dk6GrZu3lIwLTP.5ba1a9c288568474"
+    },
+    {
+      "range": [
+        7,
+        11
+      ],
+      "_id": "930f1d9cdfee5a07",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Courier",
+      "name": "",
+      "_key": "!tables.results!k7Dk6GrZu3lIwLTP.930f1d9cdfee5a07"
+    },
+    {
+      "range": [
+        12,
+        14
+      ],
+      "_id": "d9832afc336b00fd",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cruiser",
+      "name": "",
+      "_key": "!tables.results!k7Dk6GrZu3lIwLTP.d9832afc336b00fd"
+    },
+    {
+      "range": [
+        15,
+        16
+      ],
+      "_id": "19f0ddd0bf03bc97",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dreadnought",
+      "name": "",
+      "_key": "!tables.results!k7Dk6GrZu3lIwLTP.19f0ddd0bf03bc97"
+    },
+    {
+      "range": [
+        17,
+        19
+      ],
+      "_id": "3654e1ed86f5b04c",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Escape pod",
+      "name": "",
+      "_key": "!tables.results!k7Dk6GrZu3lIwLTP.3654e1ed86f5b04c"
+    },
+    {
+      "range": [
+        20,
+        22
+      ],
+      "_id": "b201cdd61b409074",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Foundry",
+      "name": "",
+      "_key": "!tables.results!k7Dk6GrZu3lIwLTP.b201cdd61b409074"
+    },
+    {
+      "range": [
+        23,
+        27
+      ],
+      "_id": "fb7d7404eb4a363d",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Harvester",
+      "name": "",
+      "_key": "!tables.results!k7Dk6GrZu3lIwLTP.fb7d7404eb4a363d"
+    },
+    {
+      "range": [
+        28,
+        33
+      ],
+      "_id": "1d06e2dcd7c7630e",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hauler",
+      "name": "",
+      "_key": "!tables.results!k7Dk6GrZu3lIwLTP.1d06e2dcd7c7630e"
+    },
+    {
+      "range": [
+        34,
+        36
+      ],
+      "_id": "8d5cc0b7535a7801",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hunter",
+      "name": "",
+      "_key": "!tables.results!k7Dk6GrZu3lIwLTP.8d5cc0b7535a7801"
+    },
+    {
+      "range": [
+        37,
+        38
+      ],
+      "_id": "b2b23b8b1923083d",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ironhome",
+      "name": "",
+      "_key": "!tables.results!k7Dk6GrZu3lIwLTP.b2b23b8b1923083d"
+    },
+    {
+      "range": [
+        39,
+        42
+      ],
+      "_id": "6aabd219f067ecca",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mender",
+      "name": "",
+      "_key": "!tables.results!k7Dk6GrZu3lIwLTP.6aabd219f067ecca"
+    },
+    {
+      "range": [
+        43,
+        47
+      ],
+      "_id": "293574267ff31135",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Outbounder",
+      "name": "",
+      "_key": "!tables.results!k7Dk6GrZu3lIwLTP.293574267ff31135"
+    },
+    {
+      "range": [
+        48,
+        50
+      ],
+      "_id": "159df41a5277498f",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pennant",
+      "name": "",
+      "_key": "!tables.results!k7Dk6GrZu3lIwLTP.159df41a5277498f"
+    },
+    {
+      "range": [
+        51,
+        56
+      ],
+      "_id": "9609aa879e099b73",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prospector",
+      "name": "",
+      "_key": "!tables.results!k7Dk6GrZu3lIwLTP.9609aa879e099b73"
+    },
+    {
+      "range": [
+        57,
+        61
+      ],
+      "_id": "ac1cd214f3ee15fc",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reclaimer",
+      "name": "",
+      "_key": "!tables.results!k7Dk6GrZu3lIwLTP.ac1cd214f3ee15fc"
+    },
+    {
+      "range": [
+        62,
+        64
+      ],
+      "_id": "a918944bd0c20241",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shuttle",
+      "name": "",
+      "_key": "!tables.results!k7Dk6GrZu3lIwLTP.a918944bd0c20241"
+    },
+    {
+      "range": [
+        65,
+        67
+      ],
+      "_id": "a93e55b7cf3b963b",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Snub fighter",
+      "name": "",
+      "_key": "!tables.results!k7Dk6GrZu3lIwLTP.a93e55b7cf3b963b"
+    },
+    {
+      "range": [
+        68,
+        82
+      ],
+      "_id": "deeacc41b75cd3d9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multipurpose",
+      "name": "",
+      "_key": "!tables.results!k7Dk6GrZu3lIwLTP.deeacc41b75cd3d9"
+    },
+    {
+      "range": [
+        83,
+        84
+      ],
+      "_id": "b1835091165fdd4f",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unusual or unknown",
+      "name": "",
+      "_key": "!tables.results!k7Dk6GrZu3lIwLTP.b1835091165fdd4f"
+    },
+    {
+      "range": [
+        85,
+        94
+      ],
+      "_id": "ee67a51381d13240",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@Compendium[ancient-wonders.ancientwondersoracles.RollTable.zyhn4G8Ptvjj6bwM]{Fleet}",
+      "name": "",
+      "_key": "!tables.results!k7Dk6GrZu3lIwLTP.ee67a51381d13240"
+    },
+    {
+      "range": [
+        95,
+        100
+      ],
+      "_id": "13028eed833d457e",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ships in conflict (roll twice)",
+      "name": "",
+      "_key": "!tables.results!k7Dk6GrZu3lIwLTP.13028eed833d457e"
+    }
+  ],
+  "folder": "Vxxnc89YzwMyYvbP",
+  "img": "icons/dice/d10black.svg",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747261178648,
+    "modifiedTime": 1747328364894,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "k7Dk6GrZu3lIwLTP",
+  "sort": 500000,
+  "_key": "!tables!k7Dk6GrZu3lIwLTP"
+}

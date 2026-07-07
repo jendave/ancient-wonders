@@ -1,0 +1,160 @@
+{
+  "name": "Open Sea Opportunity",
+  "formula": "1d100",
+  "description": "<p>Use the following tables to inspire the details of a waypoint during underwater expeditions. The Perils table inspires a cost or trouble and the Opportunities table offers a beneficial encounter or event.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        20
+      ],
+      "_id": "ELaRAAkva6rL6duE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Awe-inspiring natural feature",
+      "name": "",
+      "_key": "!tables.results!mPr4CeaDY7DejzpO.ELaRAAkva6rL6duE"
+    },
+    {
+      "range": [
+        21,
+        40
+      ],
+      "_id": "0FqX13j2F7Bnqvwv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Advance warning of a hazard",
+      "name": "",
+      "_key": "!tables.results!mPr4CeaDY7DejzpO.0FqX13j2F7Bnqvwv"
+    },
+    {
+      "range": [
+        41,
+        60
+      ],
+      "_id": "CyWPEjWCAXX1GsVE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Beneficial ocean currents",
+      "name": "",
+      "_key": "!tables.results!mPr4CeaDY7DejzpO.CyWPEjWCAXX1GsVE"
+    },
+    {
+      "range": [
+        61,
+        80
+      ],
+      "_id": "diCfBbluvlkK7UKN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fauna show a way or offer inspiration",
+      "name": "",
+      "_key": "!tables.results!mPr4CeaDY7DejzpO.diCfBbluvlkK7UKN"
+    },
+    {
+      "range": [
+        81,
+        100
+      ],
+      "_id": "dbpTtef0LSzZ9bRz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unusually clear view",
+      "name": "",
+      "_key": "!tables.results!mPr4CeaDY7DejzpO.dbpTtef0LSzZ9bRz"
+    }
+  ],
+  "folder": "gqk7xGweM3UMtnW2",
+  "sort": 3,
+  "_id": "mPr4CeaDY7DejzpO",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1744997272600,
+    "modifiedTime": 1744997272600,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!mPr4CeaDY7DejzpO"
+}

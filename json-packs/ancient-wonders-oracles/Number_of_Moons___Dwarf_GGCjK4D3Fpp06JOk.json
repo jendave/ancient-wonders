@@ -1,0 +1,82 @@
+{
+  "name": "Number of Moons - Dwarf",
+  "formula": "1d100",
+  "description": "<p>Use this oracle to define the number of moons of a planetary body.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        75
+      ],
+      "_id": "Nv9E3CHjPzHpmO12",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "One",
+      "name": "",
+      "_key": "!tables.results!GGCjK4D3Fpp06JOk.Nv9E3CHjPzHpmO12"
+    },
+    {
+      "range": [
+        76,
+        100
+      ],
+      "_id": "oKVbWmomBVxNALK5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Two",
+      "name": "",
+      "_key": "!tables.results!GGCjK4D3Fpp06JOk.oKVbWmomBVxNALK5"
+    }
+  ],
+  "folder": "BrKmU9b5W958cT7l",
+  "sort": 0,
+  "_id": "GGCjK4D3Fpp06JOk",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745085140307,
+    "modifiedTime": 1745085140307,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!GGCjK4D3Fpp06JOk"
+}

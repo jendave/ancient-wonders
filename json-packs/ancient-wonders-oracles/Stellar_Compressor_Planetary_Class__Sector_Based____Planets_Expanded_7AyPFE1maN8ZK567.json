@@ -1,0 +1,394 @@
+{
+  "name": "Stellar Compressor Planetary Class (Sector Based) - Planets Expanded",
+  "formula": "1d100",
+  "description": "<p>Use the this table to define the type of worlds orbiting a stellar compressor.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        17
+      ],
+      "_id": "Gw6a33AGid0nU9Fo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Furnace World; pg 52",
+      "name": "",
+      "_key": "!tables.results!7AyPFE1maN8ZK567.Gw6a33AGid0nU9Fo"
+    },
+    {
+      "range": [
+        18,
+        47
+      ],
+      "_id": "o2Jpy1cQAjxRhFNq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Desert World; pg 50",
+      "name": "",
+      "_key": "!tables.results!7AyPFE1maN8ZK567.o2Jpy1cQAjxRhFNq"
+    },
+    {
+      "range": [
+        48,
+        57
+      ],
+      "_id": "4NTL38b54TLGfibn",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jungle World; pg 60",
+      "name": "",
+      "_key": "!tables.results!7AyPFE1maN8ZK567.4NTL38b54TLGfibn"
+    },
+    {
+      "range": [
+        58,
+        69
+      ],
+      "_id": "zwppCJUsXTtzf82i",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jovian World; pg 58",
+      "name": "",
+      "_key": "!tables.results!7AyPFE1maN8ZK567.zwppCJUsXTtzf82i"
+    },
+    {
+      "range": [
+        70,
+        77
+      ],
+      "_id": "70CbKk0Bn9DmJ7Kw",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rocky World; pg 72",
+      "name": "",
+      "_key": "!tables.results!7AyPFE1maN8ZK567.70CbKk0Bn9DmJ7Kw"
+    },
+    {
+      "range": [
+        78,
+        83
+      ],
+      "_id": "Ws0BTn88AhiTLav0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tainted World; pg 76",
+      "name": "",
+      "_key": "!tables.results!7AyPFE1maN8ZK567.Ws0BTn88AhiTLav0"
+    },
+    {
+      "range": [
+        84,
+        87
+      ],
+      "_id": "NRrkOQGr2UT3rHkW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Metallic World; pg 68",
+      "name": "",
+      "_key": "!tables.results!7AyPFE1maN8ZK567.NRrkOQGr2UT3rHkW"
+    },
+    {
+      "range": [
+        88,
+        89
+      ],
+      "_id": "crgAof4exWN5nkA8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crystalline World; pg 48",
+      "name": "",
+      "_key": "!tables.results!7AyPFE1maN8ZK567.crgAof4exWN5nkA8"
+    },
+    {
+      "range": [
+        90,
+        91
+      ],
+      "_id": "pxWiTepbdQFe9Klb",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tidally-locked World; pg  78",
+      "name": "",
+      "_key": "!tables.results!7AyPFE1maN8ZK567.pxWiTepbdQFe9Klb"
+    },
+    {
+      "range": [
+        92,
+        93
+      ],
+      "_id": "iQo4pZf70BTzlA6B",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Karst World; pg 62",
+      "name": "",
+      "_key": "!tables.results!7AyPFE1maN8ZK567.iQo4pZf70BTzlA6B"
+    },
+    {
+      "range": [
+        94,
+        96
+      ],
+      "_id": "jp7I0cIgdYPbslTd",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Grave World; pg 54",
+      "name": "",
+      "_key": "!tables.results!7AyPFE1maN8ZK567.jp7I0cIgdYPbslTd"
+    },
+    {
+      "range": [
+        97,
+        98
+      ],
+      "_id": "Uea6ktmlUPD3fzYm",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shattered World; pg 74",
+      "name": "",
+      "_key": "!tables.results!7AyPFE1maN8ZK567.Uea6ktmlUPD3fzYm"
+    },
+    {
+      "range": [
+        99,
+        99
+      ],
+      "_id": "jLGXrd6GwDDLVmdO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Living World; pg 64",
+      "name": "",
+      "_key": "!tables.results!7AyPFE1maN8ZK567.jLGXrd6GwDDLVmdO"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "nP6OIC8CneizHS4Y",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Anomalous World; pg 44",
+      "name": "",
+      "_key": "!tables.results!7AyPFE1maN8ZK567.nP6OIC8CneizHS4Y"
+    }
+  ],
+  "folder": "b5gYSZEdsP4VHIZT",
+  "sort": 3,
+  "_id": "7AyPFE1maN8ZK567",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746175532658,
+    "modifiedTime": 1746175532658,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!7AyPFE1maN8ZK567"
+}

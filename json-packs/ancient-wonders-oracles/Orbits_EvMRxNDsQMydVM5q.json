@@ -1,0 +1,22 @@
+{
+  "name": "Orbits",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "EvMRxNDsQMydVM5q",
+  "description": "",
+  "folder": "aj3iyWvQqHmshfmS",
+  "sort": 250000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1743225318530,
+    "modifiedTime": 1744956891077,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!EvMRxNDsQMydVM5q"
+}

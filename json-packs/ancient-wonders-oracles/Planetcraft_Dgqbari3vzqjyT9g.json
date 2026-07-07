@@ -1,0 +1,22 @@
+{
+  "name": "Planetcraft",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "Dgqbari3vzqjyT9g",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 2200000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745985762037,
+    "modifiedTime": 1745985762265,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!Dgqbari3vzqjyT9g"
+}

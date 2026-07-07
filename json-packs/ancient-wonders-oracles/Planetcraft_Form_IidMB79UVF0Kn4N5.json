@@ -1,0 +1,82 @@
+{
+  "name": "Planetcraft Form",
+  "formula": "1d100",
+  "description": "<p>When approaching a planetcraft, use the following oracles to determine its outward appearance and capabilities.</p><p>When determining the form of the planetcraft, you may use the Descriptor oracle on page 13 to further enhance the details of the megastructure.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        75
+      ],
+      "_id": "mtvGEGruKu3qPnYf",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planet / A world that has also been modified to possess the capabilities of a starship. Roll &gt;Planet to determine its features (page 40).",
+      "name": "",
+      "_key": "!tables.results!IidMB79UVF0Kn4N5.mtvGEGruKu3qPnYf"
+    },
+    {
+      "range": [
+        76,
+        100
+      ],
+      "_id": "0b6iIOVQiz7sRnVm",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vessel / A starship as large as an entire world. While it possess aspects similar to mankind's starships, you may roll &gt;Shape to envision its alien nature (page 102).",
+      "name": "",
+      "_key": "!tables.results!IidMB79UVF0Kn4N5.0b6iIOVQiz7sRnVm"
+    }
+  ],
+  "folder": "Dgqbari3vzqjyT9g",
+  "sort": 0,
+  "_id": "IidMB79UVF0Kn4N5",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745985762139,
+    "modifiedTime": 1745985762139,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!IidMB79UVF0Kn4N5"
+}

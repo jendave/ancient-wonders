@@ -1,0 +1,550 @@
+{
+  "name": "Living World Cursed Underground Feature",
+  "formula": "1d100",
+  "description": "<p>Use these oracles to detail the environment when exploring the underground of a living world.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "OaYkZMwFtsf0GYgd",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Absorbed or digested creature",
+      "name": "",
+      "_key": "!tables.results!HQD3Ld0lRosuOEMl.OaYkZMwFtsf0GYgd"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "myEeWbjVdGtrJoaS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Boiling and bubbling acid pits",
+      "name": "",
+      "_key": "!tables.results!HQD3Ld0lRosuOEMl.myEeWbjVdGtrJoaS"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "Yr0jmAC0IhXBfWJN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Churning acid pools",
+      "name": "",
+      "_key": "!tables.results!HQD3Ld0lRosuOEMl.Yr0jmAC0IhXBfWJN"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "xiQ7npBTy6XfWYPq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Creepy echoes",
+      "name": "",
+      "_key": "!tables.results!HQD3Ld0lRosuOEMl.xiQ7npBTy6XfWYPq"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "AcxscE0hRSSeSFm5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Decaying, necrotic flesh",
+      "name": "",
+      "_key": "!tables.results!HQD3Ld0lRosuOEMl.AcxscE0hRSSeSFm5"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "eCrGhhxHYstZIncz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Distinctively large lifeform",
+      "name": "",
+      "_key": "!tables.results!HQD3Ld0lRosuOEMl.eCrGhhxHYstZIncz"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "FKt8v7FsVkFmypNC",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Eerie vibrations",
+      "name": "",
+      "_key": "!tables.results!HQD3Ld0lRosuOEMl.FKt8v7FsVkFmypNC"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "VVdb85YkwezHyt8C",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Group of antibody lifeforms",
+      "name": "",
+      "_key": "!tables.results!HQD3Ld0lRosuOEMl.VVdb85YkwezHyt8C"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "ykSw8cqZ83H8nzGj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impenetrable darkness",
+      "name": "",
+      "_key": "!tables.results!HQD3Ld0lRosuOEMl.ykSw8cqZ83H8nzGj"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "s3hAtNpTVIQcU1pk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lake of digestive acids",
+      "name": "",
+      "_key": "!tables.results!HQD3Ld0lRosuOEMl.s3hAtNpTVIQcU1pk"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "fzB9yukRP8LPGUml",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Markedly undulating walls",
+      "name": "",
+      "_key": "!tables.results!HQD3Ld0lRosuOEMl.fzB9yukRP8LPGUml"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "OaVXwWQ63s5fS11R",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Monstrous antibody lifeform",
+      "name": "",
+      "_key": "!tables.results!HQD3Ld0lRosuOEMl.OaVXwWQ63s5fS11R"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "MQlj00Ez7cKHkhsA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Odd temperature change",
+      "name": "",
+      "_key": "!tables.results!HQD3Ld0lRosuOEMl.MQlj00Ez7cKHkhsA"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "ZEhVbWdcIFdX2yz9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oversized eggs",
+      "name": "",
+      "_key": "!tables.results!HQD3Ld0lRosuOEMl.ZEhVbWdcIFdX2yz9"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "VHbTOYvx8RrhIfh0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Passage carved by a burrowing lifeform",
+      "name": "",
+      "_key": "!tables.results!HQD3Ld0lRosuOEMl.VHbTOYvx8RrhIfh0"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "sOqNvh1ydroR04tB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Passage-shaking tremors",
+      "name": "",
+      "_key": "!tables.results!HQD3Ld0lRosuOEMl.sOqNvh1ydroR04tB"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "ZUwpkbzURwmfgO9B",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Remains of a giant lifeform",
+      "name": "",
+      "_key": "!tables.results!HQD3Ld0lRosuOEMl.ZUwpkbzURwmfgO9B"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "EKdZLA4MPRAbHLfn",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "River of digestive acids",
+      "name": "",
+      "_key": "!tables.results!HQD3Ld0lRosuOEMl.EKdZLA4MPRAbHLfn"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "FKEUGOLDOfSWkvhF",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surfaces covered by cyst-like growths",
+      "name": "",
+      "_key": "!tables.results!HQD3Ld0lRosuOEMl.FKEUGOLDOfSWkvhF"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "mJdjxres12RqGcCu",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trail of distinctively colored ooze",
+      "name": "",
+      "_key": "!tables.results!HQD3Ld0lRosuOEMl.mJdjxres12RqGcCu"
+    }
+  ],
+  "folder": "7yP7GU5RkbnYXOd3",
+  "sort": 11,
+  "_id": "HQD3Ld0lRosuOEMl",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745289001127,
+    "modifiedTime": 1745289001127,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!HQD3Ld0lRosuOEMl"
+}

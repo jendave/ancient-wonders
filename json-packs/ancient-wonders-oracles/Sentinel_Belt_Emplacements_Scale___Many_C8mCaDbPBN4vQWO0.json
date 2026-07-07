@@ -1,0 +1,186 @@
+{
+  "name": "Sentinel Belt Emplacements Scale - Many",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        8
+      ],
+      "_id": "OJIXhVkSI7yCl5JZ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Moderate",
+      "name": "",
+      "_key": "!tables.results!C8mCaDbPBN4vQWO0.OJIXhVkSI7yCl5JZ"
+    },
+    {
+      "range": [
+        9,
+        20
+      ],
+      "_id": "4aaqEyzuqT8oenTl",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large",
+      "name": "",
+      "_key": "!tables.results!C8mCaDbPBN4vQWO0.4aaqEyzuqT8oenTl"
+    },
+    {
+      "range": [
+        21,
+        40
+      ],
+      "_id": "pbSXc6h4UdqgZYD5",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Huge",
+      "name": "",
+      "_key": "!tables.results!C8mCaDbPBN4vQWO0.pbSXc6h4UdqgZYD5"
+    },
+    {
+      "range": [
+        41,
+        68
+      ],
+      "_id": "TCIxai2qfnaORGOT",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expansive",
+      "name": "",
+      "_key": "!tables.results!C8mCaDbPBN4vQWO0.TCIxai2qfnaORGOT"
+    },
+    {
+      "range": [
+        69,
+        88
+      ],
+      "_id": "iz8Eb4O5Fs5AnRRa",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Colossal",
+      "name": "",
+      "_key": "!tables.results!C8mCaDbPBN4vQWO0.iz8Eb4O5Fs5AnRRa"
+    },
+    {
+      "range": [
+        89,
+        100
+      ],
+      "_id": "t9XYCE7sytyqaqvJ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overrun",
+      "name": "",
+      "_key": "!tables.results!C8mCaDbPBN4vQWO0.t9XYCE7sytyqaqvJ"
+    }
+  ],
+  "folder": "fd5l5Oi1WXzqF2JY",
+  "sort": 2,
+  "_id": "C8mCaDbPBN4vQWO0",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1746059850465,
+    "modifiedTime": 1746059850465,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!C8mCaDbPBN4vQWO0"
+}

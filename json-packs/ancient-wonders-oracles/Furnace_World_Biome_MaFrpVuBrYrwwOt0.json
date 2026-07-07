@@ -1,0 +1,102 @@
+{
+  "name": "Furnace World Biome",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        33
+      ],
+      "description": "Ash",
+      "_id": "385ocCuOaQZgTXoB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MaFrpVuBrYrwwOt0.385ocCuOaQZgTXoB"
+    },
+    {
+      "range": [
+        34,
+        66
+      ],
+      "description": "Hothouse",
+      "_id": "0hh3RXz8gqYHeiJU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MaFrpVuBrYrwwOt0.0hh3RXz8gqYHeiJU"
+    },
+    {
+      "range": [
+        67,
+        100
+      ],
+      "description": "Volcanic",
+      "_id": "T91Um7CGLt17kdRV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MaFrpVuBrYrwwOt0.T91Um7CGLt17kdRV"
+    }
+  ],
+  "folder": "LHnjnCnHvX1B9ly6",
+  "sort": 4,
+  "_id": "MaFrpVuBrYrwwOt0",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.5",
+    "createdTime": 1763675258098,
+    "modifiedTime": 1763675258098,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!tables!MaFrpVuBrYrwwOt0"
+}

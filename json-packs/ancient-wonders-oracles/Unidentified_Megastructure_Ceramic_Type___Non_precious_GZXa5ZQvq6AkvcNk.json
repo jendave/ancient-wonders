@@ -1,0 +1,394 @@
+{
+  "name": "Unidentified Megastructure Ceramic Type - Non-precious",
+  "formula": "1d100",
+  "description": "<p>Use the table below to reveal the type of ceramic and detail an object or environment. Roll once to determine which ceramic rarity column to reference. Then, roll again to uncover the ceramic type result.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "o6dsKFTFFjWyR0e9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Biscuit porcelain",
+      "name": "",
+      "_key": "!tables.results!GZXa5ZQvq6AkvcNk.o6dsKFTFFjWyR0e9"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "vZfJBPeqT3LkOgvS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Biscuit porcelain",
+      "name": "",
+      "_key": "!tables.results!GZXa5ZQvq6AkvcNk.vZfJBPeqT3LkOgvS"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "kJCMFDynkBO1UW9L",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clinker or cement",
+      "name": "",
+      "_key": "!tables.results!GZXa5ZQvq6AkvcNk.kJCMFDynkBO1UW9L"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "zoRbaLlCwyMMxR8o",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clinker or cement",
+      "name": "",
+      "_key": "!tables.results!GZXa5ZQvq6AkvcNk.zoRbaLlCwyMMxR8o"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "MpE0grrWcGHJbbIZ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Earthenware",
+      "name": "",
+      "_key": "!tables.results!GZXa5ZQvq6AkvcNk.MpE0grrWcGHJbbIZ"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "u7x79rFdtRMQJQHJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Earthenware",
+      "name": "",
+      "_key": "!tables.results!GZXa5ZQvq6AkvcNk.u7x79rFdtRMQJQHJ"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "yO9Su41oRNK63UX8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Float glass",
+      "name": "",
+      "_key": "!tables.results!GZXa5ZQvq6AkvcNk.yO9Su41oRNK63UX8"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "kpZK9Hv7Y2mVkRdS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Float glass",
+      "name": "",
+      "_key": "!tables.results!GZXa5ZQvq6AkvcNk.kpZK9Hv7Y2mVkRdS"
+    },
+    {
+      "range": [
+        57,
+        64
+      ],
+      "_id": "AjyTIsgKvNwpTeHu",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Raku",
+      "name": "",
+      "_key": "!tables.results!GZXa5ZQvq6AkvcNk.AjyTIsgKvNwpTeHu"
+    },
+    {
+      "range": [
+        65,
+        71
+      ],
+      "_id": "dmcku2tAuUDmf55y",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Raku",
+      "name": "",
+      "_key": "!tables.results!GZXa5ZQvq6AkvcNk.dmcku2tAuUDmf55y"
+    },
+    {
+      "range": [
+        72,
+        78
+      ],
+      "_id": "ZzQXZcIxyC75zjQE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Soda-lime glass",
+      "name": "",
+      "_key": "!tables.results!GZXa5ZQvq6AkvcNk.ZzQXZcIxyC75zjQE"
+    },
+    {
+      "range": [
+        79,
+        85
+      ],
+      "_id": "OiHgXr8HSCnh1vES",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Soda-lime glass",
+      "name": "",
+      "_key": "!tables.results!GZXa5ZQvq6AkvcNk.OiHgXr8HSCnh1vES"
+    },
+    {
+      "range": [
+        76,
+        92
+      ],
+      "_id": "7uuSSG52emrzPrgl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stoneware",
+      "name": "",
+      "_key": "!tables.results!GZXa5ZQvq6AkvcNk.7uuSSG52emrzPrgl"
+    },
+    {
+      "range": [
+        93,
+        100
+      ],
+      "_id": "jwgdrV248jO4pYwo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stoneware",
+      "name": "",
+      "_key": "!tables.results!GZXa5ZQvq6AkvcNk.jwgdrV248jO4pYwo"
+    }
+  ],
+  "folder": "EpVZ9VKEG5R6Tr0s",
+  "sort": 9,
+  "_id": "GZXa5ZQvq6AkvcNk",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745687449403,
+    "modifiedTime": 1745687449403,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!GZXa5ZQvq6AkvcNk"
+}

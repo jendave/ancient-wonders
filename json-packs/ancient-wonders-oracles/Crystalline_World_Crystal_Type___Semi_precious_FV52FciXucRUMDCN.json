@@ -1,0 +1,550 @@
+{
+  "name": "Crystalline World Crystal Type - Semi-precious",
+  "formula": "1d100",
+  "description": "<p>Use the table below to generate crystals. Roll once to determine which crystal rarity column to reference. Then, roll again to uncover the crystal type result. The exotic table provides descriptors for incredibly rare minerals; roll up to twice when referencing said column.</p><p>If you are using the Space Sightings Expanded supplement by Ludic Pen, you can roll on these tables to generate the minerals of Debris Fields if they are made of crystals.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "QtCEVfeHtyYUkk2B",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Amazonite",
+      "name": "",
+      "_key": "!tables.results!FV52FciXucRUMDCN.QtCEVfeHtyYUkk2B"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "62WEXjy6k2usRXa0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Amazonite",
+      "name": "",
+      "_key": "!tables.results!FV52FciXucRUMDCN.62WEXjy6k2usRXa0"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "PZnKW5bnnc5wnBoR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chrysocolla",
+      "name": "",
+      "_key": "!tables.results!FV52FciXucRUMDCN.PZnKW5bnnc5wnBoR"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "oSFixlCzM7Uzuqsv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chrysocolla",
+      "name": "",
+      "_key": "!tables.results!FV52FciXucRUMDCN.oSFixlCzM7Uzuqsv"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "svR3wicBKZxz8QmS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Labradorite",
+      "name": "",
+      "_key": "!tables.results!FV52FciXucRUMDCN.svR3wicBKZxz8QmS"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "fACOntUq0W3bOwjk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Labradorite",
+      "name": "",
+      "_key": "!tables.results!FV52FciXucRUMDCN.fACOntUq0W3bOwjk"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "dJcxofXlNuHHQyp0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lapis lazuli",
+      "name": "",
+      "_key": "!tables.results!FV52FciXucRUMDCN.dJcxofXlNuHHQyp0"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "P5xXzP2w9Q7p5Zdz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lapis lazuli",
+      "name": "",
+      "_key": "!tables.results!FV52FciXucRUMDCN.P5xXzP2w9Q7p5Zdz"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "RL1EKg5MtBKWCyhj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Malachite",
+      "name": "",
+      "_key": "!tables.results!FV52FciXucRUMDCN.RL1EKg5MtBKWCyhj"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "OA0kO46ANcbx9SRb",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Malachite",
+      "name": "",
+      "_key": "!tables.results!FV52FciXucRUMDCN.OA0kO46ANcbx9SRb"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "mzV1dYtHFgklhfkd",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Moonstone",
+      "name": "",
+      "_key": "!tables.results!FV52FciXucRUMDCN.mzV1dYtHFgklhfkd"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "9PW32M1b9ZTO7ZAN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Moonstone",
+      "name": "",
+      "_key": "!tables.results!FV52FciXucRUMDCN.9PW32M1b9ZTO7ZAN"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "gIqLBsEyHN4AczWf",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prehnite",
+      "name": "",
+      "_key": "!tables.results!FV52FciXucRUMDCN.gIqLBsEyHN4AczWf"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "ELaJIblwrfWpxiy9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prehnite",
+      "name": "",
+      "_key": "!tables.results!FV52FciXucRUMDCN.ELaJIblwrfWpxiy9"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "ngNwEZbfX5qvdnn3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rhodochrosite",
+      "name": "",
+      "_key": "!tables.results!FV52FciXucRUMDCN.ngNwEZbfX5qvdnn3"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "cTRB9QHENKgRawYe",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rhodochrosite",
+      "name": "",
+      "_key": "!tables.results!FV52FciXucRUMDCN.cTRB9QHENKgRawYe"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "cp8tF1vStcskADaJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rhodonite",
+      "name": "",
+      "_key": "!tables.results!FV52FciXucRUMDCN.cp8tF1vStcskADaJ"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "SoGtwgp3wZ505ANi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rhodonite",
+      "name": "",
+      "_key": "!tables.results!FV52FciXucRUMDCN.SoGtwgp3wZ505ANi"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "QQrA0E35ccdhCfP5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sunstone",
+      "name": "",
+      "_key": "!tables.results!FV52FciXucRUMDCN.QQrA0E35ccdhCfP5"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "04pLGEnHPNO2FRFT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sunstone",
+      "name": "",
+      "_key": "!tables.results!FV52FciXucRUMDCN.04pLGEnHPNO2FRFT"
+    }
+  ],
+  "folder": "0JSMPE3mLyqMtbq8",
+  "sort": 9,
+  "_id": "FV52FciXucRUMDCN",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745179560568,
+    "modifiedTime": 1745179560568,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!FV52FciXucRUMDCN"
+}

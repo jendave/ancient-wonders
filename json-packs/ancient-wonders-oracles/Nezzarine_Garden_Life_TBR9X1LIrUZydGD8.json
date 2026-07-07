@@ -1,0 +1,134 @@
+{
+  "name": "Nezzarine Garden Life",
+  "formula": "1d100",
+  "description": "<p>Use the following tables to determine the atmosphere and the presence of life. Any human attempt to settle in a Nezzarine garden has been unsuccessful.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        30
+      ],
+      "_id": "hleKfSpXLRwra9Rn",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extinct",
+      "name": "",
+      "_key": "!tables.results!TBR9X1LIrUZydGD8.hleKfSpXLRwra9Rn"
+    },
+    {
+      "range": [
+        31,
+        75
+      ],
+      "_id": "QNwMycNRxTJNnUGt",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scarce",
+      "name": "",
+      "_key": "!tables.results!TBR9X1LIrUZydGD8.QNwMycNRxTJNnUGt"
+    },
+    {
+      "range": [
+        76,
+        95
+      ],
+      "_id": "wHTw48GCmTdwdJqV",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Diverse",
+      "name": "",
+      "_key": "!tables.results!TBR9X1LIrUZydGD8.wHTw48GCmTdwdJqV"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "iEQFGlegVqYk12Zw",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bountiful",
+      "name": "",
+      "_key": "!tables.results!TBR9X1LIrUZydGD8.iEQFGlegVqYk12Zw"
+    }
+  ],
+  "folder": "UefPzgMooIyfKZHN",
+  "sort": 1,
+  "_id": "TBR9X1LIrUZydGD8",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745954179627,
+    "modifiedTime": 1745954179627,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!TBR9X1LIrUZydGD8"
+}

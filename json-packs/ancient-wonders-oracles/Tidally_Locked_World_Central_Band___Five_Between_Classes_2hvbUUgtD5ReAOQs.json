@@ -1,0 +1,160 @@
+{
+  "name": "Tidally-Locked World Central Band - Five Between Classes",
+  "formula": "1d100",
+  "description": "<p>On the Dark Side column of the Bands oracle, tally the number of worlds between the planetary classes rolled for the light and dark sides of the planet. Then, use that amount to determine which column to reference on the following table to define the planetary class of the central band. If there is only one world in between, envision it as the planetary class of the central band.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        15
+      ],
+      "_id": "UB3bBcK7Z3sBIWMF",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1st world",
+      "name": "",
+      "_key": "!tables.results!2hvbUUgtD5ReAOQs.UB3bBcK7Z3sBIWMF"
+    },
+    {
+      "range": [
+        16,
+        37
+      ],
+      "_id": "BEWwI7KNG1WfGxfX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "2nd world",
+      "name": "",
+      "_key": "!tables.results!2hvbUUgtD5ReAOQs.BEWwI7KNG1WfGxfX"
+    },
+    {
+      "range": [
+        38,
+        63
+      ],
+      "_id": "hNyVTnSoCpGwH1Oi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "3rd world",
+      "name": "",
+      "_key": "!tables.results!2hvbUUgtD5ReAOQs.hNyVTnSoCpGwH1Oi"
+    },
+    {
+      "range": [
+        64,
+        85
+      ],
+      "_id": "iIFEpqNo2DoAifMq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "4th world",
+      "name": "",
+      "_key": "!tables.results!2hvbUUgtD5ReAOQs.iIFEpqNo2DoAifMq"
+    },
+    {
+      "range": [
+        86,
+        100
+      ],
+      "_id": "4iSYHeoBLHCpNd6k",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "5th world",
+      "name": "",
+      "_key": "!tables.results!2hvbUUgtD5ReAOQs.4iSYHeoBLHCpNd6k"
+    }
+  ],
+  "folder": "qfQdoESUXOJpkJnW",
+  "sort": 15,
+  "_id": "2hvbUUgtD5ReAOQs",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745457524452,
+    "modifiedTime": 1763686047952,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!2hvbUUgtD5ReAOQs"
+}

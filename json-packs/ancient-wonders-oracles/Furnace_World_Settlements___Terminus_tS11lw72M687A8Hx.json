@@ -1,0 +1,150 @@
+{
+  "name": "Furnace World Settlements - Terminus",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        60
+      ],
+      "description": "None",
+      "_id": "HFkAMQ9v214WRToY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!tS11lw72M687A8Hx.HFkAMQ9v214WRToY"
+    },
+    {
+      "range": [
+        61,
+        75
+      ],
+      "description": "Orbital",
+      "_id": "2nglTLCoYolkvh35",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!tS11lw72M687A8Hx.2nglTLCoYolkvh35"
+    },
+    {
+      "range": [
+        76,
+        87
+      ],
+      "description": "Grounded",
+      "_id": "lVNjLnrbwRZXve4g",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!tS11lw72M687A8Hx.lVNjLnrbwRZXve4g"
+    },
+    {
+      "range": [
+        88,
+        96
+      ],
+      "description": "Multiple",
+      "_id": "YtdlwWS195OnKzqm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!tS11lw72M687A8Hx.YtdlwWS195OnKzqm"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "description": "Multiple in  conflict",
+      "_id": "pb6He6hhqocSlpI7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!tS11lw72M687A8Hx.pb6He6hhqocSlpI7"
+    }
+  ],
+  "folder": "LHnjnCnHvX1B9ly6",
+  "sort": 7,
+  "_id": "tS11lw72M687A8Hx",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.5",
+    "createdTime": 1763675258098,
+    "modifiedTime": 1763675258098,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!tables!tS11lw72M687A8Hx"
+}

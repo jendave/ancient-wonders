@@ -1,0 +1,22 @@
+{
+  "name": "Exchanging Wealth Moves",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "tI4NJ4Z0Gu4bYOjm",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746486260225,
+    "modifiedTime": 1746577184334,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!tI4NJ4Z0Gu4bYOjm"
+}

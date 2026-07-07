@@ -1,0 +1,134 @@
+{
+  "name": "Vital World Biome Diversity - Massive, titanic, colossal, vast",
+  "formula": "1d100",
+  "description": "<p>You may discount the numerical specification of any result of the oracle, and instead take each result as a guideline when determining how many times to roll on the Biome oracle.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "Gdsrmz6Uha13sdeD",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intricate (five biomes)",
+      "name": "",
+      "_key": "!tables.results!Oqh74tyPRSrxCZK6.Gdsrmz6Uha13sdeD"
+    },
+    {
+      "range": [
+        11,
+        55
+      ],
+      "_id": "fXtksqPq1UzzeqQd",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multifaceted (six biomes)",
+      "name": "",
+      "_key": "!tables.results!Oqh74tyPRSrxCZK6.fXtksqPq1UzzeqQd"
+    },
+    {
+      "range": [
+        56,
+        85
+      ],
+      "_id": "rOZyqg74sO6vQhi2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mosaic (seven biomes)",
+      "name": "",
+      "_key": "!tables.results!Oqh74tyPRSrxCZK6.rOZyqg74sO6vQhi2"
+    },
+    {
+      "range": [
+        86,
+        100
+      ],
+      "_id": "BXl2Bhm3Bh8iNfh0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Garden (eight biomes)",
+      "name": "",
+      "_key": "!tables.results!Oqh74tyPRSrxCZK6.BXl2Bhm3Bh8iNfh0"
+    }
+  ],
+  "folder": "uqIYYdcorEC11vj9",
+  "sort": 3,
+  "_id": "Oqh74tyPRSrxCZK6",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745469388179,
+    "modifiedTime": 1745469388179,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!Oqh74tyPRSrxCZK6"
+}

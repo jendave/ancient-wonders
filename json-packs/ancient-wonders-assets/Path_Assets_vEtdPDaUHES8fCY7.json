@@ -1,0 +1,22 @@
+{
+  "name": "Path Assets",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "vEtdPDaUHES8fCY7",
+  "description": "",
+  "sort": 0,
+  "color": "#3f7faa",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746484630827,
+    "modifiedTime": 1746689645552,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!vEtdPDaUHES8fCY7"
+}

@@ -1,0 +1,550 @@
+{
+  "name": "Metallic World Metal Type - Non-ferrous",
+  "formula": "1d100",
+  "description": "<p>To identify a metal type, Ask the Oracle (50/50) if the metal is ferrous. If it is not, reference the appropriate column of the table below. Then, roll again to uncover the metal type result. The exotic column provides descriptors for incredibly rare metals; roll up to twice when referencing said column.</p><p>If you are using the Space Sightings Expanded supplement published by Ludic Pen, you can roll on these tables to generate the minerals of debris fields if they are made of metals.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "lZ3GUP0HUmibq1uj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aluminum",
+      "name": "",
+      "_key": "!tables.results!zvS31OVYOZsx0cRb.lZ3GUP0HUmibq1uj"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "7aIreH2frhNJGKsm",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Barium",
+      "name": "",
+      "_key": "!tables.results!zvS31OVYOZsx0cRb.7aIreH2frhNJGKsm"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "KVoywyEgadUHyDpe",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chromium",
+      "name": "",
+      "_key": "!tables.results!zvS31OVYOZsx0cRb.KVoywyEgadUHyDpe"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "jVAORAPqzsQ0gqiB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cobalt",
+      "name": "",
+      "_key": "!tables.results!zvS31OVYOZsx0cRb.jVAORAPqzsQ0gqiB"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "nJ0w8TE7tAVK6x6o",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Copper",
+      "name": "",
+      "_key": "!tables.results!zvS31OVYOZsx0cRb.nJ0w8TE7tAVK6x6o"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "knIouUlBxq7VbkRR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lead",
+      "name": "",
+      "_key": "!tables.results!zvS31OVYOZsx0cRb.knIouUlBxq7VbkRR"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "LwMAWbo7jV0hWtW7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lithium",
+      "name": "",
+      "_key": "!tables.results!zvS31OVYOZsx0cRb.LwMAWbo7jV0hWtW7"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "PH3P0c2lxXOhTmVl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Magnesium",
+      "name": "",
+      "_key": "!tables.results!zvS31OVYOZsx0cRb.PH3P0c2lxXOhTmVl"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "5qnPUZsVwN2pHSXt",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mercury",
+      "name": "",
+      "_key": "!tables.results!zvS31OVYOZsx0cRb.5qnPUZsVwN2pHSXt"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "IedKcpk1N7xdFpKn",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Neodymium",
+      "name": "",
+      "_key": "!tables.results!zvS31OVYOZsx0cRb.IedKcpk1N7xdFpKn"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "CF32GgxtovASNIeG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nickel",
+      "name": "",
+      "_key": "!tables.results!zvS31OVYOZsx0cRb.CF32GgxtovASNIeG"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "zN47g1Y84RmMXuU6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Plutonium",
+      "name": "",
+      "_key": "!tables.results!zvS31OVYOZsx0cRb.zN47g1Y84RmMXuU6"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "v03rPq2nXUBm8A9b",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potassium",
+      "name": "",
+      "_key": "!tables.results!zvS31OVYOZsx0cRb.v03rPq2nXUBm8A9b"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "CkPYYXJqls6uHzfJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Promethium",
+      "name": "",
+      "_key": "!tables.results!zvS31OVYOZsx0cRb.CkPYYXJqls6uHzfJ"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "UYCAfFearOFHj9XW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Silicon",
+      "name": "",
+      "_key": "!tables.results!zvS31OVYOZsx0cRb.UYCAfFearOFHj9XW"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "m73wPcPk2LiRxRFT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tin",
+      "name": "",
+      "_key": "!tables.results!zvS31OVYOZsx0cRb.m73wPcPk2LiRxRFT"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "h2lyTuQkakE57UfE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Titanium",
+      "name": "",
+      "_key": "!tables.results!zvS31OVYOZsx0cRb.h2lyTuQkakE57UfE"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "DjpW0NaB7iooQZEL",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tungsten",
+      "name": "",
+      "_key": "!tables.results!zvS31OVYOZsx0cRb.DjpW0NaB7iooQZEL"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "wEz53znonl45oTvk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Uranium",
+      "name": "",
+      "_key": "!tables.results!zvS31OVYOZsx0cRb.wEz53znonl45oTvk"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "6j19d0j7XWscbmLg",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Zinc",
+      "name": "",
+      "_key": "!tables.results!zvS31OVYOZsx0cRb.6j19d0j7XWscbmLg"
+    }
+  ],
+  "folder": "oK4ZOVshS1n7Yu4O",
+  "sort": 8,
+  "_id": "zvS31OVYOZsx0cRb",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745300225282,
+    "modifiedTime": 1745300225282,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!zvS31OVYOZsx0cRb"
+}

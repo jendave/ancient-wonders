@@ -1,0 +1,264 @@
+{
+  "name": "Tidally-Locked World Central Band - Nine Between Classes",
+  "formula": "1d100",
+  "description": "<p>On the Dark Side column of the Bands oracle, tally the number of worlds between the planetary classes rolled for the light and dark sides of the planet. Then, use that amount to determine which column to reference on the following table to define the planetary class of the central band. If there is only one world in between, envision it as the planetary class of the central band.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "U11N2snipU1oidEq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1st world",
+      "name": "",
+      "_key": "!tables.results!k80kPH31nIPcMgBl.U11N2snipU1oidEq"
+    },
+    {
+      "range": [
+        6,
+        14
+      ],
+      "_id": "pvatx3vL9ow55UGX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "2nd world",
+      "name": "",
+      "_key": "!tables.results!k80kPH31nIPcMgBl.pvatx3vL9ow55UGX"
+    },
+    {
+      "range": [
+        15,
+        26
+      ],
+      "_id": "StHnWvzMpltgifNg",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "3rd world",
+      "name": "",
+      "_key": "!tables.results!k80kPH31nIPcMgBl.StHnWvzMpltgifNg"
+    },
+    {
+      "range": [
+        27,
+        42
+      ],
+      "_id": "UlEdixX2fkGpcWZk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "4th world",
+      "name": "",
+      "_key": "!tables.results!k80kPH31nIPcMgBl.UlEdixX2fkGpcWZk"
+    },
+    {
+      "range": [
+        43,
+        58
+      ],
+      "_id": "YN7CriiSZNYhj997",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "5th world",
+      "name": "",
+      "_key": "!tables.results!k80kPH31nIPcMgBl.YN7CriiSZNYhj997"
+    },
+    {
+      "range": [
+        59,
+        74
+      ],
+      "_id": "HDKx9g2tTlg6xMK7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "6th world",
+      "name": "",
+      "_key": "!tables.results!k80kPH31nIPcMgBl.HDKx9g2tTlg6xMK7"
+    },
+    {
+      "range": [
+        75,
+        86
+      ],
+      "_id": "nrPoP8zKtBLlzebp",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "7th world",
+      "name": "",
+      "_key": "!tables.results!k80kPH31nIPcMgBl.nrPoP8zKtBLlzebp"
+    },
+    {
+      "range": [
+        87,
+        95
+      ],
+      "_id": "9fYMPklPfi06rjTe",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "8th world",
+      "name": "",
+      "_key": "!tables.results!k80kPH31nIPcMgBl.9fYMPklPfi06rjTe"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "DYAfwKaYTTRBsV3L",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "9th world",
+      "name": "",
+      "_key": "!tables.results!k80kPH31nIPcMgBl.DYAfwKaYTTRBsV3L"
+    }
+  ],
+  "folder": "qfQdoESUXOJpkJnW",
+  "sort": 19,
+  "_id": "k80kPH31nIPcMgBl",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745457524452,
+    "modifiedTime": 1763686455990,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!k80kPH31nIPcMgBl"
+}

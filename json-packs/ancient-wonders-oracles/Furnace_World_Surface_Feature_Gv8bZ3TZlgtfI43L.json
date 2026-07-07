@@ -1,0 +1,318 @@
+{
+  "name": "Furnace World Surface Feature",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        3
+      ],
+      "description": "Catastrophic earthquakes",
+      "_id": "QP7sIPVbQZGxulc6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Gv8bZ3TZlgtfI43L.QP7sIPVbQZGxulc6"
+    },
+    {
+      "range": [
+        4,
+        6
+      ],
+      "description": "Dry and barren ocean basins",
+      "_id": "g0nfbMpAAymJ0G0W",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Gv8bZ3TZlgtfI43L.g0nfbMpAAymJ0G0W"
+    },
+    {
+      "range": [
+        7,
+        9
+      ],
+      "description": "Erratic electromagnetic fields",
+      "_id": "glA8bOc1c15XutKI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Gv8bZ3TZlgtfI43L.glA8bOc1c15XutKI"
+    },
+    {
+      "range": [
+        10,
+        12
+      ],
+      "description": "Fiery world-spanning chasms",
+      "_id": "RiivRtR4OqJQlzGU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Gv8bZ3TZlgtfI43L.RiivRtR4OqJQlzGU"
+    },
+    {
+      "range": [
+        13,
+        15
+      ],
+      "description": "Lava tunnel networks",
+      "_id": "3i1rLXriLvfGl0v1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Gv8bZ3TZlgtfI43L.3i1rLXriLvfGl0v1"
+    },
+    {
+      "range": [
+        16,
+        18
+      ],
+      "description": "Masses of scorched bones",
+      "_id": "qjMoWBPmJxaDbi6I",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Gv8bZ3TZlgtfI43L.qjMoWBPmJxaDbi6I"
+    },
+    {
+      "range": [
+        19,
+        21
+      ],
+      "description": "Once-verdant terrain",
+      "_id": "hNCc6IFqZHiCX8Ye",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Gv8bZ3TZlgtfI43L.hNCc6IFqZHiCX8Ye"
+    },
+    {
+      "range": [
+        22,
+        24
+      ],
+      "description": "Powerful lava geysers",
+      "_id": "necxV0FInrBl14VB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Gv8bZ3TZlgtfI43L.necxV0FInrBl14VB"
+    },
+    {
+      "range": [
+        25,
+        27
+      ],
+      "description": "Roiling clouds of superheated gas",
+      "_id": "by8gzwpih4b7XhMN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Gv8bZ3TZlgtfI43L.by8gzwpih4b7XhMN"
+    },
+    {
+      "range": [
+        28,
+        30
+      ],
+      "description": "Towering mountain ranges",
+      "_id": "Y0sahUlH8wO1ecky",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Gv8bZ3TZlgtfI43L.Y0sahUlH8wO1ecky"
+    },
+    {
+      "range": [
+        31,
+        33
+      ],
+      "description": "World-spanning fissures",
+      "_id": "To7Sb7fZEzvyD5sp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Gv8bZ3TZlgtfI43L.To7Sb7fZEzvyD5sp"
+    },
+    {
+      "range": [
+        34,
+        100
+      ],
+      "description": "&gt;Biome Feature",
+      "_id": "DQ2d4jR8gvioBdDU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Gv8bZ3TZlgtfI43L.DQ2d4jR8gvioBdDU"
+    }
+  ],
+  "folder": "LHnjnCnHvX1B9ly6",
+  "sort": 10,
+  "_id": "Gv8bZ3TZlgtfI43L",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.5",
+    "createdTime": 1763675258098,
+    "modifiedTime": 1763675258098,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!tables!Gv8bZ3TZlgtfI43L"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Kintsugi World",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "QYJDtxrcH8LiBWBc",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 1800000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745897702829,
+    "modifiedTime": 1745897703128,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!QYJDtxrcH8LiBWBc"
+}

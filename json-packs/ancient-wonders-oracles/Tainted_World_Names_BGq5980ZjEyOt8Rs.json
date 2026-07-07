@@ -1,0 +1,550 @@
+{
+  "name": "Tainted World Names",
+  "formula": "1d100",
+  "description": "<p>A foul planet wracked by a poisonous climate and virulent growths.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "CNenuR2jUzsP50iW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Achlys",
+      "name": "",
+      "_key": "!tables.results!BGq5980ZjEyOt8Rs.CNenuR2jUzsP50iW"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "NKFexinG7UdNz0PQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Animus",
+      "name": "",
+      "_key": "!tables.results!BGq5980ZjEyOt8Rs.NKFexinG7UdNz0PQ"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "gpxZeC3hDyGCgIkj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bane",
+      "name": "",
+      "_key": "!tables.results!BGq5980ZjEyOt8Rs.gpxZeC3hDyGCgIkj"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "lQo9HRSnbFqGUQVe",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blight",
+      "name": "",
+      "_key": "!tables.results!BGq5980ZjEyOt8Rs.lQo9HRSnbFqGUQVe"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "bX4CaU0bguE2NKLh",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Carrion",
+      "name": "",
+      "_key": "!tables.results!BGq5980ZjEyOt8Rs.bX4CaU0bguE2NKLh"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "fjsAKL5ZqFEQhPoA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chitin",
+      "name": "",
+      "_key": "!tables.results!BGq5980ZjEyOt8Rs.fjsAKL5ZqFEQhPoA"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "ufQyIkZ1q0y1mAsk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Datura",
+      "name": "",
+      "_key": "!tables.results!BGq5980ZjEyOt8Rs.ufQyIkZ1q0y1mAsk"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "KvQQ8KTW83Jpa6pu",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dreck",
+      "name": "",
+      "_key": "!tables.results!BGq5980ZjEyOt8Rs.KvQQ8KTW83Jpa6pu"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "mD75R54f4WYgxc2M",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Erra",
+      "name": "",
+      "_key": "!tables.results!BGq5980ZjEyOt8Rs.mD75R54f4WYgxc2M"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "Rs6LX1UakQfMtjK3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Febris",
+      "name": "",
+      "_key": "!tables.results!BGq5980ZjEyOt8Rs.Rs6LX1UakQfMtjK3"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "MRfRK1lIWNVtVK9S",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Malacia",
+      "name": "",
+      "_key": "!tables.results!BGq5980ZjEyOt8Rs.MRfRK1lIWNVtVK9S"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "xyAgifOHXyhXU9j7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Miasma",
+      "name": "",
+      "_key": "!tables.results!BGq5980ZjEyOt8Rs.xyAgifOHXyhXU9j7"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "4wRVgNvU9lywbltA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Morbus",
+      "name": "",
+      "_key": "!tables.results!BGq5980ZjEyOt8Rs.4wRVgNvU9lywbltA"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "jOY3ZIcCT3Ky3JW5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pathosis",
+      "name": "",
+      "_key": "!tables.results!BGq5980ZjEyOt8Rs.jOY3ZIcCT3Ky3JW5"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "QIDqYeQimGRorbHW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pestis",
+      "name": "",
+      "_key": "!tables.results!BGq5980ZjEyOt8Rs.QIDqYeQimGRorbHW"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "gOuixHGVPiicvYVS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scourge",
+      "name": "",
+      "_key": "!tables.results!BGq5980ZjEyOt8Rs.gOuixHGVPiicvYVS"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "FiPVKIFaER02T4rj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Telium",
+      "name": "",
+      "_key": "!tables.results!BGq5980ZjEyOt8Rs.FiPVKIFaER02T4rj"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "4qpQw1GiDNxXkmE7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Timoris",
+      "name": "",
+      "_key": "!tables.results!BGq5980ZjEyOt8Rs.4qpQw1GiDNxXkmE7"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "Y6HT0krRdcKuNtaF",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Verus",
+      "name": "",
+      "_key": "!tables.results!BGq5980ZjEyOt8Rs.Y6HT0krRdcKuNtaF"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "HBY75kwVARnHuoZK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Xanthous",
+      "name": "",
+      "_key": "!tables.results!BGq5980ZjEyOt8Rs.HBY75kwVARnHuoZK"
+    }
+  ],
+  "folder": "64DrLqEQ9Gx2HIMt",
+  "sort": 0,
+  "_id": "BGq5980ZjEyOt8Rs",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745372518001,
+    "modifiedTime": 1745372518001,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!BGq5980ZjEyOt8Rs"
+}

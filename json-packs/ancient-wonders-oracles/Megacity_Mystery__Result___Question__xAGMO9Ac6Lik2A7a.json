@@ -1,0 +1,342 @@
+{
+  "name": "Megacity Mystery (Result / Question)",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        8
+      ],
+      "_id": "YRi4ZKt8jjgWQPbx",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ancient relic / What alien artifact or treasure can be found here?",
+      "name": "",
+      "_key": "!tables.results!xAGMO9Ac6Lik2A7a.YRi4ZKt8jjgWQPbx"
+    },
+    {
+      "range": [
+        9,
+        17
+      ],
+      "_id": "bVkXFutIx3ZZEJ42",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Biological constitution / What were the species that inhabited this place?",
+      "name": "",
+      "_key": "!tables.results!xAGMO9Ac6Lik2A7a.bVkXFutIx3ZZEJ42"
+    },
+    {
+      "range": [
+        18,
+        26
+      ],
+      "_id": "3RQX6AgMN7pwT7SI",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Civilizational purpose / What was the overall function of this city for its species?",
+      "name": "",
+      "_key": "!tables.results!xAGMO9Ac6Lik2A7a.3RQX6AgMN7pwT7SI"
+    },
+    {
+      "range": [
+        27,
+        34
+      ],
+      "_id": "x0wxqizLeoJ80jLW",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cryptic waymaker / What greater location or finding does this site lead to?",
+      "name": "",
+      "_key": "!tables.results!xAGMO9Ac6Lik2A7a.x0wxqizLeoJ80jLW"
+    },
+    {
+      "range": [
+        35,
+        42
+      ],
+      "_id": "dQzuRwi1SWbHWcCz",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enemy plot / What objective does a foe or rival have in this site?",
+      "name": "",
+      "_key": "!tables.results!xAGMO9Ac6Lik2A7a.dQzuRwi1SWbHWcCz"
+    },
+    {
+      "range": [
+        43,
+        50
+      ],
+      "_id": "ocDL70f4CsTjWU5j",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lost inhabitant / What was the destiny of the people who originally lived here?",
+      "name": "",
+      "_key": "!tables.results!xAGMO9Ac6Lik2A7a.ocDL70f4CsTjWU5j"
+    },
+    {
+      "range": [
+        51,
+        58
+      ],
+      "_id": "U1a4ta3lEmQwSkoC",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Political system / What was the form of government which ruled this settlement?",
+      "name": "",
+      "_key": "!tables.results!xAGMO9Ac6Lik2A7a.U1a4ta3lEmQwSkoC"
+    },
+    {
+      "range": [
+        59,
+        66
+      ],
+      "_id": "XsADn4cVTuQC9TZR",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Popular faith / What was the most widespread belief in this place?",
+      "name": "",
+      "_key": "!tables.results!xAGMO9Ac6Lik2A7a.XsADn4cVTuQC9TZR"
+    },
+    {
+      "range": [
+        67,
+        74
+      ],
+      "_id": "aY1pFyjQAVc84ffo",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Social structure / What was the collective arrangement of the people who lived here?",
+      "name": "",
+      "_key": "!tables.results!xAGMO9Ac6Lik2A7a.aY1pFyjQAVc84ffo"
+    },
+    {
+      "range": [
+        75,
+        82
+      ],
+      "_id": "rjxYHTc9V9BPDHgd",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Traditional practices / What important cultural customs were practiced here?",
+      "name": "",
+      "_key": "!tables.results!xAGMO9Ac6Lik2A7a.rjxYHTc9V9BPDHgd"
+    },
+    {
+      "range": [
+        83,
+        91
+      ],
+      "_id": "IOoB3stX4FYOiind",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unfinished project / What abandoned program left its shadow in this site?",
+      "name": "",
+      "_key": "!tables.results!xAGMO9Ac6Lik2A7a.IOoB3stX4FYOiind"
+    },
+    {
+      "range": [
+        92,
+        100
+      ],
+      "_id": "0oUwi6OclTc4oqXY",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Valuable resource / What stock of goods or materials can be found here?",
+      "name": "",
+      "_key": "!tables.results!xAGMO9Ac6Lik2A7a.0oUwi6OclTc4oqXY"
+    }
+  ],
+  "folder": "nR1iJqDkm8MluDvh",
+  "sort": 2,
+  "_id": "xAGMO9Ac6Lik2A7a",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746337614622,
+    "modifiedTime": 1746337614622,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!xAGMO9Ac6Lik2A7a"
+}

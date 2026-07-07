@@ -1,0 +1,134 @@
+{
+  "name": "Planetary Defenses Nexus Defended Site",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        25
+      ],
+      "_id": "X3RRZ2X3r8ATPGS6",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Planet (host of megacity or grounded vault); pg 40",
+      "name": "",
+      "_key": "!tables.results!AdMLNUHKoZvZ0PHW.X3RRZ2X3r8ATPGS6"
+    },
+    {
+      "range": [
+        26,
+        50
+      ],
+      "_id": "EnWvL4Yf3KE29Sny",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Ecumenopolis; pg 130",
+      "name": "",
+      "_key": "!tables.results!AdMLNUHKoZvZ0PHW.EnWvL4Yf3KE29Sny"
+    },
+    {
+      "range": [
+        51,
+        75
+      ],
+      "_id": "kBfPBnYYm6S9IWIN",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Kintsugi World; pg 134",
+      "name": "",
+      "_key": "!tables.results!AdMLNUHKoZvZ0PHW.kBfPBnYYm6S9IWIN"
+    },
+    {
+      "range": [
+        76,
+        100
+      ],
+      "_id": "6i4Wvvr3isO28AQr",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Quarry World; pg 144",
+      "name": "",
+      "_key": "!tables.results!AdMLNUHKoZvZ0PHW.6i4Wvvr3isO28AQr"
+    }
+  ],
+  "folder": "svNaxx45pnxVZEm2",
+  "sort": 1,
+  "_id": "AdMLNUHKoZvZ0PHW",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745955150879,
+    "modifiedTime": 1745955150879,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!AdMLNUHKoZvZ0PHW"
+}

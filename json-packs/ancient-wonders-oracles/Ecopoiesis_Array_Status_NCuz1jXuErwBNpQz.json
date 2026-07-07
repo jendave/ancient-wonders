@@ -1,0 +1,160 @@
+{
+  "name": "Ecopoiesis Array Status",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        15
+      ],
+      "_id": "F8YuNCYqVPgRgBus",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Partially constructed / When you roll &gt;Planet (page 40) to generate the features of the world that hosts the megastructure, reroll the \"Anomalous World\", \"Furnace World, \"Jovian  World\", and \"Shattered World\" Planetary Class results.",
+      "name": "",
+      "_key": "!tables.results!NCuz1jXuErwBNpQz.F8YuNCYqVPgRgBus"
+    },
+    {
+      "range": [
+        16,
+        50
+      ],
+      "_id": "1RKyliJJPodrzcVy",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Operational /  When you roll &gt;Planet (page 40) to generate the features of the world that hosts the megastructure, reroll the \"Anomalous World\", \"Furnace World\", \"Jovian \"World\", \"Shattered World\", \"Tainted World\" Planetary Class results. Then, roll &gt;Altered Atmosphere and &gt;Altered Life (next page) and treat these as a direct result of changes made to the world by the ecopoiesis array.",
+      "name": "",
+      "_key": "!tables.results!NCuz1jXuErwBNpQz.1RKyliJJPodrzcVy"
+    },
+    {
+      "range": [
+        51,
+        85
+      ],
+      "_id": "5H2JEODVGCMpvyc0",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Non-functional  or offline / When you roll &gt;Planet (page 40) to generate the features of the world that hosts the megastructure, reroll the \"Anomalous World\", \"Furnace World\", \"Jovian World\", \"Shattered World\" Planetary Class results. Making the ecopoiesis array functional will have an effect on the atmosphere; modify the Atmosphere oracle result to be more habitable, then shift the Life oracle result to be scarce or extinct, as much of indigenous flora and fauna might not have evolved to tolerate the new atmosphere.",
+      "name": "",
+      "_key": "!tables.results!NCuz1jXuErwBNpQz.5H2JEODVGCMpvyc0"
+    },
+    {
+      "range": [
+        86,
+        95
+      ],
+      "_id": "satNwitXvvbf0kcc",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dysfunctional / As operational, but the world is wracked by powerful and extreme weather events. When you envision them, take inspiration from weather-based oracles results or base them on the planetary class.",
+      "name": "",
+      "_key": "!tables.results!NCuz1jXuErwBNpQz.satNwitXvvbf0kcc"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "oZSj5FTYPnZ7Ib86",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destroyed / As a result of the array's destruction, all of its stored gases and biomolecules were released simultaneously into the atmosphere, transforming the planet into a furnace world (corrosive atmosphere, extinct life, mono biome: hothouse; page 52). These environments will be wracked by extreme weather events. For these, you may take inspiration from weather-based oracle results or base them on the planetary class.",
+      "name": "",
+      "_key": "!tables.results!NCuz1jXuErwBNpQz.oZSj5FTYPnZ7Ib86"
+    }
+  ],
+  "folder": "9GkzzoCtwny2axMc",
+  "sort": 0,
+  "_id": "NCuz1jXuErwBNpQz",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745817411564,
+    "modifiedTime": 1745817411564,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!NCuz1jXuErwBNpQz"
+}

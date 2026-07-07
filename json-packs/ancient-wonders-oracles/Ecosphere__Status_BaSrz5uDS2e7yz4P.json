@@ -1,0 +1,186 @@
+{
+  "name": "Ecosphere  Status",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        20
+      ],
+      "_id": "29QhjVIfeTlbljog",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Operational",
+      "name": "",
+      "_key": "!tables.results!BaSrz5uDS2e7yz4P.29QhjVIfeTlbljog"
+    },
+    {
+      "range": [
+        21,
+        45
+      ],
+      "_id": "I1jr5DMzpkUp9YXe",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dysfunctional",
+      "name": "",
+      "_key": "!tables.results!BaSrz5uDS2e7yz4P.I1jr5DMzpkUp9YXe"
+    },
+    {
+      "range": [
+        46,
+        75
+      ],
+      "_id": "gQxqeSwggJuKfaJS",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Non-functional",
+      "name": "",
+      "_key": "!tables.results!BaSrz5uDS2e7yz4P.gQxqeSwggJuKfaJS"
+    },
+    {
+      "range": [
+        76,
+        85
+      ],
+      "_id": "MKmibTc6c4UFiiPz",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Damaged",
+      "name": "",
+      "_key": "!tables.results!BaSrz5uDS2e7yz4P.MKmibTc6c4UFiiPz"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "oF6fNKchwX3oofoW",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destroyed",
+      "name": "",
+      "_key": "!tables.results!BaSrz5uDS2e7yz4P.oF6fNKchwX3oofoW"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "GH2BLRnr32kUVJQL",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Partially Constructed",
+      "name": "",
+      "_key": "!tables.results!BaSrz5uDS2e7yz4P.GH2BLRnr32kUVJQL"
+    }
+  ],
+  "folder": "wXMzUvQoCfDoUqQ5",
+  "sort": 4,
+  "_id": "BaSrz5uDS2e7yz4P",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745821297335,
+    "modifiedTime": 1745821297335,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!BaSrz5uDS2e7yz4P"
+}

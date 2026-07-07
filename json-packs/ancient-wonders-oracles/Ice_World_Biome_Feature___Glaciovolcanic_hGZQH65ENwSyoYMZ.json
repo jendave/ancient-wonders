@@ -1,0 +1,264 @@
+{
+  "name": "Ice World Biome Feature - Glaciovolcanic",
+  "formula": "1d100",
+  "description": "<p>Fields of volcanoes tower over the frozen landscape.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        11
+      ],
+      "_id": "h7lSIbtOIsVuluGk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Actively forming mountain ranges",
+      "name": "",
+      "_key": "!tables.results!hGZQH65ENwSyoYMZ.h7lSIbtOIsVuluGk"
+    },
+    {
+      "range": [
+        12,
+        22
+      ],
+      "_id": "nFX3K94aKqysJ4Rk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bubbling magma pools",
+      "name": "",
+      "_key": "!tables.results!hGZQH65ENwSyoYMZ.nFX3K94aKqysJ4Rk"
+    },
+    {
+      "range": [
+        23,
+        33
+      ],
+      "_id": "ZMqWviefodhBGKi2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enormous roiling magma",
+      "name": "",
+      "_key": "!tables.results!hGZQH65ENwSyoYMZ.ZMqWviefodhBGKi2"
+    },
+    {
+      "range": [
+        34,
+        44
+      ],
+      "_id": "hYbAaimDQTYJCMXi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Foreboding calderas",
+      "name": "",
+      "_key": "!tables.results!hGZQH65ENwSyoYMZ.hYbAaimDQTYJCMXi"
+    },
+    {
+      "range": [
+        45,
+        55
+      ],
+      "_id": "Q01fkDYaJTHlUqCJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Networks of subsurface lava",
+      "name": "",
+      "_key": "!tables.results!hGZQH65ENwSyoYMZ.Q01fkDYaJTHlUqCJ"
+    },
+    {
+      "range": [
+        56,
+        66
+      ],
+      "_id": "NzCPMSXLydbo65IR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rivers of meltwater",
+      "name": "",
+      "_key": "!tables.results!hGZQH65ENwSyoYMZ.NzCPMSXLydbo65IR"
+    },
+    {
+      "range": [
+        67,
+        77
+      ],
+      "_id": "gweslPh7WFdEX48c",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Supersized ice volcanoes",
+      "name": "",
+      "_key": "!tables.results!hGZQH65ENwSyoYMZ.gweslPh7WFdEX48c"
+    },
+    {
+      "range": [
+        78,
+        88
+      ],
+      "_id": "5oPcALNkF1AlIKNx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Volcanoes billowing smoke",
+      "name": "",
+      "_key": "!tables.results!hGZQH65ENwSyoYMZ.5oPcALNkF1AlIKNx"
+    },
+    {
+      "range": [
+        89,
+        100
+      ],
+      "_id": "5A9P4Iqy04IFG7jT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transition into a new &gt;Biome",
+      "name": "",
+      "_key": "!tables.results!hGZQH65ENwSyoYMZ.5A9P4Iqy04IFG7jT"
+    }
+  ],
+  "folder": "FihhzdgG6Tlxel9Q",
+  "sort": 15,
+  "_id": "hGZQH65ENwSyoYMZ",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745214414983,
+    "modifiedTime": 1745214414983,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!hGZQH65ENwSyoYMZ"
+}

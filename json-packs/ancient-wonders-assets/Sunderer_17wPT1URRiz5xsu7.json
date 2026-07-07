@@ -1,0 +1,79 @@
+{
+  "type": "asset",
+  "folder": "bOcZzkQSUb3oUpS2",
+  "name": "Sunderer",
+  "system": {
+    "requirement": "",
+    "category": "Item - Weapon",
+    "color": "#3d8b8a",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>The sunderer is armed with 2 ammo. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} or @Compendium[foundry-ironsworn.starforgedmoves.Item.723192c97fec4fe2]{Clash} with a missile attack against a slow or stationary target, add +2. Then, suffer -1 ammo. If you @Compendium[foundry-ironsworn.starforgedmoves.Item.703964b8d02355b8]{Resupply} in a place where your missiles can be replenished, you may exchange any earned +supply for +ammo.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Smaller ammunition allows for increased capacity. The sunderer can be armed with up to 4 ammo. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.703964b8d02355b8]{Resupply} it, take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} or @Compendium[foundry-ironsworn.starforgedmoves.Item.723192c97fec4fe2]{Clash} with a missile attack, mark progress on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "description": "<p>The weapon fires balls of plasma. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} or @Compendium[foundry-ironsworn.starforgedmoves.Item.723192c97fec4fe2]{Clash} firing it, mark two progress on a hit. If you @Compendium[foundry-ironsworn.starforgedmoves.Item.703964b8d02355b8]{Resupply} in a place where your missiles can be replenished, you may instead exchange +2 supply for +1 ammo.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Ammo",
+      "current": 0,
+      "max": 4,
+      "value": 4,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "<p>A missile launcher designed to counter slow or stationary targets.</p>"
+  },
+  "img": "modules/ancient-wonders/assets/missile-pod.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747109562482,
+    "modifiedTime": 1764468697576,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "17wPT1URRiz5xsu7",
+  "sort": 0,
+  "_key": "!items!17wPT1URRiz5xsu7"
+}

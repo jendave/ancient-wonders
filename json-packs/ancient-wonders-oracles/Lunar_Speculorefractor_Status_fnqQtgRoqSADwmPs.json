@@ -1,0 +1,160 @@
+{
+  "name": "Lunar Speculorefractor Status",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        15
+      ],
+      "_id": "EdZmQLPYxRdOsAAb",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Partially constructed / While parts of the lunar speculorefractor were constructed, not enough were built to redirect the light required to alter the world. The host planet is an ice world (page 56).",
+      "name": "",
+      "_key": "!tables.results!fnqQtgRoqSADwmPs.EdZmQLPYxRdOsAAb"
+    },
+    {
+      "range": [
+        16,
+        50
+      ],
+      "_id": "X1Rt5FPcxqPZZu9m",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Operational /  When you roll &gt;Planet (page 40) to generate the features of the world that hosts the lunar speculorefractor, use the Lunar Speculorefractor Planetary Class oracle instead of the Planetary Class oracle. The world has the additional feature of auroras.",
+      "name": "",
+      "_key": "!tables.results!fnqQtgRoqSADwmPs.X1Rt5FPcxqPZZu9m"
+    },
+    {
+      "range": [
+        51,
+        85
+      ],
+      "_id": "S17KnMVuXThoVGP8",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Non-functional or offline / The megastructure is not refracting enough light to adequately warm its planet, an ice world (page 56). Making the lunar speculorefractor functional will swiftly warm the planet by rapidly melting it into an ocean world (monobiome: hycean; page 70).",
+      "name": "",
+      "_key": "!tables.results!fnqQtgRoqSADwmPs.S17KnMVuXThoVGP8"
+    },
+    {
+      "range": [
+        86,
+        95
+      ],
+      "_id": "uCmcdSfa8bYLSI3k",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dysfunctional / As above, but the lunar speculorefractor affects its host world. Roll on the Lunar Speculorefractor Planetary Class oracle",
+      "name": "",
+      "_key": "!tables.results!fnqQtgRoqSADwmPs.uCmcdSfa8bYLSI3k"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "xW4dmBp1gSpHVWMn",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destroyed / The megastructure and the moon that formed much of it have their remains orbiting their host planet, an ice world surrounded by debris fields (page 56).",
+      "name": "",
+      "_key": "!tables.results!fnqQtgRoqSADwmPs.xW4dmBp1gSpHVWMn"
+    }
+  ],
+  "folder": "ksVn2RXQFMsV2dNq",
+  "sort": 0,
+  "_id": "fnqQtgRoqSADwmPs",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745953863456,
+    "modifiedTime": 1745953863456,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!fnqQtgRoqSADwmPs"
+}

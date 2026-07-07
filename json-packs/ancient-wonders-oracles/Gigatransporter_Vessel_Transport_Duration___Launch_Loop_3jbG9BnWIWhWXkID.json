@@ -1,0 +1,134 @@
+{
+  "name": "Gigatransporter Vessel Transport Duration - Launch Loop",
+  "formula": "1d100",
+  "description": "<p>Transportation speed depends on the distance traveled and the efficiency of the gigatransporter. This table determines the end result.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "gCu4vMLFiBmPbC0Q",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Couple hours",
+      "name": "",
+      "_key": "!tables.results!3jbG9BnWIWhWXkID.gCu4vMLFiBmPbC0Q"
+    },
+    {
+      "range": [
+        11,
+        25
+      ],
+      "_id": "H8b99WukTlRUw8xV",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Few hours",
+      "name": "",
+      "_key": "!tables.results!3jbG9BnWIWhWXkID.H8b99WukTlRUw8xV"
+    },
+    {
+      "range": [
+        26,
+        50
+      ],
+      "_id": "gR34bNduVj5cPWpU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Several hours",
+      "name": "",
+      "_key": "!tables.results!3jbG9BnWIWhWXkID.gR34bNduVj5cPWpU"
+    },
+    {
+      "range": [
+        51,
+        100
+      ],
+      "_id": "6XCJ8MBayY2uJ6nt",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Many hours or days",
+      "name": "",
+      "_key": "!tables.results!3jbG9BnWIWhWXkID.6XCJ8MBayY2uJ6nt"
+    }
+  ],
+  "folder": "EOvZAxWNG3TxMOFL",
+  "sort": 4,
+  "_id": "3jbG9BnWIWhWXkID",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745558350975,
+    "modifiedTime": 1745558350975,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!3jbG9BnWIWhWXkID"
+}

@@ -1,0 +1,79 @@
+{
+  "type": "asset",
+  "folder": "bOcZzkQSUb3oUpS2",
+  "name": "Bioscanner",
+  "system": {
+    "requirement": "",
+    "category": "Item - Tool",
+    "color": "#3d8b8a",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>The bioscanner contains various medical sensors to diagnose a vast number of maladies. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} to diagnose an injury or illness, preset your action die to 4.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.13b2d777c6fb719d]{Gather Information} using the bioscanner to study a lifeform, dead or alive, add +1. If you @Compendium[foundry-ironsworn.starforgedmoves.Item.0d7f13818c1c19ed]{Reach a Milestone} this way, take +1 momentum.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>The bioscanner holds a significant amount of data on how to treat any diagnosable malady. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.2051538f0c9d5d27]{Heal} with knowledge provided by this tool and score a weak hit, make the cost -1 less.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "description": "<p>When activated, the bioscanner's automated system makes it function as a small construct that aids with the work at hand. When you make a move using this tool, you may reroll one challenge die.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Oxygen",
+      "current": 0,
+      "max": 5,
+      "value": 3,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "<p>A portable tool used to analyze organic material.</p>"
+  },
+  "img": "modules/ancient-wonders/assets/heart-beats.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747034657903,
+    "modifiedTime": 1764469007856,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "MOCFzI9oWNcv4RtB",
+  "sort": 0,
+  "_key": "!items!MOCFzI9oWNcv4RtB"
+}

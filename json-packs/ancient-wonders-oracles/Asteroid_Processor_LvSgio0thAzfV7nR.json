@@ -1,0 +1,22 @@
+{
+  "name": "Asteroid Processor",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "LvSgio0thAzfV7nR",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 600000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745691217238,
+    "modifiedTime": 1745691217448,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!LvSgio0thAzfV7nR"
+}

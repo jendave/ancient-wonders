@@ -1,0 +1,82 @@
+{
+  "name": "Terraformer Hub Megastructure Status - Destroyed",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        75
+      ],
+      "_id": "jMVSTKBCTUQXbw6x",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "As if the terraformer hub were operational, but roll &gt;Altered Planetary Class twice (next page). The second result is the original class.",
+      "name": "",
+      "_key": "!tables.results!ne3LF435FCj3dgCb.jMVSTKBCTUQXbw6x"
+    },
+    {
+      "range": [
+        76,
+        100
+      ],
+      "_id": "PcZBL9poqIYFvpXp",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "When you roll &gt;Planet (page 40) to generate the features of the world that hosts the terraformer hub, reroll the \"Anomalous World\", \"Jovian World', and \"Shattered World\" Planetary Class results.",
+      "name": "",
+      "_key": "!tables.results!ne3LF435FCj3dgCb.PcZBL9poqIYFvpXp"
+    }
+  ],
+  "folder": "5T2S2EBEUpTFLz7a",
+  "sort": 2,
+  "_id": "ne3LF435FCj3dgCb",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746259394612,
+    "modifiedTime": 1746259394612,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!ne3LF435FCj3dgCb"
+}

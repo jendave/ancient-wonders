@@ -1,0 +1,22 @@
+{
+  "name": "Solar Systems",
+  "sorting": "m",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "NMT8A3FtXEFxvYTO",
+  "description": "",
+  "sort": 200000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1744955463891,
+    "modifiedTime": 1744956295741,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!NMT8A3FtXEFxvYTO"
+}

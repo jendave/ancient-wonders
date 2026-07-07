@@ -1,0 +1,160 @@
+{
+  "name": "Number of Moons - Medium",
+  "formula": "1d100",
+  "description": "<p>Use this oracle to define the number of moons of a planetary body.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        40
+      ],
+      "_id": "fCYKAJI5quSeufWR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "One",
+      "name": "",
+      "_key": "!tables.results!YTfWY6P9gwDNsWJ7.fCYKAJI5quSeufWR"
+    },
+    {
+      "range": [
+        41,
+        75
+      ],
+      "_id": "r7iiRZqBMlsrPCK2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Two",
+      "name": "",
+      "_key": "!tables.results!YTfWY6P9gwDNsWJ7.r7iiRZqBMlsrPCK2"
+    },
+    {
+      "range": [
+        76,
+        95
+      ],
+      "_id": "04XxCNOOcG7o46Kf",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Three",
+      "name": "",
+      "_key": "!tables.results!YTfWY6P9gwDNsWJ7.04XxCNOOcG7o46Kf"
+    },
+    {
+      "range": [
+        96,
+        99
+      ],
+      "_id": "f2aXckMERABJbslj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Few",
+      "name": "",
+      "_key": "!tables.results!YTfWY6P9gwDNsWJ7.f2aXckMERABJbslj"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "gdvKrdXYRcKPICuk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Several",
+      "name": "",
+      "_key": "!tables.results!YTfWY6P9gwDNsWJ7.gdvKrdXYRcKPICuk"
+    }
+  ],
+  "folder": "BrKmU9b5W958cT7l",
+  "sort": 3,
+  "_id": "YTfWY6P9gwDNsWJ7",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745085140307,
+    "modifiedTime": 1745085140307,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!YTfWY6P9gwDNsWJ7"
+}

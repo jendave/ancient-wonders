@@ -1,0 +1,22 @@
+{
+  "name": "Denizens and Phenomena",
+  "sorting": "m",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "0JfjqLCYQkGLD6go",
+  "description": "",
+  "sort": 233204,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": null,
+    "modifiedTime": 1746434807099,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!0JfjqLCYQkGLD6go"
+}

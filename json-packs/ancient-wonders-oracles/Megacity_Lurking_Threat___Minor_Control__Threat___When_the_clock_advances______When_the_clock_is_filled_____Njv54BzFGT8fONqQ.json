@@ -1,0 +1,316 @@
+{
+  "name": "Megacity Lurking Threat - Minor Control (Threat / When the clock advances... / When the clock is filled...)",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        14
+      ],
+      "_id": "DCOa6nhuN3unwaES",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Climate changesi / Temperature fluctuations; minor bodily reactions / Your body suffers a major affliction!",
+      "name": "",
+      "_key": "!tables.results!Njv54BzFGT8fONqQ.DCOa6nhuN3unwaES"
+    },
+    {
+      "range": [
+        15,
+        22
+      ],
+      "_id": "A3kQiqWEJkdBegs2",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crumbling buildings / Creaking and groaning sounds; tumbling debris / Buildings collapse!",
+      "name": "",
+      "_key": "!tables.results!Njv54BzFGT8fONqQ.A3kQiqWEJkdBegs2"
+    },
+    {
+      "range": [
+        23,
+        27
+      ],
+      "_id": "Z34XsUPcTig9fh3I",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Defensive mechanism / Trigger signals; counter-assault preparations / The machines strike!",
+      "name": "",
+      "_key": "!tables.results!Njv54BzFGT8fONqQ.Z34XsUPcTig9fh3I"
+    },
+    {
+      "range": [
+        28,
+        35
+      ],
+      "_id": "iisrW4lT0MjdrJzh",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Energy overload / Electricity arcs; remarkable fluctuations in power / Energy threatens you from all sides!",
+      "name": "",
+      "_key": "!tables.results!Njv54BzFGT8fONqQ.iisrW4lT0MjdrJzh"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "x0wMdodWvwzB94Ek",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Guarding keepers / Signs of being under surveillance; sounds of mechanical motility / A force of keepers defend the city!",
+      "name": "",
+      "_key": "!tables.results!Njv54BzFGT8fONqQ.x0wMdodWvwzB94Ek"
+    },
+    {
+      "range": [
+        41,
+        54
+      ],
+      "_id": "jilSb95k1nh7AJPH",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lurking predator / Glances of the creature; remains of previous attacks / The predator attacks!",
+      "name": "",
+      "_key": "!tables.results!Njv54BzFGT8fONqQ.jilSb95k1nh7AJPH"
+    },
+    {
+      "range": [
+        55,
+        68
+      ],
+      "_id": "UpXiONm8JuXdUser",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Perplexing space / Undecipherable environment; confusion take hold / Anxiety or panic takes over!",
+      "name": "",
+      "_key": "!tables.results!Njv54BzFGT8fONqQ.UpXiONm8JuXdUser"
+    },
+    {
+      "range": [
+        69,
+        76
+      ],
+      "_id": "j9gbk3IGTRBHcWfh",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rival delvers / Evidence of recent activity; distance voices / Your rival makes their move!",
+      "name": "",
+      "_key": "!tables.results!Njv54BzFGT8fONqQ.j9gbk3IGTRBHcWfh"
+    },
+    {
+      "range": [
+        77,
+        84
+      ],
+      "_id": "0C3aDhQpevSFUsVI",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transforming pathways / Surroundings being altered; reconfigured routes / You get lost!",
+      "name": "",
+      "_key": "!tables.results!Njv54BzFGT8fONqQ.0C3aDhQpevSFUsVI"
+    },
+    {
+      "range": [
+        85,
+        92
+      ],
+      "_id": "Y7Vd0SUVzcHFM9S1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Urban fire / Encompassing and intense heat; obfuscating smoke / Fire causes destruction!",
+      "name": "",
+      "_key": "!tables.results!Njv54BzFGT8fONqQ.Y7Vd0SUVzcHFM9S1"
+    },
+    {
+      "range": [
+        93,
+        100
+      ],
+      "_id": "5vEnny8AmARaF2rg",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Urban flood / Surging currents; inundated spaces / The pathway is engulfed!",
+      "name": "",
+      "_key": "!tables.results!Njv54BzFGT8fONqQ.5vEnny8AmARaF2rg"
+    }
+  ],
+  "folder": "nR1iJqDkm8MluDvh",
+  "sort": 11,
+  "_id": "Njv54BzFGT8fONqQ",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746337614622,
+    "modifiedTime": 1746337614622,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!Njv54BzFGT8fONqQ"
+}

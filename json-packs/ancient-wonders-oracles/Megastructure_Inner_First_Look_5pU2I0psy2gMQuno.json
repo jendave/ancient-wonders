@@ -1,0 +1,810 @@
+{
+  "name": "Megastructure Inner First Look",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        3
+      ],
+      "_id": "rbBKvhyYKhB8G0Yt",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Connective passageways or corridors",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.rbBKvhyYKhB8G0Yt"
+    },
+    {
+      "range": [
+        4,
+        6
+      ],
+      "_id": "gisE1LTvRtv01gx7",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Environment reacts to your presence",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.gisE1LTvRtv01gx7"
+    },
+    {
+      "range": [
+        7,
+        9
+      ],
+      "_id": "n0d9PeDd94leEBjc",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Immense cargo pods or containers",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.n0d9PeDd94leEBjc"
+    },
+    {
+      "range": [
+        10,
+        12
+      ],
+      "_id": "H5Bwcifk1PuYpi5k",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evidence of looting or scavenging",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.H5Bwcifk1PuYpi5k"
+    },
+    {
+      "range": [
+        13,
+        15
+      ],
+      "_id": "fkRVEM1ofPKNiNNP",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pervasive undulating vibrations",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.fkRVEM1ofPKNiNNP"
+    },
+    {
+      "range": [
+        16,
+        18
+      ],
+      "_id": "FjQf6KvL0Xvzgp72",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Electromagnetic interference",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.FjQf6KvL0Xvzgp72"
+    },
+    {
+      "range": [
+        19,
+        22
+      ],
+      "_id": "1e1uy2C8qZHyWryJ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thrumming or droning sound",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.1e1uy2C8qZHyWryJ"
+    },
+    {
+      "range": [
+        23,
+        26
+      ],
+      "_id": "LetJyWZQGaRmmff5",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Echoes of distant machinery",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.LetJyWZQGaRmmff5"
+    },
+    {
+      "range": [
+        27,
+        29
+      ],
+      "_id": "Pnu3elRV0bD2vNEb",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Toxic residue or atmosphere",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.Pnu3elRV0bD2vNEb"
+    },
+    {
+      "range": [
+        30,
+        32
+      ],
+      "_id": "I9RgwXi9GysNgX9n",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ornate markings or symbols",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.I9RgwXi9GysNgX9n"
+    },
+    {
+      "range": [
+        33,
+        35
+      ],
+      "_id": "et50wIraVmkZSjZl",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Signs of invasive lifeforms",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.et50wIraVmkZSjZl"
+    },
+    {
+      "range": [
+        36,
+        39
+      ],
+      "_id": "44GDGN30kZoPJVph",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Electrical arcs and sparks",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.44GDGN30kZoPJVph"
+    },
+    {
+      "range": [
+        40,
+        42
+      ],
+      "_id": "68mqKH00Y4VyBarN",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pools of synthetic liquids",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.68mqKH00Y4VyBarN"
+    },
+    {
+      "range": [
+        43,
+        45
+      ],
+      "_id": "NJGCHFmuahxQoeE8",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crumbling infrastructure",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.NJGCHFmuahxQoeE8"
+    },
+    {
+      "range": [
+        46,
+        48
+      ],
+      "_id": "BVDneKwOZtFwPulc",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Carried tech is disrupted",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.BVDneKwOZtFwPulc"
+    },
+    {
+      "range": [
+        49,
+        52
+      ],
+      "_id": "LgVQivwbkBWn7VPO",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Loud mechanical noises",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.LgVQivwbkBWn7VPO"
+    },
+    {
+      "range": [
+        53,
+        56
+      ],
+      "_id": "R6bapJVPYLa2DQOI",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pervasive steam or fog",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.R6bapJVPYLa2DQOI"
+    },
+    {
+      "range": [
+        57,
+        60
+      ],
+      "_id": "J2KwdudAFphJhYel",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leaking gases or vapor",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.J2KwdudAFphJhYel"
+    },
+    {
+      "range": [
+        61,
+        63
+      ],
+      "_id": "KBiArzh8UMUhVLmG",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Excessive cold or heat",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.KBiArzh8UMUhVLmG"
+    },
+    {
+      "range": [
+        64,
+        66
+      ],
+      "_id": "qGXog0xGU3oqgADW",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lighted or illuminated",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.qGXog0xGU3oqgADW"
+    },
+    {
+      "range": [
+        67,
+        70
+      ],
+      "_id": "8nG3B0bqbEy34SSi",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Obfuscating pollution",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.8nG3B0bqbEy34SSi"
+    },
+    {
+      "range": [
+        71,
+        73
+      ],
+      "_id": "VgIABg2XuWNajWWY",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Radioactive hotspots",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.VgIABg2XuWNajWWY"
+    },
+    {
+      "range": [
+        74,
+        76
+      ],
+      "_id": "5UqbMzhpBgXGPhMP",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reflective structures",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.5UqbMzhpBgXGPhMP"
+    },
+    {
+      "range": [
+        77,
+        79
+      ],
+      "_id": "LZ3dpoDvbWoiWnQC",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Conductive surfaces",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.LZ3dpoDvbWoiWnQC"
+    },
+    {
+      "range": [
+        80,
+        83
+      ],
+      "_id": "TDrslxnZPPjUrWPt",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thick haze or smoke",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.TDrslxnZPPjUrWPt"
+    },
+    {
+      "range": [
+        84,
+        86
+      ],
+      "_id": "BBDZKYcQXysr1r8x",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Magnetic surfaces",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.BBDZKYcQXysr1r8x"
+    },
+    {
+      "range": [
+        87,
+        89
+      ],
+      "_id": "qSEbiPKGPA2XH5wn",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cryptic interfaces",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.qSEbiPKGPA2XH5wn"
+    },
+    {
+      "range": [
+        90,
+        92
+      ],
+      "_id": "avtUiUQBJlBWNYjI",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Active constructs",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.avtUiUQBJlBWNYjI"
+    },
+    {
+      "range": [
+        93,
+        95
+      ],
+      "_id": "qgJaS4Otyb0TwrEM",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intense smell",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.qgJaS4Otyb0TwrEM"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "psuj9V1FFhwPd1LN",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Descriptor + Focus; pg 13",
+      "name": "",
+      "_key": "!tables.results!5pU2I0psy2gMQuno.psuj9V1FFhwPd1LN"
+    }
+  ],
+  "folder": "4ZwBRz70exteZSrB",
+  "sort": 2,
+  "_id": "5pU2I0psy2gMQuno",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745623954511,
+    "modifiedTime": 1745623954511,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!5pU2I0psy2gMQuno"
+}

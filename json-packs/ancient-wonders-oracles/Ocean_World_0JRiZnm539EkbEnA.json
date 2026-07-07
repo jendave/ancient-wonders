@@ -1,0 +1,22 @@
+{
+  "name": "Ocean World",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "0JRiZnm539EkbEnA",
+  "description": "",
+  "folder": "GvsmSMYbvgjEYSQc",
+  "sort": 1500000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": null,
+    "modifiedTime": 1745301207480,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!0JRiZnm539EkbEnA"
+}

@@ -1,0 +1,212 @@
+{
+  "name": "Living World Lurking Threat",
+  "formula": "1d100",
+  "description": "<p>Threat / When the clock advances... / When the clock is filled...</p><p>The interior of a living world is horribly inhospitable; you are the foreign organism that must be exterminated. To represent this growing danger, add a tension clock. When you suffer a cost through failure, delay, or inaction, you may advance the clock to show the threat drawing closer. This table offers inspiration for these scenarios, including what signs you encounter as the tension clock advances, and what occurs when the clock fills.</p><p>To learn more about tension clocks, see page 238 of the Starforged rulebook.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "yU40tZeowATuXjPq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ambience changes / Temperature alterations; minor bodily reactions / Your body suffers a major affliction!",
+      "name": "",
+      "_key": "!tables.results!z2IQdwcPgHJta8cp.yU40tZeowATuXjPq"
+    },
+    {
+      "range": [
+        11,
+        35
+      ],
+      "_id": "9gFnFZqvv3uAWRfj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bizarre confinement / Suffocating passages; disgust takes hold / Anxiety or panic takes over!",
+      "name": "",
+      "_key": "!tables.results!z2IQdwcPgHJta8cp.9gFnFZqvv3uAWRfj"
+    },
+    {
+      "range": [
+        36,
+        55
+      ],
+      "_id": "8aFSvJ9yCSk05bUa",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hunting antibodies / Signs of organic reaction; moving sounds / A force of antibodies strike!",
+      "name": "",
+      "_key": "!tables.results!z2IQdwcPgHJta8cp.8aFSvJ9yCSk05bUa"
+    },
+    {
+      "range": [
+        56,
+        70
+      ],
+      "_id": "UDiWrbhpF6eeUF3l",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Immune response / Membranes block the path; surfaces honeycomb / Space is filled with aerosolized acid!",
+      "name": "",
+      "_key": "!tables.results!z2IQdwcPgHJta8cp.UDiWrbhpF6eeUF3l"
+    },
+    {
+      "range": [
+        71,
+        85
+      ],
+      "_id": "odM9gAlsBr8q6Bpk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rising liquid matter / Surging secretions; flooding / The path is submerged!",
+      "name": "",
+      "_key": "!tables.results!z2IQdwcPgHJta8cp.odM9gAlsBr8q6Bpk"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "8UVy9po9t4n7lptr",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rival traveler / Evidence of recent activity; distant echoes / Your rivals make their move!",
+      "name": "",
+      "_key": "!tables.results!z2IQdwcPgHJta8cp.8UVy9po9t4n7lptr"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "zpF3KXXlHzcUTmp2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unstable path / Heavy tremors and twists; passage changes / You get lost!",
+      "name": "",
+      "_key": "!tables.results!z2IQdwcPgHJta8cp.zpF3KXXlHzcUTmp2"
+    }
+  ],
+  "folder": "7yP7GU5RkbnYXOd3",
+  "sort": 12,
+  "_id": "z2IQdwcPgHJta8cp",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745289001127,
+    "modifiedTime": 1745289001127,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!z2IQdwcPgHJta8cp"
+}

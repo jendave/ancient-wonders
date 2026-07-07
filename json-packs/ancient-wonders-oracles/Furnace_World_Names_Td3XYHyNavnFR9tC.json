@@ -1,0 +1,510 @@
+{
+  "name": "Furnace World Names",
+  "formula": "1d100",
+  "description": "<p>A planet with relentless volcanic activity, wreathed in fire and ash.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "description": "Ash",
+      "_id": "RISxuwr79F5SSfXh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Td3XYHyNavnFR9tC.RISxuwr79F5SSfXh"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "description": "Azula",
+      "_id": "cwEuMTIBJ50gSQlD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Td3XYHyNavnFR9tC.cwEuMTIBJ50gSQlD"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "description": "Cinder",
+      "_id": "urd6yh89wKRR1DEi",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Td3XYHyNavnFR9tC.urd6yh89wKRR1DEi"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "description": "Cyrus",
+      "_id": "99G9h0JNC4asIyYD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Td3XYHyNavnFR9tC.99G9h0JNC4asIyYD"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "description": "Draconus",
+      "_id": "HA6p1mkcw6Bighhc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Td3XYHyNavnFR9tC.HA6p1mkcw6Bighhc"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "description": "Effigy",
+      "_id": "ufRQK8FjU5OGHPSD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Td3XYHyNavnFR9tC.ufRQK8FjU5OGHPSD"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "description": "Ember",
+      "_id": "rhZo8btMyGmXX4lm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Td3XYHyNavnFR9tC.rhZo8btMyGmXX4lm"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "description": "Flint",
+      "_id": "4iNHfk26uxLaZ0T5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Td3XYHyNavnFR9tC.4iNHfk26uxLaZ0T5"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "description": "Hades",
+      "_id": "jCSq7sSFV2QD3La0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Td3XYHyNavnFR9tC.jCSq7sSFV2QD3La0"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "description": "Hera",
+      "_id": "zGNbzGzFfWf3ZmFG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Td3XYHyNavnFR9tC.zGNbzGzFfWf3ZmFG"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "description": "Ignis",
+      "_id": "JMe4c9d5Zc1eeLQI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Td3XYHyNavnFR9tC.JMe4c9d5Zc1eeLQI"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "description": "Inferno",
+      "_id": "HY6BtIKzPpRP62EN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Td3XYHyNavnFR9tC.HY6BtIKzPpRP62EN"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "description": "Ishum",
+      "_id": "u8fqooUrq0jlDcXr",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Td3XYHyNavnFR9tC.u8fqooUrq0jlDcXr"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "description": "Kresnik",
+      "_id": "CDGqhXq3MwdM2ChK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Td3XYHyNavnFR9tC.CDGqhXq3MwdM2ChK"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "description": "Nemesis",
+      "_id": "Bkr9WcWqio79Itwd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Td3XYHyNavnFR9tC.Bkr9WcWqio79Itwd"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "description": "Obsidian",
+      "_id": "febmH06MPDhfSu6p",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Td3XYHyNavnFR9tC.febmH06MPDhfSu6p"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "description": "Scorch",
+      "_id": "ip7Ic4yAZnRayvDM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Td3XYHyNavnFR9tC.ip7Ic4yAZnRayvDM"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "description": "Tana",
+      "_id": "MADlCtlI9wAigBsA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Td3XYHyNavnFR9tC.MADlCtlI9wAigBsA"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "description": "Vesta",
+      "_id": "YK2dz8Kp30nDbpqy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Td3XYHyNavnFR9tC.YK2dz8Kp30nDbpqy"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "description": "Vesuvius",
+      "_id": "JfgZKqjGw2xD3qiV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Td3XYHyNavnFR9tC.JfgZKqjGw2xD3qiV"
+    }
+  ],
+  "folder": "LHnjnCnHvX1B9ly6",
+  "sort": 0,
+  "_id": "Td3XYHyNavnFR9tC",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.5",
+    "createdTime": 1763675258098,
+    "modifiedTime": 1763675258098,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!tables!Td3XYHyNavnFR9tC"
+}

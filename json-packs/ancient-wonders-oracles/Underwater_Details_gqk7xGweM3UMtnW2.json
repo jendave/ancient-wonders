@@ -1,0 +1,22 @@
+{
+  "name": "Underwater Details",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "gqk7xGweM3UMtnW2",
+  "description": "",
+  "folder": "xywYUMxQPczqZ1wu",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": null,
+    "modifiedTime": 1744997272718,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!gqk7xGweM3UMtnW2"
+}

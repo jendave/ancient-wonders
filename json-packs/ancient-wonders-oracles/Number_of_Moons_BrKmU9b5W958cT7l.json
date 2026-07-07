@@ -1,0 +1,22 @@
+{
+  "name": "Number of Moons",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "BrKmU9b5W958cT7l",
+  "description": "",
+  "folder": "GvsmSMYbvgjEYSQc",
+  "sort": 200000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": null,
+    "modifiedTime": 1745085140361,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!BrKmU9b5W958cT7l"
+}

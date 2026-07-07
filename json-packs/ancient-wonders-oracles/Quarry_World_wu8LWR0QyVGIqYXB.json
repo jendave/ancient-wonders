@@ -1,0 +1,22 @@
+{
+  "name": "Quarry World",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "wu8LWR0QyVGIqYXB",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 2300000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745988464521,
+    "modifiedTime": 1745988464728,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!wu8LWR0QyVGIqYXB"
+}

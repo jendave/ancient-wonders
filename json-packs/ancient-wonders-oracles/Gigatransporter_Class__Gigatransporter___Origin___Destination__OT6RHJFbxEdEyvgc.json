@@ -1,0 +1,134 @@
+{
+  "name": "Gigatransporter Class (Gigatransporter / Origin / Destination)",
+  "formula": "1d100",
+  "description": "<p>Use this oracle to identify the type of a gigatransporter.</p><p>As is customary with the use of oracles, instead of rolling, you can choose which of these transporters suits your fictional circumstances or narrative needs.</p><p>Once you have your result, envision the gigatransporter through the description of how it works on the corresponding page.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        25
+      ],
+      "_id": "6bdbEgnDmt1H00X4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Launch Loop / Orbit / Orbit",
+      "name": "",
+      "_key": "!tables.results!OT6RHJFbxEdEyvgc.6bdbEgnDmt1H00X4"
+    },
+    {
+      "range": [
+        26,
+        50
+      ],
+      "_id": "LENd7S7A5oIC0DCv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mass Catapult / Surface / Orbit or deep space",
+      "name": "",
+      "_key": "!tables.results!OT6RHJFbxEdEyvgc.LENd7S7A5oIC0DCv"
+    },
+    {
+      "range": [
+        51,
+        75
+      ],
+      "_id": "AQiQ9hOOMvcB5Ibn",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Skyhook / Surface / Orbit or deep space",
+      "name": "",
+      "_key": "!tables.results!OT6RHJFbxEdEyvgc.AQiQ9hOOMvcB5Ibn"
+    },
+    {
+      "range": [
+        76,
+        100
+      ],
+      "_id": "excGPmiPI0vlF8fC",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Space Elevator / Orbit or surface / Surface or orbit",
+      "name": "",
+      "_key": "!tables.results!OT6RHJFbxEdEyvgc.excGPmiPI0vlF8fC"
+    }
+  ],
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "weWNaaZsw0qPz45g",
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745554040830,
+    "modifiedTime": 1745558416351,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "OT6RHJFbxEdEyvgc",
+  "sort": 100000,
+  "_key": "!tables!OT6RHJFbxEdEyvgc"
+}

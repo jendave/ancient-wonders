@@ -1,0 +1,22 @@
+{
+  "name": "Atmosphere Harvester",
+  "sorting": "m",
+  "folder": "XnItQfjzDdXkTpmK",
+  "type": "RollTable",
+  "_id": "4oHb80aaQ1SJSJ8f",
+  "description": "",
+  "sort": 700000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745701790247,
+    "modifiedTime": 1745701790365,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!4oHb80aaQ1SJSJ8f"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Black Hole Containers",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "oKWDL3txuvU9cRSE",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 800000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745721770554,
+    "modifiedTime": 1745721770683,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!oKWDL3txuvU9cRSE"
+}

@@ -1,0 +1,134 @@
+{
+  "name": "Crystalline World Crystal Rarity",
+  "formula": "1d100",
+  "description": "<p>Use the table below to generate crystals. Roll once to determine which crystal rarity column to reference. Then, roll again to uncover the crystal type result. The exotic table provides descriptors for incredibly rare minerals; roll up to twice when referencing said column.</p><p>If you are using the Space Sightings Expanded supplement by Ludic Pen, you can roll on these tables to generate the minerals of Debris Fields if they are made of crystals.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        50
+      ],
+      "_id": "Um0wrtTrJqTjFY08",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Non-precious",
+      "name": "",
+      "_key": "!tables.results!2WbmFaioHc0nwaJr.Um0wrtTrJqTjFY08"
+    },
+    {
+      "range": [
+        51,
+        80
+      ],
+      "_id": "KAIw1vLW7NrpaRRl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Semi-precious",
+      "name": "",
+      "_key": "!tables.results!2WbmFaioHc0nwaJr.KAIw1vLW7NrpaRRl"
+    },
+    {
+      "range": [
+        81,
+        95
+      ],
+      "_id": "17v5X7R4Rdb1zFBy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precious",
+      "name": "",
+      "_key": "!tables.results!2WbmFaioHc0nwaJr.17v5X7R4Rdb1zFBy"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "AB64edMjsYjrX9W5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exotic",
+      "name": "",
+      "_key": "!tables.results!2WbmFaioHc0nwaJr.AB64edMjsYjrX9W5"
+    }
+  ],
+  "folder": "0JSMPE3mLyqMtbq8",
+  "sort": 7,
+  "_id": "2WbmFaioHc0nwaJr",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745179560568,
+    "modifiedTime": 1745179560568,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!2WbmFaioHc0nwaJr"
+}

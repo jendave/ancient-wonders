@@ -1,0 +1,290 @@
+{
+  "name": "Chemical World Biome Feature - Ammonia",
+  "formula": "1d100",
+  "description": "<p>Vast ice sheets and biting cold dominate the landscape.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "EsOEF6k2juLL0Ulg",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abyssal ice fissures",
+      "name": "",
+      "_key": "!tables.results!wf7Q2StbfvQVY1ZH.EsOEF6k2juLL0Ulg"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "W5IEvdygWu4hpuct",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Colossal tunnel networks",
+      "name": "",
+      "_key": "!tables.results!wf7Q2StbfvQVY1ZH.W5IEvdygWu4hpuct"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "QdSzEgI8czCSAzSt",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Frigid seas roamed by colossal icebergs",
+      "name": "",
+      "_key": "!tables.results!wf7Q2StbfvQVY1ZH.QdSzEgI8czCSAzSt"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "Ftap5gE7WsHdTmsg",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Frosted plains of gravel or stone",
+      "name": "",
+      "_key": "!tables.results!wf7Q2StbfvQVY1ZH.Ftap5gE7WsHdTmsg"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "CoufgE05b3fDQgwr",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geothermally heated pools",
+      "name": "",
+      "_key": "!tables.results!wf7Q2StbfvQVY1ZH.CoufgE05b3fDQgwr"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "Xt9gtNgvIhcWkudW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Imposing walls or columns of ice",
+      "name": "",
+      "_key": "!tables.results!wf7Q2StbfvQVY1ZH.Xt9gtNgvIhcWkudW"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "z11MTUVXtsqNQxGn",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Powerful storms and surging winds",
+      "name": "",
+      "_key": "!tables.results!wf7Q2StbfvQVY1ZH.z11MTUVXtsqNQxGn"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "oSFDS2KLs53YxoUy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rocky plateaus bordered by icy plains",
+      "name": "",
+      "_key": "!tables.results!wf7Q2StbfvQVY1ZH.oSFDS2KLs53YxoUy"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "wSuJmr9lbU7jKnsj",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shattered plains of packed ice",
+      "name": "",
+      "_key": "!tables.results!wf7Q2StbfvQVY1ZH.wSuJmr9lbU7jKnsj"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "NmfzBUjP3cs6dQfw",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sky-breaching geysers",
+      "name": "",
+      "_key": "!tables.results!wf7Q2StbfvQVY1ZH.NmfzBUjP3cs6dQfw"
+    }
+  ],
+  "folder": "bfU9msCL4HxpF6vZ",
+  "sort": 1100000,
+  "_id": "wf7Q2StbfvQVY1ZH",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745171240939,
+    "modifiedTime": 1745171240939,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!wf7Q2StbfvQVY1ZH"
+}

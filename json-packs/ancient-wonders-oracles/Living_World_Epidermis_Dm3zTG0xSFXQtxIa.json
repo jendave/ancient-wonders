@@ -1,0 +1,420 @@
+{
+  "name": "Living World Epidermis",
+  "formula": "1d100",
+  "description": "<p>Living worlds consist of two biomes: the epidermis and the periosteum. When you start your expedition into this world, Ask the Oracle (likely) if your exploration begins in the epidermis.</p><p>Outermost layer where residues and external organs reside.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        9
+      ],
+      "_id": "toZudkxhKbYurUmU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Barren expanses of muscle and skin",
+      "name": "",
+      "_key": "!tables.results!Dm3zTG0xSFXQtxIa.toZudkxhKbYurUmU"
+    },
+    {
+      "range": [
+        10,
+        15
+      ],
+      "_id": "61X1ynP2JfbtiXY5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Breathing orifices",
+      "name": "",
+      "_key": "!tables.results!Dm3zTG0xSFXQtxIa.61X1ynP2JfbtiXY5"
+    },
+    {
+      "range": [
+        16,
+        21
+      ],
+      "_id": "YMHYiZsAeZOm2jRC",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Excess of dead cells",
+      "name": "",
+      "_key": "!tables.results!Dm3zTG0xSFXQtxIa.YMHYiZsAeZOm2jRC"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "4Z3rZgfTZUOmcBIl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Forests of keratinous protrusions",
+      "name": "",
+      "_key": "!tables.results!Dm3zTG0xSFXQtxIa.4Z3rZgfTZUOmcBIl"
+    },
+    {
+      "range": [
+        29,
+        36
+      ],
+      "_id": "1Wl0cLNzh4xsVS6h",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Forests of towering hairs",
+      "name": "",
+      "_key": "!tables.results!Dm3zTG0xSFXQtxIa.1Wl0cLNzh4xsVS6h"
+    },
+    {
+      "range": [
+        37,
+        41
+      ],
+      "_id": "t2TkL7ZiQ0Ah6dFS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Great, fetid excretion orifice",
+      "name": "",
+      "_key": "!tables.results!Dm3zTG0xSFXQtxIa.t2TkL7ZiQ0Ah6dFS"
+    },
+    {
+      "range": [
+        42,
+        47
+      ],
+      "_id": "m8FqrbFBSr32ZaOF",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "High concentration of pheromones",
+      "name": "",
+      "_key": "!tables.results!Dm3zTG0xSFXQtxIa.m8FqrbFBSr32ZaOF"
+    },
+    {
+      "range": [
+        48,
+        54
+      ],
+      "_id": "0F7Uzt832wFhMQLp",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hill-like bulbous growths or pustules",
+      "name": "",
+      "_key": "!tables.results!Dm3zTG0xSFXQtxIa.0F7Uzt832wFhMQLp"
+    },
+    {
+      "range": [
+        55,
+        61
+      ],
+      "_id": "bVi6PYf1YbymqFAP",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large cluster of pimples",
+      "name": "",
+      "_key": "!tables.results!Dm3zTG0xSFXQtxIa.bVi6PYf1YbymqFAP"
+    },
+    {
+      "range": [
+        62,
+        63
+      ],
+      "_id": "PV1UOsU2n0CTA1WB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mounds of scales",
+      "name": "",
+      "_key": "!tables.results!Dm3zTG0xSFXQtxIa.PV1UOsU2n0CTA1WB"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "hxLUesxdRjKtkQFN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pools of perspiration or sweat",
+      "name": "",
+      "_key": "!tables.results!Dm3zTG0xSFXQtxIa.hxLUesxdRjKtkQFN"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "od0Hxe48Pfb9Woxx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sluggish tentacles or tendrils",
+      "name": "",
+      "_key": "!tables.results!Dm3zTG0xSFXQtxIa.od0Hxe48Pfb9Woxx"
+    },
+    {
+      "range": [
+        78,
+        82
+      ],
+      "_id": "g6tPR4XkeUifyJEw",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Swamp of fetid excretions",
+      "name": "",
+      "_key": "!tables.results!Dm3zTG0xSFXQtxIa.g6tPR4XkeUifyJEw"
+    },
+    {
+      "range": [
+        83,
+        90
+      ],
+      "_id": "3pcUuBGztqEny9HC",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Valley of scar tissue",
+      "name": "",
+      "_key": "!tables.results!Dm3zTG0xSFXQtxIa.3pcUuBGztqEny9HC"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "WVfA9bvHcf7iTeDo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transition into the periosteum biome",
+      "name": "",
+      "_key": "!tables.results!Dm3zTG0xSFXQtxIa.WVfA9bvHcf7iTeDo"
+    }
+  ],
+  "folder": "7yP7GU5RkbnYXOd3",
+  "sort": 8,
+  "_id": "Dm3zTG0xSFXQtxIa",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745289001127,
+    "modifiedTime": 1745289001127,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!Dm3zTG0xSFXQtxIa"
+}

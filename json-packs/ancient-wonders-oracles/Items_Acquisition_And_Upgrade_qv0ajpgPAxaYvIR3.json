@@ -1,0 +1,22 @@
+{
+  "name": "Items Acquisition And Upgrade",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "qv0ajpgPAxaYvIR3",
+  "description": "",
+  "folder": "Mld7zMDYjBECRgu8",
+  "sort": -100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": null,
+    "modifiedTime": 1746434913479,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!qv0ajpgPAxaYvIR3"
+}

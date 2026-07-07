@@ -1,0 +1,160 @@
+{
+  "name": "Terravore Status",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        15
+      ],
+      "_id": "LSICjBC5KBaCBMP1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Partially constructed / When you roll &gt;Planet (page 40) to generate the features of the world that hosts the terravore, reroll the \"Furnace World\", \"Shattered World', and \"Jovian World\" Planetary Class results. The partially-built terravore orbits the world silently, unable to fulfill its purpose.",
+      "name": "",
+      "_key": "!tables.results!a5RNdVSbDpM8b5mm.LSICjBC5KBaCBMP1"
+    },
+    {
+      "range": [
+        16,
+        50
+      ],
+      "_id": "4VGTp8rPzmwsNBmZ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Operational / The planet is a furnace world (mono biome: volcanic; page 52).",
+      "name": "",
+      "_key": "!tables.results!a5RNdVSbDpM8b5mm.4VGTp8rPzmwsNBmZ"
+    },
+    {
+      "range": [
+        51,
+        85
+      ],
+      "_id": "Zxr10asqAY2ugPUV",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Non-functional or offline / When you roll &gt;Planet (page 40) to generate the features of the world that hosts the terravore, reroll the \"Furnace World\", \"Jovian World\", and \"Shattered World\" and Planetary Class results. If determined to be offline, reactivating the terravore will slowly transform the planet into a furnace world (if it is not one already; page 52).",
+      "name": "",
+      "_key": "!tables.results!a5RNdVSbDpM8b5mm.Zxr10asqAY2ugPUV"
+    },
+    {
+      "range": [
+        86,
+        95
+      ],
+      "_id": "CdBdVvlQdD265c3P",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dysfunctional / Roll on Dysfunctional table below.",
+      "name": "",
+      "_key": "!tables.results!a5RNdVSbDpM8b5mm.CdBdVvlQdD265c3P"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "DSn45gFvqSClziVH",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destroyed / When you roll &gt;Planet (page 40) to generate the features of the world that hosts the terravore, reroll the \"Furnace World\", \"Jovian World\", \"Shattered World\" Planetary Class results. The terravore, or its remains, orbit the world silently.",
+      "name": "",
+      "_key": "!tables.results!a5RNdVSbDpM8b5mm.DSn45gFvqSClziVH"
+    }
+  ],
+  "folder": "iYmTLltqFQu7yPaA",
+  "sort": 0,
+  "_id": "a5RNdVSbDpM8b5mm",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746260069740,
+    "modifiedTime": 1746260069740,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!a5RNdVSbDpM8b5mm"
+}

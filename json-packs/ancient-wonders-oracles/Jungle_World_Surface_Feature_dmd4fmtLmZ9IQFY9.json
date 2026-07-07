@@ -1,0 +1,212 @@
+{
+  "name": "Jungle World Surface Feature",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "kRBwmQ8eFAcp0XMS",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Inland seas",
+      "name": "",
+      "_key": "!tables.results!dmd4fmtLmZ9IQFY9.kRBwmQ8eFAcp0XMS"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "fotp5hlNgopNSxfr",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Persistent cloud cover",
+      "name": "",
+      "_key": "!tables.results!dmd4fmtLmZ9IQFY9.fotp5hlNgopNSxfr"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "fjDvU1jprqCIpOF1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Torrential rainstorms",
+      "name": "",
+      "_key": "!tables.results!dmd4fmtLmZ9IQFY9.fjDvU1jprqCIpOF1"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "dV73M66FZDkJQOjK",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trees intertwined in symbiosis",
+      "name": "",
+      "_key": "!tables.results!dmd4fmtLmZ9IQFY9.dV73M66FZDkJQOjK"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "UdMPtXwfGuafDdOC",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unusual vegetation color",
+      "name": "",
+      "_key": "!tables.results!dmd4fmtLmZ9IQFY9.UdMPtXwfGuafDdOC"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "Clt8woMGhLFgNc6O",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Violent electrical storms",
+      "name": "",
+      "_key": "!tables.results!dmd4fmtLmZ9IQFY9.Clt8woMGhLFgNc6O"
+    },
+    {
+      "range": [
+        31,
+        100
+      ],
+      "_id": "ox29yFkzOkbUdzRA",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Biome Feature; next page",
+      "name": "",
+      "_key": "!tables.results!dmd4fmtLmZ9IQFY9.ox29yFkzOkbUdzRA"
+    }
+  ],
+  "folder": "LPHNPP6s8p8hGyxR",
+  "sort": 4,
+  "_id": "dmd4fmtLmZ9IQFY9",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745260316584,
+    "modifiedTime": 1745260316584,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!dmd4fmtLmZ9IQFY9"
+}

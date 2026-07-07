@@ -1,0 +1,31 @@
+{
+  "name": "Oracle Quest - Gigafoundries",
+  "type": "script",
+  "scope": "global",
+  "author": "MmM06BuCrG9h1GLg",
+  "img": "icons/svg/dice-target.svg",
+  "command": "// Module macro code by David Hudson and licensed for use under the CC BY-NC-SA 4.0.\n\nasync function printMessage(message) {\n    let chatData = { content: message };\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\", \"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\nasync function rollOracle(tableID, lowerCase = true) {\n    let table = await fromUuid(tableID);\n    let roll = await table.roll();\n    let result = roll.results[0].text;\n\n    if (result.startsWith(\"@Compendium\")) {\n        table = await fromUuid(result.slice(1).replace(\"[\", \".\").split(\"]\")[0]);\n        roll = await table.roll();\n        result = roll.results[0].text;\n    }\n\n    if (result == \"Roll twice\") {\n        let results = [\"Roll twice\", \"Roll twice\"];\n        for (let index = 0; index < results.length; index++) {\n            let element = results[index];\n            do {\n                const table = await fromUuid(tableID);\n                let roll = await table.roll();\n                element = roll.results[0].text.toLowerCase();\n            } while (element == \"roll twice\");\n            results[index] = element;\n        };\n        result = results[0] + \" and \" + results[1];\n    }\n    return lowerCase ? result.toLowerCase() : result;\n};\n\nlet title = \"<h3><strong>Oracle Quest - Gigafoundries</strong></h3>\";\nlet message = \"A \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.mEWovsWhwKc4EYn4\") + \" settlement has been attempting to reactivate an offline gigafoundry themselves, as their \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.165pYBMpRkAewRXO\") + \" faction refuses to help with the endeavor. The community is now seeking intrepid delvers to aid them, convinced that restoring the massive facility will allow them to complete their \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.bEcncvEiOdNI2M2c\") + \" project and secure their future. Yet the faction's refusal reaises some troubling questions - whether it stems from political disputes, hidden dangers within the foundry, or a desire to keep the settlement dependent on outside aid. What risks or opportunities lie dormant in the gigafoundry's silent halls? How might its reactivation rshape the balance of power for the settlement?\"\n\n// Print the message\nprintMessage(title + message);",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747515283341,
+    "modifiedTime": 1763704414913,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "MF3jQGqQLxUm972C",
+  "sort": 1700000,
+  "_key": "!macros!MF3jQGqQLxUm972C"
+}

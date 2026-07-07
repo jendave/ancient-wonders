@@ -1,0 +1,342 @@
+{
+  "name": "Construct Initial Disposition - Human Construct",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        6
+      ],
+      "_id": "x7pYjlwJzYFcQ9my",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Helpful",
+      "name": "",
+      "_key": "!tables.results!acKOlx4AyqwxnUgq.x7pYjlwJzYFcQ9my"
+    },
+    {
+      "range": [
+        7,
+        14
+      ],
+      "_id": "xqmLVe7YkxJkbVvV",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Friendly",
+      "name": "",
+      "_key": "!tables.results!acKOlx4AyqwxnUgq.xqmLVe7YkxJkbVvV"
+    },
+    {
+      "range": [
+        15,
+        22
+      ],
+      "_id": "IuekdtyVAVKtLj4I",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cooperative",
+      "name": "",
+      "_key": "!tables.results!acKOlx4AyqwxnUgq.IuekdtyVAVKtLj4I"
+    },
+    {
+      "range": [
+        23,
+        30
+      ],
+      "_id": "IvR7u1WrYruMPP4K",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Curious",
+      "name": "",
+      "_key": "!tables.results!acKOlx4AyqwxnUgq.IvR7u1WrYruMPP4K"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "S3ehhsnPCYg2GGbs",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Indifferent",
+      "name": "",
+      "_key": "!tables.results!acKOlx4AyqwxnUgq.S3ehhsnPCYg2GGbs"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "6ruqzchSnZx25lCk",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Suspicious",
+      "name": "",
+      "_key": "!tables.results!acKOlx4AyqwxnUgq.6ruqzchSnZx25lCk"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "6O16vMvqiHdo5nma",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wanting",
+      "name": "",
+      "_key": "!tables.results!acKOlx4AyqwxnUgq.6O16vMvqiHdo5nma"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "lQuWqRVUM2aDofWd",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Desperate",
+      "name": "",
+      "_key": "!tables.results!acKOlx4AyqwxnUgq.lQuWqRVUM2aDofWd"
+    },
+    {
+      "range": [
+        71,
+        78
+      ],
+      "_id": "X7Y3G59y2BhSTafy",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Demanding",
+      "name": "",
+      "_key": "!tables.results!acKOlx4AyqwxnUgq.X7Y3G59y2BhSTafy"
+    },
+    {
+      "range": [
+        79,
+        86
+      ],
+      "_id": "lrSjyhYkVQeIbEzK",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unfriendly",
+      "name": "",
+      "_key": "!tables.results!acKOlx4AyqwxnUgq.lrSjyhYkVQeIbEzK"
+    },
+    {
+      "range": [
+        87,
+        94
+      ],
+      "_id": "mqyKMWaDO1te2DVK",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Threatening",
+      "name": "",
+      "_key": "!tables.results!acKOlx4AyqwxnUgq.mqyKMWaDO1te2DVK"
+    },
+    {
+      "range": [
+        95,
+        100
+      ],
+      "_id": "sNBxWhwlRVbK1h48",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hostile",
+      "name": "",
+      "_key": "!tables.results!acKOlx4AyqwxnUgq.sNBxWhwlRVbK1h48"
+    }
+  ],
+  "folder": "J715TeOdqxPDq33D",
+  "sort": 1850000,
+  "_id": "acKOlx4AyqwxnUgq",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "RollTable.acKOlx4AyqwxnUgq",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746413854523,
+    "modifiedTime": 1746413854523,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!acKOlx4AyqwxnUgq"
+}

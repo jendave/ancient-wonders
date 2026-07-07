@@ -1,0 +1,22 @@
+{
+  "name": "Sentinel Belt",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "fd5l5Oi1WXzqF2JY",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 2500000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1746059850384,
+    "modifiedTime": 1746059850550,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!fd5l5Oi1WXzqF2JY"
+}

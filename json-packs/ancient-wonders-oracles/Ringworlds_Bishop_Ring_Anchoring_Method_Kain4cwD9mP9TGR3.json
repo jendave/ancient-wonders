@@ -1,0 +1,160 @@
+{
+  "name": "Ringworlds Bishop Ring Anchoring Method",
+  "formula": "1d100",
+  "description": "<p>Use this oracle to identify how the Bishop Ring is kept in position.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        40
+      ],
+      "_id": "KkuCbIVw8JxbF3NX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Colossal columns",
+      "name": "",
+      "_key": "!tables.results!Kain4cwD9mP9TGR3.KkuCbIVw8JxbF3NX"
+    },
+    {
+      "range": [
+        41,
+        70
+      ],
+      "_id": "8swgGMbbxSYBWkTB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Countless tension cables",
+      "name": "",
+      "_key": "!tables.results!Kain4cwD9mP9TGR3.8swgGMbbxSYBWkTB"
+    },
+    {
+      "range": [
+        71,
+        85
+      ],
+      "_id": "n6G8CBGvrv5tkHM4",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enormous thrusters",
+      "name": "",
+      "_key": "!tables.results!Kain4cwD9mP9TGR3.n6G8CBGvrv5tkHM4"
+    },
+    {
+      "range": [
+        86,
+        95
+      ],
+      "_id": "zJFJTbVlmSFnB7ur",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Powerful energy beams",
+      "name": "",
+      "_key": "!tables.results!Kain4cwD9mP9TGR3.zJFJTbVlmSFnB7ur"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "5hrwz0zOegWd64gi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gravitational equilibrium",
+      "name": "",
+      "_key": "!tables.results!Kain4cwD9mP9TGR3.5hrwz0zOegWd64gi"
+    }
+  ],
+  "folder": "5zOTbGAmH3PM293F",
+  "sort": 1,
+  "_id": "Kain4cwD9mP9TGR3",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745989742603,
+    "modifiedTime": 1745989742603,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!Kain4cwD9mP9TGR3"
+}

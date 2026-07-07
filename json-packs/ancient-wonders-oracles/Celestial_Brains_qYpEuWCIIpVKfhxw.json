@@ -1,0 +1,22 @@
+{
+  "name": "Celestial Brains",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "qYpEuWCIIpVKfhxw",
+  "description": "",
+  "folder": "XnItQfjzDdXkTpmK",
+  "sort": 900000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745727898014,
+    "modifiedTime": 1745727898121,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!qYpEuWCIIpVKfhxw"
+}

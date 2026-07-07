@@ -1,0 +1,31 @@
+{
+  "name": "Oracle Quest - Warp Gate",
+  "type": "script",
+  "scope": "global",
+  "author": "MmM06BuCrG9h1GLg",
+  "img": "icons/svg/dice-target.svg",
+  "command": "// Module macro code by David Hudson and licensed for use under the CC BY-NC-SA 4.0.\n\nasync function printMessage(message) {\n    let chatData = { content: message };\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\", \"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\nasync function rollOracle(tableID, lowerCase = true) {\n    let table = await fromUuid(tableID);\n    let roll = await table.roll();\n    let result = roll.results[0].text;\n\n    if (result.startsWith(\"@Compendium\")) {\n        table = await fromUuid(result.slice(1).replace(\"[\", \".\").split(\"]\")[0]);\n        roll = await table.roll();\n        result = roll.results[0].text;\n    }\n\n    if (result == \"Roll twice\") {\n        let results = [\"Roll twice\", \"Roll twice\"];\n        for (let index = 0; index < results.length; index++) {\n            let element = results[index];\n            do {\n                const table = await fromUuid(tableID);\n                let roll = await table.roll();\n                element = roll.results[0].text.toLowerCase();\n            } while (element == \"roll twice\");\n            results[index] = element;\n        };\n        result = results[0] + \" and \" + results[1];\n    }\n    return lowerCase ? result.toLowerCase() : result;\n};\n\nlet title = \"<h3><strong>Oracle Quest - Warp Gate</strong></h3>\";\nlet message = \"Following the eruption of fighting between two rival \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.165pYBMpRkAewRXO\") + \" and \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.165pYBMpRkAewRXO\") + \" factions, a \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.mEWovsWhwKc4EYn4\") + \" settlement you call home has become its focal point and is requesting aid after learning that a small \" + await rollOracle(\"Compendium.ancient-wonders.ancientwondersoracles.RollTable.zyhn4G8Ptvjj6bwM\") + \" is on approach. While you are many sectors away, there is a online warp gate nearby the settlement. After learning of the location of another offline warp gate in your current sector, you may be able to reactivate it and use it to reach the settlement in time and render aid to possibly avoid disaster. What is the purpose of the fleet that is approaching them? Why has this settlement become the focal point of the conflict?\"\n\n// Print the message\nprintMessage(title + message);",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1747515866983,
+    "modifiedTime": 1747789017422,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "f8PBqfW3X0t4b6zf",
+  "sort": 1500000,
+  "_key": "!macros!f8PBqfW3X0t4b6zf"
+}

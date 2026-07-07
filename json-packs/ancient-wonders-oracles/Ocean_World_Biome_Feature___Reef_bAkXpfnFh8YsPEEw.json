@@ -1,0 +1,316 @@
+{
+  "name": "Ocean World Biome Feature - Reef",
+  "formula": "1d100",
+  "description": "<p>Coral has grown exponentially and risen above the sea.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        9
+      ],
+      "_id": "kg7x9uI8DzkANKXd",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Desiccated and crumbling terrain",
+      "name": "",
+      "_key": "!tables.results!bAkXpfnFh8YsPEEw.kg7x9uI8DzkANKXd"
+    },
+    {
+      "range": [
+        10,
+        18
+      ],
+      "_id": "OKvRKpv8EvzgWYyT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enormous algae blooms",
+      "name": "",
+      "_key": "!tables.results!bAkXpfnFh8YsPEEw.OKvRKpv8EvzgWYyT"
+    },
+    {
+      "range": [
+        19,
+        27
+      ],
+      "_id": "G4sHCEqQbmtXBY2n",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Harsh, salt-laden winds",
+      "name": "",
+      "_key": "!tables.results!bAkXpfnFh8YsPEEw.G4sHCEqQbmtXBY2n"
+    },
+    {
+      "range": [
+        28,
+        36
+      ],
+      "_id": "FiC4B5OsK1oRLflI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intricate networks of tunnels",
+      "name": "",
+      "_key": "!tables.results!bAkXpfnFh8YsPEEw.FiC4B5OsK1oRLflI"
+    },
+    {
+      "range": [
+        37,
+        45
+      ],
+      "_id": "xKhcedc3emZmB3CN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prodigious island-like sponges",
+      "name": "",
+      "_key": "!tables.results!bAkXpfnFh8YsPEEw.xKhcedc3emZmB3CN"
+    },
+    {
+      "range": [
+        46,
+        54
+      ],
+      "_id": "YjkU03r5cPXICXmP",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Salt-dusted surfaces",
+      "name": "",
+      "_key": "!tables.results!bAkXpfnFh8YsPEEw.YjkU03r5cPXICXmP"
+    },
+    {
+      "range": [
+        55,
+        63
+      ],
+      "_id": "5lXZmI98hktFnpiR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shoals enveloped with bioluminescent plants",
+      "name": "",
+      "_key": "!tables.results!bAkXpfnFh8YsPEEw.5lXZmI98hktFnpiR"
+    },
+    {
+      "range": [
+        64,
+        72
+      ],
+      "_id": "sjg6bq1w6rdaAMSt",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thick and briny coastal waters",
+      "name": "",
+      "_key": "!tables.results!bAkXpfnFh8YsPEEw.sjg6bq1w6rdaAMSt"
+    },
+    {
+      "range": [
+        73,
+        81
+      ],
+      "_id": "Mzv2C8o60IbpQeOS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Towering spires or mountains of coral",
+      "name": "",
+      "_key": "!tables.results!bAkXpfnFh8YsPEEw.Mzv2C8o60IbpQeOS"
+    },
+    {
+      "range": [
+        82,
+        90
+      ],
+      "_id": "8BieuQe9NwaOp8NS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vast corals forming an island chain",
+      "name": "",
+      "_key": "!tables.results!bAkXpfnFh8YsPEEw.8BieuQe9NwaOp8NS"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "KHZXCsPt2smLPOt8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transition into a new &gt;Biome",
+      "name": "",
+      "_key": "!tables.results!bAkXpfnFh8YsPEEw.KHZXCsPt2smLPOt8"
+    }
+  ],
+  "folder": "0JRiZnm539EkbEnA",
+  "sort": 16,
+  "_id": "bAkXpfnFh8YsPEEw",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745301207420,
+    "modifiedTime": 1745301207420,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!bAkXpfnFh8YsPEEw"
+}

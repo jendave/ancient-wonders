@@ -1,0 +1,108 @@
+{
+  "name": "Tainted World Biome",
+  "formula": "1d100",
+  "description": "<p>Tainted worlds consist of  only  one  biome.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        20
+      ],
+      "_id": "SP3OF1R9lnt4wvEf",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hive",
+      "name": "",
+      "_key": "!tables.results!BtMhavm4ELNjlgv4.SP3OF1R9lnt4wvEf"
+    },
+    {
+      "range": [
+        21,
+        50
+      ],
+      "_id": "WRbd4HYa6whsfDeB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mutagenic",
+      "name": "",
+      "_key": "!tables.results!BtMhavm4ELNjlgv4.WRbd4HYa6whsfDeB"
+    },
+    {
+      "range": [
+        51,
+        100
+      ],
+      "_id": "6iGNilsIPMv1sLgT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mycelium",
+      "name": "",
+      "_key": "!tables.results!BtMhavm4ELNjlgv4.6iGNilsIPMv1sLgT"
+    }
+  ],
+  "folder": "64DrLqEQ9Gx2HIMt",
+  "sort": 1,
+  "_id": "BtMhavm4ELNjlgv4",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745372518001,
+    "modifiedTime": 1745372518001,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!BtMhavm4ELNjlgv4"
+}

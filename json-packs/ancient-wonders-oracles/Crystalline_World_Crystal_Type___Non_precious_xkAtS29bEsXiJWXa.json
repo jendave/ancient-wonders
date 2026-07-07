@@ -1,0 +1,550 @@
+{
+  "name": "Crystalline World Crystal Type - Non-precious",
+  "formula": "1d100",
+  "description": "<p>Use the table below to generate crystals. Roll once to determine which crystal rarity column to reference. Then, roll again to uncover the crystal type result. The exotic table provides descriptors for incredibly rare minerals; roll up to twice when referencing said column.</p><p>If you are using the Space Sightings Expanded supplement by Ludic Pen, you can roll on these tables to generate the minerals of Debris Fields if they are made of crystals.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "rcI3YZLCcHSZt1zR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Agate",
+      "name": "",
+      "_key": "!tables.results!xkAtS29bEsXiJWXa.rcI3YZLCcHSZt1zR"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "1awS21acwCL32cd6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Agate",
+      "name": "",
+      "_key": "!tables.results!xkAtS29bEsXiJWXa.1awS21acwCL32cd6"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "Lw17vmihkIkqLSAH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aventurine",
+      "name": "",
+      "_key": "!tables.results!xkAtS29bEsXiJWXa.Lw17vmihkIkqLSAH"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "npv8YE5QXJSfWxhR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aventurine",
+      "name": "",
+      "_key": "!tables.results!xkAtS29bEsXiJWXa.npv8YE5QXJSfWxhR"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "3ZhiU1KcIUO5X75P",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Calcite",
+      "name": "",
+      "_key": "!tables.results!xkAtS29bEsXiJWXa.3ZhiU1KcIUO5X75P"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "b4WpU55fbA7AHy7p",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Calcite",
+      "name": "",
+      "_key": "!tables.results!xkAtS29bEsXiJWXa.b4WpU55fbA7AHy7p"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "bL7nFzvQ0BLdK3CZ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fluorite",
+      "name": "",
+      "_key": "!tables.results!xkAtS29bEsXiJWXa.bL7nFzvQ0BLdK3CZ"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "p8qF0v6HQnEdtR2Y",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fluorite",
+      "name": "",
+      "_key": "!tables.results!xkAtS29bEsXiJWXa.p8qF0v6HQnEdtR2Y"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "0kmy5nBuCsNTdbDW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Howlite",
+      "name": "",
+      "_key": "!tables.results!xkAtS29bEsXiJWXa.0kmy5nBuCsNTdbDW"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "ipbPVz1GpTwG3L45",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Howlite",
+      "name": "",
+      "_key": "!tables.results!xkAtS29bEsXiJWXa.ipbPVz1GpTwG3L45"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "wf1ABrR1ZSky2T6u",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jasper",
+      "name": "",
+      "_key": "!tables.results!xkAtS29bEsXiJWXa.wf1ABrR1ZSky2T6u"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "EIN0C17b3e6PrnwM",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jasper",
+      "name": "",
+      "_key": "!tables.results!xkAtS29bEsXiJWXa.EIN0C17b3e6PrnwM"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "AAnTJRFlbKpiXYos",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Obsidian",
+      "name": "",
+      "_key": "!tables.results!xkAtS29bEsXiJWXa.AAnTJRFlbKpiXYos"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "AGL3JLLR7zeD62Y6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Obsidian",
+      "name": "",
+      "_key": "!tables.results!xkAtS29bEsXiJWXa.AGL3JLLR7zeD62Y6"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "iujvveI2M3CSQKo6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Quartz",
+      "name": "",
+      "_key": "!tables.results!xkAtS29bEsXiJWXa.iujvveI2M3CSQKo6"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "4Rc8Ka28DXcVhWyu",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Quartz",
+      "name": "",
+      "_key": "!tables.results!xkAtS29bEsXiJWXa.4Rc8Ka28DXcVhWyu"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "z0mv146H4ChGdfFI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sodalite",
+      "name": "",
+      "_key": "!tables.results!xkAtS29bEsXiJWXa.z0mv146H4ChGdfFI"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "marGCoVdMEMRSBFG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sodalite",
+      "name": "",
+      "_key": "!tables.results!xkAtS29bEsXiJWXa.marGCoVdMEMRSBFG"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "SY9jcwctQQBhJcRO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tiger's Eye",
+      "name": "",
+      "_key": "!tables.results!xkAtS29bEsXiJWXa.SY9jcwctQQBhJcRO"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "fNBSDlofEZK8NNZ0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tiger's Eye",
+      "name": "",
+      "_key": "!tables.results!xkAtS29bEsXiJWXa.fNBSDlofEZK8NNZ0"
+    }
+  ],
+  "folder": "0JSMPE3mLyqMtbq8",
+  "sort": 8,
+  "_id": "xkAtS29bEsXiJWXa",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745179560568,
+    "modifiedTime": 1745179560568,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!xkAtS29bEsXiJWXa"
+}

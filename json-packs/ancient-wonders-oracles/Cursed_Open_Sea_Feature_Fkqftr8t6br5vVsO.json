@@ -1,0 +1,160 @@
+{
+  "name": "Cursed Open Sea Feature",
+  "formula": "1d100",
+  "description": "<p>Use the following tables to inspire the details of a waypoint during underwater expeditions.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        20
+      ],
+      "_id": "iysasfP1RyWSQBsH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blood-stained water",
+      "name": "",
+      "_key": "!tables.results!Fkqftr8t6br5vVsO.iysasfP1RyWSQBsH"
+    },
+    {
+      "range": [
+        21,
+        40
+      ],
+      "_id": "Tdz5ufoHnIlEDKdR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Eerie sounds",
+      "name": "",
+      "_key": "!tables.results!Fkqftr8t6br5vVsO.Tdz5ufoHnIlEDKdR"
+    },
+    {
+      "range": [
+        41,
+        60
+      ],
+      "_id": "rS7OZANAK1JW4Nll",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impassable darkness",
+      "name": "",
+      "_key": "!tables.results!Fkqftr8t6br5vVsO.rS7OZANAK1JW4Nll"
+    },
+    {
+      "range": [
+        61,
+        80
+      ],
+      "_id": "25ijLTYo9Li4ZQFD",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Monstrous, predatory flora or fauna",
+      "name": "",
+      "_key": "!tables.results!Fkqftr8t6br5vVsO.25ijLTYo9Li4ZQFD"
+    },
+    {
+      "range": [
+        81,
+        100
+      ],
+      "_id": "3GceBHgwuIaKSjmS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unnatural or erratic temperatures",
+      "name": "",
+      "_key": "!tables.results!Fkqftr8t6br5vVsO.3GceBHgwuIaKSjmS"
+    }
+  ],
+  "folder": "gqk7xGweM3UMtnW2",
+  "sort": 1,
+  "_id": "Fkqftr8t6br5vVsO",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1744997272600,
+    "modifiedTime": 1744997272600,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!Fkqftr8t6br5vVsO"
+}

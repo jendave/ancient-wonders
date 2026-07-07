@@ -1,0 +1,290 @@
+{
+  "name": "Anomaly Side-Effect",
+  "formula": "1d100",
+  "description": "<p>Side effects are what the characters experience in the detection zone. Use the table below to determine what side effect you suffer from and maintain the result throughout the encounter.</p><p>Other characters may experience the anomaly's presence similarly. If they don't, roll once for each character present. If unsure, Ask the Oracle.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "8cAIWxztAQBdOrzv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Auditory hallucination",
+      "name": "",
+      "_key": "!tables.results!ltMg2rFljXANmPqy.8cAIWxztAQBdOrzv"
+    },
+    {
+      "range": [
+        6,
+        20
+      ],
+      "_id": "vpFfnOBYBGusHXwb",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Equipment malfunction",
+      "name": "",
+      "_key": "!tables.results!ltMg2rFljXANmPqy.vpFfnOBYBGusHXwb"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "VpPiYp2x83ti5RoT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gustatory hallucination",
+      "name": "",
+      "_key": "!tables.results!ltMg2rFljXANmPqy.VpPiYp2x83ti5RoT"
+    },
+    {
+      "range": [
+        26,
+        40
+      ],
+      "_id": "E0E6MP0FGAFyTKJg",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intuition",
+      "name": "",
+      "_key": "!tables.results!ltMg2rFljXANmPqy.E0E6MP0FGAFyTKJg"
+    },
+    {
+      "range": [
+        41,
+        55
+      ],
+      "_id": "ku6WIRZO72zWd0YS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nausea",
+      "name": "",
+      "_key": "!tables.results!ltMg2rFljXANmPqy.ku6WIRZO72zWd0YS"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "5clxjHWT3dFaWHBo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Olfactory hallucination",
+      "name": "",
+      "_key": "!tables.results!ltMg2rFljXANmPqy.5clxjHWT3dFaWHBo"
+    },
+    {
+      "range": [
+        61,
+        75
+      ],
+      "_id": "EtXPMPoWRnpAU1MY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pain",
+      "name": "",
+      "_key": "!tables.results!ltMg2rFljXANmPqy.EtXPMPoWRnpAU1MY"
+    },
+    {
+      "range": [
+        76,
+        90
+      ],
+      "_id": "xrJvoV1n2cf5irsg",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Piloerection",
+      "name": "",
+      "_key": "!tables.results!ltMg2rFljXANmPqy.xrJvoV1n2cf5irsg"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "nmLkZADlxyJdx3zB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tactile hallucination",
+      "name": "",
+      "_key": "!tables.results!ltMg2rFljXANmPqy.nmLkZADlxyJdx3zB"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "4OVM3IzNJuDdJKNF",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Visual hallucination",
+      "name": "",
+      "_key": "!tables.results!ltMg2rFljXANmPqy.4OVM3IzNJuDdJKNF"
+    }
+  ],
+  "folder": "dRrT6HWOTXN1ryOh",
+  "sort": 0,
+  "_id": "ltMg2rFljXANmPqy",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746434450727,
+    "modifiedTime": 1746434450727,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!ltMg2rFljXANmPqy"
+}

@@ -1,0 +1,212 @@
+{
+  "name": "Ice World Surface Feature",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "3KaEFyIJ2Smas4g6",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blinding snow storms",
+      "name": "",
+      "_key": "!tables.results!RoWxUXy8JDtjS5ym.3KaEFyIJ2Smas4g6"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "uCA0GrLYC5DotZWc",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Craters surrounded by shattered ice",
+      "name": "",
+      "_key": "!tables.results!RoWxUXy8JDtjS5ym.uCA0GrLYC5DotZWc"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "QEuhSNTTxukwXwbG",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Preserved carcasses",
+      "name": "",
+      "_key": "!tables.results!RoWxUXy8JDtjS5ym.QEuhSNTTxukwXwbG"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "gnXKNTeS5yYiYjee",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Solid ice fields",
+      "name": "",
+      "_key": "!tables.results!RoWxUXy8JDtjS5ym.gnXKNTeS5yYiYjee"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "E76Rmtby0ue6pwlg",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vibrant auroras",
+      "name": "",
+      "_key": "!tables.results!RoWxUXy8JDtjS5ym.E76Rmtby0ue6pwlg"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "W14YIEW1CeIaAq71",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vibrantly colored ice",
+      "name": "",
+      "_key": "!tables.results!RoWxUXy8JDtjS5ym.W14YIEW1CeIaAq71"
+    },
+    {
+      "range": [
+        31,
+        100
+      ],
+      "_id": "hZjO9XNMj0dZj4ow",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Biome Feature; next page",
+      "name": "",
+      "_key": "!tables.results!RoWxUXy8JDtjS5ym.hZjO9XNMj0dZj4ow"
+    }
+  ],
+  "folder": "FihhzdgG6Tlxel9Q",
+  "sort": 10,
+  "_id": "RoWxUXy8JDtjS5ym",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745214414983,
+    "modifiedTime": 1745214414983,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!RoWxUXy8JDtjS5ym"
+}

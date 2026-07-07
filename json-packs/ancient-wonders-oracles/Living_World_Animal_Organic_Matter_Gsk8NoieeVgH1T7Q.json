@@ -1,0 +1,550 @@
+{
+  "name": "Living World Animal Organic Matter",
+  "formula": "1d100",
+  "description": "<p>Use this oracle when you want to determine the main animal organic materials from which an object is made.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "kPVUSzypuGB7qAzK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blood",
+      "name": "",
+      "_key": "!tables.results!Gsk8NoieeVgH1T7Q.kPVUSzypuGB7qAzK"
+    },
+    {
+      "range": [
+        8,
+        13
+      ],
+      "_id": "NwCxPt1UXJTU8VkK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bone or osseous tissue",
+      "name": "",
+      "_key": "!tables.results!Gsk8NoieeVgH1T7Q.NwCxPt1UXJTU8VkK"
+    },
+    {
+      "range": [
+        14,
+        16
+      ],
+      "_id": "VytQZL2SFiKuvDNi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cartilage",
+      "name": "",
+      "_key": "!tables.results!Gsk8NoieeVgH1T7Q.VytQZL2SFiKuvDNi"
+    },
+    {
+      "range": [
+        17,
+        20
+      ],
+      "_id": "1S5Iw6es8Utcrfjv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fat or odipous tissue",
+      "name": "",
+      "_key": "!tables.results!Gsk8NoieeVgH1T7Q.1S5Iw6es8Utcrfjv"
+    },
+    {
+      "range": [
+        21,
+        26
+      ],
+      "_id": "59C8noslsMcV2zWG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hair",
+      "name": "",
+      "_key": "!tables.results!Gsk8NoieeVgH1T7Q.59C8noslsMcV2zWG"
+    },
+    {
+      "range": [
+        27,
+        32
+      ],
+      "_id": "DG8noxMOEfkGXoQY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Horn",
+      "name": "",
+      "_key": "!tables.results!Gsk8NoieeVgH1T7Q.DG8noxMOEfkGXoQY"
+    },
+    {
+      "range": [
+        33,
+        37
+      ],
+      "_id": "OsBwnZ8Uj4TjYhIL",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Internal organ tissue",
+      "name": "",
+      "_key": "!tables.results!Gsk8NoieeVgH1T7Q.OsBwnZ8Uj4TjYhIL"
+    },
+    {
+      "range": [
+        38,
+        44
+      ],
+      "_id": "cOTzJO5uLBnf7LZe",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Excretion",
+      "name": "",
+      "_key": "!tables.results!Gsk8NoieeVgH1T7Q.cOTzJO5uLBnf7LZe"
+    },
+    {
+      "range": [
+        45,
+        50
+      ],
+      "_id": "mQWA9z0ei9b5EJDO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Liquid vessel or tube",
+      "name": "",
+      "_key": "!tables.results!Gsk8NoieeVgH1T7Q.mQWA9z0ei9b5EJDO"
+    },
+    {
+      "range": [
+        51,
+        53
+      ],
+      "_id": "dvNYHpOAvek9fMwE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lymph or extracellular fluid",
+      "name": "",
+      "_key": "!tables.results!Gsk8NoieeVgH1T7Q.dvNYHpOAvek9fMwE"
+    },
+    {
+      "range": [
+        54,
+        59
+      ],
+      "_id": "jo29Ok76Ep2slG55",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Membrane",
+      "name": "",
+      "_key": "!tables.results!Gsk8NoieeVgH1T7Q.jo29Ok76Ep2slG55"
+    },
+    {
+      "range": [
+        60,
+        61
+      ],
+      "_id": "aZSEhdyEbF26R2Ch",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mineralized tissue",
+      "name": "",
+      "_key": "!tables.results!Gsk8NoieeVgH1T7Q.aZSEhdyEbF26R2Ch"
+    },
+    {
+      "range": [
+        62,
+        64
+      ],
+      "_id": "y7ExdZZDXg0Nm25X",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mucus or secretion",
+      "name": "",
+      "_key": "!tables.results!Gsk8NoieeVgH1T7Q.y7ExdZZDXg0Nm25X"
+    },
+    {
+      "range": [
+        65,
+        71
+      ],
+      "_id": "rJnLQJXFrqA04hPm",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Muscle tissue",
+      "name": "",
+      "_key": "!tables.results!Gsk8NoieeVgH1T7Q.rJnLQJXFrqA04hPm"
+    },
+    {
+      "range": [
+        72,
+        74
+      ],
+      "_id": "3rLWEKjFrEbnLcLJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nail or claw",
+      "name": "",
+      "_key": "!tables.results!Gsk8NoieeVgH1T7Q.3rLWEKjFrEbnLcLJ"
+    },
+    {
+      "range": [
+        75,
+        78
+      ],
+      "_id": "8QncgYs965vWzgZG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Neurons or nervous tissue",
+      "name": "",
+      "_key": "!tables.results!Gsk8NoieeVgH1T7Q.8QncgYs965vWzgZG"
+    },
+    {
+      "range": [
+        79,
+        83
+      ],
+      "_id": "yt8QtaPFgrHqvv4J",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scale",
+      "name": "",
+      "_key": "!tables.results!Gsk8NoieeVgH1T7Q.yt8QtaPFgrHqvv4J"
+    },
+    {
+      "range": [
+        84,
+        89
+      ],
+      "_id": "U9M8tKiUT9UzaL1O",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scar or fibrous tissue",
+      "name": "",
+      "_key": "!tables.results!Gsk8NoieeVgH1T7Q.U9M8tKiUT9UzaL1O"
+    },
+    {
+      "range": [
+        90,
+        96
+      ],
+      "_id": "uqDDASp0UJo7TXPf",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Skin",
+      "name": "",
+      "_key": "!tables.results!Gsk8NoieeVgH1T7Q.uqDDASp0UJo7TXPf"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "5wbzDm74iaLYKYss",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tendon or ligaments",
+      "name": "",
+      "_key": "!tables.results!Gsk8NoieeVgH1T7Q.5wbzDm74iaLYKYss"
+    }
+  ],
+  "folder": "7yP7GU5RkbnYXOd3",
+  "sort": 6,
+  "_id": "Gsk8NoieeVgH1T7Q",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745289001127,
+    "modifiedTime": 1745289001127,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!Gsk8NoieeVgH1T7Q"
+}

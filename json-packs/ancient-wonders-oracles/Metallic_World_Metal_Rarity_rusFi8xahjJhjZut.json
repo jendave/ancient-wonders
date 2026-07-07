@@ -1,0 +1,108 @@
+{
+  "name": "Metallic World Metal Rarity",
+  "formula": "1d50",
+  "description": "<p>To identify a metal type, Ask the Oracle (50/50) if the metal is ferrous. If it is not, reference the table below. Then, roll again to uncover the metal type result. The exotic column provides descriptors for incredibly rare metals; roll up to twice when referencing said column.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        30
+      ],
+      "_id": "tjnCBPSCxcI07srA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Non-ferrous",
+      "name": "",
+      "_key": "!tables.results!rusFi8xahjJhjZut.tjnCBPSCxcI07srA"
+    },
+    {
+      "range": [
+        31,
+        45
+      ],
+      "_id": "qLRvyfrX2bPJFEPv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precious",
+      "name": "",
+      "_key": "!tables.results!rusFi8xahjJhjZut.qLRvyfrX2bPJFEPv"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "n4nHbxhkKwTHAJP8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exotic",
+      "name": "",
+      "_key": "!tables.results!rusFi8xahjJhjZut.n4nHbxhkKwTHAJP8"
+    }
+  ],
+  "folder": "oK4ZOVshS1n7Yu4O",
+  "sort": 7,
+  "_id": "rusFi8xahjJhjZut",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1745300225282,
+    "modifiedTime": 1745300225282,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!rusFi8xahjJhjZut"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Reworking Your Legacy",
+  "sorting": "m",
+  "folder": null,
+  "type": "Item",
+  "_id": "zkk1i0GHmOstU15l",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746487466621,
+    "modifiedTime": 1746487466621,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!zkk1i0GHmOstU15l"
+}

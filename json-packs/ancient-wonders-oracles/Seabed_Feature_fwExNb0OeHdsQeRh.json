@@ -1,0 +1,1330 @@
+{
+  "name": "Seabed Feature",
+  "formula": "1d100",
+  "description": "<p>Use the following tables to inspire the details of a waypoint during underwater expeditions.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "DgpCJjWH64HrO1uo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abyssal trench",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.DgpCJjWH64HrO1uo"
+    },
+    {
+      "range": [
+        3,
+        4
+      ],
+      "_id": "ee9TJ5KvtiJ4EJcX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Billowing hydrothermal vents",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.ee9TJ5KvtiJ4EJcX"
+    },
+    {
+      "range": [
+        5,
+        6
+      ],
+      "_id": "je5Um0XtUOyoS2CP",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bioluminescent flora or fauna",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.je5Um0XtUOyoS2CP"
+    },
+    {
+      "range": [
+        7,
+        8
+      ],
+      "_id": "BxtdbB7hKEY1IQiU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bizarre symbiotic flora or fauna",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.BxtdbB7hKEY1IQiU"
+    },
+    {
+      "range": [
+        9,
+        10
+      ],
+      "_id": "j9ClVJ3viH1WqQA2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bubbling cold seep",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.j9ClVJ3viH1WqQA2"
+    },
+    {
+      "range": [
+        11,
+        12
+      ],
+      "_id": "YSh1MputKdzDfLkZ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Caves secluded amongst rocky crags",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.YSh1MputKdzDfLkZ"
+    },
+    {
+      "range": [
+        13,
+        14
+      ],
+      "_id": "1NiJ6QLuWcmCdq03",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chasm lined with bioluminescent flora",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.1NiJ6QLuWcmCdq03"
+    },
+    {
+      "range": [
+        15,
+        16
+      ],
+      "_id": "BiA8r6g1Mmko5eFm",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cliff pockmarked by caves",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.BiA8r6g1Mmko5eFm"
+    },
+    {
+      "range": [
+        17,
+        18
+      ],
+      "_id": "0UABliC9Y0J5P3XO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cluster of small flora or fauna",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.0UABliC9Y0J5P3XO"
+    },
+    {
+      "range": [
+        19,
+        20
+      ],
+      "_id": "jhalCWNBjdkeTGji",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clusters of pillow lava",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.jhalCWNBjdkeTGji"
+    },
+    {
+      "range": [
+        21,
+        22
+      ],
+      "_id": "e9KFfP0T4UKKWfyy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Complex reef of countless colors",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.e9KFfP0T4UKKWfyy"
+    },
+    {
+      "range": [
+        23,
+        24
+      ],
+      "_id": "BmYkIkRtxjPhtnym",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crumbling rock faces",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.BmYkIkRtxjPhtnym"
+    },
+    {
+      "range": [
+        25,
+        26
+      ],
+      "_id": "Zvii9myHUoOTvwdm",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deep brine pools",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.Zvii9myHUoOTvwdm"
+    },
+    {
+      "range": [
+        27,
+        28
+      ],
+      "_id": "qkD7iE5e8BxGzIOe",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Drifting clouds of gas or brine",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.qkD7iE5e8BxGzIOe"
+    },
+    {
+      "range": [
+        29,
+        30
+      ],
+      "_id": "K6a6WFyODs7FIVdA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enormous seamount",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.K6a6WFyODs7FIVdA"
+    },
+    {
+      "range": [
+        31,
+        32
+      ],
+      "_id": "DfZ4gPyy4C1McbVs",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exposed ore deposits",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.DfZ4gPyy4C1McbVs"
+    },
+    {
+      "range": [
+        33,
+        34
+      ],
+      "_id": "PfqeDvvl3PeY9efA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extensive and mountainous ridges",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.PfqeDvvl3PeY9efA"
+    },
+    {
+      "range": [
+        35,
+        36
+      ],
+      "_id": "xU9uZuBPAIFBzbNZ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flooded lava tubes",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.xU9uZuBPAIFBzbNZ"
+    },
+    {
+      "range": [
+        37,
+        38
+      ],
+      "_id": "gfpO3Pc0n9XETSoI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fluorescent mineral deposits",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.gfpO3Pc0n9XETSoI"
+    },
+    {
+      "range": [
+        39,
+        40
+      ],
+      "_id": "j2adu6B49ecL5hWi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glimmering particles",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.j2adu6B49ecL5hWi"
+    },
+    {
+      "range": [
+        41,
+        42
+      ],
+      "_id": "P770QOWmhvjl5ieD",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glowing lava flows",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.P770QOWmhvjl5ieD"
+    },
+    {
+      "range": [
+        43,
+        44
+      ],
+      "_id": "rej7wDRl8eEi5jqZ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Groves of shimmering flora",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.rej7wDRl8eEi5jqZ"
+    },
+    {
+      "range": [
+        45,
+        46
+      ],
+      "_id": "prRKLU8ypAimY1k5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Imposing algal bloom",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.prRKLU8ypAimY1k5"
+    },
+    {
+      "range": [
+        47,
+        48
+      ],
+      "_id": "xUhvefCUuMNQmuWl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Isolated patches of lush flora",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.xUhvefCUuMNQmuWl"
+    },
+    {
+      "range": [
+        49,
+        50
+      ],
+      "_id": "YK0w2K2dHT8pdOBU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jagged spires",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.YK0w2K2dHT8pdOBU"
+    },
+    {
+      "range": [
+        51,
+        52
+      ],
+      "_id": "KZFPoERv1odxgnPM",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large deposits of mud",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.KZFPoERv1odxgnPM"
+    },
+    {
+      "range": [
+        53,
+        54
+      ],
+      "_id": "8lOYrTscTsHSJFDC",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lithified sediments",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.8lOYrTscTsHSJFDC"
+    },
+    {
+      "range": [
+        55,
+        56
+      ],
+      "_id": "RrYhZsYOGHBDxvDB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Looming cavemouth",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.RrYhZsYOGHBDxvDB"
+    },
+    {
+      "range": [
+        57,
+        58
+      ],
+      "_id": "RiTmB5gyzAttSo3r",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mammoth reef",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.RiTmB5gyzAttSo3r"
+    },
+    {
+      "range": [
+        59,
+        60
+      ],
+      "_id": "Sa7J3XLM2CCWQC0H",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mass of brightly colored flora",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.Sa7J3XLM2CCWQC0H"
+    },
+    {
+      "range": [
+        61,
+        62
+      ],
+      "_id": "JshbE1y7b5SWG2r1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Narrow crevasses",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.JshbE1y7b5SWG2r1"
+    },
+    {
+      "range": [
+        63,
+        64
+      ],
+      "_id": "yoi3q3CeBVAL5iyx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Natural arches",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.yoi3q3CeBVAL5iyx"
+    },
+    {
+      "range": [
+        65,
+        66
+      ],
+      "_id": "OPy8wHreVjKvCwRy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Parade of fauna or flora",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.OPy8wHreVjKvCwRy"
+    },
+    {
+      "range": [
+        67,
+        68
+      ],
+      "_id": "hr5nCHFlQhHiEtZU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rain of sinking debris or detritus",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.hr5nCHFlQhHiEtZU"
+    },
+    {
+      "range": [
+        69,
+        70
+      ],
+      "_id": "Rmp9h0AjKaPvLCBx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Region of luminescent water",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.Rmp9h0AjKaPvLCBx"
+    },
+    {
+      "range": [
+        71,
+        72
+      ],
+      "_id": "7Xg8ulgbZvYzC2O1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rocky outcrops coated in sea-grass",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.7Xg8ulgbZvYzC2O1"
+    },
+    {
+      "range": [
+        73,
+        74
+      ],
+      "_id": "H6sUzbr6Kq922oa5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rolling sand dunes",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.H6sUzbr6Kq922oa5"
+    },
+    {
+      "range": [
+        75,
+        76
+      ],
+      "_id": "vxg4jbEjebWGeiE2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sea-grass glades",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.vxg4jbEjebWGeiE2"
+    },
+    {
+      "range": [
+        77,
+        78
+      ],
+      "_id": "iIqzYrvkpW5DV5Tv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shifting dunes",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.iIqzYrvkpW5DV5Tv"
+    },
+    {
+      "range": [
+        79,
+        80
+      ],
+      "_id": "Vnx6rTRPCAr5yw46",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sprawling brine rivers",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.Vnx6rTRPCAr5yw46"
+    },
+    {
+      "range": [
+        81,
+        82
+      ],
+      "_id": "GTi4ALjgKdo6cxNO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Submerged impact craters",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.GTi4ALjgKdo6cxNO"
+    },
+    {
+      "range": [
+        83,
+        84
+      ],
+      "_id": "gblBizbLz2mGYPCd",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Submerged volcano",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.gblBizbLz2mGYPCd"
+    },
+    {
+      "range": [
+        85,
+        86
+      ],
+      "_id": "WqTOQzEVlIFc9fEc",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Towering groves of kelp",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.WqTOQzEVlIFc9fEc"
+    },
+    {
+      "range": [
+        87,
+        88
+      ],
+      "_id": "pWt3h0WsVRHgG0TQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Towering, rocky columns",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.pWt3h0WsVRHgG0TQ"
+    },
+    {
+      "range": [
+        89,
+        90
+      ],
+      "_id": "pseQoAkNwIvVh6Eo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unnaturally large coral",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.pseQoAkNwIvVh6Eo"
+    },
+    {
+      "range": [
+        91,
+        92
+      ],
+      "_id": "pMePWmwIDYUoATSY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Valley enveloped by flora",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.pMePWmwIDYUoATSY"
+    },
+    {
+      "range": [
+        93,
+        94
+      ],
+      "_id": "zGjajstgfZAaOMsk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vast cliff face or edge",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.zGjajstgfZAaOMsk"
+    },
+    {
+      "range": [
+        95,
+        96
+      ],
+      "_id": "HYFkbwnFpj4EIJAG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vast sandy plateaus",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.HYFkbwnFpj4EIJAG"
+    },
+    {
+      "range": [
+        97,
+        98
+      ],
+      "_id": "Y014tDuRyeBLqX0O",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Winding undersea canyon",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.Y014tDuRyeBLqX0O"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "MfcgT6MSvLTsQA3a",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Yawning sinkhole",
+      "name": "",
+      "_key": "!tables.results!fwExNb0OeHdsQeRh.MfcgT6MSvLTsQA3a"
+    }
+  ],
+  "folder": "gqk7xGweM3UMtnW2",
+  "sort": 4,
+  "_id": "fwExNb0OeHdsQeRh",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1744997272600,
+    "modifiedTime": 1744997272600,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!fwExNb0OeHdsQeRh"
+}
