@@ -2,6 +2,11 @@
 
 [Ancient Wonders for FoundryVTT](https://foundryvtt.com/packages/ancient-wonders)
 
+## [1.2.0](https://github.com/jendave/ancient-wonders/blob/main/CHANGELOG.md) (2026-07-08)
+
+* Create build process.
+* Create compendiums from JSON.
+
 ## [1.1.6](https://github.com/jendave/ancient-wonders/blob/main/CHANGELOG.md) (2026-02-26)
 
 * Verified for Foundry v14.
